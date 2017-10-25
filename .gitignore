@@ -89,4 +89,4 @@ ENV/
 .ropeproject
 
 # MatchyMatchy csv folder should be ignored
-*.csv
+AllMoviesDetailsCleaned.csv
