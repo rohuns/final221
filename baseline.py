@@ -67,9 +67,9 @@ for movie in data:
 		update_total = [total_curr[0] + error, total_curr[1] + 1]
 		genre_error["Total"] = update_total
 
-avg_errors = [100*(genre_error[x][0]/genre_error[x][1]) for x in genre_error]
+avg_errors = {x: 100*(genre_error[x][0]/genre_error[x][1]) for x in genre_error}
 
-print "Average % error for each genre: ", avg_errors
+print "\n\nAverage % error for each genre: ", avg_errors
 
 
 
