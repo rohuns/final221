@@ -1,4 +1,4 @@
-led / optimized / DLL files
+# Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
 *$py.class
@@ -88,5 +88,5 @@ ENV/
 # Rope project settings
 .ropeproject
 
-# data csv folder should be ignored
-csv/
+# MatchyMatchy csv folder should be ignored
+*.csv
