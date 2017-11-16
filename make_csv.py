@@ -30,7 +30,7 @@ cast = mlbCast.fit_transform(all_cast)
 mlbCrew = MultiLabelBinarizer()
 crew = mlbCrew.fit_transform(all_crew)
 
-features_writer = csv.writer(open('cleaned_features.csv', 'wb'))
+features_writer = csv.writer(open('cleaned_features.csv', 'wb'), delimiter =' ')
 index = 0
 for key, value in sorted(features.iteritems()):
 	all_features = []
