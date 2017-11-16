@@ -34,15 +34,17 @@ features_writer = csv.writer(open('cleaned_features.csv', 'wb'))
 index = 0
 for key, value in sorted(features.iteritems()):
 	all_features = []
-	all_features.append(ratings[key])
-	all_features.append(int(value[0]))
-	all_features.append(int(value[1]))
-	all_features.append(int(value[5]))
-	all_features += list(genre[index])
-	all_features += list(cast[index])
-	all_features += list(crew[index])
-	features_writer.writerow(all_features)
+	if key in ratings:
+		print 'not missing'
+		all_features.append(ratings[key])
+		all_features.append(int(value[0]))
+		all_features.append(int(value[1]))
+		all_features.append(int(value[5]))
+		all_features += list(genre[index])
+		all_features += list(cast[index])
+		all_features += list(crew[index])
+		features_writer.writerow(all_features)
+	else:
+		print '-------->missing'
 	print index
 	index += 1
-
-features_writer.writerow()
