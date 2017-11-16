@@ -23,5 +23,11 @@ forest.fit(X_train, y_train)
 print forest.score(X_test, y_test)
 
 y_predict = forest.predict(X_test)
-regression_model_mse = mean_squared_error(y_predict, y_test)
-print 'MSE squareroot: {}'.format(math.sqrt(regression_model_mse))
+forest_model_mse = mean_squared_error(y_predict, y_test)
+print 'MSE squareroot: {}'.format(math.sqrt(forest_model_mse))
+
+plt.plot(y_predict, y_test,'ro')
+plt.plot([0,10],[0,10], 'g-')
+plt.xlabel('predicted')
+plt.ylabel('real')
+plt.show()
