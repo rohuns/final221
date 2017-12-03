@@ -8,6 +8,7 @@ import pickle
 from sklearn.ensemble import RandomForestRegressor
 import numpy as np
 from sklearn.externals import joblib
+from random import *
 
 # NOTE where profile and CSP need to be made
 # movieSolver = submission.BacktrackingSearch()
@@ -175,7 +176,7 @@ class BacktrackingSearch():
             return
 
         # Select the next variable to be assigned.
-        var = self.get_unassigned_variable(assignment)
+        var = self.get_unassigned_variable(assignment)  
         # Get an ordering of the values.
         ordered_values = self.domains[var]
 
@@ -189,15 +190,15 @@ class BacktrackingSearch():
                     rating = 1
                     # hard coded searching for a tree branch where John and David were actors a1 and a2
                     # weren't able to search for branch where i.e. John was in a Comedy b/c of partial assignment
-                    # content_r = content_ratings_map[assignment["contentrating"]] if "contentrating" in assignment and assignment["contentrating"] != None else 0
-                    # d_name = directors_map[assignment["director"]] if "director" in assignment and assignment["director"] != None else 0
-                    # a3_name = actors_map[assignment["actor3"]] if "actor3" in assignment and assignment["actor3"] != None else 0
-                    # a2_name = actors_map[assignment["actor2"]] if "actor2" in assignment  and assignment["actor2"] != None else 0
-                    # a1_name = actors_map[assignment["actor1"]] if "actor1" in assignment and assignment["actor1"] != None else 0
-                    # g = genres_map[assignment["genre"]] if "genre" in assignment and assignment["genre"] != None else 0
-
-                    # rating = forest.predict([[39752620.436387606,content_r,d_name,a3_name,a2_name,a1_name,2]])[0]
-                    # print rating
+                    content_r = content_ratings_map[assignment["contentrating"]] if "contentrating" in assignment and assignment["contentrating"] != None else 0
+                    d_name = directors_map[assignment["director"]] if "director" in assignment and assignment["director"] != None else 0
+                    a3_name = actors_map[assignment["actor3"]] if "actor3" in assignment and assignment["actor3"] != None else 0
+                    a2_name = actors_map[assignment["actor2"]] if "actor2" in assignment  and assignment["actor2"] != None else 0
+                    a1_name = actors_map[assignment["actor1"]] if "actor1" in assignment and assignment["actor1"] != None else 0
+                    g = genres_map[assignment["genre"]] if "genre" in assignment and assignment["genre"] != None else 0
+                    
+                    rating = forest.predict([[randint(30000000, 40000000),content_r,d_name,a3_name,a2_name,a1_name,2]])[0]
+                    print rating
                     self.backtrack(assignment, numAssigned + 1, rating * weight * deltaWeight)
                     del assignment[var]
         else:
@@ -237,14 +238,7 @@ class BacktrackingSearch():
             for var in self.csp.variables:
                 if var not in assignment: return var
         else:
-            # Problem 1b
-            # Heuristic: most constrained variable (MCV)
-            # Select a variable with the least number of remaining domain values.
-            # Hint: given var, self.domains[var] gives you all the possible values
-            # Hint: get_delta_weight gives the change in weights given a partial
-            #       assignment, a variable, and a proposed value to this variable
-            # Hint: for ties, choose the variable with lowest index in self.csp.variables
-            # BEGIN_YOUR_CODE (our solution is 7 lines of code, but don't worry if you deviate from this)
+  
             min_valid_domains = float('inf')
             min_var = None
 
@@ -268,20 +262,6 @@ class BacktrackingSearch():
 
         @param var: The variable whose value has just been set.
         """
-        # Problem 1c
-        # Hint: How to get variables neighboring variable |var|?
-        # => for var2 in self.csp.get_neighbor_vars(var):
-        #       # use var2
-        #
-        # Hint: How to check if a value or two values are inconsistent?
-        # - For unary factors
-        #   => self.csp.unaryFactors[var1][val1] == 0
-        #
-        # - For binary factors
-        #   => self.csp.binaryFactors[var1][var2][val1][val2] == 0
-        #   (self.csp.binaryFactors[var1][var2] returns a nested dict of all assignments)
-
-        # BEGIN_YOUR_CODE (our solution is 20 lines of code, but don't worry if you deviate from this)
         def enforce_consistency(var, neighbor):
             domain_of_var = self.domains[var]
             domain_of_neighbor = self.domains[neighbor]
@@ -356,7 +336,6 @@ class MovieCSPConstructor():
         csp.add_variable("director", ['Steven Spielberg'])
         csp.add_variable("contentrating", ['PG','PG-13'])
 
-        print "done "
         #csp.add_variable("budget", ) #NOTE add the budget
 
     # def add_norepeating_constraints(self, csp):
@@ -383,29 +362,24 @@ class MovieCSPConstructor():
         @return csp: A CSP where basic variables and constraints are added.
         """
         csp = util.CSP()
-        print "called"
         self.add_variables(csp)
 
         self.add_constraints(csp)
         return csp
 
     def add_constraints(self, csp):
-        print "adding constraints"
         csp.add_binary_factor("actor1", "actor2", lambda x, y : x!=y)
-        print "fuck"
         csp.add_binary_factor("actor3", "actor2", lambda x, y : x!=y)
-        print "this"
         csp.add_binary_factor("actor1", "actor3", lambda x, y : x!=y)
-        print "shit"
 
         csp.add_unary_factor("actor1", lambda x: x!=None)
-        csp.add_unary_factor("actor1", lambda x: x=="Robert De Niro")
+
 
         count = 1
         for a in self.profile.actors:
-            v = "a%d" %count
-            print v
-           # csp.add_unary_factor(v, lambda x: x==a)
+            v = "actor%d" %count
+            csp.add_unary_factor(v, lambda x: x == a.name)
+            count += 1
 
 
     # def add_request_weights(self, csp):

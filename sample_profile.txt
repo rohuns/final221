@@ -1,6 +1,6 @@
 # all of the actors
 actor Robert De Niro
-actor Johnny Depp
+actor Walter Brennan
 
 # director name
 director Steven Spielberg

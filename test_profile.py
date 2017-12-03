@@ -14,10 +14,8 @@ actorBulletin, directorBulletin = util.ActorBulletin(actors_map), util.DirectorB
 
 profile = util.Profile(actorBulletin, directorBulletin, 'sample_profile.txt')
 cspConstructor = csp.MovieCSPConstructor(actorBulletin, directorBulletin, copy.deepcopy(profile))
-print "got cspConstructor"
 csp_1 = cspConstructor.get_basic_csp()
-print "got csp"
 alg = csp.BacktrackingSearch()
-print "is this happening"
 alg.solve(csp_1)
 print alg.numOptimalAssignments
+print alg.allAssignments
