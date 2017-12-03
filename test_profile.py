@@ -16,6 +16,6 @@ profile = util.Profile(actorBulletin, directorBulletin, 'sample_profile.txt')
 cspConstructor = csp.MovieCSPConstructor(actorBulletin, directorBulletin, copy.deepcopy(profile))
 csp_1 = cspConstructor.get_basic_csp()
 alg = csp.BacktrackingSearch()
-alg.solve(csp_1)
+alg.solve(csp_1, mcv=True, ac3=True)
 print alg.numOptimalAssignments
-print alg.allAssignments
+print alg.optimalAssignment

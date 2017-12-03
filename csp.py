@@ -9,6 +9,7 @@ from sklearn.ensemble import RandomForestRegressor
 import numpy as np
 from sklearn.externals import joblib
 from random import *
+import math
 
 # NOTE where profile and CSP need to be made
 # movieSolver = submission.BacktrackingSearch()
@@ -150,7 +151,7 @@ class BacktrackingSearch():
         self.print_stats()
 
     def backtrack(self, assignment, numAssigned, weight):
- 
+        print assignment
         self.numOperations += 1
         assert weight > 0
         if numAssigned == self.csp.numVars:
@@ -186,19 +187,7 @@ class BacktrackingSearch():
                 deltaWeight = self.get_delta_weight(assignment, var, val)
                 if deltaWeight > 0:
                     assignment[var] = val
-                    rating = 1
-                    # hard coded searching for a tree branch where John and David were actors a1 and a2
-                    # weren't able to search for branch where i.e. John was in a Comedy b/c of partial assignment
-                    content_r = content_ratings_map[assignment["contentrating"]] if "contentrating" in assignment and assignment["contentrating"] != None else 0
-                    d_name = directors_map[assignment["director"]] if "director" in assignment and assignment["director"] != None else 0
-                    a3_name = actors_map[assignment["actor3"]] if "actor3" in assignment and assignment["actor3"] != None else 0
-                    a2_name = actors_map[assignment["actor2"]] if "actor2" in assignment  and assignment["actor2"] != None else 0
-                    a1_name = actors_map[assignment["actor1"]] if "actor1" in assignment and assignment["actor1"] != None else 0
-                    g = genres_map[assignment["genre"]] if "genre" in assignment and assignment["genre"] != None else 0
-
-                    rating = forest.predict([[randint(30000000, 40000000),content_r,d_name,a3_name,a2_name,a1_name,2]])[0]
-                    print rating
-                    self.backtrack(assignment, numAssigned + 1, rating * weight * deltaWeight)
+                    self.backtrack(assignment, numAssigned + 1, weight * deltaWeight)
                     del assignment[var]
         else:
             # Arc consistency check is enabled.
@@ -215,9 +204,44 @@ class BacktrackingSearch():
                     # can eliminate values for other variables
                     self.domains[var] = [val]
 
-                    # enforce arc consistency
-                    self.arc_consistency_check(var)
-                    self.backtrack(assignment, numAssigned + 1, weight * deltaWeight)
+                    rating = 1
+                    # hard coded searching for a tree branch where John and David were actors a1 and a2
+                    # weren't able to search for branch where i.e. John was in a Comedy b/c of partial assignment
+                    # content_r = content_ratings_map[assignment["contentrating"]] if "contentrating" in assignment and assignment["contentrating"] != 'None' else 0
+                    # d_name = directors_map[assignment["director"]] if "director" in assignment and assignment["director"] != None else 0
+                    # a3_name = actors_map[assignment["actor3"]] if "actor3" in assignment and assignment["actor3"] != None else 0
+                    # a2_name = actors_map[assignment["actor2"]] if "actor2" in assignment  and assignment["actor2"] != None else 0
+                    # a1_name = actors_map[assignment["actor1"]] if "actor1" in assignment and assignment["actor1"] != None else 0
+                    # g = genres_map[assignment["genre"]] if "genre" in assignment and assignment["genre"] != None else 0
+
+
+                    content_r = 0
+                    if 'content_rating' in assignment and not (math.isnan(float(assignment['content_rating']))): 
+                        content_r = content_ratings_map[assignment["content_rating"]]
+
+                    d_name = 0
+                    if 'director' in assignment and not (math.isnan(float(assignment['director']))):
+                        d_name = directors_map[assignment["director"]]
+
+                    a3_name = 0
+                    if 'actor3' in assignment and not (math.isnan(float(assignment['actor3']))):
+                        a3_name = actors_map[assignment["actor3"]]
+
+                    a2_name = 0
+                    if 'actor2' in assignment and not (math.isnan(float(assignment['actor2']))):
+                        a2_name = actors_map[assignment["actor2"]]
+
+                    a1_name = 0
+                    if 'actor1' in assignment and not (math.isnan(float(assignment['actor1']))):
+                        a1_name = actors_map[assignment["actor1"]]
+
+                    g = 15
+                    if 'genre' in assignment and not (math.isnan(float(assignment['genre']))):
+                        g = genres_map[assignment['genre']]
+
+                    rating = forest.predict([[randint(30000000, 40000000),content_r,d_name,a3_name,a2_name,a1_name,g]])[0]
+                    print rating
+                    self.backtrack(assignment, numAssigned + 1, rating * weight * deltaWeight)
                     # restore the previous domains
                     self.domains = localCopy
                     del assignment[var]
@@ -330,10 +354,10 @@ class MovieCSPConstructor():
         # csp.add_variable("contentrating", content_ratings_map.keys())
         # csp.add_variable("actor1", ['Tyra Banks'])
         #csp.add_variable("actor2", ['John','Adam'])
-        csp.add_variable("actor3", ['Johnny Depp'])
+        csp.add_variable("actor3", self.actorBulletin.actors_map.keys())
         csp.add_variable("genre", ['Comedy','Action','Romance'])
-        csp.add_variable("director", ['Steven Spielberg'])
-        csp.add_variable("contentrating", ['PG','PG-13'])
+        csp.add_variable("director", self.directorBulletin.directors_map.keys())
+        csp.add_variable("content_rating", ['PG','PG-13'])
 
         #csp.add_variable("budget", ) #NOTE add the budget
 
