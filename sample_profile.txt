@@ -1,0 +1,15 @@
+# all of the actors
+actor Robert De Niro
+actor Johnny Depp
+
+# director name
+director Steven Spielberg
+
+# content rating 
+rating PG-13
+
+# genre 
+genre Comedy
+
+# budget in dollars
+# budget 10000
