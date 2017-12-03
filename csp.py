@@ -21,77 +21,39 @@ import copy
 grader = graderUtil.Grader()
 submission = grader.load('submission')
 
-movieSolver = submission.BacktrackingSearch()
-a = submission.create_movies_csp()
-movieSolver.solve(a)
-
-# print movieSolver.optimalAssignment
-# print movieSolver.numOptimalAssignments
-
-'''
--------------------------------------------------------------------------------------
-originally submission.py
--------------------------------------------------------------------------------------
-'''
+# NOTE where profile and CSP need to be made
+# movieSolver = submission.BacktrackingSearch()
+# a = submission.create_movies_csp()
+# movieSolver.solve(a)
 
 
-############################################################
-# Problem 0
-def create_movies_csp():
-    csp = util.CSP()
+profile = util.Profile(bulletin, 'sample_profile.txt')
+actorBulletin, directorBulletin = util.ActorBulletin(), util.DirectorBulletin() #load pickles
+cspConstructor = submission.MovieCSPConstructor(actorBulletin, directorBulletin, copy.deepcopy(profile))
+csp = cspConstructor.get_basic_csp()
+alg = BacktrackingSearch()
+alg.solve(csp)
 
-    actors = ['John', 'Sam', 'Eddie', 'Nick', 'David']
-    csp.add_variable("a1", actors)
-    csp.add_variable("a2", actors)
-    csp.add_variable("genre", ["Comedy", "Action"])
-    csp.add_variable("director", ['Tim', 'Mary'])
+# '''
+# -------------------------------------------------------------------------------------
+# originally submission.py
+# -------------------------------------------------------------------------------------
+# '''
+# # Problem 0
+# def create_movies_csp():
+#     csp = util.CSP()
 
-    csp.add_binary_factor("a1", "a2", lambda x, y : x!=y )
+#     actors = ['John', 'Sam', 'Eddie', 'Nick', 'David']
+#     csp.add_variable("a1", actors)
+#     csp.add_variable("a2", actors)
+#     csp.add_variable("genre", ["Comedy", "Action"])
+#     csp.add_variable("director", ['Tim', 'Mary'])
 
-    return csp
+#     csp.add_binary_factor("a1", "a2", lambda x, y : x!=y )
 
-# Hint: Take a look at the CSP class and the CSP examples in util.py
-def create_chain_csp(n):
-    # same domain for each variable
-    domain = [0, 1]
-    # name variables as x_1, x_2, ..., x_n
-    variables = ['x%d'%i for i in range(1, n+1)]
-    csp = util.CSP()
-    # Problem 0c
-    # BEGIN_YOUR_CODE (our solution is 5 lines of code, but don't worry if you deviate from this)
-    def xor(a,b): return bool(a) != bool(b)
-    added_vars = [csp.add_variable(variables[i], domain) for i in range(len(variables))]        
-    added_factors = [csp.add_binary_factor(variables[j], variables[j+1], xor) for j in range(len(variables)-1)]
-    # END_YOUR_CODE
-    return csp
+#     return csp
 
 
-############################################################
-# Problem 1
-
-def create_nqueens_csp(n = 8):
-    """
-    Return an N-Queen problem on the board of size |n| * |n|.
-    You should call csp.add_variable() and csp.add_binary_factor().
-
-    @param n: number of queens, or the size of one dimension of the board.
-
-    @return csp: A CSP problem with correctly configured factor tables
-        such that it can be solved by a weighted CSP solver.
-    """
-    csp = util.CSP()
-    # Problem 1a
-    # BEGIN_YOUR_CODE (our solution is 7 lines of code, but don't worry if you deviate from this)
-    def check_position(a,b): return (a[1] != b[1] and abs(a[0] - b[0]) != abs(a[1] - b[1]))
-    
-    variables = ['q%d'%i for i in range(n)]
-    domains = [[(i, j) for j in range(len(variables))] for i in range(len(variables))]
-    added_vars = [csp.add_variable(variables[i], domains[i]) for i in range(len(variables))]
-    for i in range(len(variables)):
-        for j in range(len(variables)):
-            if i != j: csp.add_binary_factor(variables[i],variables[j], check_position)
-    # END_YOUR_CODE
-    return csp
 
 # A backtracking algorithm that solves weighted CSP.
 # Usage:
@@ -369,79 +331,17 @@ class BacktrackingSearch():
                     vars_to_check.add(neighbor)
         # END_YOUR_CODE
 
+class MovieCSPConstructor():
 
-############################################################
-# Problem 2b
-
-def get_sum_variable(csp, name, variables, maxSum):
-    """
-    Given a list of |variables| each with non-negative integer domains,
-    returns the name of a new variable with domain range(0, maxSum+1), such that
-    it's consistent with the value |n| iff the assignments for |variables|
-    sums to |n|.
-
-    @param name: Prefix of all the variables that are going to be added.
-        Can be any hashable objects. For every variable |var| added in this
-        function, it's recommended to use a naming strategy such as
-        ('sum', |name|, |var|) to avoid conflicts with other variable names.
-    @param variables: A list of variables that are already in the CSP that
-        have non-negative integer values as its domain.
-    @param maxSum: An integer indicating the maximum sum value allowed. You
-        can use it to get the auxiliary variables' domain
-
-    @return result: The name of a newly created variable with domain range
-        [0, maxSum] such that it's consistent with an assignment of |n|
-        iff the assignment of |variables| sums to |n|.
-    """
-    # BEGIN_YOUR_CODE (our solution is 18 lines of code, but don't worry if you deviate from this)
-    def enforce_consistency_addition(a,b): return a[1] == b[0]
-    def enforce_consistency_difference(a,b): return a == (b[1]-b[0])
-    def enforce_consistency_termination(a,b): return a == b[1]
-
-    final_aux = ('sum', name, 'aux')
-
-    if len(variables) == 0:
-        csp.add_variable(final_aux, [0])
-        return final_aux
-    else:
-        for i, var in enumerate(variables):
-            new_name = ('sum', name, var)
-            if i == 0:
-                csp.add_variable(new_name, [(0, d) for d in csp.values[var]])
-            else:
-                domain = set()
-                for p in csp.values[previous_aux]:
-                    for q in csp.values[var]:
-                        if p[1] + q <= maxSum:
-                            domain.add((p[1], p[1]+q))
-                csp.add_variable(new_name, list(domain))
-                csp.add_binary_factor(previous_aux, new_name, enforce_consistency_addition)
-
-            csp.add_binary_factor(var, new_name, enforce_consistency_difference)
-            previous_aux = new_name
-        csp.add_variable(final_aux, list({d[1] for d in domain}))
-        csp.add_binary_factor(final_aux, new_name, enforce_consistency_termination)
-        return final_aux
-    # END_YOUR_CODE
-
-# importing get_or_variable helper function from util
-get_or_variable = util.get_or_variable
-
-############################################################
-# Problem 3
-
-# A class providing methods to generate CSP that can solve the course scheduling
-# problem.
-class SchedulingCSPConstructor():
-
-    def __init__(self, bulletin, profile):
+    def __init__(self, actorBulletin, directorBulletin, profile):
         """
         Saves the necessary data.
 
         @param bulletin: Stanford Bulletin that provides a list of courses
         @param profile: A student's profile and requests
         """
-        self.bulletin = bulletin
+        self.actorBulletin = actorBulletin
+        self.directorBulletin = directorBulletin
         self.profile = profile
 
     def add_variables(self, csp):
@@ -456,22 +356,13 @@ class SchedulingCSPConstructor():
 
         @param csp: The CSP where the additional constraints will be added to.
         """
-        for request in self.profile.requests:
-            for quarter in self.profile.quarters:
-                csp.add_variable((request, quarter), request.cids + [None])
-
-    def add_bulletin_constraints(self, csp):
-        """
-        Add the constraints that a course can only be taken if it's offered in
-        that quarter.
-
-        @param csp: The CSP where the additional constraints will be added to.
-        """
-        for request in self.profile.requests:
-            for quarter in self.profile.quarters:
-                csp.add_unary_factor((request, quarter), \
-                    lambda cid: cid is None or \
-                        self.bulletin.courses[cid].is_offered_in(quarter))
+        csp.add_variable("a1", self.actorBulletin.actors_map.keys())
+        csp.add_variable("a2", self.actorBulletin.actors_map.keys())
+        csp.add_variable("a3", self.actorBulletin.actors_map.keys())
+        csp.add_variable("genre", ["Comedy", "Action"]) #NOTE add a list genres
+        csp.add_variable("director", self.directorBulletin.directors_map.keys())
+        csp.add_variable("contentrating", ) #NOTE add this from the pickle
+        #csp.add_variable("budget", ) #NOTE add the budget
 
     def add_norepeating_constraints(self, csp):
         """
@@ -498,128 +389,30 @@ class SchedulingCSPConstructor():
         """
         csp = util.CSP()
         self.add_variables(csp)
-        self.add_bulletin_constraints(csp)
+        self.add_constraints(csp)
         self.add_norepeating_constraints(csp)
         return csp
 
-    def add_quarter_constraints(self, csp):
-        """
-        If the profile explicitly wants a request to be satisfied in some given
-        quarters, e.g. Aut2013, then add constraints to not allow that request to
-        be satisfied in any other quarter.
+    def add_contstraints(csp):
+            csp.add_binary_factor("a1", "a2", lambda x, y : x!=y)
+            csp.add_binary_factor("a3", "a2", lambda x, y : x!=y)
+            csp.add_binary_factor("a1", "a3", lambda x, y : x!=y)
+            csp.add_unary_factor("a1", lambda x: x!=None)
 
-        @param csp: The CSP where the additional constraints will be added to.
-        """
-        # Problem 3a
-        # BEGIN_YOUR_CODE (our solution is 5 lines of code, but don't worry if you deviate from this)
-        for request in self.profile.requests:
-            if len(request.quarters) > 0: 
-                for quarter in self.profile.quarters:
-                    if quarter in request.quarters: continue
-                    csp.add_unary_factor((request, quarter), lambda cid: cid is None)
-        # END_YOUR_CODE
 
-    def add_request_weights(self, csp):
-        """
-        Incorporate weights into the CSP. By default, a request has a weight
-        value of 1 (already configured in Request). You should only use the
-        weight when one of the requested course is in the solution. A
-        unsatisfied request should also have a weight value of 1.
+    # def add_request_weights(self, csp):
+    #     """
+    #     Incorporate weights into the CSP. By default, a request has a weight
+    #     value of 1 (already configured in Request). You should only use the
+    #     weight when one of the requested course is in the solution. A
+    #     unsatisfied request should also have a weight value of 1.
 
-        @param csp: The CSP where the additional constraints will be added to.
-        """
-        for request in self.profile.requests:
-            for quarter in self.profile.quarters:
-                csp.add_unary_factor((request, quarter), \
-                    lambda cid: request.weight if cid != None else 1.0)
+    #     @param csp: The CSP where the additional constraints will be added to.
+    #     """
+    #     for request in self.profile.requests:
+    #         for quarter in self.profile.quarters:
+    #             csp.add_unary_factor((request, quarter), \
+    #                 lambda cid: request.weight if cid != None else 1.0)
 
-    def add_prereq_constraints(self, csp):
-        """
-        Adding constraints to enforce prerequisite. A course can have multiple
-        prerequisites. You can assume that *all courses in req.prereqs are
-        being requested*. Note that if our parser inferred that one of your
-        requested course has additional prerequisites that are also being
-        requested, these courses will be added to req.prereqs. You will be notified
-        with a message when this happens. Also note that req.prereqs apply to every
-        single course in req.cids. If a course C has prerequisite A that is requested
-        together with another course B (i.e. a request of 'A or B'), then taking B does
-        not count as satisfying the prerequisite of C. You cannot take a course
-        in a quarter unless all of its prerequisites have been taken *before* that
-        quarter. You should take advantage of get_or_variable().
-
-        @param csp: The CSP where the additional constraints will be added to.
-        """
-        # Iterate over all request courses
-        for req in self.profile.requests:
-            if len(req.prereqs) == 0: continue
-            # Iterate over all possible quarters
-            for quarter_i, quarter in enumerate(self.profile.quarters):
-                # Iterate over all prerequisites of this request
-                for pre_cid in req.prereqs:
-                    # Find the request with this prerequisite
-                    for pre_req in self.profile.requests:
-                        if pre_cid not in pre_req.cids: continue
-                        # Make sure this prerequisite is taken before the requested course(s)
-                        prereq_vars = [(pre_req, q) \
-                            for i, q in enumerate(self.profile.quarters) if i < quarter_i]
-                        v = (req, quarter)
-                        orVar = get_or_variable(csp, (v, pre_cid), prereq_vars, pre_cid)
-                        # Note this constraint is enforced only when the course is taken
-                        # in `quarter` (that's why we test `not val`)
-                        csp.add_binary_factor(orVar, v, lambda o, val: not val or o)
-
-    def add_unit_constraints(self, csp):
-        """
-        Add constraint to the CSP to ensure that the total number of units are
-        within profile.minUnits/maxUnits, inclusively. The allowed range for
-        each course can be obtained from bulletin.courses[cid].minUnits/maxUnits.
-        For a request 'A or B', if you choose to take A, then you must use a unit
-        number that's within the range of A. You should introduce any additional
-        variables that you need. In order for our solution extractor to
-        obtain the number of units, for every requested course, you must have
-        a variable named (courseId, quarter) (e.g. ('CS221', 'Aut2013')) and
-        its assigned value is the number of units.
-        You should take advantage of get_sum_variable().
-
-        @param csp: The CSP where the additional constraints will be added to.
-        """
-        # Problem 3b
-        # Hint 1: read the documentation above carefully
-        # Hint 2: the domain for each (courseId, quarter) variable should contain 0
-        #         because the course might not be taken
-        # Hint 3: use nested functions and lambdas like what get_or_variable and
-        #         add_prereq_constraints do
-        # Hint 4: don't worry about quarter constraints in each Request as they'll
-        #         be enforced by the constraints added by add_quarter_constraints
-
-        # BEGIN_YOUR_CODE (our solution is 16 lines of code, but don't worry if you deviate from this)
-        def generateDomain(cid):
-            domain = [0]
-            [domain.append(i) for i in range(self.bulletin.courses[cid].minUnits, self.bulletin.courses[cid].maxUnits+1)]
-            return domain
-
-        for quarter in self.profile.quarters:
-            extraVariables = []
-            for request in self.profile.requests:
-                for cid in request.cids:
-                    course = (cid, quarter)
-                    unitsDomain = generateDomain(cid)
-                    csp.add_variable(course, unitsDomain)
-                    csp.add_binary_factor((request, quarter), course, lambda req, course: (course != 0) if req == cid else (course == 0))
-                    extraVariables.append(course)
-            finalVariable = get_sum_variable(csp, quarter, extraVariables, self.profile.maxUnits)
-            csp.add_unary_factor(finalVariable, lambda finalVariable: finalVariable >= self.profile.minUnits and finalVariable <= self.profile.maxUnits)
-        # END_YOUR_CODE
-
-    def add_all_additional_constraints(self, csp):
-        """
-        Add all additional constraints to the CSP.
-
-        @param csp: The CSP where the additional constraints will be added to.
-        """
-        self.add_quarter_constraints(csp)
-        self.add_request_weights(csp)
-        self.add_prereq_constraints(csp)
-        self.add_unit_constraints(csp)
 
 

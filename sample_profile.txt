@@ -1,0 +1,17 @@
+# all of the actors
+actor suqmadiq
+actor leo
+actor jonah
+actor doesntcount
+
+# director name
+director spielberg
+
+# content rating 
+rating PG-13
+
+# genre 
+genre comedy
+
+# budget in dollars
+budget 10000
