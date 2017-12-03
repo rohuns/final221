@@ -189,15 +189,15 @@ class BacktrackingSearch():
                     rating = 1
                     # hard coded searching for a tree branch where John and David were actors a1 and a2
                     # weren't able to search for branch where i.e. John was in a Comedy b/c of partial assignment
-                    print assignment
-                    # content_r = content_ratings_map[assignment["contentrating"]] if "contentrating" in assignment != None else 0
-                    # d_name = directors_map[assignment["director"]] if "director" in assignment else 0
-                    # a3_name = actors_map[assignment["a3"]] if "a3" in assignment else 0
-                    # a2_name = actors_map[assignment["a2"]] if "a2" in assignment != None else 0
-                    # a1_name = actors_map[assignment["a1"]] if "a1" in assignment != None else 0
-                    # g = genres_map[assignment["genre"]] if "genre" in assignment else 0
+                    # content_r = content_ratings_map[assignment["contentrating"]] if "contentrating" in assignment and assignment["contentrating"] != None else 0
+                    # d_name = directors_map[assignment["director"]] if "director" in assignment and assignment["director"] != None else 0
+                    # a3_name = actors_map[assignment["actor3"]] if "actor3" in assignment and assignment["actor3"] != None else 0
+                    # a2_name = actors_map[assignment["actor2"]] if "actor2" in assignment  and assignment["actor2"] != None else 0
+                    # a1_name = actors_map[assignment["actor1"]] if "actor1" in assignment and assignment["actor1"] != None else 0
+                    # g = genres_map[assignment["genre"]] if "genre" in assignment and assignment["genre"] != None else 0
 
-                    # rating = forest.predict([[39752620.436387606,content_r,d_name,a3_name,a2_name,a1_name,2]])
+                    # rating = forest.predict([[39752620.436387606,content_r,d_name,a3_name,a2_name,a1_name,2]])[0]
+                    # print rating
                     self.backtrack(assignment, numAssigned + 1, rating * weight * deltaWeight)
                     del assignment[var]
         else:
@@ -346,14 +346,14 @@ class MovieCSPConstructor():
         csp.add_variable("actor1", self.actorBulletin.actors_map.keys())
         csp.add_variable("actor2", self.actorBulletin.actors_map.keys())
         # csp.add_variable("a3", self.actorBulletin.actors_map.keys())
-        csp.add_variable("genre", genres_map.keys())
+        #csp.add_variable("genre", genres_map.keys())
         # csp.add_variable("director", self.directorBulletin.directors_map.keys())
         # csp.add_variable("contentrating", content_ratings_map.keys())
         # csp.add_variable("actor1", ['Tyra Banks'])
         #csp.add_variable("actor2", ['John','Adam'])
-        csp.add_variable("actor3", ['Bob','Dylan'])
+        csp.add_variable("actor3", ['Johnny Depp'])
         csp.add_variable("genre", ['Comedy','Action','Romance'])
-        csp.add_variable("director", ['Paul', 'Nancy'])
+        csp.add_variable("director", ['Steven Spielberg'])
         csp.add_variable("contentrating", ['PG','PG-13'])
 
         print "done "
