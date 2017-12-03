@@ -151,7 +151,6 @@ class BacktrackingSearch():
 
     def backtrack(self, assignment, numAssigned, weight):
  
-        print "backtrack called \n"
         self.numOperations += 1
         assert weight > 0
         if numAssigned == self.csp.numVars:
@@ -196,7 +195,7 @@ class BacktrackingSearch():
                     a2_name = actors_map[assignment["actor2"]] if "actor2" in assignment  and assignment["actor2"] != None else 0
                     a1_name = actors_map[assignment["actor1"]] if "actor1" in assignment and assignment["actor1"] != None else 0
                     g = genres_map[assignment["genre"]] if "genre" in assignment and assignment["genre"] != None else 0
-                    
+
                     rating = forest.predict([[randint(30000000, 40000000),content_r,d_name,a3_name,a2_name,a1_name,2]])[0]
                     print rating
                     self.backtrack(assignment, numAssigned + 1, rating * weight * deltaWeight)
