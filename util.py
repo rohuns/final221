@@ -257,11 +257,11 @@ def get_or_variable(csp, name, variables, value):
 # - self.maxUnits: maximum allowed units to take this course for (e.g., 3)
 # - self.prereqs: list of course IDs that must be taken before taking this course.
 class Actor:
-    def __init__(self, name, cid, cost, likes):
+    def __init__(self, name, cid):
         self.name = name
         self.cid = cid
-        self.cost = cost
-        self.likes = likes
+       # self.cost = cost
+        #self.likes = likes
 
     def short_str(self): return '%s: %s' % (self.cid, self.name)
 
@@ -270,11 +270,11 @@ class Actor:
 
 
 class Director:
-    def __init__(self, name, cid, cost, likes):
+    def __init__(self, name, cid):
         self.name = name
         self.cid = cid
-        self.cost = cost
-        self.likes = likes
+        #self.cost = cost
+        #self.likes = likes
 
     def short_str(self): return '%s: %s' % (self.cid, self.name)
 
@@ -283,16 +283,16 @@ class Director:
 
 # Information about all the Actors and Directors
 class ActorBulletin:
-    def __init__(self, actors_map, actors_cost, actors_likes):
+    def __init__(self, actors_map):
         self.actors_map = actors_map
-        self.actors_cost = actors_cost
-        self.actors_likes = actors_likes
+        #self.actors_cost = actors_cost
+        #self.actors_likes = actors_likes
 
 class DirectorBulletin: 
-    def __init__(self, directors_map, directors_cost, directors_likes):
+    def __init__(self, directors_map):
         self.directors_map = directors_map
-        self.directors_cost = directors_cost
-        self.directors_likes = directors_likes
+        #self.directors_cost = directors_cost
+        #self.directors_likes = directors_likes
 
 
 # Given the path to a preference file and a
@@ -328,9 +328,9 @@ class Profile:
                     continue
                 if len(self.actors) < 3:
                     cid = actorBulletin.actors_map[name]
-                    cost = actorBulletin.actors_cost[name]
-                    likes = actorBulletin.actors_likes[name]
-                    self.actors.append(Actor(name, cid, cost, likes))
+                    #cost = actorBulletin.actors_cost[name]
+                    #likes = actorBulletin.actors_likes[name]
+                    self.actors.append(Actor(name, cid))
                     continue
                 else:
                     print "Cannot take in more than 3 actors. All other than first 3 will be ignored"
@@ -340,9 +340,9 @@ class Profile:
                 name = m.group(1)
                 if name in directorBulletin.directors_map:
                     cid = directorBulletin.directors_map[name]
-                    cost = directorBulletin.directors_cost[name]
-                    likes = directorBulletin.directors_likes[name]
-                    self.director = Director(name, cid, cost, likes)
+                    #cost = directorBulletin.directors_cost[name]
+                    #likes = directorBulletin.directors_likes[name]
+                    self.director = Director(name, cid)
                 else:
                     print "Invalid Director name, will be ignored in request"
                 continue
@@ -370,7 +370,7 @@ class Profile:
         print "Content Rating: %s" % self.content_rating
         print "Budget: %s" %self.budget
 
-
+# TODO
 def extract_course_scheduling_solution(profile, assign):
     """
     Given an assignment returned from the CSP solver, reconstruct the plan. It
@@ -397,21 +397,29 @@ def extract_course_scheduling_solution(profile, assign):
                 result.append((quarter, cid, assign[(cid, quarter)]))
     return result
 
-def print_course_scheduling_solution(solution):
+def print_movie_allocation_solution(solution):
     """
-    Print a schedule in a nice format based on a solution.
+    Print the movie resource allocaiton in a nice format based on a solution.
 
     @para solution: A list of (quarter, course, units). Units can be None, in which
         case it won't get printed.
     """
 
     if solution == None:
-        print "No schedule found that satisfied all the constraints."
+        print "No allocation found that satisfied all the constraints."
     else:
-        print "Here's the best schedule:"
-        print "Quarter\t\tUnits\tCourse"
-        for quarter, course, units in solution:
-            if units != None:
-                print "  %s\t%s\t%s" % (quarter, units, course)
-            else:
-                print "  %s\t%s\t%s" % (quarter, 'None', course)
+        print "Following is the best allocation:"
+        # print "Quarter\t\tUnits\tCourse"
+        print solution
+        print len(solution)
+        actors = solution[0]
+        director = solution[1]
+        genre = solution[2]
+        content_rating = solution[3]
+        budget = solution[4]
+        for i, actor in enumerate(actors):
+                print "actor %d: %s" % (i, actor)
+        print "director: %s" % director
+        print "genre: %s" % genre
+        print "content rating: %s" % content_rating
+        print "budget: $%d" % budget

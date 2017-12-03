@@ -1,38 +1,27 @@
-'''
--------------------------------------------------------------------------------------
-csp.py
--------------------------------------------------------------------------------------
-'''
-
-#!/usr/bin/env python
-"""
-Grader for template assignment
-Optionally run as grader.py [basic|all] to run a subset of tests
-"""
-
-
 
 import random
 
-import graderUtil
 import util
 import collections
 import copy
-grader = graderUtil.Grader()
-submission = grader.load('submission')
+import pickle
+from sklearn.ensemble import RandomForestRegressor
+import numpy as np
+from sklearn.externals import joblib
 
 # NOTE where profile and CSP need to be made
 # movieSolver = submission.BacktrackingSearch()
 # a = submission.create_movies_csp()
 # movieSolver.solve(a)
 
+forest = joblib.load('model.pkl')
+content_ratings_map = pickle.load(open("content_ratings.pickle", "rb"))
+actors_map = pickle.load(open("actors.pickle", 'rb'))
+directors_map = pickle.load(open("directors.pickle", "rb"))
+genres_map = pickle.load(open("genre.pickle", "rb"))
 
-profile = util.Profile(bulletin, 'sample_profile.txt')
-actorBulletin, directorBulletin = util.ActorBulletin(), util.DirectorBulletin() #load pickles
-cspConstructor = submission.MovieCSPConstructor(actorBulletin, directorBulletin, copy.deepcopy(profile))
-csp = cspConstructor.get_basic_csp()
-alg = BacktrackingSearch()
-alg.solve(csp)
+
+
 
 # '''
 # -------------------------------------------------------------------------------------
@@ -141,6 +130,7 @@ class BacktrackingSearch():
             variable is made.
         """
         # CSP to be solved.
+        print "It is attempting to solve"
         self.csp = csp
 
         # Set the search heuristics requested asked.
@@ -159,18 +149,8 @@ class BacktrackingSearch():
         self.print_stats()
 
     def backtrack(self, assignment, numAssigned, weight):
-        """
-        Perform the back-tracking algorithms to find all possible solutions to
-        the CSP.
-
-        @param assignment: A dictionary of current assignment. Unassigned variables
-            do not have entries, while an assigned variable has the assigned value
-            as value in dictionary. e.g. if the domain of the variable A is [5,6],
-            and 6 was assigned to it, then assignment[A] == 6.
-        @param numAssigned: Number of currently assigned variables
-        @param weight: The weight of the current partial assignment.
-        """
-
+ 
+        print "backtrack called \n"
         self.numOperations += 1
         assert weight > 0
         if numAssigned == self.csp.numVars:
@@ -209,12 +189,15 @@ class BacktrackingSearch():
                     rating = 1
                     # hard coded searching for a tree branch where John and David were actors a1 and a2
                     # weren't able to search for branch where i.e. John was in a Comedy b/c of partial assignment
-                    if val == 'John':
-                        if 'a1' in assignment:
-                            if assignment['a1'] == 'David':
-                                rating = 5
-                            else:
-                                rating = 3
+                    print assignment
+                    # content_r = content_ratings_map[assignment["contentrating"]] if "contentrating" in assignment != None else 0
+                    # d_name = directors_map[assignment["director"]] if "director" in assignment else 0
+                    # a3_name = actors_map[assignment["a3"]] if "a3" in assignment else 0
+                    # a2_name = actors_map[assignment["a2"]] if "a2" in assignment != None else 0
+                    # a1_name = actors_map[assignment["a1"]] if "a1" in assignment != None else 0
+                    # g = genres_map[assignment["genre"]] if "genre" in assignment else 0
+
+                    # rating = forest.predict([[39752620.436387606,content_r,d_name,a3_name,a2_name,a1_name,2]])
                     self.backtrack(assignment, numAssigned + 1, rating * weight * deltaWeight)
                     del assignment[var]
         else:
@@ -356,28 +339,40 @@ class MovieCSPConstructor():
 
         @param csp: The CSP where the additional constraints will be added to.
         """
+
+        genres_map = pickle.load(open("genre.pickle", "rb"))
+        content_ratings_map = pickle.load(open("content_ratings.pickle", "rb"))
+
         csp.add_variable("a1", self.actorBulletin.actors_map.keys())
-        csp.add_variable("a2", self.actorBulletin.actors_map.keys())
-        csp.add_variable("a3", self.actorBulletin.actors_map.keys())
-        csp.add_variable("genre", ["Comedy", "Action"]) #NOTE add a list genres
-        csp.add_variable("director", self.directorBulletin.directors_map.keys())
-        csp.add_variable("contentrating", ) #NOTE add this from the pickle
+        # csp.add_variable("a2", self.actorBulletin.actors_map.keys())
+        # csp.add_variable("a3", self.actorBulletin.actors_map.keys())
+        # csp.add_variable("genre", genres_map.keys())
+        # csp.add_variable("director", self.directorBulletin.directors_map.keys())
+        # csp.add_variable("contentrating", content_ratings_map.keys())
+        # csp.add_variable("actor1", ['Tyra Banks'])
+        csp.add_variable("a2", ['Johnny Depp'])
+        csp.add_variable("a3", ['Bob','Dylan'])
+        csp.add_variable("genre", ['Comedy','Action','Romance'])
+        csp.add_variable("director", ['Paul', 'Nancy'])
+        csp.add_variable("contentrating", ['PG','PG-13'])
+
+        print "done "
         #csp.add_variable("budget", ) #NOTE add the budget
 
-    def add_norepeating_constraints(self, csp):
-        """
-        No course can be repeated. Coupling with our problem's constraint that
-        only one of a group of requested course can be taken, this implies that
-        every request can only be satisfied in at most one quarter.
+    # def add_norepeating_constraints(self, csp):
+    #     """
+    #     No course can be repeated. Coupling with our problem's constraint that
+    #     only one of a group of requested course can be taken, this implies that
+    #     every request can only be satisfied in at most one quarter.
 
-        @param csp: The CSP where the additional constraints will be added to.
-        """
-        for request in self.profile.requests:
-            for quarter1 in self.profile.quarters:
-                for quarter2 in self.profile.quarters:
-                    if quarter1 == quarter2: continue
-                    csp.add_binary_factor((request, quarter1), (request, quarter2), \
-                        lambda cid1, cid2: cid1 is None or cid2 is None)
+    #     @param csp: The CSP where the additional constraints will be added to.
+    #     """
+    #     for request in self.profile.requests:
+    #         for quarter1 in self.profile.quarters:
+    #             for quarter2 in self.profile.quarters:
+    #                 if quarter1 == quarter2: continue
+    #                 csp.add_binary_factor((request, quarter1), (request, quarter2), \
+    #                     lambda cid1, cid2: cid1 is None or cid2 is None)
 
     def get_basic_csp(self):
         """
@@ -388,16 +383,27 @@ class MovieCSPConstructor():
         @return csp: A CSP where basic variables and constraints are added.
         """
         csp = util.CSP()
+        print "called"
         self.add_variables(csp)
+
         self.add_constraints(csp)
-        self.add_norepeating_constraints(csp)
         return csp
 
-    def add_contstraints(csp):
-            csp.add_binary_factor("a1", "a2", lambda x, y : x!=y)
-            csp.add_binary_factor("a3", "a2", lambda x, y : x!=y)
-            csp.add_binary_factor("a1", "a3", lambda x, y : x!=y)
-            csp.add_unary_factor("a1", lambda x: x!=None)
+    def add_constraints(self, csp):
+        print "adding constraints"
+        csp.add_binary_factor("a1", "a2", lambda x, y : x!=y)
+        print "fuck"
+        csp.add_binary_factor("a3", "a2", lambda x, y : x!=y)
+        print "this"
+        csp.add_binary_factor("a1", "a3", lambda x, y : x!=y)
+        print "shit"
+
+        # csp.add_unary_factor("a1", lambda x: x!=None)
+        # count = 1
+        # for a in self.profile.actors:
+        #     v = "a%d" %count
+        #     print v
+        #     csp.add_unary_factor(v, lambda x: x==a)
 
 
     # def add_request_weights(self, csp):
@@ -409,6 +415,11 @@ class MovieCSPConstructor():
 
     #     @param csp: The CSP where the additional constraints will be added to.
     #     """
+    #     count = 0
+    #     for a in self.profile.actors:
+    #         csp.add_unary_factor((""))
+
+
     #     for request in self.profile.requests:
     #         for quarter in self.profile.quarters:
     #             csp.add_unary_factor((request, quarter), \

@@ -1,17 +1,15 @@
 # all of the actors
-actor suqmadiq
-actor leo
-actor jonah
-actor doesntcount
+actor Robert De Niro
+actor Johnny Depp
 
 # director name
-director spielberg
+director Steven Spielberg
 
 # content rating 
 rating PG-13
 
 # genre 
-genre comedy
+genre Comedy
 
 # budget in dollars
-budget 10000
+# budget 10000
