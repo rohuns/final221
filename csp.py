@@ -343,15 +343,15 @@ class MovieCSPConstructor():
         genres_map = pickle.load(open("genre.pickle", "rb"))
         content_ratings_map = pickle.load(open("content_ratings.pickle", "rb"))
 
-        csp.add_variable("a1", self.actorBulletin.actors_map.keys())
-        # csp.add_variable("a2", self.actorBulletin.actors_map.keys())
+        csp.add_variable("actor1", self.actorBulletin.actors_map.keys())
+        csp.add_variable("actor2", self.actorBulletin.actors_map.keys())
         # csp.add_variable("a3", self.actorBulletin.actors_map.keys())
-        # csp.add_variable("genre", genres_map.keys())
+        csp.add_variable("genre", genres_map.keys())
         # csp.add_variable("director", self.directorBulletin.directors_map.keys())
         # csp.add_variable("contentrating", content_ratings_map.keys())
         # csp.add_variable("actor1", ['Tyra Banks'])
-        csp.add_variable("a2", ['Johnny Depp'])
-        csp.add_variable("a3", ['Bob','Dylan'])
+        #csp.add_variable("actor2", ['John','Adam'])
+        csp.add_variable("actor3", ['Bob','Dylan'])
         csp.add_variable("genre", ['Comedy','Action','Romance'])
         csp.add_variable("director", ['Paul', 'Nancy'])
         csp.add_variable("contentrating", ['PG','PG-13'])
@@ -391,19 +391,21 @@ class MovieCSPConstructor():
 
     def add_constraints(self, csp):
         print "adding constraints"
-        csp.add_binary_factor("a1", "a2", lambda x, y : x!=y)
+        csp.add_binary_factor("actor1", "actor2", lambda x, y : x!=y)
         print "fuck"
-        csp.add_binary_factor("a3", "a2", lambda x, y : x!=y)
+        csp.add_binary_factor("actor3", "actor2", lambda x, y : x!=y)
         print "this"
-        csp.add_binary_factor("a1", "a3", lambda x, y : x!=y)
+        csp.add_binary_factor("actor1", "actor3", lambda x, y : x!=y)
         print "shit"
 
-        # csp.add_unary_factor("a1", lambda x: x!=None)
-        # count = 1
-        # for a in self.profile.actors:
-        #     v = "a%d" %count
-        #     print v
-        #     csp.add_unary_factor(v, lambda x: x==a)
+        csp.add_unary_factor("actor1", lambda x: x!=None)
+        csp.add_unary_factor("actor1", lambda x: x=="Robert De Niro")
+
+        count = 1
+        for a in self.profile.actors:
+            v = "a%d" %count
+            print v
+           # csp.add_unary_factor(v, lambda x: x==a)
 
 
     # def add_request_weights(self, csp):
