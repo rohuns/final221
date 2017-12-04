@@ -336,7 +336,7 @@ class BacktrackingSearch():
 
 class MovieCSPConstructor():
 
-    def __init__(self, actorBulletin, directorBulletin, profile):
+    def __init__(self, actorBulletin, directorBulletin):
         """
         Saves the necessary data.
 
@@ -345,7 +345,7 @@ class MovieCSPConstructor():
         """
         self.actorBulletin = actorBulletin
         self.directorBulletin = directorBulletin
-        self.profile = profile
+        self.profile = None
 
     def add_variables(self, csp):
         """
@@ -401,10 +401,12 @@ class MovieCSPConstructor():
 
         @return csp: A CSP where basic variables and constraints are added.
         """
+        print "start"
         csp = util.CSP()
         self.add_variables(csp)
         self.add_constraints(csp)
-        self.add_specific_constraints(csp) #NOTE try to separate these out
+        #self.add_specific_constraints(csp) #NOTE try to separate these out
+        print 'end'
         return csp
 
     def add_specific_constraints(self, csp):
@@ -419,6 +421,7 @@ class MovieCSPConstructor():
             csp.add_unary_factor("content_rating", lambda x: x==self.profile.content_rating)
         if self.profile.genre:
             csp.add_unary_factor("genre", lambda x: x==self.profile.genre)
+        return csp
 
    
 
