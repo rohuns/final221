@@ -1,13 +1,13 @@
 # all of the actors
 actor Robert De Niro
 actor Liam Neeson
-# actor Angelina Jolie Pitt
+actor Angelina Jolie Pitt
 
 # director name
 director Steven Spielberg
 
 # content rating 
-rating PG-13
+# rating PG-13
 
 # genre 
 genre Comedy
