@@ -1,0 +1,5 @@
+# all of the actors
+actor Thomas Bo Larsen
+
+# director name
+director Thomas Vinterberg

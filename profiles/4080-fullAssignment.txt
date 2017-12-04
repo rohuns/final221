@@ -1,0 +1,16 @@
+# all of the actors
+actor Montgomery Clift
+actor Walter Brennan
+actor Harry Carey Jr.
+
+# director name
+director Howard Hawks
+
+# content rating
+rating Approved
+
+# genre
+genre Adventure
+
+# budget in dollars
+budget 3000000.0

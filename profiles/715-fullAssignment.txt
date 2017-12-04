@@ -1,0 +1,16 @@
+# all of the actors
+actor Patrick Fugit
+actor Sela Ward
+actor Emily Ratajkowski
+
+# director name
+director David Fincher
+
+# content rating
+rating R
+
+# genre
+genre Thriller
+
+# budget in dollars
+budget 61000000.0

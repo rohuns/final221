@@ -1,0 +1,16 @@
+# all of the actors
+actor Moritz Bleibtreu
+actor Ludger Pistor
+actor Armin Rohde
+
+# director name
+director Tom Tykwer
+
+# content rating
+rating R
+
+# genre
+genre Drama
+
+# budget in dollars
+budget 3500000.0

@@ -1,0 +1,5 @@
+# all of the actors
+actor Bunta Sugawara
+
+# director name
+director Hayao Miyazaki

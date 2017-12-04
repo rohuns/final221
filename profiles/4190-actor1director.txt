@@ -1,0 +1,5 @@
+# all of the actors
+actor Hanno Pöschl
+
+# director name
+director Richard Linklater

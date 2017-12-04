@@ -1,0 +1,5 @@
+# all of the actors
+actor John Ratzenberger
+
+# director name
+director Pete Docter

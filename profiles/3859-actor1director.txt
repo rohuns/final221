@@ -1,0 +1,5 @@
+# all of the actors
+actor Min-sik Choi
+
+# director name
+director Chan-wook Park

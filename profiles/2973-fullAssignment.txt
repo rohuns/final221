@@ -1,0 +1,16 @@
+# all of the actors
+actor Tom Hughes
+actor Tom Hollander
+actor Lindsay Duncan
+
+# director name
+director Richard Curtis
+
+# content rating
+rating R
+
+# genre
+genre Fantasy
+
+# budget in dollars
+budget 12000000.0

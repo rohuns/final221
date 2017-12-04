@@ -1,0 +1,16 @@
+# all of the actors
+actor Toni Servillo
+actor Sabrina Ferilli
+actor Serena Grandi
+
+# director name
+director Paolo Sorrentino
+
+# content rating
+rating Not Rated
+
+# genre
+genre Drama
+
+# budget in dollars
+budget 9200000.0

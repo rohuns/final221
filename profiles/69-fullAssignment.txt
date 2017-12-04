@@ -1,0 +1,16 @@
+# all of the actors
+actor Robert Downey Jr.
+actor Jeff Bridges
+actor Jon Favreau
+
+# director name
+director Jon Favreau
+
+# content rating
+rating PG-13
+
+# genre
+genre Sci-Fi
+
+# budget in dollars
+budget 140000000.0

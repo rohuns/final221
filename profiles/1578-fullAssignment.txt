@@ -1,0 +1,16 @@
+# all of the actors
+actor Bill Murray
+actor Tom Wilkinson
+actor F. Murray Abraham
+
+# director name
+director Wes Anderson
+
+# content rating
+rating R
+
+# genre
+genre Comedy
+
+# budget in dollars
+budget 25000000.0

@@ -1,0 +1,16 @@
+# all of the actors
+actor Clint Eastwood
+actor Morgan Freeman
+actor Frances Fisher
+
+# director name
+director Clint Eastwood
+
+# content rating
+rating R
+
+# genre
+genre Western
+
+# budget in dollars
+budget 14400000.0

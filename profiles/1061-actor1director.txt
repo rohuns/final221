@@ -1,0 +1,5 @@
+# all of the actors
+actor Donatas Banionis
+
+# director name
+director Andrei Tarkovsky

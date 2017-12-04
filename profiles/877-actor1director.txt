@@ -1,0 +1,5 @@
+# all of the actors
+actor Angelina Jolie Pitt
+
+# director name
+director Clint Eastwood

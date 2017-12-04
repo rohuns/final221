@@ -1,0 +1,5 @@
+# all of the actors
+actor Topol
+
+# director name
+director Norman Jewison

@@ -1,0 +1,16 @@
+# all of the actors
+actor Leonardo DiCaprio
+actor Djimon Hounsou
+actor Stephen Collins
+
+# director name
+director Edward Zwick
+
+# content rating
+rating R
+
+# genre
+genre Drama
+
+# budget in dollars
+budget 100000000.0

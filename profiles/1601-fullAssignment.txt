@@ -1,0 +1,16 @@
+# all of the actors
+actor Sharlto Copley
+actor Jed Brophy
+actor Jason Cope
+
+# director name
+director Neill Blomkamp
+
+# content rating
+rating R
+
+# genre
+genre Action
+
+# budget in dollars
+budget 30000000.0

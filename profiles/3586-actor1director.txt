@@ -1,0 +1,5 @@
+# all of the actors
+actor Adam Baldwin
+
+# director name
+director Robert Redford

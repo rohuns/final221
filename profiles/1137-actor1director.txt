@@ -1,0 +1,5 @@
+# all of the actors
+actor Clea DuVall
+
+# director name
+director Ben Affleck

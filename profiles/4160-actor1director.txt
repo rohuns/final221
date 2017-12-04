@@ -1,0 +1,5 @@
+# all of the actors
+actor Vidya Balan
+
+# director name
+director Rajkumar Hirani

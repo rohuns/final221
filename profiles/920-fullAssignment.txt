@@ -1,0 +1,16 @@
+# all of the actors
+actor Robert De Niro
+actor Don Rickles
+actor Kevin Pollak
+
+# director name
+director Martin Scorsese
+
+# content rating
+rating R
+
+# genre
+genre Drama
+
+# budget in dollars
+budget 52000000.0

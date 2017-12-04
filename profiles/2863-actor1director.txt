@@ -1,0 +1,5 @@
+# all of the actors
+actor Yuki Matsuzaki
+
+# director name
+director Clint Eastwood

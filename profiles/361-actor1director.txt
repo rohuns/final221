@@ -1,0 +1,5 @@
+# all of the actors
+actor Leonardo DiCaprio
+
+# director name
+director Martin Scorsese

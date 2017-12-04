@@ -1,0 +1,16 @@
+# all of the actors
+actor Gerard Butler
+actor America Ferrera
+actor Craig Ferguson
+
+# director name
+director Dean DeBlois
+
+# content rating
+rating PG
+
+# genre
+genre Animation
+
+# budget in dollars
+budget 165000000.0

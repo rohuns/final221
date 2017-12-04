@@ -1,0 +1,5 @@
+# all of the actors
+actor Elina Abai Kyzy
+
+# director name
+director Sadyk Sher-Niyaz

@@ -1,0 +1,16 @@
+# all of the actors
+actor Lillian Gish
+actor Mae Marsh
+actor Walter Long
+
+# director name
+director D.W. Griffith
+
+# content rating
+rating Not Rated
+
+# genre
+genre Drama
+
+# budget in dollars
+budget 385907.0

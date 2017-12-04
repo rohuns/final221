@@ -1,0 +1,5 @@
+# all of the actors
+actor Jean-Louis Trintignant
+
+# director name
+director Bernardo Bertolucci

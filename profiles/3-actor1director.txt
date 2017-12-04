@@ -1,0 +1,5 @@
+# all of the actors
+actor Tom Hardy
+
+# director name
+director Christopher Nolan

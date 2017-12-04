@@ -1,0 +1,5 @@
+# all of the actors
+actor Denzel Washington
+
+# genre
+genre Drama

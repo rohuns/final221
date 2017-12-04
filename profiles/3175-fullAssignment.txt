@@ -1,0 +1,16 @@
+# all of the actors
+actor Ethan Suplee
+actor Beverly D'Angelo
+actor Stacy Keach
+
+# director name
+director Tony Kaye
+
+# content rating
+rating R
+
+# genre
+genre Drama
+
+# budget in dollars
+budget 7500000.0

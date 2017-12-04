@@ -1,0 +1,5 @@
+# all of the actors
+actor Ryan Reynolds
+
+# genre
+genre Action

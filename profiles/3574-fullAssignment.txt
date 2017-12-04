@@ -1,0 +1,16 @@
+# all of the actors
+actor Sam Riley
+actor Samantha Morton
+actor Alexandra Maria Lara
+
+# director name
+director Anton Corbijn
+
+# content rating
+rating R
+
+# genre
+genre Music
+
+# budget in dollars
+budget 4500000.0

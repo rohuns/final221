@@ -1,0 +1,5 @@
+# all of the actors
+actor Toni Servillo
+
+# director name
+director Paolo Sorrentino

@@ -1,0 +1,5 @@
+# all of the actors
+actor John F. Kennedy
+
+# director name
+director David Sington

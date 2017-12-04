@@ -1,0 +1,5 @@
+# all of the actors
+actor Robin Williams
+
+# director name
+director Peter Weir

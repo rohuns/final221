@@ -1,0 +1,5 @@
+# all of the actors
+actor Michael Biehn
+
+# director name
+director James Cameron

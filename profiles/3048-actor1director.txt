@@ -1,0 +1,5 @@
+# all of the actors
+actor Ryan O'Neal
+
+# director name
+director Stanley Kubrick

@@ -1,0 +1,5 @@
+# all of the actors
+actor Ginger Rogers
+
+# genre
+genre Musical

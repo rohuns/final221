@@ -1,0 +1,5 @@
+# all of the actors
+actor Andrew Garfield
+
+# genre
+genre Biography

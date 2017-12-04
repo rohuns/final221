@@ -1,0 +1,5 @@
+# all of the actors
+actor Albert Finney
+
+# genre
+genre Adventure

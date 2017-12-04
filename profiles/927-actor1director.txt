@@ -1,0 +1,5 @@
+# all of the actors
+actor Kathleen Freeman
+
+# director name
+director Andrew Adamson

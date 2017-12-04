@@ -1,0 +1,16 @@
+# all of the actors
+actor Ginger Rogers
+actor Dick Powell
+actor George Brent
+
+# director name
+director Lloyd Bacon
+
+# content rating
+rating Unrated
+
+# genre
+genre Romance
+
+# budget in dollars
+budget 439000.0

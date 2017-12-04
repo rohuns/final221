@@ -1,0 +1,16 @@
+# all of the actors
+actor Shailene Woodley
+actor Sam Trammell
+actor Nat Wolff
+
+# director name
+director Josh Boone
+
+# content rating
+rating PG-13
+
+# genre
+genre Drama
+
+# budget in dollars
+budget 12000000.0

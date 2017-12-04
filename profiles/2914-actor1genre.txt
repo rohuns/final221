@@ -1,0 +1,5 @@
+# all of the actors
+actor Min-sik Choi
+
+# genre
+genre Drama

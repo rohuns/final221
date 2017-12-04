@@ -1,0 +1,16 @@
+# all of the actors
+actor Ed Begley Jr.
+actor Phyllis Diller
+actor Colette Divine
+
+# director name
+director Chris Paine
+
+# content rating
+rating PG
+
+# genre
+genre Documentary
+
+# budget in dollars
+budget 1000000.0

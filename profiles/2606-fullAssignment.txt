@@ -1,0 +1,16 @@
+# all of the actors
+actor Kevin Spacey
+actor Peter Gallagher
+actor Ara Celi
+
+# director name
+director Sam Mendes
+
+# content rating
+rating R
+
+# genre
+genre Drama
+
+# budget in dollars
+budget 15000000.0

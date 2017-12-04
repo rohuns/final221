@@ -1,0 +1,16 @@
+# all of the actors
+actor Brighton Sharbino
+actor Jake Busey
+actor Tim Guinee
+
+# director name
+director Frank Lotito
+
+# content rating
+rating PG-13
+
+# genre
+genre Family
+
+# budget in dollars
+budget 2000000.0

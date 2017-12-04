@@ -1,0 +1,5 @@
+# all of the actors
+actor Ruby Dee
+
+# director name
+director Spike Lee

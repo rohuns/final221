@@ -1,0 +1,5 @@
+# all of the actors
+actor Merab Ninidze
+
+# director name
+director Caroline Link

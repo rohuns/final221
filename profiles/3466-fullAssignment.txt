@@ -1,0 +1,16 @@
+# all of the actors
+actor Al Pacino
+actor Marlon Brando
+actor Robert Duvall
+
+# director name
+director Francis Ford Coppola
+
+# content rating
+rating R
+
+# genre
+genre Drama
+
+# budget in dollars
+budget 6000000.0

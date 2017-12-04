@@ -1,0 +1,5 @@
+# all of the actors
+actor Shah Rukh Khan
+
+# director name
+director Karan Johar

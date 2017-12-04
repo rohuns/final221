@@ -1,0 +1,5 @@
+# all of the actors
+actor Marlon Brando
+
+# director name
+director Elia Kazan

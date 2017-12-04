@@ -1,0 +1,16 @@
+# all of the actors
+actor Bob Proctor
+actor Jack Canfield
+actor Eric Worre
+
+# director name
+director Joe Kenemore
+
+# content rating
+rating G
+
+# genre
+genre Documentary
+
+# budget in dollars
+budget 450000.0

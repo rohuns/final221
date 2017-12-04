@@ -1,0 +1,16 @@
+# all of the actors
+actor Russell Wong
+actor Steven Michael Quezada
+actor Lymari Nadal
+
+# director name
+director Lance McDaniel
+
+# content rating
+rating PG-13
+
+# genre
+genre Drama
+
+# budget in dollars
+budget 600000.0

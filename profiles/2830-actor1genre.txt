@@ -1,0 +1,5 @@
+# all of the actors
+actor Belén Rueda
+
+# genre
+genre Romance

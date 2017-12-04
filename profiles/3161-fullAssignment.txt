@@ -1,0 +1,16 @@
+# all of the actors
+actor Gary Cole
+actor Stephen Root
+actor Diedrich Bader
+
+# director name
+director Mike Judge
+
+# content rating
+rating R
+
+# genre
+genre Comedy
+
+# budget in dollars
+budget 10000000.0

@@ -1,0 +1,5 @@
+# all of the actors
+actor Eleanor Parker
+
+# director name
+director Robert Wise

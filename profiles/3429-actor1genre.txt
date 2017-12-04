@@ -1,0 +1,5 @@
+# all of the actors
+actor Mckenna Grace
+
+# genre
+genre Drama

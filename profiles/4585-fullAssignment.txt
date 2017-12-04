@@ -1,0 +1,16 @@
+# all of the actors
+actor Anwar Congo
+actor Herman Koto
+actor Syamsul Arifin
+
+# director name
+director Joshua Oppenheimer
+
+# content rating
+rating Not Rated
+
+# genre
+genre History
+
+# budget in dollars
+budget 1000000.0

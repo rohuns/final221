@@ -1,0 +1,5 @@
+# all of the actors
+actor Philip Seymour Hoffman
+
+# genre
+genre Drama

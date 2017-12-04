@@ -1,0 +1,5 @@
+# all of the actors
+actor Claudia Cardinale
+
+# director name
+director Sergio Leone

@@ -1,0 +1,16 @@
+# all of the actors
+actor Brad Pitt
+actor Gary Oldman
+actor Michael Rapaport
+
+# director name
+director Tony Scott
+
+# content rating
+rating R
+
+# genre
+genre Thriller
+
+# budget in dollars
+budget 13000000.0

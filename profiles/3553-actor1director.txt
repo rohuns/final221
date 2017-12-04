@@ -1,0 +1,5 @@
+# all of the actors
+actor Wagner Moura
+
+# director name
+director José Padilha

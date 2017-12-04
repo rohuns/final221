@@ -1,0 +1,5 @@
+# all of the actors
+actor Chris Hemsworth
+
+# director name
+director J.J. Abrams

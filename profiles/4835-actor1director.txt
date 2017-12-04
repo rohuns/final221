@@ -1,0 +1,5 @@
+# all of the actors
+actor Jean-Paul Belmondo
+
+# director name
+director Jean-Luc Godard

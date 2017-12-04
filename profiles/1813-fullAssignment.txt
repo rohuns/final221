@@ -1,0 +1,16 @@
+# all of the actors
+actor Dennis Quaid
+actor Scott Glenn
+actor Sam Shepard
+
+# director name
+director Philip Kaufman
+
+# content rating
+rating PG
+
+# genre
+genre History
+
+# budget in dollars
+budget 27000000.0

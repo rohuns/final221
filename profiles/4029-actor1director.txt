@@ -1,0 +1,5 @@
+# all of the actors
+actor Alice Braga
+
+# director name
+director Fernando Meirelles

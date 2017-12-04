@@ -1,0 +1,5 @@
+# all of the actors
+actor Liam Neeson
+
+# genre
+genre Action

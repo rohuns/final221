@@ -1,0 +1,5 @@
+# all of the actors
+actor Richard Burton
+
+# genre
+genre War

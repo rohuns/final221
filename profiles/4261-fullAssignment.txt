@@ -1,0 +1,16 @@
+# all of the actors
+actor George C. Scott
+actor Jackie Gleason
+actor Murray Hamilton
+
+# director name
+director Robert Rossen
+
+# content rating
+rating Unrated
+
+# genre
+genre Sport
+
+# budget in dollars
+budget 2000000.0

@@ -1,0 +1,5 @@
+# all of the actors
+actor Shane Black
+
+# director name
+director John McTiernan

@@ -1,0 +1,5 @@
+# all of the actors
+actor Rumi Hiiragi
+
+# director name
+director Hayao Miyazaki

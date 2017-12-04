@@ -1,0 +1,16 @@
+# all of the actors
+actor Holly Hunter
+actor Craig T. Nelson
+actor Lou Romano
+
+# director name
+director Brad Bird
+
+# content rating
+rating PG
+
+# genre
+genre Action
+
+# budget in dollars
+budget 92000000.0

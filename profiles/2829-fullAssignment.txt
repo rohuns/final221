@@ -1,0 +1,16 @@
+# all of the actors
+actor Thomas Kretschmann
+actor Bruno Ganz
+actor Alexandra Maria Lara
+
+# director name
+director Oliver Hirschbiegel
+
+# content rating
+rating R
+
+# genre
+genre Biography
+
+# budget in dollars
+budget 13500000.0

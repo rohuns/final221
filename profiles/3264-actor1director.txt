@@ -1,0 +1,5 @@
+# all of the actors
+actor Isabelle Huppert
+
+# director name
+director Michael Haneke

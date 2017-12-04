@@ -1,0 +1,16 @@
+# all of the actors
+actor Talulah Riley
+actor Brenda Blethyn
+actor Simon Woods
+
+# director name
+director Joe Wright
+
+# content rating
+rating PG
+
+# genre
+genre Romance
+
+# budget in dollars
+budget 28000000.0

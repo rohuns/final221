@@ -1,0 +1,5 @@
+# all of the actors
+actor Judith O'Dea
+
+# director name
+director George A. Romero

@@ -1,0 +1,5 @@
+# all of the actors
+actor Henry Thomas
+
+# director name
+director Steven Spielberg

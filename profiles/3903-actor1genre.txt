@@ -1,0 +1,5 @@
+# all of the actors
+actor James Coburn
+
+# genre
+genre Adventure

@@ -1,0 +1,5 @@
+# all of the actors
+actor Thomas Kretschmann
+
+# director name
+director Oliver Hirschbiegel

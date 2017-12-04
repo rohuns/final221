@@ -1,0 +1,16 @@
+# all of the actors
+actor Tommy Sheppard
+actor Greg Speirs
+actor Mickey Hart
+
+# director name
+director Marius A. Markevicius
+
+# content rating
+rating Not Rated
+
+# genre
+genre Documentary
+
+# budget in dollars
+budget 500000.0

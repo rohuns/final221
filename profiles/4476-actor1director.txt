@@ -1,0 +1,5 @@
+# all of the actors
+actor Ray Milland
+
+# director name
+director Billy Wilder

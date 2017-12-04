@@ -1,0 +1,16 @@
+# all of the actors
+actor Tom Hanks
+actor Jeffrey DeMunn
+actor Michael Jeter
+
+# director name
+director Frank Darabont
+
+# content rating
+rating R
+
+# genre
+genre Fantasy
+
+# budget in dollars
+budget 60000000.0

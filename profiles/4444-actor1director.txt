@@ -1,0 +1,5 @@
+# all of the actors
+actor Brighton Sharbino
+
+# director name
+director Frank Lotito

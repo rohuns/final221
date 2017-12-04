@@ -1,0 +1,16 @@
+# all of the actors
+actor Robert Duvall
+actor Dwight Yoakam
+actor J.T. Walsh
+
+# director name
+director Billy Bob Thornton
+
+# content rating
+rating R
+
+# genre
+genre Drama
+
+# budget in dollars
+budget 890000.0

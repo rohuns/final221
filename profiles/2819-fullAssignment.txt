@@ -1,0 +1,16 @@
+# all of the actors
+actor Jake Gyllenhaal
+actor Heath Ledger
+actor Anne Hathaway
+
+# director name
+director Ang Lee
+
+# content rating
+rating R
+
+# genre
+genre Drama
+
+# budget in dollars
+budget 14000000.0

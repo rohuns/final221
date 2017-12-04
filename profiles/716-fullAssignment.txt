@@ -1,0 +1,16 @@
+# all of the actors
+actor Matt Damon
+actor Josh Hamilton
+actor Nicky Naudé
+
+# director name
+director Doug Liman
+
+# content rating
+rating PG-13
+
+# genre
+genre Action
+
+# budget in dollars
+budget 60000000.0

@@ -1,0 +1,16 @@
+# all of the actors
+actor John Cameron Mitchell
+actor Miriam Shor
+actor Andrea Martin
+
+# director name
+director John Cameron Mitchell
+
+# content rating
+rating R
+
+# genre
+genre Comedy
+
+# budget in dollars
+budget 6000000.0

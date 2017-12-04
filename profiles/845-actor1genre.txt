@@ -1,0 +1,5 @@
+# all of the actors
+actor Tom Hanks
+
+# genre
+genre Drama

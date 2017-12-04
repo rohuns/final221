@@ -1,0 +1,5 @@
+# all of the actors
+actor Ricardo Darín
+
+# director name
+director Fabián Bielinsky

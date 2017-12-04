@@ -1,0 +1,5 @@
+# all of the actors
+actor Jim Meskimen
+
+# director name
+director Paul Thomas Anderson

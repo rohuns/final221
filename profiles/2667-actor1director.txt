@@ -1,0 +1,5 @@
+# all of the actors
+actor Don Cheadle
+
+# director name
+director Paul Thomas Anderson

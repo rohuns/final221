@@ -1,0 +1,5 @@
+# all of the actors
+actor Charlie Hunnam
+
+# director name
+director Alfonso Cuarón

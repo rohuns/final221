@@ -1,0 +1,16 @@
+# all of the actors
+actor Cary-Hiroyuki Tagawa
+actor Joan Chen
+actor Victor Wong
+
+# director name
+director Bernardo Bertolucci
+
+# content rating
+rating PG-13
+
+# genre
+genre Drama
+
+# budget in dollars
+budget 23000000.0

@@ -1,0 +1,16 @@
+# all of the actors
+actor John Cothran
+actor Lloyd Avery II
+actor Na'Blonka Durden
+
+# director name
+director John Singleton
+
+# content rating
+rating R
+
+# genre
+genre Drama
+
+# budget in dollars
+budget 6000000.0

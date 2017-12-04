@@ -1,0 +1,5 @@
+# all of the actors
+actor Alan Rickman
+
+# genre
+genre Action

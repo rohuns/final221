@@ -1,0 +1,5 @@
+# all of the actors
+actor Minnie Driver
+
+# director name
+director Hayao Miyazaki

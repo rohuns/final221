@@ -1,0 +1,16 @@
+# all of the actors
+actor Scarlett Johansson
+actor Bill Murray
+actor Garry Shandling
+
+# director name
+director Jon Favreau
+
+# content rating
+rating PG
+
+# genre
+genre Fantasy
+
+# budget in dollars
+budget 175000000.0

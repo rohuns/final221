@@ -1,0 +1,16 @@
+# all of the actors
+actor Steve Carell
+actor Miranda Cosgrove
+actor Jack McBrayer
+
+# director name
+director Pierre Coffin
+
+# content rating
+rating PG
+
+# genre
+genre Animation
+
+# budget in dollars
+budget 69000000.0

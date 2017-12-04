@@ -1,0 +1,5 @@
+# all of the actors
+actor Colin Firth
+
+# genre
+genre Comedy

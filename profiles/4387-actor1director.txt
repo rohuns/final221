@@ -1,0 +1,5 @@
+# all of the actors
+actor Jean Arthur
+
+# director name
+director Frank Capra

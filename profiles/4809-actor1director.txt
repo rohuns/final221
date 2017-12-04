@@ -1,0 +1,5 @@
+# all of the actors
+actor Liv Ullmann
+
+# director name
+director Ingmar Bergman

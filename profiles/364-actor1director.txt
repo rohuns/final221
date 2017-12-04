@@ -1,0 +1,5 @@
+# all of the actors
+actor Robin Wright
+
+# director name
+director David Fincher

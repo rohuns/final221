@@ -1,0 +1,5 @@
+# all of the actors
+actor Quentin Tarantino
+
+# director name
+director Quentin Tarantino

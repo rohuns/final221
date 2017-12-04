@@ -1,0 +1,16 @@
+# all of the actors
+actor Kate Winslet
+actor Kirsten Dunst
+actor Tom Wilkinson
+
+# director name
+director Michel Gondry
+
+# content rating
+rating R
+
+# genre
+genre Sci-Fi
+
+# budget in dollars
+budget 20000000.0

@@ -1,0 +1,5 @@
+# all of the actors
+actor Anil Kapoor
+
+# director name
+director Danny Boyle

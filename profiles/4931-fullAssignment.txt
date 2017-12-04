@@ -1,0 +1,16 @@
+# all of the actors
+actor Glen Hansard
+actor Markéta Irglová
+actor Darren Healy
+
+# director name
+director John Carney
+
+# content rating
+rating R
+
+# genre
+genre Drama
+
+# budget in dollars
+budget 180000.0

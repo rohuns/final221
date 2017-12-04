@@ -1,0 +1,5 @@
+# all of the actors
+actor Jean Arthur
+
+# genre
+genre Drama

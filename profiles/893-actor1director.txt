@@ -1,0 +1,5 @@
+# all of the actors
+actor Will Smith
+
+# director name
+director Gabriele Muccino

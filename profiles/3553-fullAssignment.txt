@@ -1,0 +1,16 @@
+# all of the actors
+actor Wagner Moura
+actor Fernanda Machado
+actor André Ramiro
+
+# director name
+director José Padilha
+
+# content rating
+rating R
+
+# genre
+genre Drama
+
+# budget in dollars
+budget 4000000.0

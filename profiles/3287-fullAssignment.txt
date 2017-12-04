@@ -1,0 +1,16 @@
+# all of the actors
+actor Michael Moore
+actor Tucker Albrizzi
+actor Bill Clinton
+
+# director name
+director Michael Moore
+
+# content rating
+rating PG-13
+
+# genre
+genre Documentary
+
+# budget in dollars
+budget 9000000.0

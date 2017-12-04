@@ -1,0 +1,5 @@
+# all of the actors
+actor Gary Cooper
+
+# director name
+director Fred Zinnemann

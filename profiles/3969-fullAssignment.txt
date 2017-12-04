@@ -1,0 +1,16 @@
+# all of the actors
+actor Robert Duvall
+actor Faye Dunaway
+actor William Holden
+
+# director name
+director Sidney Lumet
+
+# content rating
+rating R
+
+# genre
+genre Drama
+
+# budget in dollars
+budget 3800000.0

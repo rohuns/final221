@@ -1,0 +1,5 @@
+# all of the actors
+actor Steve Buscemi
+
+# genre
+genre Drama

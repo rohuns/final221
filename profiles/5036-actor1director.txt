@@ -1,0 +1,5 @@
+# all of the actors
+actor Richard Jewell
+
+# director name
+director Anthony Vallone

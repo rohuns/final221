@@ -1,0 +1,16 @@
+# all of the actors
+actor Andrew Garfield
+actor Dustin Fitzsimons
+actor Marcella Lentz-Pope
+
+# director name
+director David Fincher
+
+# content rating
+rating PG-13
+
+# genre
+genre Biography
+
+# budget in dollars
+budget 40000000.0

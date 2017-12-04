@@ -1,0 +1,5 @@
+# all of the actors
+actor Bob Proctor
+
+# director name
+director Joe Kenemore

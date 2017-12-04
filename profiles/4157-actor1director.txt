@@ -1,0 +1,5 @@
+# all of the actors
+actor Margaret Hamilton
+
+# director name
+director Victor Fleming

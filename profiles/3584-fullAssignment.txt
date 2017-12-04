@@ -1,0 +1,16 @@
+# all of the actors
+actor Katharine Ross
+actor Ted Cassidy
+actor Kenneth Mars
+
+# director name
+director George Roy Hill
+
+# content rating
+rating M
+
+# genre
+genre Western
+
+# budget in dollars
+budget 6000000.0

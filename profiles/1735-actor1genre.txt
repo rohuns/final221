@@ -1,0 +1,5 @@
+# all of the actors
+actor Sandra Ellis Lafferty
+
+# genre
+genre Music

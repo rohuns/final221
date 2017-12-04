@@ -1,0 +1,16 @@
+# all of the actors
+actor Fred MacMurray
+actor Ray Walston
+actor David White
+
+# director name
+director Billy Wilder
+
+# content rating
+rating Approved
+
+# genre
+genre Comedy
+
+# budget in dollars
+budget 3000000.0

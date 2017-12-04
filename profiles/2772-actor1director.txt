@@ -1,0 +1,5 @@
+# all of the actors
+actor Sylvester Stallone
+
+# director name
+director Ted Kotcheff

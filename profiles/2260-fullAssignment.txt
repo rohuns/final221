@@ -1,0 +1,16 @@
+# all of the actors
+actor Naomi Watts
+actor Eddie Marsan
+actor Danny Huston
+
+# director name
+director Alejandro G. Iñárritu
+
+# content rating
+rating R
+
+# genre
+genre Drama
+
+# budget in dollars
+budget 20000000.0

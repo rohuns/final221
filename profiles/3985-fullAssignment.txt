@@ -1,0 +1,16 @@
+# all of the actors
+actor Peter Graves
+actor Lloyd Bridges
+actor Barbara Billingsley
+
+# director name
+director Jim Abrahams
+
+# content rating
+rating PG
+
+# genre
+genre Comedy
+
+# budget in dollars
+budget 3500000.0

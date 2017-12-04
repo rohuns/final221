@@ -1,0 +1,5 @@
+# all of the actors
+actor Russell Wong
+
+# director name
+director Lance McDaniel

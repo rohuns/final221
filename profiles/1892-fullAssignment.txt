@@ -1,0 +1,16 @@
+# all of the actors
+actor Michael Biehn
+actor Dana Delany
+actor Powers Boothe
+
+# director name
+director George P. Cosmatos
+
+# content rating
+rating R
+
+# genre
+genre Romance
+
+# budget in dollars
+budget 25000000.0

@@ -1,0 +1,5 @@
+# all of the actors
+actor Merab Ninidze
+
+# genre
+genre Drama

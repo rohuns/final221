@@ -1,0 +1,5 @@
+# all of the actors
+actor Peter Serafinowicz
+
+# director name
+director Edgar Wright

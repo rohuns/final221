@@ -1,0 +1,5 @@
+# all of the actors
+actor Norman Reedus
+
+# director name
+director Troy Duffy

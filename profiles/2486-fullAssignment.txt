@@ -1,0 +1,16 @@
+# all of the actors
+actor Michael Biehn
+actor Carrie Henn
+actor Jenette Goldstein
+
+# director name
+director James Cameron
+
+# content rating
+rating R
+
+# genre
+genre Action
+
+# budget in dollars
+budget 18500000.0

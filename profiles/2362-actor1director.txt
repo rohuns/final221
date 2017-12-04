@@ -1,0 +1,5 @@
+# all of the actors
+actor Scatman Crothers
+
+# director name
+director Stanley Kubrick

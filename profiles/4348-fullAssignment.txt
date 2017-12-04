@@ -1,0 +1,16 @@
+# all of the actors
+actor Khalid Abdalla
+actor Ahmed Hassan
+actor Aida Elkashef
+
+# director name
+director Jehane Noujaim
+
+# content rating
+rating Not Rated
+
+# genre
+genre Documentary
+
+# budget in dollars
+budget 1500000.0

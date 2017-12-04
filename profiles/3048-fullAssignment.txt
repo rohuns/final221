@@ -1,0 +1,16 @@
+# all of the actors
+actor Ryan O'Neal
+actor Steven Berkoff
+actor Hardy Krüger
+
+# director name
+director Stanley Kubrick
+
+# content rating
+rating PG
+
+# genre
+genre War
+
+# budget in dollars
+budget 11000000.0

@@ -1,0 +1,5 @@
+# all of the actors
+actor Ted Raimi
+
+# genre
+genre Comedy

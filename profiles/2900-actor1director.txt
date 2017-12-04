@@ -1,0 +1,5 @@
+# all of the actors
+actor Kevin Spacey
+
+# director name
+director James Foley

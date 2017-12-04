@@ -1,0 +1,16 @@
+# all of the actors
+actor Shirley Jones
+actor Jean Simmons
+actor Edward Andrews
+
+# director name
+director Richard Brooks
+
+# content rating
+rating Approved
+
+# genre
+genre Drama
+
+# budget in dollars
+budget 3000000.0

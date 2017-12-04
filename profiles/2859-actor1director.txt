@@ -1,0 +1,5 @@
+# all of the actors
+actor Willie Garson
+
+# director name
+director Spike Jonze

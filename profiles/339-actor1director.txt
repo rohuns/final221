@@ -1,0 +1,5 @@
+# all of the actors
+actor Orlando Bloom
+
+# director name
+director Peter Jackson

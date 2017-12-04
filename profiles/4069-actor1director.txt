@@ -1,0 +1,5 @@
+# all of the actors
+actor Fred MacMurray
+
+# director name
+director Billy Wilder

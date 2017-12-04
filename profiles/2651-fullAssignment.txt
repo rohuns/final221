@@ -1,0 +1,16 @@
+# all of the actors
+actor Robin Wright
+actor Carol Kane
+actor André the Giant
+
+# director name
+director Rob Reiner
+
+# content rating
+rating PG
+
+# genre
+genre Romance
+
+# budget in dollars
+budget 16000000.0

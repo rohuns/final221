@@ -1,0 +1,16 @@
+# all of the actors
+actor Liam Neeson
+actor Embeth Davidtz
+actor Caroline Goodall
+
+# director name
+director Steven Spielberg
+
+# content rating
+rating R
+
+# genre
+genre Drama
+
+# budget in dollars
+budget 22000000.0

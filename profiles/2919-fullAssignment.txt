@@ -1,0 +1,16 @@
+# all of the actors
+actor Mackenzie Foy
+actor Megan Mullally
+actor Lambert Wilson
+
+# director name
+director Stéphane Aubier
+
+# content rating
+rating PG
+
+# genre
+genre Crime
+
+# budget in dollars
+budget 9600000.0

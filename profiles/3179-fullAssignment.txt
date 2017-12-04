@@ -1,0 +1,16 @@
+# all of the actors
+actor Sissy Spacek
+actor Richard Farnsworth
+actor Everett McGill
+
+# director name
+director David Lynch
+
+# content rating
+rating G
+
+# genre
+genre Drama
+
+# budget in dollars
+budget 10000000.0

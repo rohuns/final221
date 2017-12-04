@@ -1,0 +1,5 @@
+# all of the actors
+actor Denis Lavant
+
+# director name
+director Jean-Pierre Jeunet

@@ -1,0 +1,5 @@
+# all of the actors
+actor Christian Bale
+
+# director name
+director David O. Russell

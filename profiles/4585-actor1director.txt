@@ -1,0 +1,5 @@
+# all of the actors
+actor Anwar Congo
+
+# director name
+director Joshua Oppenheimer

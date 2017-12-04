@@ -1,0 +1,5 @@
+# all of the actors
+actor Suraj Sharma
+
+# director name
+director Ang Lee

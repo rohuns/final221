@@ -1,0 +1,5 @@
+# all of the actors
+actor Elina Alminas
+
+# genre
+genre Mystery

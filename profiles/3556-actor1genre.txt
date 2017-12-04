@@ -1,0 +1,5 @@
+# all of the actors
+actor John Cothran
+
+# genre
+genre Drama

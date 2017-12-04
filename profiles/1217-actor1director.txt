@@ -1,0 +1,5 @@
+# all of the actors
+actor Sally Kirkland
+
+# director name
+director Oliver Stone

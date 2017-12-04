@@ -1,0 +1,16 @@
+# all of the actors
+actor Robert De Niro
+actor Bob Hoskins
+actor Jim Broadbent
+
+# director name
+director Terry Gilliam
+
+# content rating
+rating R
+
+# genre
+genre Sci-Fi
+
+# budget in dollars
+budget 15000000.0

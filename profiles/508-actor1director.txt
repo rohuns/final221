@@ -1,0 +1,5 @@
+# all of the actors
+actor Adam Goldberg
+
+# director name
+director Ron Howard

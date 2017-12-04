@@ -1,0 +1,5 @@
+# all of the actors
+actor Gerard Butler
+
+# director name
+director Dean DeBlois

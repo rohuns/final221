@@ -1,0 +1,5 @@
+# all of the actors
+actor Alexander Gould
+
+# director name
+director Andrew Stanton

@@ -1,0 +1,16 @@
+# all of the actors
+actor Mhairi Calvey
+actor Patrick McGoohan
+actor James Robinson
+
+# director name
+director Mel Gibson
+
+# content rating
+rating R
+
+# genre
+genre Drama
+
+# budget in dollars
+budget 72000000.0

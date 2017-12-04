@@ -1,0 +1,5 @@
+# all of the actors
+actor Gary Cole
+
+# genre
+genre Comedy

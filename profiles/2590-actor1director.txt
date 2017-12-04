@@ -1,0 +1,5 @@
+# all of the actors
+actor Cary-Hiroyuki Tagawa
+
+# director name
+director Lasse Hallström

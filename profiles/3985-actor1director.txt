@@ -1,0 +1,5 @@
+# all of the actors
+actor Peter Graves
+
+# director name
+director Jim Abrahams

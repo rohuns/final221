@@ -1,0 +1,5 @@
+# all of the actors
+actor Michel Robin
+
+# director name
+director Sylvain Chomet

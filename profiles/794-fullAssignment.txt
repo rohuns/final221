@@ -1,0 +1,16 @@
+# all of the actors
+actor Chris Hemsworth
+actor Robert Downey Jr.
+actor Scarlett Johansson
+
+# director name
+director Joss Whedon
+
+# content rating
+rating PG-13
+
+# genre
+genre Action
+
+# budget in dollars
+budget 220000000.0

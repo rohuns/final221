@@ -1,0 +1,16 @@
+# all of the actors
+actor Minnie Driver
+actor Eric Idle
+actor Trey Parker
+
+# director name
+director Trey Parker
+
+# content rating
+rating R
+
+# genre
+genre Comedy
+
+# budget in dollars
+budget 21000000.0

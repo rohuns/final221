@@ -1,0 +1,5 @@
+# all of the actors
+actor Lillian Gish
+
+# genre
+genre Drama

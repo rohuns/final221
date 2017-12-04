@@ -1,0 +1,5 @@
+# all of the actors
+actor Nicolas Cage
+
+# director name
+director Spike Jonze

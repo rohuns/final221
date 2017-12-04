@@ -1,0 +1,5 @@
+# all of the actors
+actor Morgan Freeman
+
+# director name
+director Frank Darabont

@@ -1,0 +1,5 @@
+# all of the actors
+actor Rita Hayworth
+
+# director name
+director Orson Welles

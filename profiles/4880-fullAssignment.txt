@@ -1,0 +1,16 @@
+# all of the actors
+actor Sam Adams
+actor Steve Duin
+actor Jeff Jacob
+
+# director name
+director Sam Martin
+
+# content rating
+rating PG
+
+# genre
+genre Documentary
+
+# budget in dollars
+budget 250000.0

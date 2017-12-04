@@ -1,0 +1,5 @@
+# all of the actors
+actor Vernon Dobtcheff
+
+# director name
+director Richard Linklater

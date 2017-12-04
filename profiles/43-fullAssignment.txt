@@ -1,0 +1,16 @@
+# all of the actors
+actor Tom Hanks
+actor John Ratzenberger
+actor Don Rickles
+
+# director name
+director Lee Unkrich
+
+# content rating
+rating G
+
+# genre
+genre Fantasy
+
+# budget in dollars
+budget 200000000.0

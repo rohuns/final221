@@ -1,0 +1,5 @@
+# all of the actors
+actor Alan Rickman
+
+# director name
+director John McTiernan

@@ -1,0 +1,5 @@
+# all of the actors
+actor Claudette Colbert
+
+# director name
+director Frank Capra

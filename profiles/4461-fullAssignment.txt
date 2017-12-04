@@ -1,0 +1,16 @@
+# all of the actors
+actor Ulrich Thomsen
+actor Paprika Steen
+actor Trine Dyrholm
+
+# director name
+director Thomas Vinterberg
+
+# content rating
+rating R
+
+# genre
+genre Drama
+
+# budget in dollars
+budget 1300000.0

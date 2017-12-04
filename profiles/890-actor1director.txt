@@ -1,0 +1,5 @@
+# all of the actors
+actor James Mason
+
+# director name
+director Stanley Kubrick

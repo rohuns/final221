@@ -1,0 +1,16 @@
+# all of the actors
+actor Johnny Depp
+actor Al Pacino
+actor Anne Heche
+
+# director name
+director Mike Newell
+
+# content rating
+rating R
+
+# genre
+genre Drama
+
+# budget in dollars
+budget 35000000.0

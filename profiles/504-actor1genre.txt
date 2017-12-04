@@ -1,0 +1,5 @@
+# all of the actors
+actor Pedro Armendáriz Jr.
+
+# genre
+genre Drama

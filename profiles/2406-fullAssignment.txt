@@ -1,0 +1,16 @@
+# all of the actors
+actor Shane Black
+actor Bill Duke
+actor Carl Weathers
+
+# director name
+director John McTiernan
+
+# content rating
+rating R
+
+# genre
+genre Sci-Fi
+
+# budget in dollars
+budget 15000000.0

@@ -1,0 +1,16 @@
+# all of the actors
+actor Ellen Burstyn
+actor Linda Blair
+actor Lee J. Cobb
+
+# director name
+director William Friedkin
+
+# content rating
+rating R
+
+# genre
+genre Horror
+
+# budget in dollars
+budget 8000000.0

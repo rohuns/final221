@@ -1,0 +1,5 @@
+# all of the actors
+actor Andrew Garfield
+
+# director name
+director David Fincher

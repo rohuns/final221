@@ -1,0 +1,5 @@
+# all of the actors
+actor Belén Rueda
+
+# director name
+director Alejandro Amenábar

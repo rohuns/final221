@@ -1,0 +1,16 @@
+# all of the actors
+actor Rita Moreno
+actor Debbie Reynolds
+actor Cyd Charisse
+
+# director name
+director Stanley Donen
+
+# content rating
+rating Approved
+
+# genre
+genre Comedy
+
+# budget in dollars
+budget 2540800.0

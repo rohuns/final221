@@ -1,0 +1,5 @@
+# all of the actors
+actor Takashi Shimura
+
+# director name
+director Akira Kurosawa

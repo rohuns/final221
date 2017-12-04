@@ -1,0 +1,5 @@
+# all of the actors
+actor Paul McCartney
+
+# director name
+director Richard Lester

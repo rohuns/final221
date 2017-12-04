@@ -1,0 +1,5 @@
+# all of the actors
+actor Bill Murray
+
+# genre
+genre Family

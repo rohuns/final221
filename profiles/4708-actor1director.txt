@@ -1,0 +1,5 @@
+# all of the actors
+actor Joe Cocker
+
+# director name
+director Michael Wadleigh

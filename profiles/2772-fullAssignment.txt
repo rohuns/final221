@@ -1,0 +1,16 @@
+# all of the actors
+actor Sylvester Stallone
+actor Brian Dennehy
+actor Chris Mulkey
+
+# director name
+director Ted Kotcheff
+
+# content rating
+rating R
+
+# genre
+genre Drama
+
+# budget in dollars
+budget 14000000.0

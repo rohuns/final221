@@ -1,0 +1,5 @@
+# all of the actors
+actor Humphrey Bogart
+
+# director name
+director Michael Curtiz

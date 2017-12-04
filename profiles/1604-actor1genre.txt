@@ -1,0 +1,5 @@
+# all of the actors
+actor Clint Eastwood
+
+# genre
+genre Drama

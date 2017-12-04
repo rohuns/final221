@@ -1,0 +1,5 @@
+# all of the actors
+actor Ari Folman
+
+# director name
+director Ari Folman

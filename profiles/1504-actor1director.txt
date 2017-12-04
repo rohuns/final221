@@ -1,0 +1,5 @@
+# all of the actors
+actor Oliver Reed
+
+# director name
+director Moustapha Akkad

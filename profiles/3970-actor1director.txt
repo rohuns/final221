@@ -1,0 +1,5 @@
+# all of the actors
+actor Hattie McDaniel
+
+# director name
+director Victor Fleming

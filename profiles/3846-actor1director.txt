@@ -1,0 +1,5 @@
+# all of the actors
+actor Philip Seymour Hoffman
+
+# director name
+director Spike Lee

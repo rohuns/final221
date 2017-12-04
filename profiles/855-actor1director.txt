@@ -1,0 +1,5 @@
+# all of the actors
+actor David Carradine
+
+# director name
+director Quentin Tarantino

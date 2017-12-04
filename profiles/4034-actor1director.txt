@@ -1,0 +1,5 @@
+# all of the actors
+actor Zack Ward
+
+# director name
+director Bob Clark

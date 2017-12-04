@@ -1,0 +1,16 @@
+# all of the actors
+actor Hugh Jackman
+actor Jake Gyllenhaal
+actor Dylan Minnette
+
+# director name
+director Denis Villeneuve
+
+# content rating
+rating R
+
+# genre
+genre Crime
+
+# budget in dollars
+budget 46000000.0

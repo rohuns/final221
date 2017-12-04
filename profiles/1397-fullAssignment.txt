@@ -1,0 +1,16 @@
+# all of the actors
+actor Bradley Cooper
+actor Rob Riggle
+actor Mike Epps
+
+# director name
+director Todd Phillips
+
+# content rating
+rating R
+
+# genre
+genre Comedy
+
+# budget in dollars
+budget 35000000.0

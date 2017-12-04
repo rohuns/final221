@@ -1,0 +1,5 @@
+# all of the actors
+actor Richard Burton
+
+# director name
+director Ken Annakin

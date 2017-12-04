@@ -1,0 +1,5 @@
+# all of the actors
+actor Jason Mewes
+
+# director name
+director Kevin Smith

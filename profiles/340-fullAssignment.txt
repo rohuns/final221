@@ -1,0 +1,16 @@
+# all of the actors
+actor Christopher Lee
+actor Orlando Bloom
+actor Billy Boyd
+
+# director name
+director Peter Jackson
+
+# content rating
+rating PG-13
+
+# genre
+genre Adventure
+
+# budget in dollars
+budget 94000000.0

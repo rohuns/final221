@@ -1,0 +1,5 @@
+# all of the actors
+actor Wayne Knight
+
+# genre
+genre Adventure

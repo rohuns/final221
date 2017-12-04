@@ -1,0 +1,16 @@
+# all of the actors
+actor Ricardo Darín
+actor Gastón Pauls
+actor Leticia Brédice
+
+# director name
+director Fabián Bielinsky
+
+# content rating
+rating R
+
+# genre
+genre Drama
+
+# budget in dollars
+budget 1500000.0

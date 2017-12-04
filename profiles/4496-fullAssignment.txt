@@ -1,0 +1,16 @@
+# all of the actors
+actor Quentin Tarantino
+actor Steve Buscemi
+actor Chris Penn
+
+# director name
+director Quentin Tarantino
+
+# content rating
+rating R
+
+# genre
+genre Drama
+
+# budget in dollars
+budget 1200000.0

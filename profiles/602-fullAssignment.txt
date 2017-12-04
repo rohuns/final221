@@ -1,0 +1,16 @@
+# all of the actors
+actor Steve Buscemi
+actor Alison Lohman
+actor Albert Finney
+
+# director name
+director Tim Burton
+
+# content rating
+rating PG-13
+
+# genre
+genre Drama
+
+# budget in dollars
+budget 70000000.0

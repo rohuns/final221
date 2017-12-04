@@ -1,0 +1,5 @@
+# all of the actors
+actor Joe Morton
+
+# director name
+director James Cameron

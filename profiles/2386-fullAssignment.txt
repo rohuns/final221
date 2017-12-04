@@ -1,0 +1,16 @@
+# all of the actors
+actor Nicolas Cage
+actor Meryl Streep
+actor Roger Willie
+
+# director name
+director Spike Jonze
+
+# content rating
+rating R
+
+# genre
+genre Drama
+
+# budget in dollars
+budget 19000000.0

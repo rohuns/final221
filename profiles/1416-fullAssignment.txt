@@ -1,0 +1,16 @@
+# all of the actors
+actor Kevin Spacey
+actor Matt McCoy
+actor Paul Guilfoyle
+
+# director name
+director Curtis Hanson
+
+# content rating
+rating R
+
+# genre
+genre Drama
+
+# budget in dollars
+budget 35000000.0

@@ -1,0 +1,16 @@
+# all of the actors
+actor Ted Raimi
+actor Dan Hicks
+actor Kassie Wesley DePaiva
+
+# director name
+director Sam Raimi
+
+# content rating
+rating X
+
+# genre
+genre Comedy
+
+# budget in dollars
+budget 3600000.0

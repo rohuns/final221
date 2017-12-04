@@ -1,0 +1,16 @@
+# all of the actors
+actor Charlotte Rampling
+actor James Mason
+actor Jack Warden
+
+# director name
+director Sidney Lumet
+
+# content rating
+rating R
+
+# genre
+genre Drama
+
+# budget in dollars
+budget 16000000.0

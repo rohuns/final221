@@ -1,0 +1,16 @@
+# all of the actors
+actor Javier Botet
+actor Frances O'Connor
+actor Robin Atkin Downes
+
+# director name
+director James Wan
+
+# content rating
+rating R
+
+# genre
+genre Thriller
+
+# budget in dollars
+budget 40000000.0

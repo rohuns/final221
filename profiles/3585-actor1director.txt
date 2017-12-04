@@ -1,0 +1,5 @@
+# all of the actors
+actor Ed Wynn
+
+# director name
+director Robert Stevenson

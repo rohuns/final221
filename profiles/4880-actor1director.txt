@@ -1,0 +1,5 @@
+# all of the actors
+actor Sam Adams
+
+# director name
+director Sam Martin

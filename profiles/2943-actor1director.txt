@@ -1,0 +1,5 @@
+# all of the actors
+actor Steven Mackintosh
+
+# director name
+director Brian Henson

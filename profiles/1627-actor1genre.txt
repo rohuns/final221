@@ -1,0 +1,5 @@
+# all of the actors
+actor Kurt Fuller
+
+# genre
+genre Comedy

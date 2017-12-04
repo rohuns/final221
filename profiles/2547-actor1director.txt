@@ -1,0 +1,5 @@
+# all of the actors
+actor Bruce Willis
+
+# director name
+director Wes Anderson

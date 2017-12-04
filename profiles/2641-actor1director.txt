@@ -1,0 +1,5 @@
+# all of the actors
+actor Eddie Redmayne
+
+# director name
+director James Marsh

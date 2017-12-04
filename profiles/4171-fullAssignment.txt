@@ -1,0 +1,16 @@
+# all of the actors
+actor Rupert Graves
+actor Denholm Elliott
+actor Simon Callow
+
+# director name
+director James Ivory
+
+# content rating
+rating R
+
+# genre
+genre Drama
+
+# budget in dollars
+budget 2600000.0

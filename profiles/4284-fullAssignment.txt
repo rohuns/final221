@@ -1,0 +1,16 @@
+# all of the actors
+actor Ari Folman
+actor Ronny Dayag
+actor Zahava Solomon
+
+# director name
+director Ari Folman
+
+# content rating
+rating R
+
+# genre
+genre Animation
+
+# budget in dollars
+budget 1500000.0

@@ -1,0 +1,16 @@
+# all of the actors
+actor Harrison Ford
+actor Karen Allen
+actor William Hootkins
+
+# director name
+director Steven Spielberg
+
+# content rating
+rating PG
+
+# genre
+genre Action
+
+# budget in dollars
+budget 18000000.0

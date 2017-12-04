@@ -1,0 +1,5 @@
+# all of the actors
+actor Nicolas Cage
+
+# genre
+genre Drama

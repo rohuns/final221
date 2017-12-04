@@ -1,0 +1,5 @@
+# all of the actors
+actor Katharine Ross
+
+# genre
+genre Western

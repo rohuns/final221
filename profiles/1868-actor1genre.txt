@@ -1,0 +1,5 @@
+# all of the actors
+actor Tom Cruise
+
+# genre
+genre Drama

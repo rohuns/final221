@@ -1,0 +1,16 @@
+# all of the actors
+actor Lea Thompson
+actor Thomas F. Wilson
+actor J.J. Cohen
+
+# director name
+director Robert Zemeckis
+
+# content rating
+rating PG
+
+# genre
+genre Sci-Fi
+
+# budget in dollars
+budget 19000000.0

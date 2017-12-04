@@ -1,0 +1,16 @@
+# all of the actors
+actor Roy Scheider
+actor Robert Shaw
+actor Murray Hamilton
+
+# director name
+director Steven Spielberg
+
+# content rating
+rating PG
+
+# genre
+genre Drama
+
+# budget in dollars
+budget 8000000.0

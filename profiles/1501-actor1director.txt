@@ -1,0 +1,5 @@
+# all of the actors
+actor Delroy Lindo
+
+# director name
+director Taylor Hackford

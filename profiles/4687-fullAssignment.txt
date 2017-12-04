@@ -1,0 +1,16 @@
+# all of the actors
+actor Gary Cooper
+actor Lloyd Bridges
+actor Lon Chaney Jr.
+
+# director name
+director Fred Zinnemann
+
+# content rating
+rating PG
+
+# genre
+genre Thriller
+
+# budget in dollars
+budget 750000.0

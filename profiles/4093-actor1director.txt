@@ -1,0 +1,5 @@
+# all of the actors
+actor Peter Ostrum
+
+# director name
+director Mel Stuart

@@ -1,0 +1,16 @@
+# all of the actors
+actor Scarlett Johansson
+actor Mark Gatiss
+actor Penelope Wilton
+
+# director name
+director Woody Allen
+
+# content rating
+rating R
+
+# genre
+genre Thriller
+
+# budget in dollars
+budget 15000000.0

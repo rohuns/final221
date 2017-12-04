@@ -1,0 +1,5 @@
+# all of the actors
+actor Alex Huszar
+
+# genre
+genre Drama

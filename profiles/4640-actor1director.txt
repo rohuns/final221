@@ -1,0 +1,5 @@
+# all of the actors
+actor Anamaria Marinca
+
+# director name
+director Cristian Mungiu

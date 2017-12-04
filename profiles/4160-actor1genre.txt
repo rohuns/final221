@@ -1,0 +1,5 @@
+# all of the actors
+actor Vidya Balan
+
+# genre
+genre Drama

@@ -1,0 +1,16 @@
+# all of the actors
+actor Madeline Kahn
+actor Peter Boyle
+actor Teri Garr
+
+# director name
+director Mel Brooks
+
+# content rating
+rating PG
+
+# genre
+genre Comedy
+
+# budget in dollars
+budget 2800000.0

@@ -1,0 +1,5 @@
+# all of the actors
+actor Damon Wayans Jr.
+
+# genre
+genre Family

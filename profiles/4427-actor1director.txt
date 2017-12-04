@@ -1,0 +1,5 @@
+# all of the actors
+actor Paulette Goddard
+
+# director name
+director Charles Chaplin

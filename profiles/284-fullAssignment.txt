@@ -1,0 +1,16 @@
+# all of the actors
+actor Tom Cruise
+actor Frank Grillo
+actor Jessica Capshaw
+
+# director name
+director Steven Spielberg
+
+# content rating
+rating PG-13
+
+# genre
+genre Action
+
+# budget in dollars
+budget 102000000.0

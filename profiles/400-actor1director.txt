@@ -1,0 +1,5 @@
+# all of the actors
+actor Brad Pitt
+
+# director name
+director Steven Soderbergh

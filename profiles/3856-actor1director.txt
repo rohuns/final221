@@ -1,0 +1,5 @@
+# all of the actors
+actor Jan Decleir
+
+# director name
+director Mike van Diem

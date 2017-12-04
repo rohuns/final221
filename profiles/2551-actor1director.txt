@@ -1,0 +1,5 @@
+# all of the actors
+actor Ivana Baquero
+
+# director name
+director Guillermo del Toro

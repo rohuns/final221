@@ -1,0 +1,16 @@
+# all of the actors
+actor Anthony Hopkins
+actor Scott Glenn
+actor Anthony Heald
+
+# director name
+director Jonathan Demme
+
+# content rating
+rating R
+
+# genre
+genre Crime
+
+# budget in dollars
+budget 19000000.0

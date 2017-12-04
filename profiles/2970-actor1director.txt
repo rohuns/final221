@@ -1,0 +1,5 @@
+# all of the actors
+actor Jürgen Prochnow
+
+# director name
+director Wolfgang Petersen

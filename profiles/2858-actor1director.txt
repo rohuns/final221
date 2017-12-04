@@ -1,0 +1,5 @@
+# all of the actors
+actor Elina Alminas
+
+# director name
+director Alex Garland

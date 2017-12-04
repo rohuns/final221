@@ -1,0 +1,5 @@
+# all of the actors
+actor Rumi Hiiragi
+
+# genre
+genre Family

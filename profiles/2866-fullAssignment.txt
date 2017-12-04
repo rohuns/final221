@@ -1,0 +1,16 @@
+# all of the actors
+actor Joan Allen
+actor Jacob Tremblay
+actor Cas Anvar
+
+# director name
+director Lenny Abrahamson
+
+# content rating
+rating R
+
+# genre
+genre Drama
+
+# budget in dollars
+budget 13000000.0

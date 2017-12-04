@@ -1,0 +1,5 @@
+# all of the actors
+actor Humphrey Bogart
+
+# genre
+genre Drama

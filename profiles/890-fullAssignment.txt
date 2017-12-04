@@ -1,0 +1,16 @@
+# all of the actors
+actor James Mason
+actor Shelley Winters
+actor Lois Maxwell
+
+# director name
+director Stanley Kubrick
+
+# content rating
+rating Not Rated
+
+# genre
+genre Crime
+
+# budget in dollars
+budget 2000000.0

@@ -1,0 +1,5 @@
+# all of the actors
+actor Ulrich Thomsen
+
+# genre
+genre Drama

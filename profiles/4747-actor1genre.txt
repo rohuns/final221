@@ -1,0 +1,5 @@
+# all of the actors
+actor Takashi Shimura
+
+# genre
+genre Drama

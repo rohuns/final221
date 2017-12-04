@@ -1,0 +1,5 @@
+# all of the actors
+actor Jamie Lee Curtis
+
+# director name
+director John Carpenter

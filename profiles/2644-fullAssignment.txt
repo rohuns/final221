@@ -1,0 +1,16 @@
+# all of the actors
+actor Claude Rains
+actor José Ferrer
+actor Jack Hawkins
+
+# director name
+director David Lean
+
+# content rating
+rating PG
+
+# genre
+genre War
+
+# budget in dollars
+budget 15000000.0

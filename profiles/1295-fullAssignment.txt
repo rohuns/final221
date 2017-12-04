@@ -1,0 +1,16 @@
+# all of the actors
+actor Bill Murray
+actor Meryl Streep
+actor Helen McCrory
+
+# director name
+director Wes Anderson
+
+# content rating
+rating PG
+
+# genre
+genre Family
+
+# budget in dollars
+budget 40000000.0

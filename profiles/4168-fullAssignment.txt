@@ -1,0 +1,16 @@
+# all of the actors
+actor Madeline Kahn
+actor David Huddleston
+actor Harvey Korman
+
+# director name
+director Mel Brooks
+
+# content rating
+rating R
+
+# genre
+genre Western
+
+# budget in dollars
+budget 2600000.0

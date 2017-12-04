@@ -1,0 +1,5 @@
+# all of the actors
+actor Khalid Abdalla
+
+# director name
+director Jehane Noujaim

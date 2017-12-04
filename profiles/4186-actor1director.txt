@@ -1,0 +1,5 @@
+# all of the actors
+actor Patricia Neal
+
+# director name
+director Martin Ritt

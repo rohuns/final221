@@ -1,0 +1,5 @@
+# all of the actors
+actor Bruce Greenwood
+
+# director name
+director Atom Egoyan

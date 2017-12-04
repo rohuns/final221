@@ -1,0 +1,5 @@
+# all of the actors
+actor Ed Wynn
+
+# genre
+genre Fantasy

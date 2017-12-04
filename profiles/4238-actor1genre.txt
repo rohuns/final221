@@ -1,0 +1,5 @@
+# all of the actors
+actor Myrna Loy
+
+# genre
+genre Drama

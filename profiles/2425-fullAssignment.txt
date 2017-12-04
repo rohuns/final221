@@ -1,0 +1,16 @@
+# all of the actors
+actor Robert De Niro
+actor Cathy Moriarty
+actor Frank Vincent
+
+# director name
+director Martin Scorsese
+
+# content rating
+rating R
+
+# genre
+genre Sport
+
+# budget in dollars
+budget 18000000.0

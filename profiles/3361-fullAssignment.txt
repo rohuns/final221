@@ -1,0 +1,16 @@
+# all of the actors
+actor Steve Carell
+actor Steven Christopher Parker
+actor Jill Talley
+
+# director name
+director Jonathan Dayton
+
+# content rating
+rating R
+
+# genre
+genre Comedy
+
+# budget in dollars
+budget 8000000.0

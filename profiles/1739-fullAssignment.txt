@@ -1,0 +1,16 @@
+# all of the actors
+actor Toby Jones
+actor Clint Howard
+actor Oliver Platt
+
+# director name
+director Ron Howard
+
+# content rating
+rating R
+
+# genre
+genre Drama
+
+# budget in dollars
+budget 35000000.0

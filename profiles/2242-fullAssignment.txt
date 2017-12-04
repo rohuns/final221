@@ -1,0 +1,16 @@
+# all of the actors
+actor Janet Leigh
+actor Vera Miles
+actor John Gavin
+
+# director name
+director Alfred Hitchcock
+
+# content rating
+rating R
+
+# genre
+genre Thriller
+
+# budget in dollars
+budget 806947.0

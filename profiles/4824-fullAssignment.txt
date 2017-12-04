@@ -1,0 +1,16 @@
+# all of the actors
+actor Claudette Colbert
+actor Alan Hale
+actor Walter Connolly
+
+# director name
+director Frank Capra
+
+# content rating
+rating Unrated
+
+# genre
+genre Comedy
+
+# budget in dollars
+budget 325000.0

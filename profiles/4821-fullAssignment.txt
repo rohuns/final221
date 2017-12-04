@@ -1,0 +1,16 @@
+# all of the actors
+actor Jamie Lee Curtis
+actor Donald Pleasence
+actor P.J. Soles
+
+# director name
+director John Carpenter
+
+# content rating
+rating R
+
+# genre
+genre Horror
+
+# budget in dollars
+budget 300000.0

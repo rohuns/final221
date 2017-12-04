@@ -1,0 +1,16 @@
+# all of the actors
+actor Yaphet Kotto
+actor Gloria Foster
+actor Ivan Dixon
+
+# director name
+director Michael Roemer
+
+# content rating
+rating Not Rated
+
+# genre
+genre Romance
+
+# budget in dollars
+budget 160000.0

@@ -1,0 +1,5 @@
+# all of the actors
+actor Jennifer Lawrence
+
+# genre
+genre Fantasy

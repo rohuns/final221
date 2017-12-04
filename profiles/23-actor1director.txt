@@ -1,0 +1,5 @@
+# all of the actors
+actor Aidan Turner
+
+# director name
+director Peter Jackson

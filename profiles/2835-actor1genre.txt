@@ -1,0 +1,5 @@
+# all of the actors
+actor Natalie Portman
+
+# genre
+genre Drama

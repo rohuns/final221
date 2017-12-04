@@ -1,0 +1,16 @@
+# all of the actors
+actor Joe Cocker
+actor Jimi Hendrix
+actor Joan Baez
+
+# director name
+director Michael Wadleigh
+
+# content rating
+rating R
+
+# genre
+genre Music
+
+# budget in dollars
+budget 600000.0

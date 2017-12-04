@@ -1,0 +1,16 @@
+# all of the actors
+actor Tom Hanks
+actor Vin Diesel
+actor Matt Damon
+
+# director name
+director Steven Spielberg
+
+# content rating
+rating R
+
+# genre
+genre War
+
+# budget in dollars
+budget 70000000.0

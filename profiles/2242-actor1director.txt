@@ -1,0 +1,5 @@
+# all of the actors
+actor Janet Leigh
+
+# director name
+director Alfred Hitchcock

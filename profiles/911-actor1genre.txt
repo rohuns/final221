@@ -1,0 +1,5 @@
+# all of the actors
+actor Leonardo DiCaprio
+
+# genre
+genre Biography

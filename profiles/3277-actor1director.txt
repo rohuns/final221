@@ -1,0 +1,5 @@
+# all of the actors
+actor Tom Skerritt
+
+# director name
+director Ridley Scott

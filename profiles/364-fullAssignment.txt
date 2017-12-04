@@ -1,0 +1,16 @@
+# all of the actors
+actor Robin Wright
+actor Goran Visnjic
+actor Joely Richardson
+
+# director name
+director David Fincher
+
+# content rating
+rating R
+
+# genre
+genre Thriller
+
+# budget in dollars
+budget 90000000.0

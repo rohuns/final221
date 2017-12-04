@@ -1,0 +1,5 @@
+# all of the actors
+actor Albert Finney
+
+# director name
+director Sam Mendes

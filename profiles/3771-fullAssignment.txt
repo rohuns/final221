@@ -1,0 +1,16 @@
+# all of the actors
+actor Bruce Greenwood
+actor Sarah Polley
+actor Simon Baker
+
+# director name
+director Atom Egoyan
+
+# content rating
+rating R
+
+# genre
+genre Drama
+
+# budget in dollars
+budget 5000000.0

@@ -1,0 +1,16 @@
+# all of the actors
+actor Denis Lavant
+actor André Dussollier
+actor Albert Dupontel
+
+# director name
+director Jean-Pierre Jeunet
+
+# content rating
+rating R
+
+# genre
+genre Romance
+
+# budget in dollars
+budget 47000000.0

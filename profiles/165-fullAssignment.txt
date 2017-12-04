@@ -1,0 +1,16 @@
+# all of the actors
+actor Matt Frewer
+actor Billy Crudup
+actor Stephen McHattie
+
+# director name
+director Zack Snyder
+
+# content rating
+rating R
+
+# genre
+genre Drama
+
+# budget in dollars
+budget 130000000.0

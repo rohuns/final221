@@ -1,0 +1,16 @@
+# all of the actors
+actor Alexander Gould
+actor Stephen Root
+actor Brad Garrett
+
+# director name
+director Andrew Stanton
+
+# content rating
+rating G
+
+# genre
+genre Animation
+
+# budget in dollars
+budget 94000000.0

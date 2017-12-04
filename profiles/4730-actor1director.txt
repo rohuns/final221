@@ -1,0 +1,5 @@
+# all of the actors
+actor Peter Dinklage
+
+# director name
+director Tom McCarthy

@@ -1,0 +1,16 @@
+# all of the actors
+actor Jim Sturgess
+actor Sean Buchanan
+actor Liya Kebede
+
+# director name
+director Giuseppe Tornatore
+
+# content rating
+rating R
+
+# genre
+genre Mystery
+
+# budget in dollars
+budget 13500000.0

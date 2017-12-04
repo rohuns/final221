@@ -1,0 +1,5 @@
+# all of the actors
+actor Sean Lennon
+
+# director name
+director Tomm Moore

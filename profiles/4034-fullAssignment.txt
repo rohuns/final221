@@ -1,0 +1,16 @@
+# all of the actors
+actor Zack Ward
+actor Darren McGavin
+actor Scott Schwartz
+
+# director name
+director Bob Clark
+
+# content rating
+rating PG
+
+# genre
+genre Comedy
+
+# budget in dollars
+budget 4000000.0

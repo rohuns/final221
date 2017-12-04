@@ -1,0 +1,16 @@
+# all of the actors
+actor Scarlett Johansson
+actor Brian Johnson
+actor Matt Letscher
+
+# director name
+director Spike Jonze
+
+# content rating
+rating R
+
+# genre
+genre Drama
+
+# budget in dollars
+budget 23000000.0

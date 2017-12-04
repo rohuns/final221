@@ -1,0 +1,5 @@
+# all of the actors
+actor Ioan Gruffudd
+
+# director name
+director Ridley Scott

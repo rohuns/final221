@@ -1,0 +1,5 @@
+# all of the actors
+actor Kristen Stewart
+
+# director name
+director Sean Penn

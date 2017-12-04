@@ -1,0 +1,5 @@
+# all of the actors
+actor Wes Studi
+
+# genre
+genre War

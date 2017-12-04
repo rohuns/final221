@@ -1,0 +1,16 @@
+# all of the actors
+actor Don Cheadle
+actor Loretta Devine
+actor Jennifer Esposito
+
+# director name
+director Paul Haggis
+
+# content rating
+rating R
+
+# genre
+genre Thriller
+
+# budget in dollars
+budget 6500000.0
