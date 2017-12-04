@@ -18,8 +18,8 @@ class FakeProfile():
 	    self.content_rating = content_rating
 
 def makeProfile(m):
-	actors = [m["actor1"], m["actor2"], m["actor3"]]
-	director = m["director"]
+	actors = [util.Actor(m["actor1"], 0), util.Actor(m["actor2"], 0), util.Actor(m["actor3"], 0)]
+	director = util.Director(m["director"], 0)
 	genre = m["genre"]
 	content_rating = m["content_rating"]
 	return FakeProfile(actors, director, genre, content_rating)
@@ -32,7 +32,10 @@ assignments = pickle.load(open("fileMapping.pickle", "rb")) #partial assignments
 
 completed = []
 print assignments.keys()[0]
-for p in [assignments.keys()[0]]:
+count = 0
+for p in assignments.keys()[0:10]:
+	print "--------------------------------iteration %d -------------------------------" %(count)
+	count += 1
 	profile = util.Profile(actorBulletin, directorBulletin, "profiles/" + p)
 	cspConstructor = csp.MovieCSPConstructor(actorBulletin, directorBulletin, profile)
 	csp_1 = cspConstructor.get_basic_csp()
@@ -41,8 +44,9 @@ for p in [assignments.keys()[0]]:
 		alg.solve(csp_1, mcv=True, ac3=True)
 	else:
 		alg.solve(csp_1, mcv=True, ac3=True, budget=profile.budget)
-	completedProfile = makeProfile(alg.optimalAssignment)
-	truth = util.Profile(actorBulletin, directorBulletin, "profiles/" + assignments[part])
-	completed.append(completedProfile, truth)
-	print alg.optimalAssignment
-print(assignments_error.error(done))
+	if alg.numOptimalAssignments != 0:
+		completedProfile = makeProfile(alg.optimalAssignment)
+		truth = util.Profile(actorBulletin, directorBulletin, "profiles/" + assignments[p])
+		completed.append((completedProfile, truth))
+		print alg.optimalAssignment
+print(assignments_error.error(completed))

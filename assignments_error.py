@@ -3,6 +3,7 @@ import util
 def sample_error(test, truth):
 	error = 0
 	truth_actors = [a.name for a in truth.actors]
+
 	for a in test.actors:
 		if a.name not in truth_actors:
 			error += 1
@@ -26,6 +27,6 @@ def error(vals):
 			continue
 		e += sample_error(test, truth)
 	mse = (float(e)/(len(vals) - skipped))
-	print skipped
 
+	print len(vals)
 	return "The MSE with 0-1 loss is %f" %mse

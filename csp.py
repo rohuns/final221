@@ -123,7 +123,10 @@ class BacktrackingSearch():
 
         # print "total cost for %s with {%s: %s} is %s" %(assignment, var, val, totalCost)
         if totalCost > self.budget:
-            # print '----------------------------->pruning total cost for %s with {%s: %s} is %s' %(assignment, var, val, totalCost)
+            print '\n'
+            print totalCost
+            print self.budget
+            print '----------------------------->pruning total cost for %s with {%s: %s} is %s' %(assignment, var, val, totalCost)
             return 0
         w = 1.0
         if self.csp.unaryFactors[var]:
@@ -160,7 +163,7 @@ class BacktrackingSearch():
         self.reset_results()
         print 'budget is'
         print budget
-        self.budget = budget*0.5
+        self.budget = budget
 
         # The dictionary of domains of every variable in the CSP.
         self.domains = {var: list(self.csp.values[var]) for var in self.csp.variables}

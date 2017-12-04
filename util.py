@@ -266,7 +266,7 @@ class Actor:
     def short_str(self): return '%s: %s' % (self.cid, self.name)
 
     def __str__(self):
-        return 'Actor{cid: %s, name: %s, cost: %s, likes: %s}' % (self.cid, self.name, self.cost, self.likes)
+        return 'Actor{cid: %s, name: %s}' % (self.cid, self.name)
 
 
 class Director:
