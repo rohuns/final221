@@ -1,7 +1,0 @@
-# all of the actors
-actor Bradley Cooper
-actor Vin Diesel
-
-# director name
-director James Gunn
-

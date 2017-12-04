@@ -1,5 +1,7 @@
 # all of the actors
 actor Montgomery Clift
+actor Donna Reed
 
-# genre
-genre War
+# director name
+director Fred Zinnemann
+

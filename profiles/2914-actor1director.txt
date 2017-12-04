@@ -1,5 +1,5 @@
 # all of the actors
 actor Min-sik Choi
+actor Bin Won
+actor Dong-gun Jang
 
-# director name
-director Je-kyu Kang

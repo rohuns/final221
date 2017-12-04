@@ -1,5 +1,0 @@
-# all of the actors
-actor Chen Chang
-actor Pei-Pei Cheng
-actor Sihung Lung
-

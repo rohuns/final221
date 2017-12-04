@@ -1,5 +1,7 @@
 # all of the actors
 actor Logan Lerman
+actor Eric Stoltz
 
-# genre
-genre Sci-Fi
+# director name
+director Eric Bress
+

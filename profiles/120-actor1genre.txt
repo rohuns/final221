@@ -1,5 +1,7 @@
 # all of the actors
 actor Christian Bale
+actor Liam Neeson
 
-# genre
-genre Action
+# director name
+director Christopher Nolan
+

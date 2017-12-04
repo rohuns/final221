@@ -1,5 +1,7 @@
 # all of the actors
 actor Mhairi Calvey
+actor Patrick McGoohan
 
-# genre
-genre Drama
+# director name
+director Mel Gibson
+

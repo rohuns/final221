@@ -1,7 +1,0 @@
-# all of the actors
-actor Robin Williams
-actor Josh Charles
-
-# director name
-director Peter Weir
-

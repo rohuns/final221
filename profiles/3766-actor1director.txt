@@ -1,5 +1,5 @@
 # all of the actors
 actor Claudia Cardinale
+actor Woody Strode
+actor Jack Elam
 
-# director name
-director Sergio Leone

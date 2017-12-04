@@ -10,7 +10,7 @@ director Quentin Tarantino
 rating R
 
 # genre
-genre Western
+genre Drama
 
 # budget in dollars
 budget 44000000.0

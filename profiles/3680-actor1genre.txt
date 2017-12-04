@@ -1,5 +1,7 @@
 # all of the actors
 actor Ruby Dee
+actor John Savage
 
-# genre
-genre Drama
+# director name
+director Spike Lee
+

@@ -1,5 +1,7 @@
 # all of the actors
 actor Keanu Reeves
+actor Marcus Chong
 
-# genre
-genre Action
+# director name
+director Lana Wachowski
+

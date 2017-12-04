@@ -1,5 +1,7 @@
 # all of the actors
 actor Jürgen Prochnow
+actor Martin Semmelrogge
 
-# genre
-genre War
+# director name
+director Wolfgang Petersen
+

@@ -10,7 +10,7 @@ director Michael Roemer
 rating Not Rated
 
 # genre
-genre Romance
+genre Drama
 
 # budget in dollars
 budget 160000.0

@@ -1,5 +1,5 @@
 # all of the actors
 actor Charlotte Rampling
+actor James Mason
+actor Jack Warden
 
-# director name
-director Sidney Lumet

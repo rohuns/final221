@@ -1,5 +1,7 @@
 # all of the actors
 actor Lee Marvin
+actor Woody Strode
 
-# genre
-genre Drama
+# director name
+director John Ford
+

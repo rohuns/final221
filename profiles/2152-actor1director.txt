@@ -1,5 +1,5 @@
 # all of the actors
 actor Harrison Ford
+actor Karen Allen
+actor William Hootkins
 
-# director name
-director Steven Spielberg

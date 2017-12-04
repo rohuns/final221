@@ -1,7 +1,0 @@
-# all of the actors
-actor Jet Li
-actor Tony Chiu Wai Leung
-
-# director name
-director Yimou Zhang
-

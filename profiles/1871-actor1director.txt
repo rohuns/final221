@@ -1,5 +1,5 @@
 # all of the actors
 actor Liam Neeson
+actor Holly Valance
+actor Xander Berkeley
 
-# director name
-director Pierre Morel

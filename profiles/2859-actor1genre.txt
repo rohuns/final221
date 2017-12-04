@@ -1,5 +1,7 @@
 # all of the actors
 actor Willie Garson
+actor Orson Bean
 
-# genre
-genre Drama
+# director name
+director Spike Jonze
+

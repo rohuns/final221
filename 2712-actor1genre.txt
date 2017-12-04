@@ -1,7 +1,0 @@
-# all of the actors
-actor Elizabeth Berrington
-actor Anna Madeley
-
-# director name
-director Martin McDonagh
-

@@ -10,7 +10,7 @@ director Fred Zinnemann
 rating PG
 
 # genre
-genre Thriller
+genre Western
 
 # budget in dollars
 budget 750000.0

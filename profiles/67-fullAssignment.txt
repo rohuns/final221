@@ -10,7 +10,7 @@ director Pete Docter
 rating PG
 
 # genre
-genre Animation
+genre Family
 
 # budget in dollars
 budget 175000000.0

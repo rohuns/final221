@@ -1,7 +1,0 @@
-# all of the actors
-actor Scarlett Johansson
-actor Bill Murray
-
-# director name
-director Sofia Coppola
-

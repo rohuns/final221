@@ -1,5 +1,7 @@
 # all of the actors
 actor Chris Hemsworth
+actor Leonard Nimoy
 
-# genre
-genre Sci-Fi
+# director name
+director J.J. Abrams
+

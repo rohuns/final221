@@ -1,5 +1,5 @@
 # all of the actors
 actor Marlon Brando
+actor Karl Malden
+actor Rod Steiger
 
-# director name
-director Elia Kazan

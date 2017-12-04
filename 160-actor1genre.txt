@@ -1,7 +1,0 @@
-# all of the actors
-actor Chris Hemsworth
-actor Leonard Nimoy
-
-# director name
-director J.J. Abrams
-

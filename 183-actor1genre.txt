@@ -1,7 +1,0 @@
-# all of the actors
-actor Matt Damon
-actor Edgar Ramírez
-
-# director name
-director Paul Greengrass
-

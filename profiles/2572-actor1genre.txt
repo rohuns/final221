@@ -1,5 +1,7 @@
 # all of the actors
 actor Denzel Washington
+actor Tom Hanks
 
-# genre
-genre Drama
+# director name
+director Jonathan Demme
+

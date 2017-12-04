@@ -1,5 +1,0 @@
-# all of the actors
-actor Charlie Hunnam
-actor Danny Huston
-actor Rita Davies
-

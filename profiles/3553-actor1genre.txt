@@ -1,5 +1,7 @@
 # all of the actors
 actor Wagner Moura
+actor Fernanda Machado
 
-# genre
-genre Drama
+# director name
+director José Padilha
+

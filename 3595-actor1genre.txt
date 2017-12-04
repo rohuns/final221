@@ -1,7 +1,0 @@
-# all of the actors
-actor Mark Margolis
-actor John D'Leo
-
-# director name
-director Darren Aronofsky
-

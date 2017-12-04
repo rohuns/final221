@@ -1,5 +1,0 @@
-# all of the actors
-actor Tom Berenger
-actor William Morgan Sheppard
-actor James Patrick Stuart
-

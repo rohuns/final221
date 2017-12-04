@@ -1,5 +1,5 @@
 # all of the actors
 actor Zack Ward
+actor Darren McGavin
+actor Scott Schwartz
 
-# director name
-director Bob Clark

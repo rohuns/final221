@@ -1,5 +1,0 @@
-# all of the actors
-actor Anamaria Marinca
-actor Vlad Ivanov
-actor Alexandru Potocean
-

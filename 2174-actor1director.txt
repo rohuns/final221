@@ -1,5 +1,0 @@
-# all of the actors
-actor Quvenzhané Wallis
-actor Scoot McNairy
-actor Taran Killam
-

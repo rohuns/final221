@@ -1,7 +1,0 @@
-# all of the actors
-actor Gerard Butler
-actor America Ferrera
-
-# director name
-director Dean DeBlois
-

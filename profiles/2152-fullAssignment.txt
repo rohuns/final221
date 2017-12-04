@@ -10,7 +10,7 @@ director Steven Spielberg
 rating PG
 
 # genre
-genre Action
+genre Adventure
 
 # budget in dollars
 budget 18000000.0

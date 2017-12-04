@@ -1,5 +1,7 @@
 # all of the actors
 actor Tom Skerritt
+actor Yaphet Kotto
 
-# genre
-genre Sci-Fi
+# director name
+director Ridley Scott
+

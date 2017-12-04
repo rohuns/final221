@@ -1,7 +1,0 @@
-# all of the actors
-actor Michel Robin
-actor Charles Linton
-
-# director name
-director Sylvain Chomet
-

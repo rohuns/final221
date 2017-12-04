@@ -1,5 +1,7 @@
 # all of the actors
 actor Tom Hardy
+actor Frank Grillo
 
-# genre
-genre Drama
+# director name
+director Gavin O'Connor
+

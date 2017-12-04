@@ -10,7 +10,7 @@ director Steven Spielberg
 rating R
 
 # genre
-genre Drama
+genre History
 
 # budget in dollars
 budget 22000000.0

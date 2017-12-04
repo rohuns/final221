@@ -1,5 +1,5 @@
 # all of the actors
 actor Johnny Depp
+actor Orlando Bloom
+actor Jack Davenport
 
-# director name
-director Gore Verbinski

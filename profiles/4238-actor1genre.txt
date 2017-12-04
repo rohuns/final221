@@ -1,5 +1,7 @@
 # all of the actors
 actor Myrna Loy
+actor Teresa Wright
 
-# genre
-genre Drama
+# director name
+director William Wyler
+

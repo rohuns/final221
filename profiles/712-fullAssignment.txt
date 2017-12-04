@@ -10,7 +10,7 @@ director Frank Darabont
 rating R
 
 # genre
-genre Fantasy
+genre Mystery
 
 # budget in dollars
 budget 60000000.0

@@ -1,5 +1,7 @@
 # all of the actors
 actor James Nesbitt
+actor Nicholas Farrell
 
-# genre
-genre Drama
+# director name
+director Paul Greengrass
+

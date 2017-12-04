@@ -10,7 +10,7 @@ director George Lucas
 rating PG
 
 # genre
-genre Adventure
+genre Fantasy
 
 # budget in dollars
 budget 11000000.0

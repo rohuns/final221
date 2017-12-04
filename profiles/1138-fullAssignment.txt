@@ -10,7 +10,7 @@ director Andrew Davis
 rating PG-13
 
 # genre
-genre Adventure
+genre Mystery
 
 # budget in dollars
 budget 44000000.0

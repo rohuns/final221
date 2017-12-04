@@ -1,5 +1,7 @@
 # all of the actors
 actor Bradley Cooper
+actor Vin Diesel
 
-# genre
-genre Adventure
+# director name
+director James Gunn
+

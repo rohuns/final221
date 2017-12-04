@@ -1,5 +1,7 @@
 # all of the actors
 actor Rita Moreno
+actor Debbie Reynolds
 
-# genre
-genre Comedy
+# director name
+director Stanley Donen
+

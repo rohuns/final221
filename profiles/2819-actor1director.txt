@@ -1,5 +1,5 @@
 # all of the actors
 actor Jake Gyllenhaal
+actor Heath Ledger
+actor Anne Hathaway
 
-# director name
-director Ang Lee

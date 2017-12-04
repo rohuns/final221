@@ -1,5 +1,7 @@
 # all of the actors
 actor Daniel Radcliffe
+actor Gary Oldman
 
-# genre
-genre Adventure
+# director name
+director Alfonso Cuarón
+

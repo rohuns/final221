@@ -1,5 +1,7 @@
 # all of the actors
 actor Anamaria Marinca
+actor Vlad Ivanov
 
-# genre
-genre Drama
+# director name
+director Cristian Mungiu
+

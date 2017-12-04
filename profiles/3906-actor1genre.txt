@@ -1,5 +1,7 @@
 # all of the actors
 actor Ellar Coltrane
+actor Lorelei Linklater
 
-# genre
-genre Drama
+# director name
+director Richard Linklater
+

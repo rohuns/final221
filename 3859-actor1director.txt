@@ -1,5 +1,0 @@
-# all of the actors
-actor Min-sik Choi
-actor Yeong-ae Lee
-actor Hye-jeong Kang
-

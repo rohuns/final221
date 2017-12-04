@@ -1,5 +1,5 @@
 # all of the actors
 actor Robert Downey Jr.
+actor Jeff Bridges
+actor Jon Favreau
 
-# director name
-director Jon Favreau

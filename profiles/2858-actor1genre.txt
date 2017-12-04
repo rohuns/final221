@@ -1,5 +1,7 @@
 # all of the actors
 actor Elina Alminas
+actor Sonoya Mizuno
 
-# genre
-genre Mystery
+# director name
+director Alex Garland
+

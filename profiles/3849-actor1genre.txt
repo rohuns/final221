@@ -1,5 +1,7 @@
 # all of the actors
 actor Ellen Burstyn
+actor Mark Margolis
 
-# genre
-genre Drama
+# director name
+director Darren Aronofsky
+

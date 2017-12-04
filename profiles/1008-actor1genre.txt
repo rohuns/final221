@@ -1,5 +1,7 @@
 # all of the actors
 actor Vin Diesel
+actor Harry Connick Jr.
 
-# genre
-genre Action
+# director name
+director Brad Bird
+

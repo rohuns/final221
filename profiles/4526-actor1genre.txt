@@ -1,5 +1,7 @@
 # all of the actors
 actor Humphrey Bogart
+actor Claude Rains
 
-# genre
-genre Drama
+# director name
+director Michael Curtiz
+

@@ -10,7 +10,7 @@ director Bryan Singer
 rating PG-13
 
 # genre
-genre Fantasy
+genre Sci-Fi
 
 # budget in dollars
 budget 200000000.0

@@ -10,7 +10,7 @@ director Fred Zinnemann
 rating Approved
 
 # genre
-genre Biography
+genre Drama
 
 # budget in dollars
 budget 2000000.0

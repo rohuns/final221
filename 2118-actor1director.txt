@@ -1,5 +1,0 @@
-# all of the actors
-actor Michiel Huisman
-actor Sebastian Koch
-actor Christian Berkel
-

@@ -1,5 +1,7 @@
 # all of the actors
 actor Anil Kapoor
+actor Saurabh Shukla
 
-# genre
-genre Drama
+# director name
+director Danny Boyle
+

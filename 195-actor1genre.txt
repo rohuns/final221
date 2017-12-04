@@ -1,7 +1,0 @@
-# all of the actors
-actor Daniel Radcliffe
-actor Gary Oldman
-
-# director name
-director Alfonso Cuarón
-

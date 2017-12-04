@@ -10,7 +10,7 @@ director Ryan Coogler
 rating PG-13
 
 # genre
-genre Drama
+genre Sport
 
 # budget in dollars
 budget 35000000.0

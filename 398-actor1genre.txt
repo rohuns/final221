@@ -1,7 +1,0 @@
-# all of the actors
-actor Matt Damon
-actor Joan Allen
-
-# director name
-director Paul Greengrass
-

@@ -10,7 +10,7 @@ director Sergio Leone
 rating R
 
 # genre
-genre Crime
+genre Drama
 
 # budget in dollars
 budget 30000000.0

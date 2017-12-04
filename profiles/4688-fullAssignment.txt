@@ -10,7 +10,7 @@ director Steve James
 rating PG-13
 
 # genre
-genre Documentary
+genre Sport
 
 # budget in dollars
 budget 700000.0

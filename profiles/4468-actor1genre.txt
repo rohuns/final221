@@ -1,5 +1,7 @@
 # all of the actors
 actor Elina Abai Kyzy
+actor Aziz Muradillayev
 
-# genre
-genre Biography
+# director name
+director Sadyk Sher-Niyaz
+

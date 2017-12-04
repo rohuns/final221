@@ -1,7 +1,0 @@
-# all of the actors
-actor Leonard Nimoy
-actor Kirstie Alley
-
-# director name
-director Nicholas Meyer
-

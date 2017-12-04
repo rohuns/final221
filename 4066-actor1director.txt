@@ -1,5 +1,0 @@
-# all of the actors
-actor William Holden
-actor Sessue Hayakawa
-actor Jack Hawkins
-

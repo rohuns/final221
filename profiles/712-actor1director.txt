@@ -1,5 +1,5 @@
 # all of the actors
 actor Tom Hanks
+actor Jeffrey DeMunn
+actor Michael Jeter
 
-# director name
-director Frank Darabont

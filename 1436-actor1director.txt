@@ -1,5 +1,0 @@
-# all of the actors
-actor Johnny Depp
-actor Al Pacino
-actor Anne Heche
-

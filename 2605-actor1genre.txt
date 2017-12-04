@@ -1,7 +1,0 @@
-# all of the actors
-actor Chen Chang
-actor Pei-Pei Cheng
-
-# director name
-director Ang Lee
-

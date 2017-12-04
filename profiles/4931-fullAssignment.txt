@@ -10,7 +10,7 @@ director John Carney
 rating R
 
 # genre
-genre Drama
+genre Romance
 
 # budget in dollars
 budget 180000.0

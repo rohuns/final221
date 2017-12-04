@@ -1,5 +1,7 @@
 # all of the actors
 actor Moritz Bleibtreu
+actor Ludger Pistor
 
-# genre
-genre Drama
+# director name
+director Tom Tykwer
+

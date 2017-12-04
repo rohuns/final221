@@ -1,5 +1,5 @@
 # all of the actors
 actor Harrison Ford
+actor Ian McDiarmid
+actor Kenny Baker
 
-# director name
-director Richard Marquand

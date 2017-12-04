@@ -1,7 +1,0 @@
-# all of the actors
-actor Javier Botet
-actor Frances O'Connor
-
-# director name
-director James Wan
-

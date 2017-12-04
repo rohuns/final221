@@ -10,7 +10,7 @@ director Franklin J. Schaffner
 rating GP
 
 # genre
-genre War
+genre Biography
 
 # budget in dollars
 budget 12000000.0

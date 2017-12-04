@@ -1,5 +1,7 @@
 # all of the actors
 actor Jake Gyllenhaal
+actor Mary McDonnell
 
-# genre
-genre Thriller
+# director name
+director Richard Kelly
+

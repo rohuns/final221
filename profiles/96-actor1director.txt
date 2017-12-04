@@ -1,5 +1,5 @@
 # all of the actors
 actor Matthew McConaughey
+actor Anne Hathaway
+actor Mackenzie Foy
 
-# director name
-director Christopher Nolan

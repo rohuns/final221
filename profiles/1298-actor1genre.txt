@@ -1,5 +1,7 @@
 # all of the actors
 actor Mathieu Kassovitz
+actor Jamel Debbouze
 
-# genre
-genre Comedy
+# director name
+director Jean-Pierre Jeunet
+

@@ -1,7 +1,0 @@
-# all of the actors
-actor Alan Rickman
-actor Bruce Willis
-
-# director name
-director John McTiernan
-

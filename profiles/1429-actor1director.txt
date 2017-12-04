@@ -1,5 +1,5 @@
 # all of the actors
 actor Denzel Washington
+actor Delroy Lindo
+actor Al Freeman Jr.
 
-# director name
-director Spike Lee

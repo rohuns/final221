@@ -1,5 +1,7 @@
 # all of the actors
 actor Ray Milland
+actor Jane Wyman
 
-# genre
-genre Drama
+# director name
+director Billy Wilder
+

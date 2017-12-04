@@ -1,5 +1,0 @@
-# all of the actors
-actor Minnie Driver
-actor Jada Pinkett Smith
-actor Billy Crudup
-

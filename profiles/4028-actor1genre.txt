@@ -1,5 +1,7 @@
 # all of the actors
 actor J.K. Simmons
+actor Melissa Benoist
 
-# genre
-genre Drama
+# director name
+director Damien Chazelle
+

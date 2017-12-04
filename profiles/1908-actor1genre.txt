@@ -1,5 +1,7 @@
 # all of the actors
 actor Cary-Hiroyuki Tagawa
+actor Joan Chen
 
-# genre
-genre Drama
+# director name
+director Bernardo Bertolucci
+

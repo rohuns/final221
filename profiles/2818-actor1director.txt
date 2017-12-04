@@ -1,5 +1,5 @@
 # all of the actors
 actor Madeline Carroll
+actor Rebecca De Mornay
+actor Aidan Quinn
 
-# director name
-director Rob Reiner

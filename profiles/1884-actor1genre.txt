@@ -1,5 +1,7 @@
 # all of the actors
 actor Robert De Niro
+actor Billy Drago
 
-# genre
-genre Thriller
+# director name
+director Brian De Palma
+

@@ -1,5 +1,0 @@
-# all of the actors
-actor Quentin Tarantino
-actor Steve Buscemi
-actor Chris Penn
-

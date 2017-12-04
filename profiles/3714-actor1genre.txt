@@ -1,5 +1,7 @@
 # all of the actors
 actor Matthew McConaughey
+actor Jennifer Garner
 
-# genre
-genre Biography
+# director name
+director Jean-Marc Vallée
+

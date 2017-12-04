@@ -1,5 +1,5 @@
 # all of the actors
 actor Anwar Congo
+actor Herman Koto
+actor Syamsul Arifin
 
-# director name
-director Joshua Oppenheimer

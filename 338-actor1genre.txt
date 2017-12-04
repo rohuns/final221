@@ -1,7 +1,0 @@
-# all of the actors
-actor Alexander Gould
-actor Stephen Root
-
-# director name
-director Andrew Stanton
-

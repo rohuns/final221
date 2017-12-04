@@ -1,7 +1,0 @@
-# all of the actors
-actor Bruce Greenwood
-actor Sarah Polley
-
-# director name
-director Atom Egoyan
-

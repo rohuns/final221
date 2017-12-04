@@ -10,7 +10,7 @@ director Damien Chazelle
 rating R
 
 # genre
-genre Drama
+genre Music
 
 # budget in dollars
 budget 3300000.0

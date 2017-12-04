@@ -1,5 +1,5 @@
 # all of the actors
 actor Sissy Spacek
+actor Richard Farnsworth
+actor Everett McGill
 
-# director name
-director David Lynch

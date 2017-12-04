@@ -1,5 +1,7 @@
 # all of the actors
 actor Johnny Depp
+actor Leonardo DiCaprio
 
-# genre
-genre Drama
+# director name
+director Lasse Hallström
+

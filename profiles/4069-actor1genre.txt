@@ -1,5 +1,7 @@
 # all of the actors
 actor Fred MacMurray
+actor Ray Walston
 
-# genre
-genre Comedy
+# director name
+director Billy Wilder
+

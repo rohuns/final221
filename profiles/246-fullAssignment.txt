@@ -10,7 +10,7 @@ director Alfonso Cuarón
 rating PG-13
 
 # genre
-genre Drama
+genre Thriller
 
 # budget in dollars
 budget 100000000.0

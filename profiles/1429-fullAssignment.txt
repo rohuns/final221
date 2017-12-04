@@ -10,7 +10,7 @@ director Spike Lee
 rating PG-13
 
 # genre
-genre Drama
+genre Biography
 
 # budget in dollars
 budget 33000000.0

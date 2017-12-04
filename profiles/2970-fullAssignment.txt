@@ -10,7 +10,7 @@ director Wolfgang Petersen
 rating R
 
 # genre
-genre War
+genre Drama
 
 # budget in dollars
 budget 14000000.0

@@ -1,7 +1,0 @@
-# all of the actors
-actor Bahare Seddiqi
-actor Amir Farrokh Hashemian
-
-# director name
-director Majid Majidi
-

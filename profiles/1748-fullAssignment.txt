@@ -10,7 +10,7 @@ director F. Gary Gray
 rating R
 
 # genre
-genre History
+genre Biography
 
 # budget in dollars
 budget 28000000.0

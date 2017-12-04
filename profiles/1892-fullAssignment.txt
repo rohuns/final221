@@ -10,7 +10,7 @@ director George P. Cosmatos
 rating R
 
 # genre
-genre Romance
+genre History
 
 # budget in dollars
 budget 25000000.0

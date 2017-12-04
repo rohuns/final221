@@ -1,5 +1,5 @@
 # all of the actors
 actor Suraj Sharma
+actor Rafe Spall
+actor Tabu
 
-# director name
-director Ang Lee

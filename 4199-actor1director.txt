@@ -1,5 +1,0 @@
-# all of the actors
-actor Bill Maher
-actor Tal Bachman
-actor Steve Burg
-

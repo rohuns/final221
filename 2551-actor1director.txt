@@ -1,5 +1,0 @@
-# all of the actors
-actor Ivana Baquero
-actor Maribel Verdú
-actor Sergi López
-

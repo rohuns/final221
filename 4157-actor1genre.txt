@@ -1,7 +1,0 @@
-# all of the actors
-actor Margaret Hamilton
-actor Terry
-
-# director name
-director Victor Fleming
-

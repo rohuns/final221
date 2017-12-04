@@ -10,7 +10,7 @@ director Richard Curtis
 rating R
 
 # genre
-genre Fantasy
+genre Romance
 
 # budget in dollars
 budget 12000000.0

@@ -1,5 +1,0 @@
-# all of the actors
-actor Leonardo DiCaprio
-actor Joseph Sikora
-actor Nellie Sciutto
-

@@ -1,5 +1,7 @@
 # all of the actors
 actor David Carradine
+actor Vivica A. Fox
 
-# genre
-genre Action
+# director name
+director Quentin Tarantino
+

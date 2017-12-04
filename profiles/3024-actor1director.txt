@@ -1,5 +1,5 @@
 # all of the actors
 actor Harrison Ford
+actor Peter Cushing
+actor Kenny Baker
 
-# director name
-director George Lucas

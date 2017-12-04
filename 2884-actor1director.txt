@@ -1,5 +1,0 @@
-# all of the actors
-actor Logan Lerman
-actor Ezra Miller
-actor Kate Walsh
-

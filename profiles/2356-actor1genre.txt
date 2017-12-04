@@ -1,5 +1,7 @@
 # all of the actors
 actor Mary McDonnell
+actor Michael Spears
 
-# genre
-genre Adventure
+# director name
+director Kevin Costner
+

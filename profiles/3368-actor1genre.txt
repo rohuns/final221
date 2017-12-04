@@ -1,5 +1,7 @@
 # all of the actors
 actor Joseph Gordon-Levitt
+actor Anna Kendrick
 
-# genre
-genre Comedy
+# director name
+director Jonathan Levine
+

@@ -1,7 +1,0 @@
-# all of the actors
-actor Bill Maher
-actor Tal Bachman
-
-# director name
-director Larry Charles
-

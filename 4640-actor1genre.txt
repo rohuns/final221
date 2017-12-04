@@ -1,7 +1,0 @@
-# all of the actors
-actor Anamaria Marinca
-actor Vlad Ivanov
-
-# director name
-director Cristian Mungiu
-

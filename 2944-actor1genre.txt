@@ -1,7 +1,0 @@
-# all of the actors
-actor Eva Green
-actor Tobias Menzies
-
-# director name
-director Martin Campbell
-

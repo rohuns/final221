@@ -1,5 +1,7 @@
 # all of the actors
 actor Ioan Gruffudd
+actor Sam Shepard
 
-# genre
-genre History
+# director name
+director Ridley Scott
+

@@ -1,5 +1,0 @@
-# all of the actors
-actor Takashi Shimura
-actor Minoru Chiaki
-actor Kamatari Fujiwara
-

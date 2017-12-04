@@ -1,5 +1,5 @@
 # all of the actors
 actor Leonardo DiCaprio
+actor Tom Hanks
+actor Jennifer Garner
 
-# director name
-director Steven Spielberg

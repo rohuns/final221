@@ -1,5 +1,5 @@
 # all of the actors
 actor Blair Underwood
+actor Xander Berkeley
+actor Mason Gamble
 
-# director name
-director Andrew Niccol

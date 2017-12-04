@@ -1,5 +1,7 @@
 # all of the actors
 actor Gerard Butler
+actor Djimon Hounsou
 
-# genre
-genre Family
+# director name
+director Dean DeBlois
+

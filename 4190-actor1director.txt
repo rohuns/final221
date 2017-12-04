@@ -1,5 +1,0 @@
-# all of the actors
-actor Hanno Pöschl
-actor Hans Weingartner
-actor Dominik Castell
-

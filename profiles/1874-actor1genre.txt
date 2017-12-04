@@ -1,5 +1,7 @@
 # all of the actors
 actor Liam Neeson
+actor Embeth Davidtz
 
-# genre
-genre Drama
+# director name
+director Steven Spielberg
+

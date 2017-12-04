@@ -1,5 +1,5 @@
 # all of the actors
 actor Ye Liu
+actor Yuanyuan Gao
+actor Ryu Kohata
 
-# director name
-director Chuan Lu

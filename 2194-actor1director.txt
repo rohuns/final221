@@ -1,5 +1,0 @@
-# all of the actors
-actor Billy Crudup
-actor Jamey Sheridan
-actor Brian d'Arcy James
-

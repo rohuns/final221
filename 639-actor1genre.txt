@@ -1,7 +1,0 @@
-# all of the actors
-actor Al Pacino
-actor Rip Torn
-
-# director name
-director Michael Mann
-

@@ -10,7 +10,7 @@ director Anton Corbijn
 rating R
 
 # genre
-genre Music
+genre Biography
 
 # budget in dollars
 budget 4500000.0

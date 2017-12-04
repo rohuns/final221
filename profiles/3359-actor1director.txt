@@ -1,5 +1,5 @@
 # all of the actors
 actor Eleanor Parker
+actor Angela Cartwright
+actor Nicholas Hammond
 
-# director name
-director Robert Wise

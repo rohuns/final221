@@ -1,5 +1,0 @@
-# all of the actors
-actor Morgan Freeman
-actor Will Ferrell
-actor Alison Brie
-

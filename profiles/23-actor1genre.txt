@@ -1,5 +1,7 @@
 # all of the actors
 actor Aidan Turner
+actor Adam Brown
 
-# genre
-genre Adventure
+# director name
+director Peter Jackson
+

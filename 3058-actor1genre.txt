@@ -1,7 +1,0 @@
-# all of the actors
-actor Johnny Depp
-actor Leonardo DiCaprio
-
-# director name
-director Lasse Hallström
-

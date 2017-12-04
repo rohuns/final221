@@ -1,5 +1,7 @@
 # all of the actors
 actor Cary-Hiroyuki Tagawa
+actor Sarah Roemer
 
-# genre
-genre Family
+# director name
+director Lasse Hallström
+

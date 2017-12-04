@@ -10,7 +10,7 @@ director William Wyler
 rating Not Rated
 
 # genre
-genre Drama
+genre War
 
 # budget in dollars
 budget 2100000.0

@@ -1,5 +1,5 @@
 # all of the actors
 actor Christian Bale
+actor Hugh Jackman
+actor Scarlett Johansson
 
-# director name
-director Christopher Nolan

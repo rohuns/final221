@@ -1,5 +1,0 @@
-# all of the actors
-actor James Mason
-actor Shelley Winters
-actor Lois Maxwell
-

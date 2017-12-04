@@ -1,7 +1,0 @@
-# all of the actors
-actor Toby Jones
-actor Clint Howard
-
-# director name
-director Ron Howard
-

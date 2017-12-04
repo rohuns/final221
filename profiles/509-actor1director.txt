@@ -1,5 +1,5 @@
 # all of the actors
 actor Matthew Broderick
+actor Nathan Lane
+actor Niketa Calame
 
-# director name
-director Roger Allers

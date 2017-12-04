@@ -1,5 +1,7 @@
 # all of the actors
 actor Benedict Cumberbatch
+actor Bruce Greenwood
 
-# genre
-genre Sci-Fi
+# director name
+director J.J. Abrams
+

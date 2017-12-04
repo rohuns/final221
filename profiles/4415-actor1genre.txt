@@ -1,5 +1,7 @@
 # all of the actors
 actor Ricardo Darín
+actor Gastón Pauls
 
-# genre
-genre Drama
+# director name
+director Fabián Bielinsky
+

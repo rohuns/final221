@@ -1,7 +1,0 @@
-# all of the actors
-actor Natascha McElhone
-actor Noah Emmerich
-
-# director name
-director Peter Weir
-

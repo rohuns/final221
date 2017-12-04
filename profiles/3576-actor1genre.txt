@@ -1,5 +1,7 @@
 # all of the actors
 actor Florian Lukas
+actor Chulpan Khamatova
 
-# genre
-genre Drama
+# director name
+director Wolfgang Becker
+

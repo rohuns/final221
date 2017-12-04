@@ -1,7 +1,0 @@
-# all of the actors
-actor Hugh Jackman
-actor Jake Gyllenhaal
-
-# director name
-director Denis Villeneuve
-

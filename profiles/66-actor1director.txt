@@ -1,5 +1,5 @@
 # all of the actors
 actor Christian Bale
+actor Heath Ledger
+actor Morgan Freeman
 
-# director name
-director Christopher Nolan

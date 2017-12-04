@@ -1,5 +1,0 @@
-# all of the actors
-actor John Ratzenberger
-actor Delroy Lindo
-actor Jess Harnell
-

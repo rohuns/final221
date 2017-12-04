@@ -1,7 +1,0 @@
-# all of the actors
-actor Joan Allen
-actor Jacob Tremblay
-
-# director name
-director Lenny Abrahamson
-

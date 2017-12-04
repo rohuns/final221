@@ -1,5 +1,7 @@
 # all of the actors
 actor Jean-Baptiste Maunier
+actor François Berléand
 
-# genre
-genre Music
+# director name
+director Christophe Barratier
+

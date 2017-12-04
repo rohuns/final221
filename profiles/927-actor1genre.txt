@@ -1,5 +1,7 @@
 # all of the actors
 actor Kathleen Freeman
+actor Chris Miller
 
-# genre
-genre Adventure
+# director name
+director Andrew Adamson
+

@@ -1,5 +1,7 @@
 # all of the actors
 actor Jim Meskimen
+actor Paul F. Tompkins
 
-# genre
-genre Drama
+# director name
+director Paul Thomas Anderson
+

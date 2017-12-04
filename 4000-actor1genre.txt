@@ -1,7 +1,0 @@
-# all of the actors
-actor Ricardo Darín
-actor Soledad Villamil
-
-# director name
-director Juan José Campanella
-

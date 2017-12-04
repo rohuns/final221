@@ -1,5 +1,5 @@
 # all of the actors
 actor Rufus Sewell
+actor William Hurt
+actor Bruce Spence
 
-# director name
-director Alex Proyas

@@ -1,5 +1,0 @@
-# all of the actors
-actor Nawazuddin Siddiqui
-actor Nimrat Kaur
-actor Lillete Dubey
-

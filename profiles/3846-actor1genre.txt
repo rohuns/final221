@@ -1,5 +1,7 @@
 # all of the actors
 actor Philip Seymour Hoffman
+actor Rosario Dawson
 
-# genre
-genre Drama
+# director name
+director Spike Lee
+

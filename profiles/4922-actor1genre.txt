@@ -1,5 +1,7 @@
 # all of the actors
 actor Tom Cullen
+actor Chris New
 
-# genre
-genre Drama
+# director name
+director Andrew Haigh
+

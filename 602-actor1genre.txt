@@ -1,7 +1,0 @@
-# all of the actors
-actor Steve Buscemi
-actor Alison Lohman
-
-# director name
-director Tim Burton
-

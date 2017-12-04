@@ -1,5 +1,7 @@
 # all of the actors
 actor Lea Thompson
+actor Jeffrey Weissman
 
-# genre
-genre Sci-Fi
+# director name
+director Robert Zemeckis
+

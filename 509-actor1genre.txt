@@ -1,7 +1,0 @@
-# all of the actors
-actor Matthew Broderick
-actor Nathan Lane
-
-# director name
-director Roger Allers
-

@@ -1,5 +1,7 @@
 # all of the actors
 actor Russell Wong
+actor Steven Michael Quezada
 
-# genre
-genre Drama
+# director name
+director Lance McDaniel
+

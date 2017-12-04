@@ -1,5 +1,7 @@
 # all of the actors
 actor Harrison Ford
+actor Daniel Roebuck
 
-# genre
-genre Adventure
+# director name
+director Andrew Davis
+

@@ -1,5 +1,7 @@
 # all of the actors
 actor Laurence Olivier
+actor Joan Fontaine
 
-# genre
-genre Thriller
+# director name
+director Alfred Hitchcock
+

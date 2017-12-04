@@ -1,5 +1,5 @@
 # all of the actors
 actor Yuki Matsuzaki
+actor Kazunari Ninomiya
+actor Shidô Nakamura
 
-# director name
-director Clint Eastwood

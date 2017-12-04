@@ -1,5 +1,7 @@
 # all of the actors
 actor Toby Jones
+actor Clint Howard
 
-# genre
-genre Drama
+# director name
+director Ron Howard
+

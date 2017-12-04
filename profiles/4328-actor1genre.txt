@@ -1,5 +1,7 @@
 # all of the actors
 actor Rita Hayworth
+actor Everett Sloane
 
-# genre
-genre Film-Noir
+# director name
+director Orson Welles
+

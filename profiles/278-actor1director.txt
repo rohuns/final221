@@ -1,5 +1,5 @@
 # all of the actors
 actor Matt Damon
+actor Donald Glover
+actor Benedict Wong
 
-# director name
-director Ridley Scott

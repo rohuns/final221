@@ -1,5 +1,5 @@
 # all of the actors
 actor Johannes Silberschneider
+actor Clotilde Mollet
+actor Carlo Cecchi
 
-# director name
-director François Girard

@@ -1,7 +1,0 @@
-# all of the actors
-actor Harrison Ford
-actor Daniel Roebuck
-
-# director name
-director Andrew Davis
-

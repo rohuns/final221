@@ -1,7 +1,0 @@
-# all of the actors
-actor John F. Kennedy
-actor Buzz Aldrin
-
-# director name
-director David Sington
-

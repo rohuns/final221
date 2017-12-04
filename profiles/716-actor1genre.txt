@@ -1,5 +1,7 @@
 # all of the actors
 actor Matt Damon
+actor Josh Hamilton
 
-# genre
-genre Action
+# director name
+director Doug Liman
+

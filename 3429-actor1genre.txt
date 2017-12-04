@@ -1,7 +1,0 @@
-# all of the actors
-actor Mckenna Grace
-actor Lucy Fry
-
-# director name
-director Bruce Beresford
-

@@ -10,7 +10,7 @@ director Robert Rossen
 rating Unrated
 
 # genre
-genre Sport
+genre Drama
 
 # budget in dollars
 budget 2000000.0

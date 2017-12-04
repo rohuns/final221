@@ -1,5 +1,5 @@
 # all of the actors
 actor Elizabeth Berrington
+actor Anna Madeley
+actor Eric Godon
 
-# director name
-director Martin McDonagh

@@ -1,5 +1,5 @@
 # all of the actors
 actor Tom Hanks
+actor John Ratzenberger
+actor Wayne Knight
 
-# director name
-director John Lasseter

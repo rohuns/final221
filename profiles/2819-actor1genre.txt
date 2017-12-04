@@ -1,5 +1,7 @@
 # all of the actors
 actor Jake Gyllenhaal
+actor Heath Ledger
 
-# genre
-genre Drama
+# director name
+director Ang Lee
+

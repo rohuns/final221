@@ -10,7 +10,7 @@ director Robert Zemeckis
 rating PG
 
 # genre
-genre Sci-Fi
+genre Comedy
 
 # budget in dollars
 budget 19000000.0

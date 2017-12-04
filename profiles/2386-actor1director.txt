@@ -1,5 +1,5 @@
 # all of the actors
 actor Nicolas Cage
+actor Meryl Streep
+actor Roger Willie
 
-# director name
-director Spike Jonze

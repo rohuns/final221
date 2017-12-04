@@ -1,5 +1,7 @@
 # all of the actors
 actor Charlie Hunnam
+actor Danny Huston
 
-# genre
-genre Thriller
+# director name
+director Alfonso Cuarón
+

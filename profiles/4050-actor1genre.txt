@@ -1,5 +1,7 @@
 # all of the actors
 actor Kelly Macdonald
+actor Shirley Henderson
 
-# genre
-genre Drama
+# director name
+director Danny Boyle
+

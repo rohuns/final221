@@ -1,5 +1,7 @@
 # all of the actors
 actor Emma Stone
+actor Bryce Dallas Howard
 
-# genre
-genre Drama
+# director name
+director Tate Taylor
+

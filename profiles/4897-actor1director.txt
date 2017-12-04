@@ -1,5 +1,5 @@
 # all of the actors
 actor Clint Eastwood
+actor Gian Maria Volontè
+actor Aldo Sambrell
 
-# director name
-director Sergio Leone

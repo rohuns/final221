@@ -10,7 +10,7 @@ director Mark Osborne
 rating PG
 
 # genre
-genre Family
+genre Fantasy
 
 # budget in dollars
 budget 81200000.0

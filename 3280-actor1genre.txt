@@ -1,7 +1,0 @@
-# all of the actors
-actor Topol
-actor Paul Michael Glaser
-
-# director name
-director Norman Jewison
-

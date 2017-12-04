@@ -10,7 +10,7 @@ director Richard Marquand
 rating PG
 
 # genre
-genre Sci-Fi
+genre Fantasy
 
 # budget in dollars
 budget 32500000.0

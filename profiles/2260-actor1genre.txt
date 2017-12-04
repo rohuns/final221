@@ -1,5 +1,7 @@
 # all of the actors
 actor Naomi Watts
+actor Eddie Marsan
 
-# genre
-genre Drama
+# director name
+director Alejandro G. Iñárritu
+

@@ -1,5 +1,7 @@
 # all of the actors
 actor Kevin Spacey
+actor Matt McCoy
 
-# genre
-genre Drama
+# director name
+director Curtis Hanson
+

@@ -1,5 +1,7 @@
 # all of the actors
 actor Ari Folman
+actor Ronny Dayag
 
-# genre
-genre Animation
+# director name
+director Ari Folman
+

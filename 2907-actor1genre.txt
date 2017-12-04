@@ -1,7 +1,0 @@
-# all of the actors
-actor Catherine Deneuve
-actor Udo Kier
-
-# director name
-director Lars von Trier
-

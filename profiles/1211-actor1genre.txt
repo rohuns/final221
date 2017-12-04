@@ -1,5 +1,7 @@
 # all of the actors
 actor Wes Studi
+actor Terry Kinney
 
-# genre
-genre War
+# director name
+director Michael Mann
+

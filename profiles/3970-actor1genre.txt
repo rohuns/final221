@@ -1,5 +1,7 @@
 # all of the actors
 actor Hattie McDaniel
+actor George Reeves
 
-# genre
-genre Drama
+# director name
+director Victor Fleming
+

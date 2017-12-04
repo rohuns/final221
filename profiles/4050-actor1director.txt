@@ -1,5 +1,5 @@
 # all of the actors
 actor Kelly Macdonald
+actor Shirley Henderson
+actor Ewen Bremner
 
-# director name
-director Danny Boyle

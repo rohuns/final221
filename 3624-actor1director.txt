@@ -1,5 +1,0 @@
-# all of the actors
-actor John Cameron Mitchell
-actor Miriam Shor
-actor Andrea Martin
-

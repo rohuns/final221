@@ -1,5 +1,0 @@
-# all of the actors
-actor Tom Cullen
-actor Chris New
-actor Vauxhall Jermaine
-

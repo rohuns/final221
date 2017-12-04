@@ -1,5 +1,7 @@
 # all of the actors
 actor Seamus Davey-Fitzpatrick
+actor Ariane Labed
 
-# genre
-genre Romance
+# director name
+director Richard Linklater
+

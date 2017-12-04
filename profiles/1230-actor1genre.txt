@@ -1,5 +1,7 @@
 # all of the actors
 actor Henry Cavill
+actor James Frain
 
-# genre
-genre Action
+# director name
+director Kevin Reynolds
+

@@ -1,5 +1,5 @@
 # all of the actors
 actor Philip Seymour Hoffman
+actor Jeff Bridges
+actor Steve Buscemi
 
-# director name
-director Joel Coen

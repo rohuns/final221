@@ -10,7 +10,7 @@ director Andrew Stanton
 rating G
 
 # genre
-genre Animation
+genre Comedy
 
 # budget in dollars
 budget 94000000.0

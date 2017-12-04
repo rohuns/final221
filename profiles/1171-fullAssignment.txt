@@ -10,7 +10,7 @@ director Yimou Zhang
 rating PG-13
 
 # genre
-genre History
+genre Adventure
 
 # budget in dollars
 budget 31000000.0

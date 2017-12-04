@@ -10,7 +10,7 @@ director Terry Gilliam
 rating PG
 
 # genre
-genre Fantasy
+genre Adventure
 
 # budget in dollars
 budget 229575.0

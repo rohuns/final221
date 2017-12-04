@@ -10,7 +10,7 @@ director Elia Kazan
 rating Not Rated
 
 # genre
-genre Romance
+genre Drama
 
 # budget in dollars
 budget 910000.0

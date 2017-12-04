@@ -1,5 +1,0 @@
-# all of the actors
-actor Shahab Hosseini
-actor Leila Hatami
-actor Peyman Moaadi
-

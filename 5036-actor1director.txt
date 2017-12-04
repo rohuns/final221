@@ -1,5 +1,0 @@
-# all of the actors
-actor Richard Jewell
-actor John Considine
-actor Sara Stepnicka
-

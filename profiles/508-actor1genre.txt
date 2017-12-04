@@ -1,5 +1,7 @@
 # all of the actors
 actor Adam Goldberg
+actor Austin Pendleton
 
-# genre
-genre Drama
+# director name
+director Ron Howard
+

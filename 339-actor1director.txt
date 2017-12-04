@@ -1,5 +1,0 @@
-# all of the actors
-actor Orlando Bloom
-actor Billy Boyd
-actor Bernard Hill
-

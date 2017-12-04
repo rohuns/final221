@@ -1,5 +1,7 @@
 # all of the actors
 actor Delroy Lindo
+actor Jesse Borrego
 
-# genre
-genre Crime
+# director name
+director Taylor Hackford
+

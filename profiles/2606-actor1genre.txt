@@ -1,5 +1,7 @@
 # all of the actors
 actor Kevin Spacey
+actor Peter Gallagher
 
-# genre
-genre Drama
+# director name
+director Sam Mendes
+

@@ -1,5 +1,5 @@
 # all of the actors
 actor Cary-Hiroyuki Tagawa
+actor Joan Chen
+actor Victor Wong
 
-# director name
-director Bernardo Bertolucci

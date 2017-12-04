@@ -1,5 +1,0 @@
-# all of the actors
-actor Tom Hardy
-actor Frank Grillo
-actor Kevin Dunn
-

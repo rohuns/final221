@@ -1,5 +1,7 @@
 # all of the actors
 actor Bruce Greenwood
+actor Sarah Polley
 
-# genre
-genre Drama
+# director name
+director Atom Egoyan
+

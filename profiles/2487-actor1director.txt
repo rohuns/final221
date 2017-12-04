@@ -1,5 +1,5 @@
 # all of the actors
 actor Jeremy Brett
+actor Rex Harrison
+actor Theodore Bikel
 
-# director name
-director George Cukor

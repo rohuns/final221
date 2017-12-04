@@ -1,5 +1,7 @@
 # all of the actors
 actor Maximilian Schell
+actor Montgomery Clift
 
-# genre
-genre War
+# director name
+director Stanley Kramer
+

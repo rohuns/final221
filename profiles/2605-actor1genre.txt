@@ -1,5 +1,7 @@
 # all of the actors
 actor Chen Chang
+actor Pei-Pei Cheng
 
-# genre
-genre Drama
+# director name
+director Ang Lee
+

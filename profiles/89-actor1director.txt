@@ -1,5 +1,5 @@
 # all of the actors
 actor Damon Wayans Jr.
+actor Daniel Henney
+actor Abraham Benrubi
 
-# director name
-director Don Hall

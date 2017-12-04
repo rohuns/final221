@@ -1,5 +1,5 @@
 # all of the actors
 actor Eddie Redmayne
+actor Emily Watson
+actor Simon McBurney
 
-# director name
-director James Marsh

@@ -1,5 +1,7 @@
 # all of the actors
 actor Leonardo DiCaprio
+actor Tom Hanks
 
-# genre
-genre Biography
+# director name
+director Steven Spielberg
+

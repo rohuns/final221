@@ -1,5 +1,7 @@
 # all of the actors
 actor Johnny Depp
+actor Orlando Bloom
 
-# genre
-genre Action
+# director name
+director Gore Verbinski
+

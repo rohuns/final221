@@ -1,5 +1,7 @@
 # all of the actors
 actor Kevin Spacey
+actor Chazz Palminteri
 
-# genre
-genre Drama
+# director name
+director Bryan Singer
+

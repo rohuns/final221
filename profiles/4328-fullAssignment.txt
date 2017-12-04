@@ -10,7 +10,7 @@ director Orson Welles
 rating Not Rated
 
 # genre
-genre Film-Noir
+genre Crime
 
 # budget in dollars
 budget 2300000.0

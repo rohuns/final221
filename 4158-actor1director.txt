@@ -1,5 +1,0 @@
-# all of the actors
-actor Madeline Kahn
-actor Peter Boyle
-actor Teri Garr
-

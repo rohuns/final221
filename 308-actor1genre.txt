@@ -1,7 +1,0 @@
-# all of the actors
-actor Leonardo DiCaprio
-actor Matthew McConaughey
-
-# director name
-director Martin Scorsese
-

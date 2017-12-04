@@ -1,5 +1,0 @@
-# all of the actors
-actor Jean Arthur
-actor Ann Miller
-actor Lionel Barrymore
-

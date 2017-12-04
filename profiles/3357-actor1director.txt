@@ -1,5 +1,5 @@
 # all of the actors
 actor Jake Gyllenhaal
+actor Michael Papajohn
+actor James Huang
 
-# director name
-director Dan Gilroy

@@ -1,5 +1,7 @@
 # all of the actors
 actor Kelly Macdonald
+actor Stephen Root
 
-# genre
-genre Crime
+# director name
+director Ethan Coen
+

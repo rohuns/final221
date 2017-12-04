@@ -1,5 +1,7 @@
 # all of the actors
 actor Brigitte Helm
+actor Gustav Fröhlich
 
-# genre
-genre Drama
+# director name
+director Fritz Lang
+

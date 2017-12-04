@@ -10,7 +10,7 @@ director Alfred Hitchcock
 rating Not Rated
 
 # genre
-genre Thriller
+genre Mystery
 
 # budget in dollars
 budget 1288000.0

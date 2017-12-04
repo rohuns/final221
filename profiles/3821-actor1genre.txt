@@ -1,5 +1,7 @@
 # all of the actors
 actor Robert Duvall
+actor Dwight Yoakam
 
-# genre
-genre Drama
+# director name
+director Billy Bob Thornton
+

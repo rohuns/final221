@@ -1,5 +1,7 @@
 # all of the actors
 actor James Coburn
+actor Donald Pleasence
 
-# genre
-genre Adventure
+# director name
+director John Sturges
+

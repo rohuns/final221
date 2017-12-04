@@ -1,7 +1,0 @@
-# all of the actors
-actor Min-sik Choi
-actor Yeong-ae Lee
-
-# director name
-director Chan-wook Park
-

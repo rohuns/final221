@@ -1,5 +1,0 @@
-# all of the actors
-actor Nehemiah Persoff
-actor Joe E. Brown
-actor George Raft
-

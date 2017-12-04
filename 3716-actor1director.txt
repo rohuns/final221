@@ -1,5 +1,0 @@
-# all of the actors
-actor Callum Rennie
-actor Thomas Lennon
-actor Jorja Fox
-

@@ -1,5 +1,7 @@
 # all of the actors
 actor Matt Damon
+actor Jeff Bridges
 
-# genre
-genre Adventure
+# director name
+director Ethan Coen
+

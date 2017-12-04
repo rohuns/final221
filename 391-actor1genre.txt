@@ -1,7 +1,0 @@
-# all of the actors
-actor Paddy Considine
-actor Bruce McGill
-
-# director name
-director Ron Howard
-

@@ -1,7 +1,0 @@
-# all of the actors
-actor Sandra Ellis Lafferty
-actor Dallas Roberts
-
-# director name
-director James Mangold
-

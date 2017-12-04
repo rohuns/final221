@@ -1,5 +1,7 @@
 # all of the actors
 actor Michel Robin
+actor Charles Linton
 
-# genre
-genre Animation
+# director name
+director Sylvain Chomet
+

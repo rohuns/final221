@@ -10,7 +10,7 @@ director James Cameron
 rating PG-13
 
 # genre
-genre Fantasy
+genre Action
 
 # budget in dollars
 budget 237000000.0

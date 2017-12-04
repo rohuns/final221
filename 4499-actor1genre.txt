@@ -1,7 +1,0 @@
-# all of the actors
-actor Alex Huszar
-actor Regina Casé
-
-# director name
-director Anna Muylaert
-

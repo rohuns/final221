@@ -1,5 +1,7 @@
 # all of the actors
 actor Topol
+actor Paul Michael Glaser
 
-# genre
-genre Romance
+# director name
+director Norman Jewison
+

@@ -1,5 +1,5 @@
 # all of the actors
 actor Henry Cavill
+actor David Kelly
+actor Nathaniel Parker
 
-# director name
-director Matthew Vaughn

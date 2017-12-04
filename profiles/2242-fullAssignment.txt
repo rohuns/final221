@@ -10,7 +10,7 @@ director Alfred Hitchcock
 rating R
 
 # genre
-genre Thriller
+genre Mystery
 
 # budget in dollars
 budget 806947.0

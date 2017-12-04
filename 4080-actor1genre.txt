@@ -1,7 +1,0 @@
-# all of the actors
-actor Montgomery Clift
-actor Walter Brennan
-
-# director name
-director Howard Hawks
-

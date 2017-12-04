@@ -1,5 +1,7 @@
 # all of the actors
 actor Chris Hemsworth
+actor Olivia Wilde
 
-# genre
-genre Biography
+# director name
+director Ron Howard
+

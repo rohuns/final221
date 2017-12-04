@@ -1,7 +1,0 @@
-# all of the actors
-actor Burl Ives
-actor Judith Anderson
-
-# director name
-director Richard Brooks
-

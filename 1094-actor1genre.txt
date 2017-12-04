@@ -1,7 +1,0 @@
-# all of the actors
-actor Colin Firth
-actor Liam Neeson
-
-# director name
-director Richard Curtis
-

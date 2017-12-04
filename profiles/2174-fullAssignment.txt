@@ -10,7 +10,7 @@ director Steve McQueen
 rating R
 
 # genre
-genre Drama
+genre Biography
 
 # budget in dollars
 budget 20000000.0

@@ -10,7 +10,7 @@ director Ang Lee
 rating PG
 
 # genre
-genre Fantasy
+genre Drama
 
 # budget in dollars
 budget 120000000.0

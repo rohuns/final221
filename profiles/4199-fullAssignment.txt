@@ -10,7 +10,7 @@ director Larry Charles
 rating R
 
 # genre
-genre Comedy
+genre Documentary
 
 # budget in dollars
 budget 2500000.0

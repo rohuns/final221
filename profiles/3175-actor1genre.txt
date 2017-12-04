@@ -1,5 +1,7 @@
 # all of the actors
 actor Ethan Suplee
+actor Beverly D'Angelo
 
-# genre
-genre Drama
+# director name
+director Tony Kaye
+

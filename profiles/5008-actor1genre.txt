@@ -1,5 +1,7 @@
 # all of the actors
 actor Jason Mewes
+actor Brian O'Halloran
 
-# genre
-genre Comedy
+# director name
+director Kevin Smith
+

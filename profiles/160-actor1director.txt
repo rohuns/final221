@@ -1,5 +1,5 @@
 # all of the actors
 actor Chris Hemsworth
+actor Leonard Nimoy
+actor Bruce Greenwood
 
-# director name
-director J.J. Abrams

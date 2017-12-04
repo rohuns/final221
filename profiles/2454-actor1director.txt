@@ -1,5 +1,5 @@
 # all of the actors
 actor Julie Christie
+actor Brian Blessed
+actor Richard Briers
 
-# director name
-director Kenneth Branagh

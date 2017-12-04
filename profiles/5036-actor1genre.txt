@@ -1,5 +1,7 @@
 # all of the actors
 actor Richard Jewell
+actor John Considine
 
-# genre
-genre Crime
+# director name
+director Anthony Vallone
+

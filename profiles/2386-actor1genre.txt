@@ -1,5 +1,7 @@
 # all of the actors
 actor Nicolas Cage
+actor Meryl Streep
 
-# genre
-genre Drama
+# director name
+director Spike Jonze
+

@@ -1,5 +1,7 @@
 # all of the actors
 actor Denzel Washington
+actor Ruby Dee
 
-# genre
-genre Drama
+# director name
+director Ridley Scott
+

@@ -1,7 +1,0 @@
-# all of the actors
-actor Mitsuo Iwata
-actor Takeshi Kusao
-
-# director name
-director Katsuhiro Ôtomo
-

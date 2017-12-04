@@ -1,5 +1,7 @@
 # all of the actors
 actor Eleanor Parker
+actor Angela Cartwright
 
-# genre
-genre Family
+# director name
+director Robert Wise
+

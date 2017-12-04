@@ -1,7 +1,0 @@
-# all of the actors
-actor Jeanne Moreau
-actor Paul Scofield
-
-# director name
-director John Frankenheimer
-

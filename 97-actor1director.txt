@@ -1,5 +1,0 @@
-# all of the actors
-actor Leonardo DiCaprio
-actor Tom Hardy
-actor Joseph Gordon-Levitt
-

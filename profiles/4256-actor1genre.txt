@@ -1,5 +1,7 @@
 # all of the actors
 actor James Mason
+actor Shelley Winters
 
-# genre
-genre Romance
+# director name
+director Stanley Kubrick
+

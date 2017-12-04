@@ -1,5 +1,5 @@
 # all of the actors
 actor Leonardo DiCaprio
+actor Djimon Hounsou
+actor Stephen Collins
 
-# director name
-director Edward Zwick

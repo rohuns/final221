@@ -1,7 +1,0 @@
-# all of the actors
-actor Kathleen Freeman
-actor Chris Miller
-
-# director name
-director Andrew Adamson
-

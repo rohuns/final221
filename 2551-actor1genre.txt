@@ -1,7 +1,0 @@
-# all of the actors
-actor Ivana Baquero
-actor Maribel Verdú
-
-# director name
-director Guillermo del Toro
-

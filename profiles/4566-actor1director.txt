@@ -1,5 +1,5 @@
 # all of the actors
 actor Ed Begley Jr.
+actor Phyllis Diller
+actor Colette Divine
 
-# director name
-director Chris Paine

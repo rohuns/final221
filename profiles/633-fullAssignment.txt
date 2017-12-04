@@ -10,7 +10,7 @@ director Pierre Coffin
 rating PG
 
 # genre
-genre Animation
+genre Family
 
 # budget in dollars
 budget 69000000.0

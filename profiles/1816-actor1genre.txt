@@ -1,5 +1,7 @@
 # all of the actors
 actor Rufus Sewell
+actor William Hurt
 
-# genre
-genre Fantasy
+# director name
+director Alex Proyas
+

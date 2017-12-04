@@ -1,7 +1,0 @@
-# all of the actors
-actor Michael Biehn
-actor Carrie Henn
-
-# director name
-director James Cameron
-

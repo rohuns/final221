@@ -10,7 +10,7 @@ director Curtis Hanson
 rating R
 
 # genre
-genre Drama
+genre Mystery
 
 # budget in dollars
 budget 35000000.0

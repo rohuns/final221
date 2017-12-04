@@ -1,7 +1,0 @@
-# all of the actors
-actor Eileen Brennan
-actor Robert Shaw
-
-# director name
-director George Roy Hill
-

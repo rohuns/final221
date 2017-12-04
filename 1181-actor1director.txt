@@ -1,5 +1,0 @@
-# all of the actors
-actor Bruce Willis
-actor Haley Joel Osment
-actor Olivia Williams
-

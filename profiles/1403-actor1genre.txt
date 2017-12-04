@@ -1,5 +1,7 @@
 # all of the actors
 actor Catherine Dyer
+actor Quinton Aaron
 
-# genre
-genre Drama
+# director name
+director John Lee Hancock
+

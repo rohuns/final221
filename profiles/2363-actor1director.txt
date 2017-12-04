@@ -1,5 +1,5 @@
 # all of the actors
 actor Lea Thompson
+actor Thomas F. Wilson
+actor J.J. Cohen
 
-# director name
-director Robert Zemeckis

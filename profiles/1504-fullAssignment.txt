@@ -10,7 +10,7 @@ director Moustapha Akkad
 rating PG
 
 # genre
-genre Drama
+genre Biography
 
 # budget in dollars
 budget 35000000.0

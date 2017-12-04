@@ -1,7 +1,0 @@
-# all of the actors
-actor Al Pacino
-actor Marlon Brando
-
-# director name
-director Francis Ford Coppola
-

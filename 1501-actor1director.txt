@@ -1,5 +1,0 @@
-# all of the actors
-actor Delroy Lindo
-actor Jesse Borrego
-actor Raymond Cruz
-

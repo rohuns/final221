@@ -1,7 +1,0 @@
-# all of the actors
-actor Bill Murray
-actor Tom Wilkinson
-
-# director name
-director Wes Anderson
-

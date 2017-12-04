@@ -1,5 +1,7 @@
 # all of the actors
 actor Harrison Ford
+actor Ian McDiarmid
 
-# genre
-genre Sci-Fi
+# director name
+director Richard Marquand
+

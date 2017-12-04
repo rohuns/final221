@@ -1,5 +1,0 @@
-# all of the actors
-actor Janeane Garofalo
-actor John Ratzenberger
-actor Brian Dennehy
-

@@ -1,5 +1,7 @@
 # all of the actors
 actor Jason Statham
+actor Brad Pitt
 
-# genre
-genre Crime
+# director name
+director Guy Ritchie
+

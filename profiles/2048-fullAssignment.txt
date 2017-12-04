@@ -10,7 +10,7 @@ director Ruben Fleischer
 rating R
 
 # genre
-genre Comedy
+genre Sci-Fi
 
 # budget in dollars
 budget 23600000.0

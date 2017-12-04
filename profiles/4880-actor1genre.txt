@@ -1,5 +1,7 @@
 # all of the actors
 actor Sam Adams
+actor Steve Duin
 
-# genre
-genre Documentary
+# director name
+director Sam Martin
+

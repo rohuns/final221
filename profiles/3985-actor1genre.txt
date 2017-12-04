@@ -1,5 +1,7 @@
 # all of the actors
 actor Peter Graves
+actor Lloyd Bridges
 
-# genre
-genre Comedy
+# director name
+director Jim Abrahams
+

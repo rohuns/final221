@@ -1,7 +1,0 @@
-# all of the actors
-actor Suraj Sharma
-actor Rafe Spall
-
-# director name
-director Ang Lee
-

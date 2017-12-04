@@ -1,5 +1,7 @@
 # all of the actors
 actor Philip Seymour Hoffman
+actor Jeff Bridges
 
-# genre
-genre Comedy
+# director name
+director Joel Coen
+

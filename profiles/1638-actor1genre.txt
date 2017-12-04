@@ -1,5 +1,7 @@
 # all of the actors
 actor Benedict Cumberbatch
+actor Alfie Allen
 
-# genre
-genre Drama
+# director name
+director Joe Wright
+

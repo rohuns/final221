@@ -1,5 +1,7 @@
 # all of the actors
 actor Harrison Ford
+actor Sean Young
 
-# genre
-genre Sci-Fi
+# director name
+director Ridley Scott
+

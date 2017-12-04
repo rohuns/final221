@@ -10,7 +10,7 @@ director Jon Favreau
 rating PG-13
 
 # genre
-genre Sci-Fi
+genre Action
 
 # budget in dollars
 budget 140000000.0

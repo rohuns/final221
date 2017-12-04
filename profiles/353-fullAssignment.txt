@@ -10,7 +10,7 @@ director John Lasseter
 rating G
 
 # genre
-genre Fantasy
+genre Comedy
 
 # budget in dollars
 budget 90000000.0

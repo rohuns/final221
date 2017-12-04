@@ -1,5 +1,7 @@
 # all of the actors
 actor Shengyi Huang
+actor Chi Ling Chiu
 
-# genre
-genre Fantasy
+# director name
+director Stephen Chow
+

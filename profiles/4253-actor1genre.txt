@@ -1,5 +1,7 @@
 # all of the actors
 actor Robert Duvall
+actor Brock Peters
 
-# genre
-genre Drama
+# director name
+director Robert Mulligan
+

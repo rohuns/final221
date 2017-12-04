@@ -1,5 +1,0 @@
-# all of the actors
-actor John Belushi
-actor Aretha Franklin
-actor Ray Charles
-

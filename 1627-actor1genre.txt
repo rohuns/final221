@@ -1,7 +1,0 @@
-# all of the actors
-actor Kurt Fuller
-actor Audrey Fleurot
-
-# director name
-director Woody Allen
-

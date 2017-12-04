@@ -1,7 +1,0 @@
-# all of the actors
-actor Rudy Youngblood
-actor Dalia Hernández
-
-# director name
-director Mel Gibson
-

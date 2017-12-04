@@ -1,5 +1,7 @@
 # all of the actors
 actor Anthony Hopkins
+actor Antony Starr
 
-# genre
-genre Biography
+# director name
+director Roger Donaldson
+

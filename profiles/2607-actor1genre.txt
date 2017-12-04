@@ -1,5 +1,7 @@
 # all of the actors
 actor Colin Firth
+actor Jennifer Ehle
 
-# genre
-genre History
+# director name
+director Tom Hooper
+

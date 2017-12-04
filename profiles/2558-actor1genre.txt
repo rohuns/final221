@@ -1,5 +1,7 @@
 # all of the actors
 actor Bill Bailey
+actor Joe Cornish
 
-# genre
-genre Comedy
+# director name
+director Edgar Wright
+

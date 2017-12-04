@@ -1,5 +1,7 @@
 # all of the actors
 actor Donna Reed
+actor Lionel Barrymore
 
-# genre
-genre Romance
+# director name
+director Frank Capra
+

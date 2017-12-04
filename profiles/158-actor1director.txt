@@ -1,5 +1,5 @@
 # all of the actors
 actor Tom Cruise
+actor Tony Goldwyn
+actor Chad Lindberg
 
-# director name
-director Edward Zwick

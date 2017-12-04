@@ -1,5 +1,0 @@
-# all of the actors
-actor Robin Williams
-actor Josh Charles
-actor Kurtwood Smith
-

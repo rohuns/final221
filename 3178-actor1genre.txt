@@ -1,7 +1,0 @@
-# all of the actors
-actor Johannes Silberschneider
-actor Clotilde Mollet
-
-# director name
-director François Girard
-

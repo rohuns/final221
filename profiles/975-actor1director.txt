@@ -1,5 +1,5 @@
 # all of the actors
 actor Deborah Kara Unger
+actor Armin Mueller-Stahl
+actor Charles Martinet
 
-# director name
-director David Fincher

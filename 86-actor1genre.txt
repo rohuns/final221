@@ -1,7 +1,0 @@
-# all of the actors
-actor Scarlett Johansson
-actor Chris Evans
-
-# director name
-director Anthony Russo
-

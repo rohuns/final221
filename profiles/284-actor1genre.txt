@@ -1,5 +1,7 @@
 # all of the actors
 actor Tom Cruise
+actor Frank Grillo
 
-# genre
-genre Action
+# director name
+director Steven Spielberg
+

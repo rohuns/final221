@@ -1,7 +1,0 @@
-# all of the actors
-actor Sam Adams
-actor Steve Duin
-
-# director name
-director Sam Martin
-

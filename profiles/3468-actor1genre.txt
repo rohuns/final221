@@ -1,5 +1,7 @@
 # all of the actors
 actor Joseph Gordon-Levitt
+actor Chloë Grace Moretz
 
-# genre
-genre Drama
+# director name
+director Marc Webb
+

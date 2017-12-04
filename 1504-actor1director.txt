@@ -1,5 +1,0 @@
-# all of the actors
-actor Oliver Reed
-actor Rod Steiger
-actor John Gielgud
-

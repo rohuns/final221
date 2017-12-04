@@ -1,5 +1,7 @@
 # all of the actors
 actor Peter Robbins
+actor Bill Melendez
 
-# genre
-genre Comedy
+# director name
+director Bill Melendez
+

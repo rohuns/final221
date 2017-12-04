@@ -1,5 +1,0 @@
-# all of the actors
-actor Matthew McConaughey
-actor Jennifer Garner
-actor Denis O'Hare
-

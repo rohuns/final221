@@ -1,5 +1,5 @@
 # all of the actors
 actor Djimon Hounsou
+actor Connie Nielsen
+actor Oliver Reed
 
-# director name
-director Ridley Scott

@@ -1,5 +1,7 @@
 # all of the actors
 actor Tom Cruise
+actor Valeria Golino
 
-# genre
-genre Drama
+# director name
+director Barry Levinson
+

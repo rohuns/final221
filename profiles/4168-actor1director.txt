@@ -1,5 +1,5 @@
 # all of the actors
 actor Madeline Kahn
+actor David Huddleston
+actor Harvey Korman
 
-# director name
-director Mel Brooks

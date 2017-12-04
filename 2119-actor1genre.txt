@@ -1,7 +1,0 @@
-# all of the actors
-actor Gary Lewis
-actor Dany Boon
-
-# director name
-director Christian Carion
-

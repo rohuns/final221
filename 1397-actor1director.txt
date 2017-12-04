@@ -1,5 +1,0 @@
-# all of the actors
-actor Bradley Cooper
-actor Rob Riggle
-actor Mike Epps
-

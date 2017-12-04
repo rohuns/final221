@@ -1,5 +1,7 @@
 # all of the actors
 actor Denzel Washington
+actor Delroy Lindo
 
-# genre
-genre Drama
+# director name
+director Spike Lee
+

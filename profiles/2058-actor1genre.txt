@@ -1,5 +1,7 @@
 # all of the actors
 actor Scarlett Johansson
+actor Brian Johnson
 
-# genre
-genre Drama
+# director name
+director Spike Jonze
+

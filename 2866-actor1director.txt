@@ -1,5 +1,0 @@
-# all of the actors
-actor Joan Allen
-actor Jacob Tremblay
-actor Cas Anvar
-

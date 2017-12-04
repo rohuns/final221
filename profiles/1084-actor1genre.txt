@@ -1,5 +1,7 @@
 # all of the actors
 actor Hugh Jackman
+actor Jake Gyllenhaal
 
-# genre
-genre Crime
+# director name
+director Denis Villeneuve
+

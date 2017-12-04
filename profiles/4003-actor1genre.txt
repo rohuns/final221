@@ -1,5 +1,7 @@
 # all of the actors
 actor Ted Raimi
+actor Dan Hicks
 
-# genre
-genre Comedy
+# director name
+director Sam Raimi
+

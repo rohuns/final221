@@ -1,7 +1,0 @@
-# all of the actors
-actor Thomas Bo Larsen
-actor Alexandra Rapaport
-
-# director name
-director Thomas Vinterberg
-

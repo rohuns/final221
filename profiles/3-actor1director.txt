@@ -1,5 +1,5 @@
 # all of the actors
 actor Tom Hardy
+actor Christian Bale
+actor Joseph Gordon-Levitt
 
-# director name
-director Christopher Nolan

@@ -1,5 +1,5 @@
 # all of the actors
 actor Emma Stone
+actor Naomi Watts
+actor Merritt Wever
 
-# director name
-director Alejandro G. Iñárritu

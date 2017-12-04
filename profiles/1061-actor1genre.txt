@@ -1,5 +1,7 @@
 # all of the actors
 actor Donatas Banionis
+actor Anatoliy Solonitsyn
 
-# genre
-genre Drama
+# director name
+director Andrei Tarkovsky
+

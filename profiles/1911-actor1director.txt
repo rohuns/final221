@@ -1,5 +1,5 @@
 # all of the actors
 actor Jim Meskimen
+actor Paul F. Tompkins
+actor Kevin Breznahan
 
-# director name
-director Paul Thomas Anderson

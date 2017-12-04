@@ -1,7 +1,0 @@
-# all of the actors
-actor Sylvester Stallone
-actor Phylicia Rashad
-
-# director name
-director Ryan Coogler
-

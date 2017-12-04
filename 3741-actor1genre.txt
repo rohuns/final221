@@ -1,7 +1,0 @@
-# all of the actors
-actor Peter Serafinowicz
-actor Dylan Moran
-
-# director name
-director Edgar Wright
-

@@ -10,7 +10,7 @@ director Denis Villeneuve
 rating R
 
 # genre
-genre War
+genre Mystery
 
 # budget in dollars
 budget 6800000.0

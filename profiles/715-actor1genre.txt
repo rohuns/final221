@@ -1,5 +1,7 @@
 # all of the actors
 actor Patrick Fugit
+actor Sela Ward
 
-# genre
-genre Thriller
+# director name
+director David Fincher
+

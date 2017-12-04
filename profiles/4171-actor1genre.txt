@@ -1,5 +1,7 @@
 # all of the actors
 actor Rupert Graves
+actor Denholm Elliott
 
-# genre
-genre Drama
+# director name
+director James Ivory
+

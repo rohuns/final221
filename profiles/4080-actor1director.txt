@@ -1,5 +1,5 @@
 # all of the actors
 actor Montgomery Clift
+actor Walter Brennan
+actor Harry Carey Jr.
 
-# director name
-director Howard Hawks

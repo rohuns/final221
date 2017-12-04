@@ -1,5 +1,7 @@
 # all of the actors
 actor Robert Downey Jr.
+actor Jeff Bridges
 
-# genre
-genre Sci-Fi
+# director name
+director Jon Favreau
+

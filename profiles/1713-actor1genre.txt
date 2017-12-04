@@ -1,5 +1,7 @@
 # all of the actors
 actor Denzel Washington
+actor Morgan Freeman
 
-# genre
-genre War
+# director name
+director Edward Zwick
+

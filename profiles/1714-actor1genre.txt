@@ -1,5 +1,7 @@
 # all of the actors
 actor Robert De Niro
+actor Burt Young
 
-# genre
-genre Crime
+# director name
+director Sergio Leone
+

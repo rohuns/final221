@@ -1,7 +1,0 @@
-# all of the actors
-actor Yaphet Kotto
-actor Gloria Foster
-
-# director name
-director Michael Roemer
-

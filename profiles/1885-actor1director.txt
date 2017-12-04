@@ -1,5 +1,5 @@
 # all of the actors
 actor Kelly Macdonald
+actor Stephen Root
+actor Barry Corbin
 
-# director name
-director Ethan Coen

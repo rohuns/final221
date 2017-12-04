@@ -1,5 +1,7 @@
 # all of the actors
 actor Catherine Deneuve
+actor Gena Rowlands
 
-# genre
-genre War
+# director name
+director Vincent Paronnaud
+

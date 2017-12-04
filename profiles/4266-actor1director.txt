@@ -1,5 +1,5 @@
 # all of the actors
 actor Vernon Dobtcheff
+actor Albert Delpy
+actor Marie Pillet
 
-# director name
-director Richard Linklater

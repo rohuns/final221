@@ -10,7 +10,7 @@ director Rob Reiner
 rating PG
 
 # genre
-genre Drama
+genre Romance
 
 # budget in dollars
 budget 14000000.0

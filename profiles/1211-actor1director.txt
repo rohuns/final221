@@ -1,5 +1,5 @@
 # all of the actors
 actor Wes Studi
+actor Terry Kinney
+actor Eric Schweig
 
-# director name
-director Michael Mann

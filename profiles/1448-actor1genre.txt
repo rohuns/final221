@@ -1,5 +1,7 @@
 # all of the actors
 actor Emilia Fox
+actor Frank Finlay
 
-# genre
-genre War
+# director name
+director Roman Polanski
+

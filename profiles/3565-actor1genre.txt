@@ -1,5 +1,7 @@
 # all of the actors
 actor Merab Ninidze
+actor Juliane Köhler
 
-# genre
-genre Drama
+# director name
+director Caroline Link
+

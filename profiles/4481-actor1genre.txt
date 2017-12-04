@@ -1,5 +1,7 @@
 # all of the actors
 actor Roddy McDowall
+actor Walter Pidgeon
 
-# genre
-genre Family
+# director name
+director John Ford
+

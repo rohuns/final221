@@ -10,7 +10,7 @@ director Steven Spielberg
 rating R
 
 # genre
-genre War
+genre Drama
 
 # budget in dollars
 budget 70000000.0

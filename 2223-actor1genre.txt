@@ -1,7 +1,0 @@
-# all of the actors
-actor Kate Winslet
-actor Kirsten Dunst
-
-# director name
-director Michel Gondry
-

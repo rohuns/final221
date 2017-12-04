@@ -1,7 +1,0 @@
-# all of the actors
-actor Leonardo DiCaprio
-actor Tom Hanks
-
-# director name
-director Steven Spielberg
-

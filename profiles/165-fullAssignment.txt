@@ -10,7 +10,7 @@ director Zack Snyder
 rating R
 
 # genre
-genre Drama
+genre Mystery
 
 # budget in dollars
 budget 130000000.0

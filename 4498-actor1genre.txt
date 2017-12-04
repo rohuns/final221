@@ -1,7 +1,0 @@
-# all of the actors
-actor Clint Eastwood
-actor Luigi Pistilli
-
-# director name
-director Sergio Leone
-

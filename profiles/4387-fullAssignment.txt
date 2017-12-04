@@ -10,7 +10,7 @@ director Frank Capra
 rating Approved
 
 # genre
-genre Drama
+genre Romance
 
 # budget in dollars
 budget 1644736.0

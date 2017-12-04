@@ -1,5 +1,7 @@
 # all of the actors
 actor Joe Cocker
+actor Jimi Hendrix
 
-# genre
-genre Music
+# director name
+director Michael Wadleigh
+

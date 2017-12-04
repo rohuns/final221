@@ -1,5 +1,0 @@
-# all of the actors
-actor Gerard Butler
-actor Djimon Hounsou
-actor America Ferrera
-

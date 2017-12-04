@@ -10,7 +10,7 @@ director Martin Scorsese
 rating R
 
 # genre
-genre Drama
+genre Biography
 
 # budget in dollars
 budget 52000000.0

@@ -1,5 +1,7 @@
 # all of the actors
 actor Milla Jovovich
+actor Adam Goldberg
 
-# genre
-genre Comedy
+# director name
+director Richard Linklater
+

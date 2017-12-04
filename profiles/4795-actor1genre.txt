@@ -1,5 +1,7 @@
 # all of the actors
 actor Eric Idle
+actor Michael Palin
 
-# genre
-genre Fantasy
+# director name
+director Terry Gilliam
+

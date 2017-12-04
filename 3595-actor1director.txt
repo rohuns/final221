@@ -1,5 +1,0 @@
-# all of the actors
-actor Mark Margolis
-actor John D'Leo
-actor Ajay Naidu
-

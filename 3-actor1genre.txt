@@ -1,7 +1,0 @@
-# all of the actors
-actor Tom Hardy
-actor Christian Bale
-
-# director name
-director Christopher Nolan
-

@@ -1,5 +1,0 @@
-# all of the actors
-actor Aldis Hodge
-actor Neil Brown Jr.
-actor R. Marcos Taylor
-

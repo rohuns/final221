@@ -1,7 +1,0 @@
-# all of the actors
-actor Tom Hughes
-actor Tom Hollander
-
-# director name
-director Richard Curtis
-

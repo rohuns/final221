@@ -1,5 +1,7 @@
 # all of the actors
 actor Rosario Dawson
+actor Powers Boothe
 
-# genre
-genre Crime
+# director name
+director Frank Miller
+

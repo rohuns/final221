@@ -1,5 +1,7 @@
 # all of the actors
 actor Al Pacino
+actor F. Murray Abraham
 
-# genre
-genre Drama
+# director name
+director Brian De Palma
+

@@ -1,5 +1,7 @@
 # all of the actors
 actor Charlotte Rampling
+actor James Mason
 
-# genre
-genre Drama
+# director name
+director Sidney Lumet
+

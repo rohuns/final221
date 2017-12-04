@@ -1,5 +1,0 @@
-# all of the actors
-actor Bruce Willis
-actor Eric Stoltz
-actor Phil LaMarr
-

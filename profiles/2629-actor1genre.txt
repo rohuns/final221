@@ -1,5 +1,7 @@
 # all of the actors
 actor Robert De Niro
+actor Meryl Streep
 
-# genre
-genre Drama
+# director name
+director Michael Cimino
+

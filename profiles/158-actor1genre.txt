@@ -1,5 +1,7 @@
 # all of the actors
 actor Tom Cruise
+actor Tony Goldwyn
 
-# genre
-genre History
+# director name
+director Edward Zwick
+

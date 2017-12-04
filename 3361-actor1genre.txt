@@ -1,7 +1,0 @@
-# all of the actors
-actor Steve Carell
-actor Steven Christopher Parker
-
-# director name
-director Jonathan Dayton
-

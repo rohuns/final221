@@ -1,5 +1,7 @@
 # all of the actors
 actor Talulah Riley
+actor Brenda Blethyn
 
-# genre
-genre Romance
+# director name
+director Joe Wright
+

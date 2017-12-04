@@ -10,7 +10,7 @@ director Sylvain Chomet
 rating PG-13
 
 # genre
-genre Animation
+genre Drama
 
 # budget in dollars
 budget 9500000.0

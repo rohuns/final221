@@ -1,5 +1,7 @@
 # all of the actors
 actor Leonardo DiCaprio
+actor Matt Damon
 
-# genre
-genre Crime
+# director name
+director Martin Scorsese
+

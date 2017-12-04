@@ -1,5 +1,7 @@
 # all of the actors
 actor Madeline Carroll
+actor Rebecca De Mornay
 
-# genre
-genre Drama
+# director name
+director Rob Reiner
+

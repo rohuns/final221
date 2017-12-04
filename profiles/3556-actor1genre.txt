@@ -1,5 +1,7 @@
 # all of the actors
 actor John Cothran
+actor Lloyd Avery II
 
-# genre
-genre Drama
+# director name
+director John Singleton
+

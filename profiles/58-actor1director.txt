@@ -1,5 +1,5 @@
 # all of the actors
 actor John Ratzenberger
+actor Fred Willard
+actor Jeff Garlin
 
-# director name
-director Andrew Stanton

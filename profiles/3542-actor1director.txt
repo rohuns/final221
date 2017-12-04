@@ -1,5 +1,5 @@
 # all of the actors
 actor Milla Jovovich
+actor Adam Goldberg
+actor Cole Hauser
 
-# director name
-director Richard Linklater

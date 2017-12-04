@@ -10,7 +10,7 @@ director Neill Blomkamp
 rating R
 
 # genre
-genre Action
+genre Thriller
 
 # budget in dollars
 budget 30000000.0

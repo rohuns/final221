@@ -1,5 +1,5 @@
 # all of the actors
 actor Daniel Radcliffe
+actor Gary Oldman
+actor Rupert Grint
 
-# director name
-director Alfonso Cuarón

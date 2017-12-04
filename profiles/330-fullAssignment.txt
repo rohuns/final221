@@ -10,7 +10,7 @@ director Ridley Scott
 rating R
 
 # genre
-genre History
+genre War
 
 # budget in dollars
 budget 92000000.0

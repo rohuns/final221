@@ -1,5 +1,7 @@
 # all of the actors
 actor Bradley Cooper
+actor Rob Riggle
 
-# genre
-genre Comedy
+# director name
+director Todd Phillips
+

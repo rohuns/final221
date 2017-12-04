@@ -1,5 +1,7 @@
 # all of the actors
 actor Jake Gyllenhaal
+actor Michael Papajohn
 
-# genre
-genre Drama
+# director name
+director Dan Gilroy
+

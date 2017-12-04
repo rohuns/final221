@@ -1,5 +1,5 @@
 # all of the actors
 actor Steve Carell
+actor Miranda Cosgrove
+actor Jack McBrayer
 
-# director name
-director Pierre Coffin

@@ -1,5 +1,7 @@
 # all of the actors
 actor Matt Frewer
+actor Billy Crudup
 
-# genre
-genre Drama
+# director name
+director Zack Snyder
+

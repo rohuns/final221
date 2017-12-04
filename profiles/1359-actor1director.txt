@@ -1,5 +1,5 @@
 # all of the actors
 actor Wilford Brimley
+actor Richard Masur
+actor David Clennon
 
-# director name
-director John Carpenter

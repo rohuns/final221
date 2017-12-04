@@ -1,7 +1,0 @@
-# all of the actors
-actor Rumi Hiiragi
-actor Yûki Amami
-
-# director name
-director Hayao Miyazaki
-

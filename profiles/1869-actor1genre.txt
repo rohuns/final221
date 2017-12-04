@@ -1,5 +1,7 @@
 # all of the actors
 actor Clint Eastwood
+actor Dreama Walker
 
-# genre
-genre Drama
+# director name
+director Clint Eastwood
+

@@ -1,5 +1,0 @@
-# all of the actors
-actor Jennifer Lawrence
-actor Michael Fassbender
-actor Oliver Platt
-

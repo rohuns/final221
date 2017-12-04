@@ -1,5 +1,7 @@
 # all of the actors
 actor Brighton Sharbino
+actor Jake Busey
 
-# genre
-genre Family
+# director name
+director Frank Lotito
+

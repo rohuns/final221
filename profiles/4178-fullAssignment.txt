@@ -10,7 +10,7 @@ director Stanley Donen
 rating Approved
 
 # genre
-genre Comedy
+genre Romance
 
 # budget in dollars
 budget 2540800.0

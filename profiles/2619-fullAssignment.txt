@@ -10,7 +10,7 @@ director John Carpenter
 rating R
 
 # genre
-genre Thriller
+genre Horror
 
 # budget in dollars
 budget 300000.0

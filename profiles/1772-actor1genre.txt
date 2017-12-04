@@ -1,5 +1,7 @@
 # all of the actors
 actor Elizabeth McGovern
+actor Deborah Twiss
 
-# genre
-genre Comedy
+# director name
+director Matthew Vaughn
+

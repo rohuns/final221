@@ -10,7 +10,7 @@ director Oliver Stone
 rating R
 
 # genre
-genre History
+genre Drama
 
 # budget in dollars
 budget 40000000.0

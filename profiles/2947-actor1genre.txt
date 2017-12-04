@@ -1,5 +1,7 @@
 # all of the actors
 actor Shailene Woodley
+actor Sam Trammell
 
-# genre
-genre Drama
+# director name
+director Josh Boone
+

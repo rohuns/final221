@@ -10,7 +10,7 @@ director Michel Hazanavicius
 rating PG-13
 
 # genre
-genre Comedy
+genre Romance
 
 # budget in dollars
 budget 15000000.0

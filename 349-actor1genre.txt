@@ -1,7 +1,0 @@
-# all of the actors
-actor Holly Hunter
-actor Craig T. Nelson
-
-# director name
-director Brad Bird
-

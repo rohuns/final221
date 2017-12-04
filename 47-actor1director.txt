@@ -1,5 +1,0 @@
-# all of the actors
-actor Jennifer Lawrence
-actor Peter Dinklage
-actor Hugh Jackman
-

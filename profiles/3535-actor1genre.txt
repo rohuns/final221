@@ -1,5 +1,7 @@
 # all of the actors
 actor Norman Reedus
+actor David Della Rocco
 
-# genre
-genre Action
+# director name
+director Troy Duffy
+

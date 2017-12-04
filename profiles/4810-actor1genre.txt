@@ -1,5 +1,7 @@
 # all of the actors
 actor Lillian Gish
+actor Mae Marsh
 
-# genre
-genre Drama
+# director name
+director D.W. Griffith
+

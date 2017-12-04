@@ -1,5 +1,0 @@
-# all of the actors
-actor Holly Hunter
-actor Craig T. Nelson
-actor Lou Romano
-

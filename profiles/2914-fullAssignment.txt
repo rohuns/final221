@@ -10,7 +10,7 @@ director Je-kyu Kang
 rating R
 
 # genre
-genre Drama
+genre Action
 
 # budget in dollars
 budget 12800000.0

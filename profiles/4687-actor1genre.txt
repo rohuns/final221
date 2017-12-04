@@ -1,5 +1,7 @@
 # all of the actors
 actor Gary Cooper
+actor Lloyd Bridges
 
-# genre
-genre Thriller
+# director name
+director Fred Zinnemann
+

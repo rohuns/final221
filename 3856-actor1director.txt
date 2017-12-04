@@ -1,5 +1,0 @@
-# all of the actors
-actor Jan Decleir
-actor Fedja van Huêt
-actor Hans Kesting
-

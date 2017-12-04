@@ -1,5 +1,7 @@
 # all of the actors
 actor Zack Ward
+actor Darren McGavin
 
-# genre
-genre Comedy
+# director name
+director Bob Clark
+

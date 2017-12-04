@@ -1,5 +1,0 @@
-# all of the actors
-actor Sharlto Copley
-actor Jed Brophy
-actor Jason Cope
-

@@ -1,5 +1,7 @@
 # all of the actors
 actor Bill Murray
+actor Tom Wilkinson
 
-# genre
-genre Comedy
+# director name
+director Wes Anderson
+

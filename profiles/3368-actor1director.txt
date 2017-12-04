@@ -1,5 +1,5 @@
 # all of the actors
 actor Joseph Gordon-Levitt
+actor Anna Kendrick
+actor Bryce Dallas Howard
 
-# director name
-director Jonathan Levine

@@ -1,5 +1,7 @@
 # all of the actors
 actor Jake Gyllenhaal
+actor Anna Kendrick
 
-# genre
-genre Drama
+# director name
+director David Ayer
+

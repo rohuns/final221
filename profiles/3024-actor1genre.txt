@@ -1,5 +1,7 @@
 # all of the actors
 actor Harrison Ford
+actor Peter Cushing
 
-# genre
-genre Adventure
+# director name
+director George Lucas
+

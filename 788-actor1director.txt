@@ -1,5 +1,0 @@
-# all of the actors
-actor Philip Seymour Hoffman
-actor Zooey Deschanel
-actor Michael Angarano
-

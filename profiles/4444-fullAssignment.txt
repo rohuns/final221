@@ -10,7 +10,7 @@ director Frank Lotito
 rating PG-13
 
 # genre
-genre Family
+genre Drama
 
 # budget in dollars
 budget 2000000.0

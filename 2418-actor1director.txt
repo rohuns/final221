@@ -1,5 +1,0 @@
-# all of the actors
-actor Denzel Washington
-actor Morgan Freeman
-actor Matthew Broderick
-

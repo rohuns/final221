@@ -1,5 +1,0 @@
-# all of the actors
-actor Tom Hanks
-actor Paul Sanchez
-actor Nick Searcy
-

@@ -1,5 +1,7 @@
 # all of the actors
 actor Sandra Ellis Lafferty
+actor Dallas Roberts
 
-# genre
-genre Music
+# director name
+director James Mangold
+

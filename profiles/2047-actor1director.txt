@@ -1,5 +1,5 @@
 # all of the actors
 actor Christian Bale
+actor Blythe Danner
+actor Jean Simmons
 
-# director name
-director Hayao Miyazaki

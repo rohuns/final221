@@ -1,7 +1,0 @@
-# all of the actors
-actor Devin Ratray
-actor Bruce Dern
-
-# director name
-director Alexander Payne
-

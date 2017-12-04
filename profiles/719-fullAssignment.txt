@@ -10,7 +10,7 @@ director Peter Weir
 rating PG
 
 # genre
-genre Drama
+genre Sci-Fi
 
 # budget in dollars
 budget 60000000.0

@@ -1,7 +1,0 @@
-# all of the actors
-actor Donatas Banionis
-actor Anatoliy Solonitsyn
-
-# director name
-director Andrei Tarkovsky
-

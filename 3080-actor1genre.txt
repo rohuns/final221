@@ -1,7 +1,0 @@
-# all of the actors
-actor Henry Thomas
-actor Dee Wallace
-
-# director name
-director Steven Spielberg
-

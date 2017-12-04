@@ -1,7 +1,0 @@
-# all of the actors
-actor Harrison Ford
-actor Julian Glover
-
-# director name
-director Steven Spielberg
-

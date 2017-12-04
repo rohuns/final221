@@ -1,5 +1,7 @@
 # all of the actors
 actor Takashi Shimura
+actor Minoru Chiaki
 
-# genre
-genre Drama
+# director name
+director Akira Kurosawa
+

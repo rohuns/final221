@@ -10,7 +10,7 @@ director Brad Bird
 rating PG
 
 # genre
-genre Action
+genre Sci-Fi
 
 # budget in dollars
 budget 70000000.0

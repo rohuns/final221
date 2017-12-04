@@ -1,5 +1,0 @@
-# all of the actors
-actor Peter Ostrum
-actor Jack Albertson
-actor Julie Dawn Cole
-

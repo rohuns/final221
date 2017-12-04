@@ -1,5 +1,7 @@
 # all of the actors
 actor Yaphet Kotto
+actor Gloria Foster
 
-# genre
-genre Romance
+# director name
+director Michael Roemer
+

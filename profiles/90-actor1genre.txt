@@ -1,5 +1,7 @@
 # all of the actors
 actor Jack McBrayer
+actor Sarah Silverman
 
-# genre
-genre Adventure
+# director name
+director Rich Moore
+

@@ -10,7 +10,7 @@ director David O. Russell
 rating R
 
 # genre
-genre Biography
+genre Sport
 
 # budget in dollars
 budget 25000000.0

@@ -1,5 +1,7 @@
 # all of the actors
 actor John Ratzenberger
+actor Fred Willard
 
-# genre
-genre Family
+# director name
+director Andrew Stanton
+

@@ -1,5 +1,5 @@
 # all of the actors
 actor Jeffrey Jones
+actor F. Murray Abraham
+actor Tom Hulce
 
-# director name
-director Milos Forman

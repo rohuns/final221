@@ -1,5 +1,7 @@
 # all of the actors
 actor Logan Lerman
+actor Ezra Miller
 
-# genre
-genre Drama
+# director name
+director Stephen Chbosky
+

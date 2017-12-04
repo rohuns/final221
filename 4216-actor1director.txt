@@ -1,5 +1,0 @@
-# all of the actors
-actor Stephen Graham
-actor Joseph Gilgun
-actor Jack O'Connell
-

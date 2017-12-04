@@ -1,5 +1,0 @@
-# all of the actors
-actor Kevin Spacey
-actor Matt McCoy
-actor Paul Guilfoyle
-

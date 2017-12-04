@@ -10,7 +10,7 @@ director Hayao Miyazaki
 rating PG
 
 # genre
-genre Family
+genre Fantasy
 
 # budget in dollars
 budget 24000000.0

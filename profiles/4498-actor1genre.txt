@@ -1,5 +1,7 @@
 # all of the actors
 actor Clint Eastwood
+actor Luigi Pistilli
 
-# genre
-genre Western
+# director name
+director Sergio Leone
+

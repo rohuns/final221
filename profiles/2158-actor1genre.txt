@@ -1,5 +1,7 @@
 # all of the actors
 actor Anthony Hopkins
+actor Scott Glenn
 
-# genre
-genre Crime
+# director name
+director Jonathan Demme
+

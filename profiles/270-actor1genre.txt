@@ -1,5 +1,7 @@
 # all of the actors
 actor Christopher Lee
+actor Orlando Bloom
 
-# genre
-genre Action
+# director name
+director Peter Jackson
+

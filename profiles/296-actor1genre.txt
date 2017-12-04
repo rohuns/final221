@@ -1,5 +1,7 @@
 # all of the actors
 actor Leonardo DiCaprio
+actor Christoph Waltz
 
-# genre
-genre Drama
+# director name
+director Quentin Tarantino
+

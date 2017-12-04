@@ -1,5 +1,0 @@
-# all of the actors
-actor Sally Kirkland
-actor Jay O. Sanders
-actor Cheryl Penland
-

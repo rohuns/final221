@@ -1,5 +1,7 @@
 # all of the actors
 actor William Holden
+actor Sessue Hayakawa
 
-# genre
-genre War
+# director name
+director David Lean
+

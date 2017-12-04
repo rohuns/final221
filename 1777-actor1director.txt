@@ -1,5 +1,0 @@
-# all of the actors
-actor Harrison Ford
-actor Sean Young
-actor M. Emmet Walsh
-

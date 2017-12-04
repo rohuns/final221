@@ -1,5 +1,5 @@
 # all of the actors
 actor Mary McDonnell
+actor Michael Spears
+actor Maury Chaykin
 
-# director name
-director Kevin Costner

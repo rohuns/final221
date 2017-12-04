@@ -1,5 +1,7 @@
 # all of the actors
 actor Anthony Hopkins
+actor Anne Bancroft
 
-# genre
-genre Drama
+# director name
+director David Lynch
+

@@ -1,5 +1,7 @@
 # all of the actors
 actor Joan Allen
+actor Jacob Tremblay
 
-# genre
-genre Drama
+# director name
+director Lenny Abrahamson
+

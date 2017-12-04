@@ -10,7 +10,7 @@ director Robert Mulligan
 rating Not Rated
 
 # genre
-genre Drama
+genre Crime
 
 # budget in dollars
 budget 2000000.0

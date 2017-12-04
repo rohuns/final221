@@ -1,5 +1,7 @@
 # all of the actors
 actor Shah Rukh Khan
+actor Jimmy Shergill
 
-# genre
-genre Thriller
+# director name
+director Karan Johar
+

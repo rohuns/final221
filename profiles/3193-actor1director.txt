@@ -1,5 +1,5 @@
 # all of the actors
 actor Don Cheadle
+actor Loretta Devine
+actor Jennifer Esposito
 
-# director name
-director Paul Haggis

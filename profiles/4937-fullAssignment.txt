@@ -10,7 +10,7 @@ director Bill Melendez
 rating TV-G
 
 # genre
-genre Comedy
+genre Family
 
 # budget in dollars
 budget 150000.0

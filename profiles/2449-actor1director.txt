@@ -1,5 +1,5 @@
 # all of the actors
 actor Johnny Depp
+actor Bill Murray
+actor Martin Landau
 
-# director name
-director Tim Burton

@@ -1,5 +1,7 @@
 # all of the actors
 actor Bahare Seddiqi
+actor Amir Farrokh Hashemian
 
-# genre
-genre Family
+# director name
+director Majid Majidi
+

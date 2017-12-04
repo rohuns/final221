@@ -1,5 +1,7 @@
 # all of the actors
 actor Bill Maher
+actor Tal Bachman
 
-# genre
-genre Comedy
+# director name
+director Larry Charles
+

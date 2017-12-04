@@ -1,5 +1,7 @@
 # all of the actors
 actor Paul McCartney
+actor Ringo Starr
 
-# genre
-genre Comedy
+# director name
+director Richard Lester
+

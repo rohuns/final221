@@ -1,5 +1,0 @@
-# all of the actors
-actor Bradley Cooper
-actor Vin Diesel
-actor Djimon Hounsou
-

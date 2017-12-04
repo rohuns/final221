@@ -1,5 +1,5 @@
 # all of the actors
 actor Scarlett Johansson
+actor Bill Murray
+actor Catherine Lambert
 
-# director name
-director Sofia Coppola

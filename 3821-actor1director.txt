@@ -1,5 +1,0 @@
-# all of the actors
-actor Robert Duvall
-actor Dwight Yoakam
-actor J.T. Walsh
-

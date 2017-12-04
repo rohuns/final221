@@ -1,5 +1,7 @@
 # all of the actors
 actor Don Cheadle
+actor Loretta Devine
 
-# genre
-genre Crime
+# director name
+director Paul Haggis
+

@@ -1,5 +1,7 @@
 # all of the actors
 actor Henry Ian Cusick
+actor Alan Van Sprang
 
-# genre
-genre Drama
+# director name
+director Philip Saville
+

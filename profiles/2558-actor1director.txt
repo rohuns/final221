@@ -1,5 +1,5 @@
 # all of the actors
 actor Bill Bailey
+actor Joe Cornish
+actor Billie Whitelaw
 
-# director name
-director Edgar Wright

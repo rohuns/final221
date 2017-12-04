@@ -1,5 +1,5 @@
 # all of the actors
 actor Marlon Brando
+actor Karl Malden
+actor Kim Hunter
 
-# director name
-director Elia Kazan

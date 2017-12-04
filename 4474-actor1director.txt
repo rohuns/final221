@@ -1,5 +1,0 @@
-# all of the actors
-actor Laurence Olivier
-actor Joan Fontaine
-actor George Sanders
-

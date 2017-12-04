@@ -1,5 +1,7 @@
 # all of the actors
 actor Tom Berenger
+actor William Morgan Sheppard
 
-# genre
-genre Drama
+# director name
+director Ron Maxwell
+

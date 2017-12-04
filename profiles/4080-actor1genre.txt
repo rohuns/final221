@@ -1,5 +1,7 @@
 # all of the actors
 actor Montgomery Clift
+actor Walter Brennan
 
-# genre
-genre Adventure
+# director name
+director Howard Hawks
+

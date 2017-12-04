@@ -1,5 +1,0 @@
-# all of the actors
-actor Chris Hemsworth
-actor Olivia Wilde
-actor Alexandra Maria Lara
-

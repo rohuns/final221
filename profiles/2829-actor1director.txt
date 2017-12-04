@@ -1,5 +1,5 @@
 # all of the actors
 actor Thomas Kretschmann
+actor Bruno Ganz
+actor Alexandra Maria Lara
 
-# director name
-director Oliver Hirschbiegel

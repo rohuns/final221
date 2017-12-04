@@ -1,5 +1,5 @@
 # all of the actors
 actor Hugh Jackman
+actor Jake Gyllenhaal
+actor Dylan Minnette
 
-# director name
-director Denis Villeneuve

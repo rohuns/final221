@@ -1,5 +1,0 @@
-# all of the actors
-actor Ryan Gosling
-actor Christian Bale
-actor Charlie Talbert
-

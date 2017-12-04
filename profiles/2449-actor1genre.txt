@@ -1,5 +1,7 @@
 # all of the actors
 actor Johnny Depp
+actor Bill Murray
 
-# genre
-genre Comedy
+# director name
+director Tim Burton
+

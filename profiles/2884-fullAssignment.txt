@@ -10,7 +10,7 @@ director Stephen Chbosky
 rating PG-13
 
 # genre
-genre Drama
+genre Romance
 
 # budget in dollars
 budget 13000000.0

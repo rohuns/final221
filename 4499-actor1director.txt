@@ -1,5 +1,0 @@
-# all of the actors
-actor Alex Huszar
-actor Regina Casé
-actor Luis Miranda
-

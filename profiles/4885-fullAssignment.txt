@@ -10,7 +10,7 @@ director King Vidor
 rating Not Rated
 
 # genre
-genre War
+genre Romance
 
 # budget in dollars
 budget 245000.0

@@ -1,5 +1,7 @@
 # all of the actors
 actor Marlon Brando
+actor Karl Malden
 
-# genre
-genre Drama
+# director name
+director Elia Kazan
+

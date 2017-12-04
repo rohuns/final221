@@ -1,5 +1,0 @@
-# all of the actors
-actor Matt Damon
-actor Josh Hamilton
-actor Nicky Naudé
-

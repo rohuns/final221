@@ -1,5 +1,7 @@
 # all of the actors
 actor Don Cheadle
+actor Sophie Okonedo
 
-# genre
-genre History
+# director name
+director Terry George
+

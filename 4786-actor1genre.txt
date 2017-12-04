@@ -1,7 +1,0 @@
-# all of the actors
-actor Ginger Rogers
-actor Dick Powell
-
-# director name
-director Lloyd Bacon
-

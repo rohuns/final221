@@ -10,7 +10,7 @@ director Ridley Scott
 rating R
 
 # genre
-genre Romance
+genre Drama
 
 # budget in dollars
 budget 103000000.0

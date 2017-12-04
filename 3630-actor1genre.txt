@@ -1,7 +1,0 @@
-# all of the actors
-actor William Holden
-actor Warren Oates
-
-# director name
-director Sam Peckinpah
-

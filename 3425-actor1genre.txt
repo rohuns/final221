@@ -1,7 +1,0 @@
-# all of the actors
-actor Stephen McHattie
-actor Roy Dupuis
-
-# director name
-director Charles Binamé
-

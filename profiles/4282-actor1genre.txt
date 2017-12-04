@@ -1,5 +1,7 @@
 # all of the actors
 actor Julie Christie
+actor Brian Blessed
 
-# genre
-genre Drama
+# director name
+director Kenneth Branagh
+

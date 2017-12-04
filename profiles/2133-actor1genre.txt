@@ -1,5 +1,7 @@
 # all of the actors
 actor Minnie Driver
+actor Eric Idle
 
-# genre
-genre Comedy
+# director name
+director Trey Parker
+

@@ -1,5 +1,7 @@
 # all of the actors
 actor Isabelle Huppert
+actor Emmanuelle Riva
 
-# genre
-genre Drama
+# director name
+director Michael Haneke
+

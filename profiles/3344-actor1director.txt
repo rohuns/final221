@@ -1,5 +1,5 @@
 # all of the actors
 actor Shah Rukh Khan
+actor Jimmy Shergill
+actor Christopher B. Duncan
 
-# director name
-director Karan Johar

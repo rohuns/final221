@@ -1,5 +1,0 @@
-# all of the actors
-actor George C. Scott
-actor Slim Pickens
-actor Keenan Wynn
-

@@ -1,5 +1,7 @@
 # all of the actors
 actor Dennis Quaid
+actor Scott Glenn
 
-# genre
-genre History
+# director name
+director Philip Kaufman
+

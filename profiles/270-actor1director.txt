@@ -1,5 +1,5 @@
 # all of the actors
 actor Christopher Lee
+actor Orlando Bloom
+actor Billy Boyd
 
-# director name
-director Peter Jackson

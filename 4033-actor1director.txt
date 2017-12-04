@@ -1,5 +1,0 @@
-# all of the actors
-actor Thomas Bo Larsen
-actor Alexandra Rapaport
-actor Hana Shuan
-

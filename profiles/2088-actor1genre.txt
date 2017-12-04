@@ -1,5 +1,7 @@
 # all of the actors
 actor Candice Bergen
+actor Amrish Puri
 
-# genre
-genre History
+# director name
+director Richard Attenborough
+

@@ -1,5 +1,5 @@
 # all of the actors
 actor Florian Lukas
+actor Chulpan Khamatova
+actor Burghart Klaußner
 
-# director name
-director Wolfgang Becker

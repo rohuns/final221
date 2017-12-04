@@ -1,7 +1,0 @@
-# all of the actors
-actor Jean-Louis Trintignant
-actor Stefania Sandrelli
-
-# director name
-director Bernardo Bertolucci
-

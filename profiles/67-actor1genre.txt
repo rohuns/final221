@@ -1,5 +1,7 @@
 # all of the actors
 actor John Ratzenberger
+actor Delroy Lindo
 
-# genre
-genre Animation
+# director name
+director Pete Docter
+

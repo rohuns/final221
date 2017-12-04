@@ -1,5 +1,7 @@
 # all of the actors
 actor Lubna Azabal
+actor Mélissa Désormeaux-Poulin
 
-# genre
-genre War
+# director name
+director Denis Villeneuve
+

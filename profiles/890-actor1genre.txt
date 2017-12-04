@@ -1,5 +1,7 @@
 # all of the actors
 actor James Mason
+actor Shelley Winters
 
-# genre
-genre Crime
+# director name
+director Stanley Kubrick
+

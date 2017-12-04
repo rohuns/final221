@@ -1,5 +1,5 @@
 # all of the actors
 actor Robert Duvall
+actor Brock Peters
+actor William Windom
 
-# director name
-director Robert Mulligan

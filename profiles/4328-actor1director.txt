@@ -1,5 +1,5 @@
 # all of the actors
 actor Rita Hayworth
+actor Everett Sloane
+actor Ted de Corsia
 
-# director name
-director Orson Welles

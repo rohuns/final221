@@ -1,5 +1,5 @@
 # all of the actors
 actor Claude Rains
+actor Jean Arthur
+actor Thomas Mitchell
 
-# director name
-director Frank Capra

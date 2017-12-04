@@ -1,5 +1,0 @@
-# all of the actors
-actor Lee Marvin
-actor Woody Strode
-actor Vera Miles
-

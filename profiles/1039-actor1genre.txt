@@ -1,5 +1,7 @@
 # all of the actors
 actor Harrison Ford
+actor Julian Glover
 
-# genre
-genre Adventure
+# director name
+director Steven Spielberg
+

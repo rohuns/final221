@@ -1,7 +1,0 @@
-# all of the actors
-actor Henry Cavill
-actor David Kelly
-
-# director name
-director Matthew Vaughn
-

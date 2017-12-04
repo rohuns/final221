@@ -1,7 +1,0 @@
-# all of the actors
-actor Matt Damon
-actor Josh Hamilton
-
-# director name
-director Doug Liman
-

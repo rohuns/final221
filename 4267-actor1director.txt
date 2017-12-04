@@ -1,5 +1,0 @@
-# all of the actors
-actor Adriana Barraza
-actor Jorge Salinas
-actor Goya Toledo
-

@@ -1,5 +1,7 @@
 # all of the actors
 actor Brad Pitt
+actor Meat Loaf
 
-# genre
-genre Drama
+# director name
+director David Fincher
+

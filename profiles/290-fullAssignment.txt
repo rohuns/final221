@@ -10,7 +10,7 @@ director Ridley Scott
 rating R
 
 # genre
-genre Drama
+genre Crime
 
 # budget in dollars
 budget 100000000.0

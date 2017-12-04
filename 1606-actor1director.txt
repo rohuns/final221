@@ -1,5 +1,0 @@
-# all of the actors
-actor Ryan Gosling
-actor Kevin Connolly
-actor Gena Rowlands
-

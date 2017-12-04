@@ -1,7 +1,0 @@
-# all of the actors
-actor Candice Bergen
-actor Amrish Puri
-
-# director name
-director Richard Attenborough
-

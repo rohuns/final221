@@ -1,5 +1,7 @@
 # all of the actors
 actor Jean Harlow
+actor Marian Marsh
 
-# genre
-genre Drama
+# director name
+director Howard Hughes
+

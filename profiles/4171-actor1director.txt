@@ -1,5 +1,5 @@
 # all of the actors
 actor Rupert Graves
+actor Denholm Elliott
+actor Simon Callow
 
-# director name
-director James Ivory

@@ -1,5 +1,7 @@
 # all of the actors
 actor Emma Stone
+actor Bill Murray
 
-# genre
-genre Comedy
+# director name
+director Ruben Fleischer
+

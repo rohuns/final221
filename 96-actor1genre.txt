@@ -1,7 +1,0 @@
-# all of the actors
-actor Matthew McConaughey
-actor Anne Hathaway
-
-# director name
-director Christopher Nolan
-

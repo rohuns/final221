@@ -1,5 +1,7 @@
 # all of the actors
 actor Steve Carell
+actor Miranda Cosgrove
 
-# genre
-genre Animation
+# director name
+director Pierre Coffin
+

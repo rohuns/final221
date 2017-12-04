@@ -1,7 +1,0 @@
-# all of the actors
-actor Elina Alminas
-actor Sonoya Mizuno
-
-# director name
-director Alex Garland
-

@@ -1,5 +1,5 @@
 # all of the actors
 actor Joan Allen
+actor Jacob Tremblay
+actor Cas Anvar
 
-# director name
-director Lenny Abrahamson

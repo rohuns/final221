@@ -1,5 +1,5 @@
 # all of the actors
 actor Matt Damon
+actor Josh Hamilton
+actor Nicky Naudé
 
-# director name
-director Doug Liman

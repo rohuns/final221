@@ -1,7 +1,0 @@
-# all of the actors
-actor Judith O'Dea
-actor Duane Jones
-
-# director name
-director George A. Romero
-

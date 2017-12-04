@@ -1,5 +1,5 @@
 # all of the actors
 actor Paul McGill
+actor Philippe Petit
+actor Jean-Louis Blondeau
 
-# director name
-director James Marsh

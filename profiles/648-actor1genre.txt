@@ -1,5 +1,7 @@
 # all of the actors
 actor Tom Hanks
+actor Vin Diesel
 
-# genre
-genre War
+# director name
+director Steven Spielberg
+

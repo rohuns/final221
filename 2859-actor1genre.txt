@@ -1,7 +1,0 @@
-# all of the actors
-actor Willie Garson
-actor Orson Bean
-
-# director name
-director Spike Jonze
-

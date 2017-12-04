@@ -183,6 +183,8 @@ class BacktrackingSearch():
 
             if len(self.optimalAssignment) == 0 or weight >= self.optimalWeight:
                 if weight == self.optimalWeight:
+                    print 'found new optimal'
+                    print assignment
                     self.numOptimalAssignments += 1
                 else:
                     self.numOptimalAssignments = 1
@@ -258,7 +260,6 @@ class BacktrackingSearch():
                         g = genres_map[assignment['genre']]
 
                     rating = forest.predict([[randint(30000000, 40000000),content_r,d_name,a3_name,a2_name,a1_name,g]])[0]
-                    print assignment
                     self.backtrack(assignment, numAssigned + 1, rating * weight * deltaWeight)
                     # restore the previous domains
                     self.domains = localCopy

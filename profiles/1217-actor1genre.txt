@@ -1,5 +1,7 @@
 # all of the actors
 actor Sally Kirkland
+actor Jay O. Sanders
 
-# genre
-genre History
+# director name
+director Oliver Stone
+

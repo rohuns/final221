@@ -1,5 +1,7 @@
 # all of the actors
 actor Bruce Willis
+actor Bill Murray
 
-# genre
-genre Adventure
+# director name
+director Wes Anderson
+

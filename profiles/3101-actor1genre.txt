@@ -1,5 +1,7 @@
 # all of the actors
 actor Richard Burton
+actor Richard Beymer
 
-# genre
-genre War
+# director name
+director Ken Annakin
+

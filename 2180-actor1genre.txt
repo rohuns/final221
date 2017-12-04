@@ -1,7 +1,0 @@
-# all of the actors
-actor Roy Scheider
-actor Fernando Rey
-
-# director name
-director William Friedkin
-

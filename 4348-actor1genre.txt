@@ -1,7 +1,0 @@
-# all of the actors
-actor Khalid Abdalla
-actor Ahmed Hassan
-
-# director name
-director Jehane Noujaim
-

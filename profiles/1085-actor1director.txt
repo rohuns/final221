@@ -1,5 +1,5 @@
 # all of the actors
 actor Denzel Washington
+actor Snoop Dogg
+actor Tom Berenger
 
-# director name
-director Antoine Fuqua

@@ -1,5 +1,0 @@
-# all of the actors
-actor Henry Thomas
-actor Dee Wallace
-actor Peter Coyote
-

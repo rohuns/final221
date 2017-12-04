@@ -1,5 +1,0 @@
-# all of the actors
-actor Michael Biehn
-actor Brian Thompson
-actor Paul Winfield
-

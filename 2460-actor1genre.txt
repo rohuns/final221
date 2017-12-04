@@ -1,7 +1,0 @@
-# all of the actors
-actor Ulrich Tukur
-actor Burghart Klaußner
-
-# director name
-director Michael Haneke
-

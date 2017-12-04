@@ -1,5 +1,0 @@
-# all of the actors
-actor Suraj Sharma
-actor Rafe Spall
-actor Tabu
-

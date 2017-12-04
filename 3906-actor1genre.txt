@@ -1,7 +1,0 @@
-# all of the actors
-actor Ellar Coltrane
-actor Lorelei Linklater
-
-# director name
-director Richard Linklater
-

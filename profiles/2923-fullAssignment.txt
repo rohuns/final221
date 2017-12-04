@@ -10,7 +10,7 @@ director Nicholas Meyer
 rating PG
 
 # genre
-genre Action
+genre Adventure
 
 # budget in dollars
 budget 11000000.0

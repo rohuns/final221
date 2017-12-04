@@ -1,7 +1,0 @@
-# all of the actors
-actor Honor Blackman
-actor Gert Fröbe
-
-# director name
-director Guy Hamilton
-

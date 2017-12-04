@@ -10,7 +10,7 @@ director Hayao Miyazaki
 rating G
 
 # genre
-genre Family
+genre Adventure
 
 # budget in dollars
 budget 34000000.0

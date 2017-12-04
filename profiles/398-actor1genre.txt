@@ -1,5 +1,7 @@
 # all of the actors
 actor Matt Damon
+actor Joan Allen
 
-# genre
-genre Thriller
+# director name
+director Paul Greengrass
+

@@ -1,5 +1,7 @@
 # all of the actors
 actor Johnny Depp
+actor Tom Berenger
 
-# genre
-genre War
+# director name
+director Oliver Stone
+

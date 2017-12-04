@@ -10,7 +10,7 @@ director Joel Coen
 rating PG-13
 
 # genre
-genre Crime
+genre Adventure
 
 # budget in dollars
 budget 26000000.0

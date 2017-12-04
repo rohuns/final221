@@ -1,5 +1,7 @@
 # all of the actors
 actor Anthony Hopkins
+actor Peter Vaughan
 
-# genre
-genre Romance
+# director name
+director James Ivory
+

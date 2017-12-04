@@ -10,7 +10,7 @@ director Martin Scorsese
 rating R
 
 # genre
-genre Sport
+genre Biography
 
 # budget in dollars
 budget 18000000.0

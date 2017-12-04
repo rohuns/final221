@@ -1,5 +1,7 @@
 # all of the actors
 actor Julie Christie
+actor Klaus Kinski
 
-# genre
-genre War
+# director name
+director David Lean
+

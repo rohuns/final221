@@ -1,5 +1,5 @@
 # all of the actors
 actor John Belushi
+actor Aretha Franklin
+actor Ray Charles
 
-# director name
-director John Landis

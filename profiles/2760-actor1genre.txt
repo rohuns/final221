@@ -1,5 +1,7 @@
 # all of the actors
 actor Clint Eastwood
+actor Morgan Freeman
 
-# genre
-genre Western
+# director name
+director Clint Eastwood
+

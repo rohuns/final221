@@ -1,5 +1,0 @@
-# all of the actors
-actor Scarlett Johansson
-actor Bill Murray
-actor Garry Shandling
-

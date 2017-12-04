@@ -1,5 +1,7 @@
 # all of the actors
 actor Will Smith
+actor Rosario Dawson
 
-# genre
-genre Drama
+# director name
+director Gabriele Muccino
+

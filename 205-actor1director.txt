@@ -1,5 +1,0 @@
-# all of the actors
-actor Johnny Depp
-actor Orlando Bloom
-actor Jack Davenport
-

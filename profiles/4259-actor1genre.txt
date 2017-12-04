@@ -1,5 +1,7 @@
 # all of the actors
 actor Sebastian Koch
+actor Ulrich Mühe
 
-# genre
-genre Thriller
+# director name
+director Florian Henckel von Donnersmarck
+

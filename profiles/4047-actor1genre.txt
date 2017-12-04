@@ -1,5 +1,7 @@
 # all of the actors
 actor Honor Blackman
+actor Gert Fröbe
 
-# genre
-genre Thriller
+# director name
+director Guy Hamilton
+

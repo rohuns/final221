@@ -10,7 +10,7 @@ director Sidney Lumet
 rating R
 
 # genre
-genre Drama
+genre Romance
 
 # budget in dollars
 budget 3800000.0

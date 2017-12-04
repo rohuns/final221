@@ -1,5 +1,5 @@
 # all of the actors
 actor Sam Adams
+actor Steve Duin
+actor Jeff Jacob
 
-# director name
-director Sam Martin

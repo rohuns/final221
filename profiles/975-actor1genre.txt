@@ -1,5 +1,7 @@
 # all of the actors
 actor Deborah Kara Unger
+actor Armin Mueller-Stahl
 
-# genre
-genre Thriller
+# director name
+director David Fincher
+

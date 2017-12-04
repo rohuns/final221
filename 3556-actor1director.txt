@@ -1,5 +1,0 @@
-# all of the actors
-actor John Cothran
-actor Lloyd Avery II
-actor Na'Blonka Durden
-

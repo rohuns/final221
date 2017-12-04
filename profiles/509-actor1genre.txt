@@ -1,5 +1,7 @@
 # all of the actors
 actor Matthew Broderick
+actor Nathan Lane
 
-# genre
-genre Musical
+# director name
+director Roger Allers
+

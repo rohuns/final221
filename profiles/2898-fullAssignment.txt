@@ -10,7 +10,7 @@ director Tony Scott
 rating R
 
 # genre
-genre Thriller
+genre Romance
 
 # budget in dollars
 budget 13000000.0

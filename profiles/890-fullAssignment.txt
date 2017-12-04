@@ -10,7 +10,7 @@ director Stanley Kubrick
 rating Not Rated
 
 # genre
-genre Crime
+genre Drama
 
 # budget in dollars
 budget 2000000.0

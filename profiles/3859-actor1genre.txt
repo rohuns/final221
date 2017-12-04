@@ -1,5 +1,7 @@
 # all of the actors
 actor Min-sik Choi
+actor Yeong-ae Lee
 
-# genre
-genre Drama
+# director name
+director Chan-wook Park
+

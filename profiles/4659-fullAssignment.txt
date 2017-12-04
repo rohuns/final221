@@ -10,7 +10,7 @@ director Asghar Farhadi
 rating PG-13
 
 # genre
-genre Mystery
+genre Drama
 
 # budget in dollars
 budget 500000.0

@@ -1,5 +1,7 @@
 # all of the actors
 actor Callum Rennie
+actor Thomas Lennon
 
-# genre
-genre Thriller
+# director name
+director Christopher Nolan
+

@@ -1,5 +1,5 @@
 # all of the actors
 actor Matt Damon
+actor Jeff Bridges
+actor Bruce Green
 
-# director name
-director Ethan Coen

@@ -1,5 +1,5 @@
 # all of the actors
 actor Tom Cruise
+actor Valeria Golino
+actor Beth Grant
 
-# director name
-director Barry Levinson

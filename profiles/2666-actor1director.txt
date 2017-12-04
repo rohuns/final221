@@ -1,5 +1,5 @@
 # all of the actors
 actor Anthony Hopkins
+actor Peter Vaughan
+actor Ben Chaplin
 
-# director name
-director James Ivory

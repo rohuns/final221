@@ -1,5 +1,0 @@
-# all of the actors
-actor Mitsuo Iwata
-actor Takeshi Kusao
-actor Tesshô Genda
-

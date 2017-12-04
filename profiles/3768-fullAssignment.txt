@@ -10,7 +10,7 @@ director Duncan Jones
 rating R
 
 # genre
-genre Drama
+genre Mystery
 
 # budget in dollars
 budget 5000000.0

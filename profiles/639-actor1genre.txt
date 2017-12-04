@@ -1,5 +1,7 @@
 # all of the actors
 actor Al Pacino
+actor Rip Torn
 
-# genre
-genre Biography
+# director name
+director Michael Mann
+

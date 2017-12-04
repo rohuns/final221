@@ -1,5 +1,0 @@
-# all of the actors
-actor Bob Proctor
-actor Jack Canfield
-actor Eric Worre
-

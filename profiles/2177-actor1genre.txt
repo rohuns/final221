@@ -1,5 +1,7 @@
 # all of the actors
 actor Johnny Depp
+actor Dianne Wiest
 
-# genre
-genre Fantasy
+# director name
+director Tim Burton
+

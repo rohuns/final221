@@ -1,7 +1,0 @@
-# all of the actors
-actor Steve Carell
-actor Miranda Cosgrove
-
-# director name
-director Pierre Coffin
-

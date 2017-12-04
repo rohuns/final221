@@ -1,7 +1,0 @@
-# all of the actors
-actor Sebastian Koch
-actor Ulrich Mühe
-
-# director name
-director Florian Henckel von Donnersmarck
-

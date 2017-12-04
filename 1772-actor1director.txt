@@ -1,5 +1,0 @@
-# all of the actors
-actor Elizabeth McGovern
-actor Deborah Twiss
-actor Michael Rispoli
-

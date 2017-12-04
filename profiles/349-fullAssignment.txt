@@ -10,7 +10,7 @@ director Brad Bird
 rating PG
 
 # genre
-genre Action
+genre Family
 
 # budget in dollars
 budget 92000000.0

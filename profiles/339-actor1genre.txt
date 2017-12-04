@@ -1,5 +1,7 @@
 # all of the actors
 actor Orlando Bloom
+actor Billy Boyd
 
-# genre
-genre Action
+# director name
+director Peter Jackson
+

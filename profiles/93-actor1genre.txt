@@ -1,5 +1,7 @@
 # all of the actors
 actor Gerard Butler
+actor America Ferrera
 
-# genre
-genre Animation
+# director name
+director Dean DeBlois
+

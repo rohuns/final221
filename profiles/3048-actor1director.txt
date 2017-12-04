@@ -1,5 +1,5 @@
 # all of the actors
 actor Ryan O'Neal
+actor Steven Berkoff
+actor Hardy Krüger
 
-# director name
-director Stanley Kubrick

@@ -1,5 +1,5 @@
 # all of the actors
 actor Peter Dinklage
+actor Joe Lo Truglio
+actor Paula Garcés
 
-# director name
-director Tom McCarthy

@@ -1,5 +1,7 @@
 # all of the actors
 actor Toni Servillo
+actor Sabrina Ferilli
 
-# genre
-genre Drama
+# director name
+director Paolo Sorrentino
+

@@ -1,5 +1,7 @@
 # all of the actors
 actor John Cassavetes
+actor Mia Farrow
 
-# genre
-genre Drama
+# director name
+director Roman Polanski
+

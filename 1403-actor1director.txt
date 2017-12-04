@@ -1,5 +1,0 @@
-# all of the actors
-actor Catherine Dyer
-actor Quinton Aaron
-actor Kim Dickens
-

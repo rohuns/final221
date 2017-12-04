@@ -10,7 +10,7 @@ director Stephen Chow
 rating R
 
 # genre
-genre Fantasy
+genre Crime
 
 # budget in dollars
 budget 20000000.0

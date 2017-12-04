@@ -1,7 +1,0 @@
-# all of the actors
-actor Leonardo DiCaprio
-actor Tom Hardy
-
-# director name
-director Alejandro G. Iñárritu
-

@@ -1,5 +1,7 @@
 # all of the actors
 actor Robin Wright
+actor Carol Kane
 
-# genre
-genre Romance
+# director name
+director Rob Reiner
+

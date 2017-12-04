@@ -1,5 +1,7 @@
 # all of the actors
 actor Leonardo DiCaprio
+actor Matthew McConaughey
 
-# genre
-genre Drama
+# director name
+director Martin Scorsese
+

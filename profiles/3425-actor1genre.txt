@@ -1,5 +1,7 @@
 # all of the actors
 actor Stephen McHattie
+actor Roy Dupuis
 
-# genre
-genre Biography
+# director name
+director Charles Binamé
+

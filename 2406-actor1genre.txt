@@ -1,7 +1,0 @@
-# all of the actors
-actor Shane Black
-actor Bill Duke
-
-# director name
-director John McTiernan
-

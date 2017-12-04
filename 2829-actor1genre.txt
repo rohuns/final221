@@ -1,7 +1,0 @@
-# all of the actors
-actor Thomas Kretschmann
-actor Bruno Ganz
-
-# director name
-director Oliver Hirschbiegel
-

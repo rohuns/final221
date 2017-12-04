@@ -1,5 +1,0 @@
-# all of the actors
-actor Jack McBrayer
-actor Sarah Silverman
-actor Joe Lo Truglio
-

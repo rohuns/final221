@@ -1,5 +1,5 @@
 # all of the actors
 actor Ray Milland
+actor Jane Wyman
+actor Frank Faylen
 
-# director name
-director Billy Wilder

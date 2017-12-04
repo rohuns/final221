@@ -1,5 +1,0 @@
-# all of the actors
-actor Ted Raimi
-actor Dan Hicks
-actor Kassie Wesley DePaiva
-

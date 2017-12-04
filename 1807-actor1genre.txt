@@ -1,7 +1,0 @@
-# all of the actors
-actor John Belushi
-actor Aretha Franklin
-
-# director name
-director John Landis
-

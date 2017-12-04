@@ -1,5 +1,7 @@
 # all of the actors
 actor Devin Ratray
+actor Bruce Dern
 
-# genre
-genre Adventure
+# director name
+director Alexander Payne
+

@@ -1,5 +1,7 @@
 # all of the actors
 actor Richard Johnson
+actor Sheila Hancock
 
-# genre
-genre War
+# director name
+director Mark Herman
+

@@ -1,5 +1,5 @@
 # all of the actors
 actor Andrew Garfield
+actor Dustin Fitzsimons
+actor Marcella Lentz-Pope
 
-# director name
-director David Fincher

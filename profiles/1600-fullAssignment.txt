@@ -10,7 +10,7 @@ director David Fincher
 rating R
 
 # genre
-genre Crime
+genre Drama
 
 # budget in dollars
 budget 33000000.0

@@ -1,5 +1,7 @@
 # all of the actors
 actor Claude Rains
+actor Jean Arthur
 
-# genre
-genre Comedy
+# director name
+director Frank Capra
+

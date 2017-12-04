@@ -10,7 +10,7 @@ director Charles Chaplin
 rating G
 
 # genre
-genre Drama
+genre Family
 
 # budget in dollars
 budget 1500000.0

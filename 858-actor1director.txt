@@ -1,5 +1,0 @@
-# all of the actors
-actor Vivica A. Fox
-actor Michael Parks
-actor Michael Bowen
-

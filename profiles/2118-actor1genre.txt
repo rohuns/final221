@@ -1,5 +1,7 @@
 # all of the actors
 actor Michiel Huisman
+actor Sebastian Koch
 
-# genre
-genre Thriller
+# director name
+director Paul Verhoeven
+

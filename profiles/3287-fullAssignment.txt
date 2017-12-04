@@ -10,7 +10,7 @@ director Michael Moore
 rating PG-13
 
 # genre
-genre Documentary
+genre Drama
 
 # budget in dollars
 budget 9000000.0

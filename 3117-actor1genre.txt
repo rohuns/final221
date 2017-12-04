@@ -1,7 +1,0 @@
-# all of the actors
-actor Jason Statham
-actor Brad Pitt
-
-# director name
-director Guy Ritchie
-

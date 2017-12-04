@@ -1,7 +1,0 @@
-# all of the actors
-actor Belén Rueda
-actor Lola Dueñas
-
-# director name
-director Alejandro Amenábar
-

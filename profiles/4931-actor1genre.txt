@@ -1,5 +1,7 @@
 # all of the actors
 actor Glen Hansard
+actor Markéta Irglová
 
-# genre
-genre Drama
+# director name
+director John Carney
+

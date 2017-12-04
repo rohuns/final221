@@ -1,5 +1,7 @@
 # all of the actors
 actor Claudette Colbert
+actor Alan Hale
 
-# genre
-genre Comedy
+# director name
+director Frank Capra
+

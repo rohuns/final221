@@ -1,7 +1,0 @@
-# all of the actors
-actor Julie Christie
-actor Klaus Kinski
-
-# director name
-director David Lean
-

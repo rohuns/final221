@@ -1,5 +1,5 @@
 # all of the actors
 actor Brad Pitt
+actor Bernie Mac
+actor Elliott Gould
 
-# director name
-director Steven Soderbergh

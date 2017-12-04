@@ -1,5 +1,7 @@
 # all of the actors
 actor Oliver Reed
+actor Rod Steiger
 
-# genre
-genre Drama
+# director name
+director Moustapha Akkad
+

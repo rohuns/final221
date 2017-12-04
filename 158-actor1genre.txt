@@ -1,7 +1,0 @@
-# all of the actors
-actor Tom Cruise
-actor Tony Goldwyn
-
-# director name
-director Edward Zwick
-

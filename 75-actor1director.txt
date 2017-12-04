@@ -1,5 +1,0 @@
-# all of the actors
-actor Tom Cruise
-actor Lara Pulver
-actor Noah Taylor
-

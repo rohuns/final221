@@ -1,7 +1,0 @@
-# all of the actors
-actor Harrison Ford
-actor Ian McDiarmid
-
-# director name
-director Richard Marquand
-

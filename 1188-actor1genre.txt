@@ -1,7 +1,0 @@
-# all of the actors
-actor Lea Thompson
-actor Jeffrey Weissman
-
-# director name
-director Robert Zemeckis
-

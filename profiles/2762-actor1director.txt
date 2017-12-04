@@ -1,5 +1,5 @@
 # all of the actors
 actor Anil Kapoor
+actor Saurabh Shukla
+actor Ayush Mahesh Khedekar
 
-# director name
-director Danny Boyle

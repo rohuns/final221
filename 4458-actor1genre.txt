@@ -1,7 +1,0 @@
-# all of the actors
-actor Jason Statham
-actor Jason Flemyng
-
-# director name
-director Guy Ritchie
-

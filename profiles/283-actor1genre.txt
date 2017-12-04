@@ -1,5 +1,7 @@
 # all of the actors
 actor Djimon Hounsou
+actor Connie Nielsen
 
-# genre
-genre Romance
+# director name
+director Ridley Scott
+

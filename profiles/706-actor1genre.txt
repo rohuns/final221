@@ -1,5 +1,7 @@
 # all of the actors
 actor Craig Stark
+actor Jennifer Jason Leigh
 
-# genre
-genre Western
+# director name
+director Quentin Tarantino
+

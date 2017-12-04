@@ -1,5 +1,0 @@
-# all of the actors
-actor Denzel Washington
-actor Tom Hanks
-actor Jason Robards
-

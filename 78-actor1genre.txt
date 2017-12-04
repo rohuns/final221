@@ -1,7 +1,0 @@
-# all of the actors
-actor Amy Poehler
-actor Mindy Kaling
-
-# director name
-director Pete Docter
-

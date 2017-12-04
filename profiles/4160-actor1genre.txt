@@ -1,5 +1,7 @@
 # all of the actors
 actor Vidya Balan
+actor Sanjay Dutt
 
-# genre
-genre Drama
+# director name
+director Rajkumar Hirani
+

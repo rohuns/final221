@@ -1,7 +1,0 @@
-# all of the actors
-actor Shahab Hosseini
-actor Leila Hatami
-
-# director name
-director Asghar Farhadi
-

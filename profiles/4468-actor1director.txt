@@ -1,5 +1,5 @@
 # all of the actors
 actor Elina Abai Kyzy
+actor Aziz Muradillayev
+actor Mirlan Abdulayev
 
-# director name
-director Sadyk Sher-Niyaz

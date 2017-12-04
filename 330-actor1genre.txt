@@ -1,7 +1,0 @@
-# all of the actors
-actor Ioan Gruffudd
-actor Sam Shepard
-
-# director name
-director Ridley Scott
-

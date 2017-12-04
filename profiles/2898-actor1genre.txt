@@ -1,5 +1,7 @@
 # all of the actors
 actor Brad Pitt
+actor Gary Oldman
 
-# genre
-genre Thriller
+# director name
+director Tony Scott
+

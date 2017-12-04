@@ -1,5 +1,0 @@
-# all of the actors
-actor Ryan Gosling
-actor Albert Brooks
-actor Russ Tamblyn
-

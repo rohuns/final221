@@ -1,5 +1,7 @@
 # all of the actors
 actor Tom Hughes
+actor Tom Hollander
 
-# genre
-genre Fantasy
+# director name
+director Richard Curtis
+

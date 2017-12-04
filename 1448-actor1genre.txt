@@ -1,7 +1,0 @@
-# all of the actors
-actor Emilia Fox
-actor Frank Finlay
-
-# director name
-director Roman Polanski
-

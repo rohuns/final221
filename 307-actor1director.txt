@@ -1,5 +1,0 @@
-# all of the actors
-actor Leonardo DiCaprio
-actor Djimon Hounsou
-actor Stephen Collins
-

@@ -1,5 +1,7 @@
 # all of the actors
 actor Robin Williams
+actor Frank Welker
 
-# genre
-genre Fantasy
+# director name
+director Ron Clements
+

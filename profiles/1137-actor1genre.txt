@@ -1,5 +1,7 @@
 # all of the actors
 actor Clea DuVall
+actor Scoot McNairy
 
-# genre
-genre Biography
+# director name
+director Ben Affleck
+

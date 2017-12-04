@@ -1,5 +1,7 @@
 # all of the actors
 actor Katharine Ross
+actor Ted Cassidy
 
-# genre
-genre Western
+# director name
+director George Roy Hill
+

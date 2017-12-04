@@ -1,5 +1,0 @@
-# all of the actors
-actor Clint Eastwood
-actor Dreama Walker
-actor Ahney Her
-

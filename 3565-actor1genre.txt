@@ -1,7 +1,0 @@
-# all of the actors
-actor Merab Ninidze
-actor Juliane Köhler
-
-# director name
-director Caroline Link
-

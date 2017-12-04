@@ -1,7 +1,0 @@
-# all of the actors
-actor Ari Folman
-actor Ronny Dayag
-
-# director name
-director Ari Folman
-

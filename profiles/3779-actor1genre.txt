@@ -1,5 +1,7 @@
 # all of the actors
 actor Christian Bale
+actor Jennifer Jason Leigh
 
-# genre
-genre Drama
+# director name
+director Brad Anderson
+

@@ -1,5 +1,7 @@
 # all of the actors
 actor Shirley Jones
+actor Jean Simmons
 
-# genre
-genre Drama
+# director name
+director Richard Brooks
+

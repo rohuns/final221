@@ -1,7 +1,0 @@
-# all of the actors
-actor Jean-Paul Belmondo
-actor Anna Karina
-
-# director name
-director Jean-Luc Godard
-

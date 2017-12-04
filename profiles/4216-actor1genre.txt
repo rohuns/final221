@@ -1,5 +1,7 @@
 # all of the actors
 actor Stephen Graham
+actor Joseph Gilgun
 
-# genre
-genre Crime
+# director name
+director Shane Meadows
+

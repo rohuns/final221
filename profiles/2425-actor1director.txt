@@ -1,5 +1,5 @@
 # all of the actors
 actor Robert De Niro
+actor Cathy Moriarty
+actor Frank Vincent
 
-# director name
-director Martin Scorsese

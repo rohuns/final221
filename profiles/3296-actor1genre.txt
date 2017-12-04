@@ -1,5 +1,7 @@
 # all of the actors
 actor Brian Blessed
+actor Derek Jacobi
 
-# genre
-genre Biography
+# director name
+director Kenneth Branagh
+

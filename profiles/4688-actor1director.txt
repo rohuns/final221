@@ -1,5 +1,5 @@
 # all of the actors
 actor William Gates
+actor Arthur Agee
+actor Isiah Thomas
 
-# director name
-director Steve James

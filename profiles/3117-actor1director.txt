@@ -1,5 +1,5 @@
 # all of the actors
 actor Jason Statham
+actor Brad Pitt
+actor Jason Flemyng
 
-# director name
-director Guy Ritchie

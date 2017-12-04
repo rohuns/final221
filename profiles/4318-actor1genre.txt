@@ -1,5 +1,7 @@
 # all of the actors
 actor Rapulana Seiphemo
+actor Kenneth Nkosi
 
-# genre
-genre Action
+# director name
+director Ralph Ziman
+

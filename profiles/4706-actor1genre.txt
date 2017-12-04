@@ -1,5 +1,7 @@
 # all of the actors
 actor Ginger Rogers
+actor Edward Everett Horton
 
-# genre
-genre Musical
+# director name
+director Mark Sandrich
+

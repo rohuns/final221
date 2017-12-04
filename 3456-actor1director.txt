@@ -1,5 +1,0 @@
-# all of the actors
-actor Catherine Deneuve
-actor Gena Rowlands
-actor Danielle Darrieux
-

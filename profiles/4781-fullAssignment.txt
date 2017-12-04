@@ -10,7 +10,7 @@ director Paul Greengrass
 rating R
 
 # genre
-genre Drama
+genre War
 
 # budget in dollars
 budget 2000000.0

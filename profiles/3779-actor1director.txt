@@ -1,5 +1,5 @@
 # all of the actors
 actor Christian Bale
+actor Jennifer Jason Leigh
+actor Reg E. Cathey
 
-# director name
-director Brad Anderson

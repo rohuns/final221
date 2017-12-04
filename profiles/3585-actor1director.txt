@@ -1,5 +1,5 @@
 # all of the actors
 actor Ed Wynn
+actor Glynis Johns
+actor Elsa Lanchester
 
-# director name
-director Robert Stevenson

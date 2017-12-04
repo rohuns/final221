@@ -10,7 +10,7 @@ director Mike Newell
 rating R
 
 # genre
-genre Drama
+genre Crime
 
 # budget in dollars
 budget 35000000.0

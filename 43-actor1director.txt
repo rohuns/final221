@@ -1,5 +1,0 @@
-# all of the actors
-actor Tom Hanks
-actor John Ratzenberger
-actor Don Rickles
-

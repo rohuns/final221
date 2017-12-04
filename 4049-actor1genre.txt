@@ -1,7 +1,0 @@
-# all of the actors
-actor Donna Reed
-actor Lionel Barrymore
-
-# director name
-director Frank Capra
-

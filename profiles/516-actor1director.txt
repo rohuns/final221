@@ -1,5 +1,5 @@
 # all of the actors
 actor Jeff Bridges
+actor James Franco
+actor Mackenzie Foy
 
-# director name
-director Mark Osborne

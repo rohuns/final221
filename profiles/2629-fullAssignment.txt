@@ -10,7 +10,7 @@ director Michael Cimino
 rating R
 
 # genre
-genre Drama
+genre War
 
 # budget in dollars
 budget 15000000.0

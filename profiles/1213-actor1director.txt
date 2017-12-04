@@ -1,5 +1,5 @@
 # all of the actors
 actor Rosario Dawson
+actor Powers Boothe
+actor Jason Douglas
 
-# director name
-director Frank Miller

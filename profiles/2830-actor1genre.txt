@@ -1,5 +1,7 @@
 # all of the actors
 actor Belén Rueda
+actor Lola Dueñas
 
-# genre
-genre Romance
+# director name
+director Alejandro Amenábar
+

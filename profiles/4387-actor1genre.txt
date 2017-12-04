@@ -1,5 +1,7 @@
 # all of the actors
 actor Jean Arthur
+actor Ann Miller
 
-# genre
-genre Drama
+# director name
+director Frank Capra
+

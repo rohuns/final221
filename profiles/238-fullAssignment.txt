@@ -10,7 +10,7 @@ director Pete Docter
 rating G
 
 # genre
-genre Comedy
+genre Adventure
 
 # budget in dollars
 budget 115000000.0

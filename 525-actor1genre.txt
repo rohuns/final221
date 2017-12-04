@@ -1,7 +1,0 @@
-# all of the actors
-actor Charlie Hunnam
-actor Danny Huston
-
-# director name
-director Alfonso Cuarón
-

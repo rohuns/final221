@@ -10,7 +10,7 @@ director Brad Anderson
 rating R
 
 # genre
-genre Drama
+genre Thriller
 
 # budget in dollars
 budget 5000000.0

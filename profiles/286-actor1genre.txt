@@ -1,5 +1,7 @@
 # all of the actors
 actor Eva Green
+actor Tobias Menzies
 
-# genre
-genre Action
+# director name
+director Martin Campbell
+

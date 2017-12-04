@@ -1,7 +1,0 @@
-# all of the actors
-actor Denzel Washington
-actor Morgan Freeman
-
-# director name
-director Edward Zwick
-

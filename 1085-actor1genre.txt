@@ -1,7 +1,0 @@
-# all of the actors
-actor Denzel Washington
-actor Snoop Dogg
-
-# director name
-director Antoine Fuqua
-

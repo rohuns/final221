@@ -1,5 +1,0 @@
-# all of the actors
-actor Colin Firth
-actor Jennifer Ehle
-actor Derek Jacobi
-

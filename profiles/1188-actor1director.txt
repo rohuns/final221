@@ -1,5 +1,5 @@
 # all of the actors
 actor Lea Thompson
+actor Jeffrey Weissman
+actor Thomas F. Wilson
 
-# director name
-director Robert Zemeckis

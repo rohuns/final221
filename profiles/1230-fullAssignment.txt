@@ -10,7 +10,7 @@ director Kevin Reynolds
 rating PG-13
 
 # genre
-genre Action
+genre Adventure
 
 # budget in dollars
 budget 35000000.0

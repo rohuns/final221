@@ -1,5 +1,7 @@
 # all of the actors
 actor Tom Cruise
+actor Lara Pulver
 
-# genre
-genre Sci-Fi
+# director name
+director Doug Liman
+

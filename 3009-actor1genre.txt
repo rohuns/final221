@@ -1,7 +1,0 @@
-# all of the actors
-actor Ye Liu
-actor Yuanyuan Gao
-
-# director name
-director Chuan Lu
-

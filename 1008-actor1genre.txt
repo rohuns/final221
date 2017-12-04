@@ -1,7 +1,0 @@
-# all of the actors
-actor Vin Diesel
-actor Harry Connick Jr.
-
-# director name
-director Brad Bird
-

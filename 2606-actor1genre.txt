@@ -1,7 +1,0 @@
-# all of the actors
-actor Kevin Spacey
-actor Peter Gallagher
-
-# director name
-director Sam Mendes
-

@@ -1,5 +1,7 @@
 # all of the actors
 actor George C. Scott
+actor Slim Pickens
 
-# genre
-genre Comedy
+# director name
+director Stanley Kubrick
+

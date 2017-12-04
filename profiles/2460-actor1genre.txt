@@ -1,5 +1,7 @@
 # all of the actors
 actor Ulrich Tukur
+actor Burghart Klaußner
 
-# genre
-genre Mystery
+# director name
+director Michael Haneke
+

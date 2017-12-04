@@ -1,5 +1,0 @@
-# all of the actors
-actor Johannes Silberschneider
-actor Clotilde Mollet
-actor Carlo Cecchi
-

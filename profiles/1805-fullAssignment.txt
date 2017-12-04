@@ -10,7 +10,7 @@ director Jon Favreau
 rating PG
 
 # genre
-genre Fantasy
+genre Adventure
 
 # budget in dollars
 budget 175000000.0

@@ -1,7 +1,0 @@
-# all of the actors
-actor Tommy Sheppard
-actor Greg Speirs
-
-# director name
-director Marius A. Markevicius
-

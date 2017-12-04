@@ -1,5 +1,5 @@
 # all of the actors
 actor Philip Seymour Hoffman
+actor Rosario Dawson
+actor Aaron Stanford
 
-# director name
-director Spike Lee

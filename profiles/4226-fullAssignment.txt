@@ -10,7 +10,7 @@ director William Friedkin
 rating R
 
 # genre
-genre Crime
+genre Thriller
 
 # budget in dollars
 budget 1800000.0

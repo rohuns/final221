@@ -1,5 +1,7 @@
 # all of the actors
 actor Amy Poehler
+actor Mindy Kaling
 
-# genre
-genre Fantasy
+# director name
+director Pete Docter
+

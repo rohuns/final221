@@ -1,5 +1,7 @@
 # all of the actors
 actor Jeremy Brett
+actor Rex Harrison
 
-# genre
-genre Family
+# director name
+director George Cukor
+

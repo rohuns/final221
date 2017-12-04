@@ -1,7 +1,0 @@
-# all of the actors
-actor Toni Servillo
-actor Sabrina Ferilli
-
-# director name
-director Paolo Sorrentino
-

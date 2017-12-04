@@ -1,5 +1,7 @@
 # all of the actors
 actor Quentin Tarantino
+actor Steve Buscemi
 
-# genre
-genre Drama
+# director name
+director Quentin Tarantino
+

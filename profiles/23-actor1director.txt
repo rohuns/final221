@@ -1,5 +1,5 @@
 # all of the actors
 actor Aidan Turner
+actor Adam Brown
+actor James Nesbitt
 
-# director name
-director Peter Jackson

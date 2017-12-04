@@ -1,5 +1,7 @@
 # all of the actors
 actor Emma Stone
+actor Naomi Watts
 
-# genre
-genre Comedy
+# director name
+director Alejandro G. Iñárritu
+

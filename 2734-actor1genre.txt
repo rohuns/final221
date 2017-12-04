@@ -1,7 +1,0 @@
-# all of the actors
-actor Brigitte Helm
-actor Gustav Fröhlich
-
-# director name
-director Fritz Lang
-

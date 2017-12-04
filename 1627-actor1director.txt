@@ -1,5 +1,0 @@
-# all of the actors
-actor Kurt Fuller
-actor Audrey Fleurot
-actor Nina Arianda
-

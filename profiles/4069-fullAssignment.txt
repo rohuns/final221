@@ -10,7 +10,7 @@ director Billy Wilder
 rating Approved
 
 # genre
-genre Comedy
+genre Romance
 
 # budget in dollars
 budget 3000000.0

@@ -1,7 +1,0 @@
-# all of the actors
-actor Adriana Barraza
-actor Jorge Salinas
-
-# director name
-director Alejandro G. Iñárritu
-

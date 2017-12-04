@@ -1,5 +1,7 @@
 # all of the actors
 actor Jennifer Lawrence
+actor Robert De Niro
 
-# genre
-genre Comedy
+# director name
+director David O. Russell
+

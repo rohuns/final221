@@ -1,5 +1,7 @@
 # all of the actors
 actor Gary Cole
+actor Stephen Root
 
-# genre
-genre Comedy
+# director name
+director Mike Judge
+

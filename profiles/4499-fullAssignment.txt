@@ -10,7 +10,7 @@ director Anna Muylaert
 rating R
 
 # genre
-genre Drama
+genre Comedy
 
 # budget in dollars
 budget 4000000.0

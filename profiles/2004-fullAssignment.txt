@@ -10,7 +10,7 @@ director Giuseppe Tornatore
 rating R
 
 # genre
-genre Mystery
+genre Romance
 
 # budget in dollars
 budget 13500000.0

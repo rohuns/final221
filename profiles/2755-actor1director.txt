@@ -1,5 +1,5 @@
 # all of the actors
 actor Bill Murray
+actor Chris Elliott
+actor Willie Garson
 
-# director name
-director Harold Ramis

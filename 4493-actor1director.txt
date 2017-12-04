@@ -1,5 +1,0 @@
-# all of the actors
-actor Bruce Willis
-actor Morgan Freeman
-actor Dorian Missick
-

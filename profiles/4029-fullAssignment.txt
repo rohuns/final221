@@ -10,7 +10,7 @@ director Fernando Meirelles
 rating R
 
 # genre
-genre Crime
+genre Drama
 
 # budget in dollars
 budget 3300000.0

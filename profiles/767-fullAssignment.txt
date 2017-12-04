@@ -10,7 +10,7 @@ director Phil Lord
 rating PG
 
 # genre
-genre Animation
+genre Family
 
 # budget in dollars
 budget 60000000.0

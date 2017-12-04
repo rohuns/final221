@@ -10,7 +10,7 @@ director Michael Moore
 rating R
 
 # genre
-genre Documentary
+genre Crime
 
 # budget in dollars
 budget 4000000.0

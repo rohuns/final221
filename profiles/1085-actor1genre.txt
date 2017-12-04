@@ -1,5 +1,7 @@
 # all of the actors
 actor Denzel Washington
+actor Snoop Dogg
 
-# genre
-genre Crime
+# director name
+director Antoine Fuqua
+

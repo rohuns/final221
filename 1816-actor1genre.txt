@@ -1,7 +1,0 @@
-# all of the actors
-actor Rufus Sewell
-actor William Hurt
-
-# director name
-director Alex Proyas
-

@@ -1,5 +1,5 @@
 # all of the actors
 actor Wagner Moura
+actor Fernanda Machado
+actor André Ramiro
 
-# director name
-director José Padilha

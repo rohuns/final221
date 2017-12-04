@@ -1,7 +1,0 @@
-# all of the actors
-actor Gerard Butler
-actor Djimon Hounsou
-
-# director name
-director Dean DeBlois
-

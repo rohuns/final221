@@ -1,5 +1,7 @@
 # all of the actors
 actor Sissy Spacek
+actor Richard Farnsworth
 
-# genre
-genre Drama
+# director name
+director David Lynch
+

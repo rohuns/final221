@@ -1,5 +1,7 @@
 # all of the actors
 actor Shahab Hosseini
+actor Leila Hatami
 
-# genre
-genre Mystery
+# director name
+director Asghar Farhadi
+

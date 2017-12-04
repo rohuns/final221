@@ -1,5 +1,7 @@
 # all of the actors
 actor Keanu Reeves
+actor Peter Capaldi
 
-# genre
-genre Drama
+# director name
+director Stephen Frears
+

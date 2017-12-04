@@ -1,5 +1,7 @@
 # all of the actors
 actor Mark Margolis
+actor John D'Leo
 
-# genre
-genre Sport
+# director name
+director Darren Aronofsky
+

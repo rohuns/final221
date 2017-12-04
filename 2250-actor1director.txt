@@ -1,5 +1,0 @@
-# all of the actors
-actor Kristen Stewart
-actor William Hurt
-actor Hal Holbrook
-

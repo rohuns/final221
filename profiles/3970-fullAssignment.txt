@@ -10,7 +10,7 @@ director Victor Fleming
 rating G
 
 # genre
-genre Drama
+genre War
 
 # budget in dollars
 budget 3977000.0

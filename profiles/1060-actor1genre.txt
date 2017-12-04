@@ -1,5 +1,7 @@
 # all of the actors
 actor Sylvester Stallone
+actor Brian Dennehy
 
-# genre
-genre Action
+# director name
+director Ted Kotcheff
+

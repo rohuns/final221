@@ -1,5 +1,5 @@
 # all of the actors
 actor Keir Dullea
+actor Gary Lockwood
+actor Glenn Beck
 
-# director name
-director Stanley Kubrick

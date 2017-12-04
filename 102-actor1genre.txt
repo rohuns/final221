@@ -1,7 +1,0 @@
-# all of the actors
-actor Jennifer Lawrence
-actor Michael Fassbender
-
-# director name
-director Matthew Vaughn
-

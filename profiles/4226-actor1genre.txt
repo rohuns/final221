@@ -1,5 +1,7 @@
 # all of the actors
 actor Roy Scheider
+actor Fernando Rey
 
-# genre
-genre Crime
+# director name
+director William Friedkin
+

@@ -1,5 +1,0 @@
-# all of the actors
-actor Michael Moore
-actor Dick Clark
-actor Bill Clinton
-

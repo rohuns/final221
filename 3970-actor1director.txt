@@ -1,5 +1,0 @@
-# all of the actors
-actor Hattie McDaniel
-actor George Reeves
-actor Thomas Mitchell
-

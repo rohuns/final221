@@ -1,5 +1,7 @@
 # all of the actors
 actor Robert Duvall
+actor Faye Dunaway
 
-# genre
-genre Drama
+# director name
+director Sidney Lumet
+

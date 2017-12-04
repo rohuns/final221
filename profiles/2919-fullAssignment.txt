@@ -10,7 +10,7 @@ director Stéphane Aubier
 rating PG
 
 # genre
-genre Crime
+genre Comedy
 
 # budget in dollars
 budget 9600000.0

@@ -10,7 +10,7 @@ director Woody Allen
 rating R
 
 # genre
-genre Thriller
+genre Romance
 
 # budget in dollars
 budget 15000000.0

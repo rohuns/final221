@@ -1,5 +1,5 @@
 # all of the actors
 actor Holly Hunter
+actor Craig T. Nelson
+actor Lou Romano
 
-# director name
-director Brad Bird

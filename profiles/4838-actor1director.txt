@@ -1,5 +1,5 @@
 # all of the actors
 actor Yaphet Kotto
+actor Gloria Foster
+actor Ivan Dixon
 
-# director name
-director Michael Roemer

@@ -1,5 +1,5 @@
 # all of the actors
 actor Michael Moore
+actor Tucker Albrizzi
+actor Bill Clinton
 
-# director name
-director Michael Moore

@@ -1,5 +1,7 @@
 # all of the actors
 actor Rumi Hiiragi
+actor Yûki Amami
 
-# genre
-genre Family
+# director name
+director Hayao Miyazaki
+

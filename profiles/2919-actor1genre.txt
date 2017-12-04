@@ -1,5 +1,7 @@
 # all of the actors
 actor Mackenzie Foy
+actor Megan Mullally
 
-# genre
-genre Crime
+# director name
+director Stéphane Aubier
+

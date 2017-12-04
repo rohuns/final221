@@ -1,7 +1,0 @@
-# all of the actors
-actor Min-sik Choi
-actor Ji-tae Yu
-
-# director name
-director Chan-wook Park
-

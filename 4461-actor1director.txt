@@ -1,5 +1,0 @@
-# all of the actors
-actor Ulrich Thomsen
-actor Paprika Steen
-actor Trine Dyrholm
-

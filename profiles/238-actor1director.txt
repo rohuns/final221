@@ -1,5 +1,5 @@
 # all of the actors
 actor Steve Buscemi
+actor John Ratzenberger
+actor James Coburn
 
-# director name
-director Pete Docter

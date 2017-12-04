@@ -1,5 +1,7 @@
 # all of the actors
 actor Ed Wynn
+actor Glynis Johns
 
-# genre
-genre Fantasy
+# director name
+director Robert Stevenson
+

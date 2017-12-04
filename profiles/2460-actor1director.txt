@@ -1,5 +1,5 @@
 # all of the actors
 actor Ulrich Tukur
+actor Burghart Klaußner
+actor Leonie Benesch
 
-# director name
-director Michael Haneke

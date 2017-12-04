@@ -1,5 +1,5 @@
 # all of the actors
 actor Stephen McHattie
+actor Roy Dupuis
+actor Julie LeBreton
 
-# director name
-director Charles Binamé

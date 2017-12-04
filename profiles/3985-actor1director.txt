@@ -1,5 +1,5 @@
 # all of the actors
 actor Peter Graves
+actor Lloyd Bridges
+actor Barbara Billingsley
 
-# director name
-director Jim Abrahams

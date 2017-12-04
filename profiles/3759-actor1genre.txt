@@ -1,5 +1,7 @@
 # all of the actors
 actor Marie-Josée Croze
+actor Stéphane Rousseau
 
-# genre
-genre Romance
+# director name
+director Denys Arcand
+

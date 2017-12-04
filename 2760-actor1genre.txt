@@ -1,7 +1,0 @@
-# all of the actors
-actor Clint Eastwood
-actor Morgan Freeman
-
-# director name
-director Clint Eastwood
-

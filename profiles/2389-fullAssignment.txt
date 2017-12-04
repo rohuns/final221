@@ -10,7 +10,7 @@ director Terry Gilliam
 rating R
 
 # genre
-genre Comedy
+genre Drama
 
 # budget in dollars
 budget 18500000.0

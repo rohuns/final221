@@ -1,5 +1,7 @@
 # all of the actors
 actor Johnny Depp
+actor Al Pacino
 
-# genre
-genre Drama
+# director name
+director Mike Newell
+

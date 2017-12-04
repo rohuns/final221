@@ -1,7 +1,0 @@
-# all of the actors
-actor Matt Frewer
-actor Billy Crudup
-
-# director name
-director Zack Snyder
-

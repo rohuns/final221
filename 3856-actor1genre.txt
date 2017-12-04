@@ -1,7 +1,0 @@
-# all of the actors
-actor Jan Decleir
-actor Fedja van Huêt
-
-# director name
-director Mike van Diem
-

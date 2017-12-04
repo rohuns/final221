@@ -1,5 +1,7 @@
 # all of the actors
 actor Naomi Watts
+actor Robert Forster
 
-# genre
-genre Thriller
+# director name
+director David Lynch
+

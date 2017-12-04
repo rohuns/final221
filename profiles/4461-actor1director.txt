@@ -1,5 +1,5 @@
 # all of the actors
 actor Ulrich Thomsen
+actor Paprika Steen
+actor Trine Dyrholm
 
-# director name
-director Thomas Vinterberg

@@ -1,7 +1,0 @@
-# all of the actors
-actor Lillian Gish
-actor Mae Marsh
-
-# director name
-director D.W. Griffith
-

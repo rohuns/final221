@@ -1,5 +1,7 @@
 # all of the actors
 actor Minnie Driver
+actor Jada Pinkett Smith
 
-# genre
-genre Adventure
+# director name
+director Hayao Miyazaki
+

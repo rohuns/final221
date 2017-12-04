@@ -1,7 +1,0 @@
-# all of the actors
-actor Steve Buscemi
-actor John Ratzenberger
-
-# director name
-director Pete Docter
-

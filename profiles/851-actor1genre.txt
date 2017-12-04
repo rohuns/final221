@@ -1,5 +1,7 @@
 # all of the actors
 actor Will Smith
+actor Kurt Fuller
 
-# genre
-genre Biography
+# director name
+director Gabriele Muccino
+

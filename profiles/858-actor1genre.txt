@@ -1,5 +1,7 @@
 # all of the actors
 actor Vivica A. Fox
+actor Michael Parks
 
-# genre
-genre Drama
+# director name
+director Quentin Tarantino
+

@@ -1,5 +1,7 @@
 # all of the actors
 actor Scatman Crothers
+actor Michael Berryman
 
-# genre
-genre Drama
+# director name
+director Milos Forman
+

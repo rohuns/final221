@@ -10,7 +10,7 @@ director Stanley Kubrick
 rating G
 
 # genre
-genre Mystery
+genre Sci-Fi
 
 # budget in dollars
 budget 12000000.0

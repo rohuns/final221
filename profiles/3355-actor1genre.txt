@@ -1,5 +1,7 @@
 # all of the actors
 actor Bruce Willis
+actor Eric Stoltz
 
-# genre
-genre Crime
+# director name
+director Quentin Tarantino
+

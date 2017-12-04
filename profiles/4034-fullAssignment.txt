@@ -10,7 +10,7 @@ director Bob Clark
 rating PG
 
 # genre
-genre Comedy
+genre Family
 
 # budget in dollars
 budget 4000000.0

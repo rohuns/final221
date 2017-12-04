@@ -1,5 +1,0 @@
-# all of the actors
-actor Leonard Nimoy
-actor Kirstie Alley
-actor Nichelle Nichols
-

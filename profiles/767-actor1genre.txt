@@ -1,5 +1,7 @@
 # all of the actors
 actor Morgan Freeman
+actor Will Ferrell
 
-# genre
-genre Animation
+# director name
+director Phil Lord
+

@@ -1,7 +1,0 @@
-# all of the actors
-actor Craig Stark
-actor Jennifer Jason Leigh
-
-# director name
-director Quentin Tarantino
-

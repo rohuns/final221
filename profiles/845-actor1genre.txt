@@ -1,5 +1,7 @@
 # all of the actors
 actor Tom Hanks
+actor Chris Mulkey
 
-# genre
-genre Drama
+# director name
+director Paul Greengrass
+

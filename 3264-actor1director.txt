@@ -1,5 +1,0 @@
-# all of the actors
-actor Isabelle Huppert
-actor Emmanuelle Riva
-actor Jean-Louis Trintignant
-

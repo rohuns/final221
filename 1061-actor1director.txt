@@ -1,5 +1,0 @@
-# all of the actors
-actor Donatas Banionis
-actor Anatoliy Solonitsyn
-actor Natalya Bondarchuk
-

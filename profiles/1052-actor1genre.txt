@@ -1,5 +1,7 @@
 # all of the actors
 actor Christian Bale
+actor Logan Lerman
 
-# genre
-genre Drama
+# director name
+director James Mangold
+

@@ -1,5 +1,7 @@
 # all of the actors
 actor Fernanda Montenegro
+actor Matheus Nachtergaele
 
-# genre
-genre Drama
+# director name
+director Walter Salles
+

@@ -1,5 +1,7 @@
 # all of the actors
 actor Blair Underwood
+actor Xander Berkeley
 
-# genre
-genre Thriller
+# director name
+director Andrew Niccol
+

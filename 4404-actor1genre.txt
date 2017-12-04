@@ -1,7 +1,0 @@
-# all of the actors
-actor Claude Rains
-actor Jean Arthur
-
-# director name
-director Frank Capra
-

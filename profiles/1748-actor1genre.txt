@@ -1,5 +1,7 @@
 # all of the actors
 actor Aldis Hodge
+actor Neil Brown Jr.
 
-# genre
-genre History
+# director name
+director F. Gary Gray
+

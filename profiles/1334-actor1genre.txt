@@ -1,5 +1,7 @@
 # all of the actors
 actor Adam Baldwin
+actor Sean Maher
 
-# genre
-genre Adventure
+# director name
+director Joss Whedon
+

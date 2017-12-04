@@ -1,7 +1,0 @@
-# all of the actors
-actor Will Smith
-actor Kurt Fuller
-
-# director name
-director Gabriele Muccino
-

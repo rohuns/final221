@@ -10,7 +10,7 @@ director Brian De Palma
 rating R
 
 # genre
-genre Drama
+genre Crime
 
 # budget in dollars
 budget 25000000.0

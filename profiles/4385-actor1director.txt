@@ -1,5 +1,5 @@
 # all of the actors
 actor Nawazuddin Siddiqui
+actor Nimrat Kaur
+actor Lillete Dubey
 
-# director name
-director Ritesh Batra

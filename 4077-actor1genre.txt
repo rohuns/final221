@@ -1,7 +1,0 @@
-# all of the actors
-actor Maximilian Schell
-actor Montgomery Clift
-
-# director name
-director Stanley Kramer
-

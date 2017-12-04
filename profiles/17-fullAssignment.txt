@@ -10,7 +10,7 @@ director Joss Whedon
 rating PG-13
 
 # genre
-genre Sci-Fi
+genre Adventure
 
 # budget in dollars
 budget 220000000.0

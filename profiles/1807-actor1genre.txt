@@ -1,5 +1,7 @@
 # all of the actors
 actor John Belushi
+actor Aretha Franklin
 
-# genre
-genre Music
+# director name
+director John Landis
+

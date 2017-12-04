@@ -1,5 +1,7 @@
 # all of the actors
 actor Bob Proctor
+actor Jack Canfield
 
-# genre
-genre Documentary
+# director name
+director Joe Kenemore
+

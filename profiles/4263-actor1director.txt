@@ -1,5 +1,5 @@
 # all of the actors
 actor Michel Robin
+actor Charles Linton
+actor Béatrice Bonifassi
 
-# director name
-director Sylvain Chomet

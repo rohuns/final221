@@ -10,7 +10,7 @@ director Sidney Lumet
 rating Not Rated
 
 # genre
-genre Drama
+genre Crime
 
 # budget in dollars
 budget 350000.0

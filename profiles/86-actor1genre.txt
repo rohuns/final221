@@ -1,5 +1,7 @@
 # all of the actors
 actor Scarlett Johansson
+actor Chris Evans
 
-# genre
-genre Action
+# director name
+director Anthony Russo
+

@@ -1,5 +1,5 @@
 # all of the actors
 actor Eileen Brennan
+actor Robert Shaw
+actor Ray Walston
 
-# director name
-director George Roy Hill

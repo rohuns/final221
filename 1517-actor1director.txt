@@ -1,5 +1,0 @@
-# all of the actors
-actor Rumi Hiiragi
-actor Yûki Amami
-actor Yuria Nara
-

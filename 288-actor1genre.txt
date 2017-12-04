@@ -1,7 +1,0 @@
-# all of the actors
-actor Joe Morton
-actor Jenette Goldstein
-
-# director name
-director James Cameron
-

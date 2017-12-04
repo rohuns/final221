@@ -1,7 +1,0 @@
-# all of the actors
-actor Leonardo DiCaprio
-actor Matt Damon
-
-# director name
-director Martin Scorsese
-

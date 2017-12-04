@@ -1,5 +1,7 @@
 # all of the actors
 actor Ellen Burstyn
+actor Linda Blair
 
-# genre
-genre Horror
+# director name
+director William Friedkin
+

@@ -1,5 +1,7 @@
 # all of the actors
 actor Morgan Freeman
+actor Brad Pitt
 
-# genre
-genre Crime
+# director name
+director David Fincher
+

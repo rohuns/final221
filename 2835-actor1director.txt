@@ -1,5 +1,0 @@
-# all of the actors
-actor Natalie Portman
-actor Mila Kunis
-actor Mark Margolis
-

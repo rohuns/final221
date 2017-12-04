@@ -1,7 +1,0 @@
-# all of the actors
-actor Jake Gyllenhaal
-actor Michael Papajohn
-
-# director name
-director Dan Gilroy
-

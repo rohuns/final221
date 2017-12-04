@@ -10,7 +10,7 @@ director Howard Hawks
 rating Approved
 
 # genre
-genre Adventure
+genre Romance
 
 # budget in dollars
 budget 3000000.0

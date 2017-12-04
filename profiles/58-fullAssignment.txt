@@ -10,7 +10,7 @@ director Andrew Stanton
 rating G
 
 # genre
-genre Family
+genre Sci-Fi
 
 # budget in dollars
 budget 180000000.0

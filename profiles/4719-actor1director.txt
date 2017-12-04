@@ -1,5 +1,5 @@
 # all of the actors
 actor Paul McCartney
+actor Ringo Starr
+actor George Harrison
 
-# director name
-director Richard Lester

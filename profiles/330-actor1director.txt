@@ -1,5 +1,5 @@
 # all of the actors
 actor Ioan Gruffudd
+actor Sam Shepard
+actor Ewen Bremner
 
-# director name
-director Ridley Scott

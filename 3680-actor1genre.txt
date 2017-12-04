@@ -1,7 +1,0 @@
-# all of the actors
-actor Ruby Dee
-actor John Savage
-
-# director name
-director Spike Lee
-

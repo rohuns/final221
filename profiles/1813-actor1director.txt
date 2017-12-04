@@ -1,5 +1,5 @@
 # all of the actors
 actor Dennis Quaid
+actor Scott Glenn
+actor Sam Shepard
 
-# director name
-director Philip Kaufman

@@ -1,5 +1,5 @@
 # all of the actors
 actor Wayne Knight
+actor Ariana Richards
+actor Bob Peck
 
-# director name
-director Steven Spielberg

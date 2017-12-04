@@ -1,7 +1,0 @@
-# all of the actors
-actor John Doman
-actor Spencer Treat Clark
-
-# director name
-director Clint Eastwood
-

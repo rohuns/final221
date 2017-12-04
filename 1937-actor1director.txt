@@ -1,5 +1,0 @@
-# all of the actors
-actor Morgan Freeman
-actor Jeffrey DeMunn
-actor Bob Gunton
-

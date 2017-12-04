@@ -1,5 +1,5 @@
 # all of the actors
 actor Adam Goldberg
+actor Austin Pendleton
+actor Judd Hirsch
 
-# director name
-director Ron Howard

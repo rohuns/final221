@@ -1,5 +1,7 @@
 # all of the actors
 actor Sylvester Stallone
+actor Burgess Meredith
 
-# genre
-genre Sport
+# director name
+director John G. Avildsen
+

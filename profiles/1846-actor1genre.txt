@@ -1,5 +1,7 @@
 # all of the actors
 actor Holly Hunter
+actor Tim Blake Nelson
 
-# genre
-genre Crime
+# director name
+director Joel Coen
+

@@ -1,5 +1,5 @@
 # all of the actors
 actor Paulette Goddard
+actor Stanley Blystone
+actor Fred Malatesta
 
-# director name
-director Charles Chaplin

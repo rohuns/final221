@@ -1,5 +1,7 @@
 # all of the actors
 actor Khalid Abdalla
+actor Ahmed Hassan
 
-# genre
-genre Documentary
+# director name
+director Jehane Noujaim
+

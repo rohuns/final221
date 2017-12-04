@@ -1,5 +1,7 @@
 # all of the actors
 actor Peter Dinklage
+actor Joe Lo Truglio
 
-# genre
-genre Drama
+# director name
+director Tom McCarthy
+

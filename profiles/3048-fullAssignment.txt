@@ -10,7 +10,7 @@ director Stanley Kubrick
 rating PG
 
 # genre
-genre War
+genre History
 
 # budget in dollars
 budget 11000000.0

@@ -10,7 +10,7 @@ director Roman Polanski
 rating R
 
 # genre
-genre Drama
+genre Horror
 
 # budget in dollars
 budget 2300000.0

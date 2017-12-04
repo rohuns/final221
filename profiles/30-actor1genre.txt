@@ -1,5 +1,7 @@
 # all of the actors
 actor Albert Finney
+actor Helen McCrory
 
-# genre
-genre Adventure
+# director name
+director Sam Mendes
+

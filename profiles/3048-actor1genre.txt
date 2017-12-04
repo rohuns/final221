@@ -1,5 +1,7 @@
 # all of the actors
 actor Ryan O'Neal
+actor Steven Berkoff
 
-# genre
-genre War
+# director name
+director Stanley Kubrick
+

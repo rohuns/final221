@@ -10,7 +10,7 @@ director Lars von Trier
 rating R
 
 # genre
-genre Crime
+genre Drama
 
 # budget in dollars
 budget 12800000.0

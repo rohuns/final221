@@ -1,7 +1,0 @@
-# all of the actors
-actor Patricia Neal
-actor Melvyn Douglas
-
-# director name
-director Martin Ritt
-

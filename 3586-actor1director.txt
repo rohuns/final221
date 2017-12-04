@@ -1,5 +1,0 @@
-# all of the actors
-actor Adam Baldwin
-actor Elizabeth McGovern
-actor Judd Hirsch
-

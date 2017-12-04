@@ -1,5 +1,7 @@
 # all of the actors
 actor Nawazuddin Siddiqui
+actor Nimrat Kaur
 
-# genre
-genre Drama
+# director name
+director Ritesh Batra
+

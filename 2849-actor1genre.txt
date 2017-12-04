@@ -1,7 +1,0 @@
-# all of the actors
-actor Logan Lerman
-actor Eric Stoltz
-
-# director name
-director Eric Bress
-

@@ -1,5 +1,7 @@
 # all of the actors
 actor Michael Moore
+actor Tucker Albrizzi
 
-# genre
-genre Documentary
+# director name
+director Michael Moore
+

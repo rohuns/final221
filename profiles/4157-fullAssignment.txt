@@ -10,7 +10,7 @@ director Victor Fleming
 rating Passed
 
 # genre
-genre Musical
+genre Adventure
 
 # budget in dollars
 budget 2800000.0

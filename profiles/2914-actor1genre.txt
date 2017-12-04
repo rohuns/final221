@@ -1,5 +1,7 @@
 # all of the actors
 actor Min-sik Choi
+actor Bin Won
 
-# genre
-genre Drama
+# director name
+director Je-kyu Kang
+

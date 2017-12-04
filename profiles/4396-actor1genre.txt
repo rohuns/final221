@@ -1,5 +1,7 @@
 # all of the actors
 actor Harrison Ford
+actor Teri Garr
 
-# genre
-genre Thriller
+# director name
+director Francis Ford Coppola
+

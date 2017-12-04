@@ -1,7 +1,0 @@
-# all of the actors
-actor Tom Cruise
-actor Valeria Golino
-
-# director name
-director Barry Levinson
-

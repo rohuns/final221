@@ -1,5 +1,7 @@
 # all of the actors
 actor Holly Hunter
+actor Craig T. Nelson
 
-# genre
-genre Action
+# director name
+director Brad Bird
+

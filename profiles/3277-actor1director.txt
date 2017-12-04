@@ -1,5 +1,5 @@
 # all of the actors
 actor Tom Skerritt
+actor Yaphet Kotto
+actor Bolaji Badejo
 
-# director name
-director Ridley Scott

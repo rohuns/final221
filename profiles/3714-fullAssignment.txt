@@ -10,7 +10,7 @@ director Jean-Marc Vallée
 rating R
 
 # genre
-genre Biography
+genre Drama
 
 # budget in dollars
 budget 5000000.0

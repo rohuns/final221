@@ -1,5 +1,7 @@
 # all of the actors
 actor Wayne Knight
+actor Ariana Richards
 
-# genre
-genre Adventure
+# director name
+director Steven Spielberg
+

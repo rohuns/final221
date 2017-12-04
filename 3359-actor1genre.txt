@@ -1,7 +1,0 @@
-# all of the actors
-actor Eleanor Parker
-actor Angela Cartwright
-
-# director name
-director Robert Wise
-

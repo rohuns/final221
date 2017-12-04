@@ -1,5 +1,5 @@
 # all of the actors
 actor Ricardo Darín
+actor Gastón Pauls
+actor Leticia Brédice
 
-# director name
-director Fabián Bielinsky

@@ -1,5 +1,0 @@
-# all of the actors
-actor Steve Buscemi
-actor John Ratzenberger
-actor James Coburn
-

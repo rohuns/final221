@@ -1,5 +1,7 @@
 # all of the actors
 actor Bill Murray
+actor Chris Elliott
 
-# genre
-genre Comedy
+# director name
+director Harold Ramis
+

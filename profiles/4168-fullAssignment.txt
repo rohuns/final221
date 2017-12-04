@@ -10,7 +10,7 @@ director Mel Brooks
 rating R
 
 # genre
-genre Western
+genre Comedy
 
 # budget in dollars
 budget 2600000.0

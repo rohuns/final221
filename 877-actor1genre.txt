@@ -1,7 +1,0 @@
-# all of the actors
-actor Angelina Jolie Pitt
-actor Michael Kelly
-
-# director name
-director Clint Eastwood
-

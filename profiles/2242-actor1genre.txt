@@ -1,5 +1,7 @@
 # all of the actors
 actor Janet Leigh
+actor Vera Miles
 
-# genre
-genre Thriller
+# director name
+director Alfred Hitchcock
+

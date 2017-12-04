@@ -1,5 +1,7 @@
 # all of the actors
 actor Jet Li
+actor Tony Chiu Wai Leung
 
-# genre
-genre History
+# director name
+director Yimou Zhang
+

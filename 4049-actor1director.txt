@@ -1,5 +1,0 @@
-# all of the actors
-actor Donna Reed
-actor Lionel Barrymore
-actor Thomas Mitchell
-

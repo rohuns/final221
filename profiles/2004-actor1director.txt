@@ -1,5 +1,5 @@
 # all of the actors
 actor Jim Sturgess
+actor Sean Buchanan
+actor Liya Kebede
 
-# director name
-director Giuseppe Tornatore

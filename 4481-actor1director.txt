@@ -1,5 +1,0 @@
-# all of the actors
-actor Roddy McDowall
-actor Walter Pidgeon
-actor Barry Fitzgerald
-

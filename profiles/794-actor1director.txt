@@ -1,5 +1,5 @@
 # all of the actors
 actor Chris Hemsworth
+actor Robert Downey Jr.
+actor Scarlett Johansson
 
-# director name
-director Joss Whedon

@@ -1,7 +1,0 @@
-# all of the actors
-actor Roy Scheider
-actor Robert Shaw
-
-# director name
-director Steven Spielberg
-

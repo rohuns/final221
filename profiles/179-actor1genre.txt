@@ -1,5 +1,7 @@
 # all of the actors
 actor Leonardo DiCaprio
+actor Tom Hardy
 
-# genre
-genre Thriller
+# director name
+director Alejandro G. Iñárritu
+

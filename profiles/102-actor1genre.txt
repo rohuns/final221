@@ -1,5 +1,7 @@
 # all of the actors
 actor Jennifer Lawrence
+actor Michael Fassbender
 
-# genre
-genre Action
+# director name
+director Matthew Vaughn
+

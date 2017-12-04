@@ -1,7 +1,0 @@
-# all of the actors
-actor Elizabeth McGovern
-actor Deborah Twiss
-
-# director name
-director Matthew Vaughn
-

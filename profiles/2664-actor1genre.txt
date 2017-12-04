@@ -1,5 +1,7 @@
 # all of the actors
 actor Scarlett Johansson
+actor Mark Gatiss
 
-# genre
-genre Thriller
+# director name
+director Woody Allen
+

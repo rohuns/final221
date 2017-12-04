@@ -1,5 +1,5 @@
 # all of the actors
 actor George C. Scott
+actor Karl Malden
+actor Bill Hickman
 
-# director name
-director Franklin J. Schaffner

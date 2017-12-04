@@ -1,5 +1,7 @@
 # all of the actors
 actor Liv Ullmann
+actor Ingrid Thulin
 
-# genre
-genre Drama
+# director name
+director Ingmar Bergman
+

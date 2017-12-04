@@ -1,5 +1,7 @@
 # all of the actors
 actor Chris Hemsworth
+actor Robert Downey Jr.
 
-# genre
-genre Action
+# director name
+director Joss Whedon
+

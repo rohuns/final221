@@ -1,5 +1,0 @@
-# all of the actors
-actor Judith O'Dea
-actor Duane Jones
-actor S. William Hinzman
-

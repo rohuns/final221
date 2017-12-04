@@ -1,5 +1,5 @@
 # all of the actors
 actor Kate Winslet
+actor Kirsten Dunst
+actor Tom Wilkinson
 
-# director name
-director Michel Gondry

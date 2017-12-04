@@ -1,5 +1,5 @@
 # all of the actors
 actor Gary Cole
+actor Stephen Root
+actor Diedrich Bader
 
-# director name
-director Mike Judge

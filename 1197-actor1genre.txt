@@ -1,7 +1,0 @@
-# all of the actors
-actor Andrew Garfield
-actor Dustin Fitzsimons
-
-# director name
-director David Fincher
-

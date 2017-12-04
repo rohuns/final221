@@ -1,7 +1,0 @@
-# all of the actors
-actor Natalie Portman
-actor Mila Kunis
-
-# director name
-director Darren Aronofsky
-

@@ -1,5 +1,7 @@
 # all of the actors
 actor Matthew McConaughey
+actor Anne Hathaway
 
-# genre
-genre Sci-Fi
+# director name
+director Christopher Nolan
+

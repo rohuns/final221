@@ -1,5 +1,5 @@
 # all of the actors
 actor Ellar Coltrane
+actor Lorelei Linklater
+actor Libby Villari
 
-# director name
-director Richard Linklater

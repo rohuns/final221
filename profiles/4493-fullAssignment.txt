@@ -10,7 +10,7 @@ director Paul McGuigan
 rating R
 
 # genre
-genre Mystery
+genre Drama
 
 # budget in dollars
 budget 27000000.0

@@ -10,7 +10,7 @@ director David Lynch
 rating R
 
 # genre
-genre Thriller
+genre Drama
 
 # budget in dollars
 budget 15000000.0

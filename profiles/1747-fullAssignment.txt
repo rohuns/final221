@@ -10,7 +10,7 @@ director Ron Clements
 rating G
 
 # genre
-genre Fantasy
+genre Family
 
 # budget in dollars
 budget 28000000.0

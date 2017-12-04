@@ -1,5 +1,7 @@
 # all of the actors
 actor Oprah Winfrey
+actor Rae Dawn Chong
 
-# genre
-genre Drama
+# director name
+director Steven Spielberg
+

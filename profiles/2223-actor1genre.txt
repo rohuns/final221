@@ -1,5 +1,7 @@
 # all of the actors
 actor Kate Winslet
+actor Kirsten Dunst
 
-# genre
-genre Sci-Fi
+# director name
+director Michel Gondry
+

@@ -1,5 +1,5 @@
 # all of the actors
 actor Bill Murray
+actor Meryl Streep
+actor Helen McCrory
 
-# director name
-director Wes Anderson

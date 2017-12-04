@@ -1,7 +1,0 @@
-# all of the actors
-actor Gary Cooper
-actor Lloyd Bridges
-
-# director name
-director Fred Zinnemann
-

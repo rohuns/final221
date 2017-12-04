@@ -1,5 +1,5 @@
 # all of the actors
 actor Bérénice Bejo
+actor Ed Lauter
+actor Beth Grant
 
-# director name
-director Michel Hazanavicius

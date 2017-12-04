@@ -1,7 +1,0 @@
-# all of the actors
-actor Bradley Cooper
-actor Rob Riggle
-
-# director name
-director Todd Phillips
-

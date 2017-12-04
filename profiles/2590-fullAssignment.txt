@@ -10,7 +10,7 @@ director Lasse Hallström
 rating G
 
 # genre
-genre Family
+genre Drama
 
 # budget in dollars
 budget 16000000.0

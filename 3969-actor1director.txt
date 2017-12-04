@@ -1,5 +1,0 @@
-# all of the actors
-actor Robert Duvall
-actor Faye Dunaway
-actor William Holden
-

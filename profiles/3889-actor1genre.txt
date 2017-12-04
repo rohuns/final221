@@ -1,5 +1,7 @@
 # all of the actors
 actor Woody Allen
+actor Carol Kane
 
-# genre
-genre Comedy
+# director name
+director Woody Allen
+

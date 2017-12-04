@@ -1,7 +1,0 @@
-# all of the actors
-actor Ryan O'Neal
-actor Steven Berkoff
-
-# director name
-director Stanley Kubrick
-

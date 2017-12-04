@@ -1,5 +1,7 @@
 # all of the actors
 actor Joe Morton
+actor Jenette Goldstein
 
-# genre
-genre Action
+# director name
+director James Cameron
+

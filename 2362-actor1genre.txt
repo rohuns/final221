@@ -1,7 +1,0 @@
-# all of the actors
-actor Scatman Crothers
-actor Shelley Duvall
-
-# director name
-director Stanley Kubrick
-

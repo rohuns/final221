@@ -1,5 +1,7 @@
 # all of the actors
 actor Johannes Silberschneider
+actor Clotilde Mollet
 
-# genre
-genre Romance
+# director name
+director François Girard
+

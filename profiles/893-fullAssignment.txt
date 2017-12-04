@@ -10,7 +10,7 @@ director Gabriele Muccino
 rating PG-13
 
 # genre
-genre Drama
+genre Romance
 
 # budget in dollars
 budget 55000000.0

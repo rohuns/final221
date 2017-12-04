@@ -1,7 +1,0 @@
-# all of the actors
-actor Minnie Driver
-actor Eric Idle
-
-# director name
-director Trey Parker
-

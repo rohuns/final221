@@ -1,7 +1,0 @@
-# all of the actors
-actor Brighton Sharbino
-actor Jake Busey
-
-# director name
-director Frank Lotito
-

@@ -1,5 +1,7 @@
 # all of the actors
 actor Ryan Gosling
+actor Albert Brooks
 
-# genre
-genre Crime
+# director name
+director Nicolas Winding Refn
+

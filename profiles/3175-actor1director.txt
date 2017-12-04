@@ -1,5 +1,5 @@
 # all of the actors
 actor Ethan Suplee
+actor Beverly D'Angelo
+actor Stacy Keach
 
-# director name
-director Tony Kaye

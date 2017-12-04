@@ -1,5 +1,7 @@
 # all of the actors
 actor Kristen Stewart
+actor William Hurt
 
-# genre
-genre Drama
+# director name
+director Sean Penn
+

@@ -1,5 +1,7 @@
 # all of the actors
 actor Jennifer Lawrence
+actor Peter Dinklage
 
-# genre
-genre Fantasy
+# director name
+director Bryan Singer
+

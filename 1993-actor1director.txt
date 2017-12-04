@@ -1,5 +1,0 @@
-# all of the actors
-actor Anthony Hopkins
-actor Antony Starr
-actor Craig Hall
-

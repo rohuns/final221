@@ -10,7 +10,7 @@ director Clint Eastwood
 rating R
 
 # genre
-genre Western
+genre Drama
 
 # budget in dollars
 budget 14400000.0

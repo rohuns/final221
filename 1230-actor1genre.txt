@@ -1,7 +1,0 @@
-# all of the actors
-actor Henry Cavill
-actor James Frain
-
-# director name
-director Kevin Reynolds
-

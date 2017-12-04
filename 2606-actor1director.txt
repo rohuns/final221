@@ -1,5 +1,0 @@
-# all of the actors
-actor Kevin Spacey
-actor Peter Gallagher
-actor Ara Celi
-

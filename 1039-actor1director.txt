@@ -1,5 +1,0 @@
-# all of the actors
-actor Harrison Ford
-actor Julian Glover
-actor Alison Doody
-

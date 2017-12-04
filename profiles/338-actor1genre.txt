@@ -1,5 +1,7 @@
 # all of the actors
 actor Alexander Gould
+actor Stephen Root
 
-# genre
-genre Animation
+# director name
+director Andrew Stanton
+

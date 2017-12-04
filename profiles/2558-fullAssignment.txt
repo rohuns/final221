@@ -10,7 +10,7 @@ director Edgar Wright
 rating R
 
 # genre
-genre Comedy
+genre Action
 
 # budget in dollars
 budget 8000000.0

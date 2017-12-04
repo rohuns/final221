@@ -10,7 +10,7 @@ director Wes Anderson
 rating PG-13
 
 # genre
-genre Adventure
+genre Drama
 
 # budget in dollars
 budget 16000000.0

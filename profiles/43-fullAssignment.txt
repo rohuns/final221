@@ -10,7 +10,7 @@ director Lee Unkrich
 rating G
 
 # genre
-genre Fantasy
+genre Adventure
 
 # budget in dollars
 budget 200000000.0

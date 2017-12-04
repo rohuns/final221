@@ -1,7 +1,0 @@
-# all of the actors
-actor Ed Begley Jr.
-actor Phyllis Diller
-
-# director name
-director Chris Paine
-

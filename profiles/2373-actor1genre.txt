@@ -1,5 +1,7 @@
 # all of the actors
 actor Bunta Sugawara
+actor Ryûnosuke Kamiki
 
-# genre
-genre Fantasy
+# director name
+director Hayao Miyazaki
+

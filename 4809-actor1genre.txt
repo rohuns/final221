@@ -1,7 +1,0 @@
-# all of the actors
-actor Liv Ullmann
-actor Ingrid Thulin
-
-# director name
-director Ingmar Bergman
-

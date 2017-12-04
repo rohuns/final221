@@ -1,5 +1,7 @@
 # all of the actors
 actor Robin Wright
+actor Goran Visnjic
 
-# genre
-genre Thriller
+# director name
+director David Fincher
+

@@ -1,7 +1,0 @@
-# all of the actors
-actor Shengyi Huang
-actor Chi Ling Chiu
-
-# director name
-director Stephen Chow
-

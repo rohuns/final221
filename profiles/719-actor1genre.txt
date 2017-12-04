@@ -1,5 +1,7 @@
 # all of the actors
 actor Natascha McElhone
+actor Noah Emmerich
 
-# genre
-genre Drama
+# director name
+director Peter Weir
+

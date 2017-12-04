@@ -1,5 +1,0 @@
-# all of the actors
-actor Richard Johnson
-actor Sheila Hancock
-actor Cara Horgan
-

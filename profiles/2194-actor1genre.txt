@@ -1,5 +1,7 @@
 # all of the actors
 actor Billy Crudup
+actor Jamey Sheridan
 
-# genre
-genre Drama
+# director name
+director Tom McCarthy
+

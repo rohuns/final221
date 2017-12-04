@@ -1,5 +1,5 @@
 # all of the actors
 actor Brighton Sharbino
+actor Jake Busey
+actor Tim Guinee
 
-# director name
-director Frank Lotito

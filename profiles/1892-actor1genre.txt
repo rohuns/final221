@@ -1,5 +1,7 @@
 # all of the actors
 actor Michael Biehn
+actor Dana Delany
 
-# genre
-genre Romance
+# director name
+director George P. Cosmatos
+

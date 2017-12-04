@@ -1,5 +1,5 @@
 # all of the actors
 actor Joseph Gordon-Levitt
+actor Chloë Grace Moretz
+actor Zooey Deschanel
 
-# director name
-director Marc Webb

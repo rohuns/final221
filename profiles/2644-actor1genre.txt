@@ -1,5 +1,7 @@
 # all of the actors
 actor Claude Rains
+actor José Ferrer
 
-# genre
-genre War
+# director name
+director David Lean
+

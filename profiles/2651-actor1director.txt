@@ -1,5 +1,5 @@
 # all of the actors
 actor Robin Wright
+actor Carol Kane
+actor André the Giant
 
-# director name
-director Rob Reiner

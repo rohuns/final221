@@ -10,7 +10,7 @@ director David Lynch
 rating PG
 
 # genre
-genre Drama
+genre Biography
 
 # budget in dollars
 budget 5000000.0

@@ -1,7 +1,0 @@
-# all of the actors
-actor Denzel Washington
-actor Delroy Lindo
-
-# director name
-director Spike Lee
-

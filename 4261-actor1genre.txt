@@ -1,7 +1,0 @@
-# all of the actors
-actor George C. Scott
-actor Jackie Gleason
-
-# director name
-director Robert Rossen
-

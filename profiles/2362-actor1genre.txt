@@ -1,5 +1,7 @@
 # all of the actors
 actor Scatman Crothers
+actor Shelley Duvall
 
-# genre
-genre Horror
+# director name
+director Stanley Kubrick
+

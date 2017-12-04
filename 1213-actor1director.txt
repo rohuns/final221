@@ -1,5 +1,0 @@
-# all of the actors
-actor Rosario Dawson
-actor Powers Boothe
-actor Jason Douglas
-

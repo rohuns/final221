@@ -1,5 +1,7 @@
 # all of the actors
 actor Steve Buscemi
+actor John Ratzenberger
 
-# genre
-genre Comedy
+# director name
+director Pete Docter
+

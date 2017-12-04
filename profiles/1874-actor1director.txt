@@ -1,5 +1,5 @@
 # all of the actors
 actor Liam Neeson
+actor Embeth Davidtz
+actor Caroline Goodall
 
-# director name
-director Steven Spielberg

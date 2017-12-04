@@ -1,5 +1,5 @@
 # all of the actors
 actor Al Pacino
+actor Rip Torn
+actor Debi Mazar
 
-# director name
-director Michael Mann

@@ -10,7 +10,7 @@ director Katsuhiro Ôtomo
 rating R
 
 # genre
-genre Action
+genre Animation
 
 # budget in dollars
 budget 1100000000.0

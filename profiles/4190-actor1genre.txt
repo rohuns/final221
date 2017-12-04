@@ -1,5 +1,7 @@
 # all of the actors
 actor Hanno Pöschl
+actor Hans Weingartner
 
-# genre
-genre Drama
+# director name
+director Richard Linklater
+

@@ -10,7 +10,7 @@ director Norman Jewison
 rating G
 
 # genre
-genre Romance
+genre Musical
 
 # budget in dollars
 budget 9000000.0

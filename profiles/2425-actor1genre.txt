@@ -1,5 +1,7 @@
 # all of the actors
 actor Robert De Niro
+actor Cathy Moriarty
 
-# genre
-genre Sport
+# director name
+director Martin Scorsese
+

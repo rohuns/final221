@@ -1,7 +1,0 @@
-# all of the actors
-actor Patrick Fugit
-actor Sela Ward
-
-# director name
-director David Fincher
-

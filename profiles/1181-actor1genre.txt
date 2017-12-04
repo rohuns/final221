@@ -1,5 +1,7 @@
 # all of the actors
 actor Bruce Willis
+actor Haley Joel Osment
 
-# genre
-genre Mystery
+# director name
+director M. Night Shyamalan
+

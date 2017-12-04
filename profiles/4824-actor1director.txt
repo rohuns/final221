@@ -1,5 +1,5 @@
 # all of the actors
 actor Claudette Colbert
+actor Alan Hale
+actor Walter Connolly
 
-# director name
-director Frank Capra

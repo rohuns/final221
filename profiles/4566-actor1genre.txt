@@ -1,5 +1,7 @@
 # all of the actors
 actor Ed Begley Jr.
+actor Phyllis Diller
 
-# genre
-genre Documentary
+# director name
+director Chris Paine
+

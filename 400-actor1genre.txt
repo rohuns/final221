@@ -1,7 +1,0 @@
-# all of the actors
-actor Brad Pitt
-actor Bernie Mac
-
-# director name
-director Steven Soderbergh
-

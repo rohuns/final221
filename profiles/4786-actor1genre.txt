@@ -1,5 +1,7 @@
 # all of the actors
 actor Ginger Rogers
+actor Dick Powell
 
-# genre
-genre Romance
+# director name
+director Lloyd Bacon
+

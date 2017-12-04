@@ -10,7 +10,7 @@ director Alfonso Cuarón
 rating R
 
 # genre
-genre Thriller
+genre Sci-Fi
 
 # budget in dollars
 budget 76000000.0

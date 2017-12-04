@@ -1,5 +1,0 @@
-# all of the actors
-actor Natalie Portman
-actor Eddie Marsan
-actor Rupert Graves
-

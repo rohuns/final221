@@ -1,5 +1,7 @@
 # all of the actors
 actor Burl Ives
+actor Judith Anderson
 
-# genre
-genre Romance
+# director name
+director Richard Brooks
+

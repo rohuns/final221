@@ -1,5 +1,5 @@
 # all of the actors
 actor Johnny Depp
+actor Kate Winslet
+actor Kelly Macdonald
 
-# director name
-director Marc Forster

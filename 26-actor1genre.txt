@@ -1,7 +1,0 @@
-# all of the actors
-actor Leonardo DiCaprio
-actor Kate Winslet
-
-# director name
-director James Cameron
-

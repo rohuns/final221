@@ -1,7 +1,0 @@
-# all of the actors
-actor Paulette Goddard
-actor Stanley Blystone
-
-# director name
-director Charles Chaplin
-

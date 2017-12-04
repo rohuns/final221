@@ -1,7 +1,0 @@
-# all of the actors
-actor Benedict Cumberbatch
-actor Alfie Allen
-
-# director name
-director Joe Wright
-

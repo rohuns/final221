@@ -10,7 +10,7 @@ director Hayao Miyazaki
 rating PG
 
 # genre
-genre Fantasy
+genre Animation
 
 # budget in dollars
 budget 19000000.0

@@ -1,5 +1,7 @@
 # all of the actors
 actor Vernon Dobtcheff
+actor Albert Delpy
 
-# genre
-genre Romance
+# director name
+director Richard Linklater
+

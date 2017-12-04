@@ -1,5 +1,7 @@
 # all of the actors
 actor William Gates
+actor Arthur Agee
 
-# genre
-genre Documentary
+# director name
+director Steve James
+

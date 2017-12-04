@@ -10,7 +10,7 @@ director George Cukor
 rating Approved
 
 # genre
-genre Family
+genre Romance
 
 # budget in dollars
 budget 17000000.0

@@ -1,5 +1,7 @@
 # all of the actors
 actor Harrison Ford
+actor Kenny Baker
 
-# genre
-genre Sci-Fi
+# director name
+director Irvin Kershner
+

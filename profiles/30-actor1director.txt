@@ -1,5 +1,5 @@
 # all of the actors
 actor Albert Finney
+actor Helen McCrory
+actor Rory Kinnear
 
-# director name
-director Sam Mendes

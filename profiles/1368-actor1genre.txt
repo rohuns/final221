@@ -1,5 +1,7 @@
 # all of the actors
 actor Sylvester Stallone
+actor Phylicia Rashad
 
-# genre
-genre Drama
+# director name
+director Ryan Coogler
+

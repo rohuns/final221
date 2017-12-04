@@ -1,5 +1,7 @@
 # all of the actors
 actor Lea Thompson
+actor Thomas F. Wilson
 
-# genre
-genre Sci-Fi
+# director name
+director Robert Zemeckis
+

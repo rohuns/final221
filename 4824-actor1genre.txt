@@ -1,7 +1,0 @@
-# all of the actors
-actor Claudette Colbert
-actor Alan Hale
-
-# director name
-director Frank Capra
-

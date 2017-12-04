@@ -1,7 +1,0 @@
-# all of the actors
-actor Sissy Spacek
-actor Richard Farnsworth
-
-# director name
-director David Lynch
-

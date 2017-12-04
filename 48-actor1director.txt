@@ -1,5 +1,0 @@
-# all of the actors
-actor Benedict Cumberbatch
-actor Bruce Greenwood
-actor Noel Clarke
-

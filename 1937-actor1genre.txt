@@ -1,7 +1,0 @@
-# all of the actors
-actor Morgan Freeman
-actor Jeffrey DeMunn
-
-# director name
-director Frank Darabont
-

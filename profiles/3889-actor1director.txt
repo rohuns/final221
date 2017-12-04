@@ -1,5 +1,5 @@
 # all of the actors
 actor Woody Allen
+actor Carol Kane
+actor Shelley Duvall
 
-# director name
-director Woody Allen

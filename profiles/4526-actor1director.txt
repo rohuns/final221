@@ -1,5 +1,5 @@
 # all of the actors
 actor Humphrey Bogart
+actor Claude Rains
+actor Conrad Veidt
 
-# director name
-director Michael Curtiz

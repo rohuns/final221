@@ -1,7 +1,0 @@
-# all of the actors
-actor Orlando Bloom
-actor Billy Boyd
-
-# director name
-director Peter Jackson
-

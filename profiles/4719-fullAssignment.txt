@@ -10,7 +10,7 @@ director Richard Lester
 rating Approved
 
 # genre
-genre Comedy
+genre Musical
 
 # budget in dollars
 budget 560000.0

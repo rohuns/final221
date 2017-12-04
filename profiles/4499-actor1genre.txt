@@ -1,5 +1,7 @@
 # all of the actors
 actor Alex Huszar
+actor Regina Casé
 
-# genre
-genre Drama
+# director name
+director Anna Muylaert
+

@@ -1,5 +1,7 @@
 # all of the actors
 actor Michael Biehn
+actor Brian Thompson
 
-# genre
-genre Action
+# director name
+director James Cameron
+

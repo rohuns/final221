@@ -1,5 +1,0 @@
-# all of the actors
-actor Peter Dinklage
-actor Joe Lo Truglio
-actor Paula Garcés
-

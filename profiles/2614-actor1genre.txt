@@ -1,5 +1,7 @@
 # all of the actors
 actor Benedict Cumberbatch
+actor Rory Kinnear
 
-# genre
-genre Drama
+# director name
+director Morten Tyldum
+

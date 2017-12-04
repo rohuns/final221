@@ -1,5 +1,0 @@
-# all of the actors
-actor Oprah Winfrey
-actor Rae Dawn Chong
-actor Dana Ivey
-

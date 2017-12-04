@@ -1,7 +1,0 @@
-# all of the actors
-actor Collin Alfredo St. Dic
-actor Balinese Tari Legong Dancers
-
-# director name
-director Ron Fricke
-

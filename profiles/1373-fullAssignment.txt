@@ -10,7 +10,7 @@ director Ron Howard
 rating R
 
 # genre
-genre Biography
+genre Action
 
 # budget in dollars
 budget 38000000.0

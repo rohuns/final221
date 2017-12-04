@@ -1,5 +1,5 @@
 # all of the actors
 actor James Coburn
+actor Donald Pleasence
+actor Gordon Jackson
 
-# director name
-director John Sturges

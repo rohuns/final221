@@ -1,5 +1,5 @@
 # all of the actors
 actor Janet Leigh
+actor Vera Miles
+actor John Gavin
 
-# director name
-director Alfred Hitchcock

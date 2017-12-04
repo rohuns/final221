@@ -1,5 +1,7 @@
 # all of the actors
 actor Madeline Kahn
+actor David Huddleston
 
-# genre
-genre Western
+# director name
+director Mel Brooks
+

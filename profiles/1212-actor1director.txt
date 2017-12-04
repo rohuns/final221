@@ -1,5 +1,5 @@
 # all of the actors
 actor Bokeem Woodbine
+actor Curtis Armstrong
+actor Harry Lennix
 
-# director name
-director Taylor Hackford

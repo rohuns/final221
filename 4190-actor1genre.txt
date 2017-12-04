@@ -1,7 +1,0 @@
-# all of the actors
-actor Hanno Pöschl
-actor Hans Weingartner
-
-# director name
-director Richard Linklater
-

@@ -1,7 +1,0 @@
-# all of the actors
-actor Tom Hanks
-actor Jeffrey DeMunn
-
-# director name
-director Frank Darabont
-

@@ -10,7 +10,7 @@ director Tom Hooper
 rating R
 
 # genre
-genre History
+genre Romance
 
 # budget in dollars
 budget 15000000.0

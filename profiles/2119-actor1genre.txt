@@ -1,5 +1,7 @@
 # all of the actors
 actor Gary Lewis
+actor Dany Boon
 
-# genre
-genre Drama
+# director name
+director Christian Carion
+

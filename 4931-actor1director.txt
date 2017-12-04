@@ -1,5 +1,0 @@
-# all of the actors
-actor Glen Hansard
-actor Markéta Irglová
-actor Darren Healy
-

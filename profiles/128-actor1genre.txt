@@ -1,5 +1,7 @@
 # all of the actors
 actor Tom Hardy
+actor Charlize Theron
 
-# genre
-genre Adventure
+# director name
+director George Miller
+

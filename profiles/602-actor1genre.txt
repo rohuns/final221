@@ -1,5 +1,7 @@
 # all of the actors
 actor Steve Buscemi
+actor Alison Lohman
 
-# genre
-genre Drama
+# director name
+director Tim Burton
+

@@ -10,7 +10,7 @@ director John McTiernan
 rating R
 
 # genre
-genre Sci-Fi
+genre Horror
 
 # budget in dollars
 budget 15000000.0

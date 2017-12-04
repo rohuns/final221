@@ -1,5 +1,0 @@
-# all of the actors
-actor Anthony Hopkins
-actor Peter Vaughan
-actor Ben Chaplin
-

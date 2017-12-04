@@ -1,7 +1,0 @@
-# all of the actors
-actor Clea DuVall
-actor Scoot McNairy
-
-# director name
-director Ben Affleck
-

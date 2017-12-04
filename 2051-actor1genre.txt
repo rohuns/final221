@@ -1,7 +1,0 @@
-# all of the actors
-actor Harrison Ford
-actor Kenny Baker
-
-# director name
-director Irvin Kershner
-

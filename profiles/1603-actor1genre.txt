@@ -1,5 +1,7 @@
 # all of the actors
 actor John Doman
+actor Spencer Treat Clark
 
-# genre
-genre Thriller
+# director name
+director Clint Eastwood
+

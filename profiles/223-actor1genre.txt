@@ -1,5 +1,7 @@
 # all of the actors
 actor Suraj Sharma
+actor Rafe Spall
 
-# genre
-genre Fantasy
+# director name
+director Ang Lee
+

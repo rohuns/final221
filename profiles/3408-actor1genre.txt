@@ -1,5 +1,7 @@
 # all of the actors
 actor Sean Lennon
+actor Mick Lally
 
-# genre
-genre Animation
+# director name
+director Tomm Moore
+

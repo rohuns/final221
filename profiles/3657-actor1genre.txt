@@ -1,5 +1,7 @@
 # all of the actors
 actor Jeanne Moreau
+actor Paul Scofield
 
-# genre
-genre Thriller
+# director name
+director John Frankenheimer
+

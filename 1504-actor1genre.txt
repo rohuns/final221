@@ -1,7 +1,0 @@
-# all of the actors
-actor Oliver Reed
-actor Rod Steiger
-
-# director name
-director Moustapha Akkad
-

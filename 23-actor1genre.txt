@@ -1,7 +1,0 @@
-# all of the actors
-actor Aidan Turner
-actor Adam Brown
-
-# director name
-director Peter Jackson
-

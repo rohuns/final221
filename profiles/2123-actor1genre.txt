@@ -1,5 +1,7 @@
 # all of the actors
 actor Roy Scheider
+actor Joe Spinell
 
-# genre
-genre Thriller
+# director name
+director William Friedkin
+

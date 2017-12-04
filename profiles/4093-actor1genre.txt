@@ -1,5 +1,7 @@
 # all of the actors
 actor Peter Ostrum
+actor Jack Albertson
 
-# genre
-genre Fantasy
+# director name
+director Mel Stuart
+

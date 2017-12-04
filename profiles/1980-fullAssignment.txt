@@ -10,7 +10,7 @@ director Ron Maxwell
 rating PG
 
 # genre
-genre Drama
+genre War
 
 # budget in dollars
 budget 25000000.0

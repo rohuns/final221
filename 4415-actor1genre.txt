@@ -1,7 +1,0 @@
-# all of the actors
-actor Ricardo Darín
-actor Gastón Pauls
-
-# director name
-director Fabián Bielinsky
-

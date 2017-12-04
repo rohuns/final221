@@ -10,7 +10,7 @@ director Edward Zwick
 rating R
 
 # genre
-genre War
+genre History
 
 # budget in dollars
 budget 18000000.0

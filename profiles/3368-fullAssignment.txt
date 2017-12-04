@@ -10,7 +10,7 @@ director Jonathan Levine
 rating R
 
 # genre
-genre Comedy
+genre Romance
 
 # budget in dollars
 budget 8000000.0

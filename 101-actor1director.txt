@@ -1,5 +1,0 @@
-# all of the actors
-actor Brad Pitt
-actor Jason Flemyng
-actor Julia Ormond
-

@@ -1,5 +1,5 @@
 # all of the actors
 actor Moritz Bleibtreu
+actor Ludger Pistor
+actor Armin Rohde
 
-# director name
-director Tom Tykwer

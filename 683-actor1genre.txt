@@ -1,7 +1,0 @@
-# all of the actors
-actor Brad Pitt
-actor Meat Loaf
-
-# director name
-director David Fincher
-

@@ -1,7 +1,0 @@
-# all of the actors
-actor Keanu Reeves
-actor Marcus Chong
-
-# director name
-director Lana Wachowski
-

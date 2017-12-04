@@ -1,7 +1,0 @@
-# all of the actors
-actor Ray Milland
-actor Jane Wyman
-
-# director name
-director Billy Wilder
-

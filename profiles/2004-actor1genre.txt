@@ -1,5 +1,7 @@
 # all of the actors
 actor Jim Sturgess
+actor Sean Buchanan
 
-# genre
-genre Mystery
+# director name
+director Giuseppe Tornatore
+

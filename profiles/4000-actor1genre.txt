@@ -1,5 +1,7 @@
 # all of the actors
 actor Ricardo Darín
+actor Soledad Villamil
 
-# genre
-genre Drama
+# director name
+director Juan José Campanella
+

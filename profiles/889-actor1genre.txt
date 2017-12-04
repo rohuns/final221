@@ -1,5 +1,7 @@
 # all of the actors
 actor Denis Lavant
+actor André Dussollier
 
-# genre
-genre Romance
+# director name
+director Jean-Pierre Jeunet
+

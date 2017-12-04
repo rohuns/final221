@@ -1,5 +1,7 @@
 # all of the actors
 actor William Katt
+actor John Billingsley
 
-# genre
-genre Romance
+# director name
+director Richard Schenkman
+

@@ -10,7 +10,7 @@ director David O. Russell
 rating R
 
 # genre
-genre Comedy
+genre Drama
 
 # budget in dollars
 budget 21000000.0

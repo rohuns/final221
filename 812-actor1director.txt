@@ -1,5 +1,0 @@
-# all of the actors
-actor Ryan Reynolds
-actor Ed Skrein
-actor Stefan Kapicic
-

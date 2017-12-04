@@ -1,5 +1,7 @@
 # all of the actors
 actor Roy Scheider
+actor Robert Shaw
 
-# genre
-genre Drama
+# director name
+director Steven Spielberg
+

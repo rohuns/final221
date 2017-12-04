@@ -10,7 +10,7 @@ director James Ivory
 rating R
 
 # genre
-genre Drama
+genre Romance
 
 # budget in dollars
 budget 2600000.0

@@ -1,7 +1,0 @@
-# all of the actors
-actor Michael Fassbender
-actor Brad Pitt
-
-# director name
-director Quentin Tarantino
-
