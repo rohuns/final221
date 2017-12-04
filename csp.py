@@ -108,6 +108,16 @@ class BacktrackingSearch():
             will be used as a multiplier on the current weight.
         """
         assert var not in assignment
+        totalCost = 0
+        if 'actor1' in assignment:
+            totalCost += randint(1, 5)
+        if 'actor2' in assignment:
+            totalCost += randint(1, 4)
+        if 'actor3' in assignment:
+            totalCost += randint(1, 3)
+        print "total cost for %s is %s" %(assignment, totalCost)
+        if totalCost > 10:
+            return 0
         w = 1.0
         if self.csp.unaryFactors[var]:
             w *= self.csp.unaryFactors[var][val]
@@ -216,27 +226,27 @@ class BacktrackingSearch():
 
 
                     content_r = 0
-                    if 'content_rating' in assignment and not (math.isnan(float(assignment['content_rating']))): 
+                    if 'content_rating' in assignment: 
                         content_r = content_ratings_map[assignment["content_rating"]]
 
                     d_name = 0
-                    if 'director' in assignment and not (math.isnan(float(assignment['director']))):
+                    if 'director' in assignment:
                         d_name = directors_map[assignment["director"]]
 
                     a3_name = 0
-                    if 'actor3' in assignment and not (math.isnan(float(assignment['actor3']))):
+                    if 'actor3' in assignment:
                         a3_name = actors_map[assignment["actor3"]]
 
                     a2_name = 0
-                    if 'actor2' in assignment and not (math.isnan(float(assignment['actor2']))):
+                    if 'actor2' in assignment:
                         a2_name = actors_map[assignment["actor2"]]
 
                     a1_name = 0
-                    if 'actor1' in assignment and not (math.isnan(float(assignment['actor1']))):
+                    if 'actor1' in assignment:
                         a1_name = actors_map[assignment["actor1"]]
 
                     g = 15
-                    if 'genre' in assignment and not (math.isnan(float(assignment['genre']))):
+                    if 'genre' in assignment:
                         g = genres_map[assignment['genre']]
 
                     rating = forest.predict([[randint(30000000, 40000000),content_r,d_name,a3_name,a2_name,a1_name,g]])[0]
@@ -354,9 +364,9 @@ class MovieCSPConstructor():
         # csp.add_variable("contentrating", content_ratings_map.keys())
         # csp.add_variable("actor1", ['Tyra Banks'])
         #csp.add_variable("actor2", ['John','Adam'])
-        csp.add_variable("actor3", self.actorBulletin.actors_map.keys())
+        csp.add_variable("actor3", ['Johnny Depp'])
         csp.add_variable("genre", ['Comedy','Action','Romance'])
-        csp.add_variable("director", self.directorBulletin.directors_map.keys())
+        csp.add_variable("director", ['Steven Spielberg'])
         csp.add_variable("content_rating", ['PG','PG-13'])
 
         #csp.add_variable("budget", ) #NOTE add the budget
