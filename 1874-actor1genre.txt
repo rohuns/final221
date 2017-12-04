@@ -1,0 +1,7 @@
+# all of the actors
+actor Liam Neeson
+actor Embeth Davidtz
+
+# director name
+director Steven Spielberg
+

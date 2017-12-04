@@ -1,0 +1,16 @@
+# all of the actors
+actor Julie Christie
+actor Klaus Kinski
+actor Geraldine Chaplin
+
+# director name
+director David Lean
+
+# content rating
+rating PG-13
+
+# genre
+genre War
+
+# budget in dollars
+budget 11000000.0

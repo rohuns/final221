@@ -1,0 +1,16 @@
+# all of the actors
+actor Hattie McDaniel
+actor George Reeves
+actor Thomas Mitchell
+
+# director name
+director Victor Fleming
+
+# content rating
+rating G
+
+# genre
+genre War
+
+# budget in dollars
+budget 3977000.0

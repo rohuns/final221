@@ -1,0 +1,16 @@
+# all of the actors
+actor William Holden
+actor Sessue Hayakawa
+actor Jack Hawkins
+
+# director name
+director David Lean
+
+# content rating
+rating PG
+
+# genre
+genre Drama
+
+# budget in dollars
+budget 3000000.0

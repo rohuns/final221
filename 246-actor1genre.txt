@@ -1,0 +1,7 @@
+# all of the actors
+actor Phaldut Sharma
+actor Basher Savage
+
+# director name
+director Alfonso Cuarón
+

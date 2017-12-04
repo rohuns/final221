@@ -1,0 +1,7 @@
+# all of the actors
+actor Brenda Vaccaro
+actor Barnard Hughes
+
+# director name
+director John Schlesinger
+

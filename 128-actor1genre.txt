@@ -1,0 +1,7 @@
+# all of the actors
+actor Tom Hardy
+actor Charlize Theron
+
+# director name
+director George Miller
+

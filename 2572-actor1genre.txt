@@ -1,0 +1,7 @@
+# all of the actors
+actor Denzel Washington
+actor Tom Hanks
+
+# director name
+director Jonathan Demme
+

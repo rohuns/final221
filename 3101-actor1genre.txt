@@ -1,0 +1,7 @@
+# all of the actors
+actor Richard Burton
+actor Richard Beymer
+
+# director name
+director Ken Annakin
+

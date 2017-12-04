@@ -1,0 +1,16 @@
+# all of the actors
+actor Jürgen Prochnow
+actor Martin Semmelrogge
+actor Herbert Grönemeyer
+
+# director name
+director Wolfgang Petersen
+
+# content rating
+rating R
+
+# genre
+genre Drama
+
+# budget in dollars
+budget 14000000.0

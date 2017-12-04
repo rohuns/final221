@@ -1,0 +1,16 @@
+# all of the actors
+actor Elizabeth Berrington
+actor Anna Madeley
+actor Eric Godon
+
+# director name
+director Martin McDonagh
+
+# content rating
+rating R
+
+# genre
+genre Crime
+
+# budget in dollars
+budget 15000000.0

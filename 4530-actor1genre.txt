@@ -1,0 +1,7 @@
+# all of the actors
+actor Sylvester Stallone
+actor Burgess Meredith
+
+# director name
+director John G. Avildsen
+

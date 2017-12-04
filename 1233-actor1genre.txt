@@ -1,0 +1,7 @@
+# all of the actors
+actor Christian Bale
+actor Hugh Jackman
+
+# director name
+director Christopher Nolan
+

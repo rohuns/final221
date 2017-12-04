@@ -1,0 +1,16 @@
+# all of the actors
+actor Jack McBrayer
+actor Sarah Silverman
+actor Joe Lo Truglio
+
+# director name
+director Rich Moore
+
+# content rating
+rating PG
+
+# genre
+genre Adventure
+
+# budget in dollars
+budget 165000000.0

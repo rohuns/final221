@@ -1,0 +1,5 @@
+# all of the actors
+actor Wagner Moura
+actor Fernanda Machado
+actor André Ramiro
+

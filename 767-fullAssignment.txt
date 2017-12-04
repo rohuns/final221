@@ -1,0 +1,16 @@
+# all of the actors
+actor Morgan Freeman
+actor Will Ferrell
+actor Alison Brie
+
+# director name
+director Phil Lord
+
+# content rating
+rating PG
+
+# genre
+genre Family
+
+# budget in dollars
+budget 60000000.0

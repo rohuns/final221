@@ -1,0 +1,16 @@
+# all of the actors
+actor Liv Ullmann
+actor Ingrid Thulin
+actor Erland Josephson
+
+# director name
+director Ingmar Bergman
+
+# content rating
+rating R
+
+# genre
+genre Drama
+
+# budget in dollars
+budget 400000.0

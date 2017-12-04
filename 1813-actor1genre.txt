@@ -1,0 +1,7 @@
+# all of the actors
+actor Dennis Quaid
+actor Scott Glenn
+
+# director name
+director Philip Kaufman
+

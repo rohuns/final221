@@ -1,0 +1,7 @@
+# all of the actors
+actor CCH Pounder
+actor Joel David Moore
+
+# director name
+director James Cameron
+

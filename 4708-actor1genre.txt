@@ -1,0 +1,7 @@
+# all of the actors
+actor Joe Cocker
+actor Jimi Hendrix
+
+# director name
+director Michael Wadleigh
+

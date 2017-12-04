@@ -1,0 +1,16 @@
+# all of the actors
+actor Deborah Kara Unger
+actor Armin Mueller-Stahl
+actor Charles Martinet
+
+# director name
+director David Fincher
+
+# content rating
+rating R
+
+# genre
+genre Drama
+
+# budget in dollars
+budget 50000000.0

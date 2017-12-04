@@ -1,0 +1,7 @@
+# all of the actors
+actor Jean Arthur
+actor Ann Miller
+
+# director name
+director Frank Capra
+

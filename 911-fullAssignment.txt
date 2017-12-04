@@ -1,0 +1,16 @@
+# all of the actors
+actor Leonardo DiCaprio
+actor Tom Hanks
+actor Jennifer Garner
+
+# director name
+director Steven Spielberg
+
+# content rating
+rating PG-13
+
+# genre
+genre Biography
+
+# budget in dollars
+budget 52000000.0

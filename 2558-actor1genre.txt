@@ -1,0 +1,7 @@
+# all of the actors
+actor Bill Bailey
+actor Joe Cornish
+
+# director name
+director Edgar Wright
+

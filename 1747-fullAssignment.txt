@@ -1,0 +1,16 @@
+# all of the actors
+actor Robin Williams
+actor Frank Welker
+actor Scott Weinger
+
+# director name
+director Ron Clements
+
+# content rating
+rating G
+
+# genre
+genre Family
+
+# budget in dollars
+budget 28000000.0

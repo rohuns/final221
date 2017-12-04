@@ -1,0 +1,7 @@
+# all of the actors
+actor Johnny Depp
+actor Al Pacino
+
+# director name
+director Mike Newell
+

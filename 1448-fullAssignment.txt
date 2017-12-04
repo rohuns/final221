@@ -1,0 +1,16 @@
+# all of the actors
+actor Emilia Fox
+actor Frank Finlay
+actor Ed Stoppard
+
+# director name
+director Roman Polanski
+
+# content rating
+rating R
+
+# genre
+genre War
+
+# budget in dollars
+budget 35000000.0

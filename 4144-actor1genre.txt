@@ -1,0 +1,7 @@
+# all of the actors
+actor Fernanda Montenegro
+actor Matheus Nachtergaele
+
+# director name
+director Walter Salles
+

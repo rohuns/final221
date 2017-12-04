@@ -1,0 +1,7 @@
+# all of the actors
+actor Logan Lerman
+actor Ezra Miller
+
+# director name
+director Stephen Chbosky
+

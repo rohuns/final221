@@ -1,0 +1,16 @@
+# all of the actors
+actor Richard Jewell
+actor John Considine
+actor Sara Stepnicka
+
+# director name
+director Anthony Vallone
+
+# content rating
+rating PG-13
+
+# genre
+genre Drama
+
+# budget in dollars
+budget 3250.0

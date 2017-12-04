@@ -1,0 +1,7 @@
+# all of the actors
+actor Darryl Hunt
+actor Evelyn Jefferson
+
+# director name
+director Ricki Stern
+

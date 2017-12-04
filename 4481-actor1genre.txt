@@ -1,0 +1,7 @@
+# all of the actors
+actor Roddy McDowall
+actor Walter Pidgeon
+
+# director name
+director John Ford
+

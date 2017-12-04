@@ -1,0 +1,7 @@
+# all of the actors
+actor Patton Oswalt
+actor Neil Flynn
+
+# director name
+director Paul Thomas Anderson
+

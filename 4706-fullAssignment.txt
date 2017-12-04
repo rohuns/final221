@@ -1,0 +1,16 @@
+# all of the actors
+actor Ginger Rogers
+actor Edward Everett Horton
+actor Eric Blore
+
+# director name
+director Mark Sandrich
+
+# content rating
+rating Approved
+
+# genre
+genre Musical
+
+# budget in dollars
+budget 609000.0

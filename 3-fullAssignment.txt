@@ -1,0 +1,16 @@
+# all of the actors
+actor Tom Hardy
+actor Christian Bale
+actor Joseph Gordon-Levitt
+
+# director name
+director Christopher Nolan
+
+# content rating
+rating PG-13
+
+# genre
+genre Thriller
+
+# budget in dollars
+budget 250000000.0

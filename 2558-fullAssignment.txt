@@ -1,0 +1,16 @@
+# all of the actors
+actor Bill Bailey
+actor Joe Cornish
+actor Billie Whitelaw
+
+# director name
+director Edgar Wright
+
+# content rating
+rating R
+
+# genre
+genre Action
+
+# budget in dollars
+budget 8000000.0

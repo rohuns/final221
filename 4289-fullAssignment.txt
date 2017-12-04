@@ -1,0 +1,16 @@
+# all of the actors
+actor John F. Kennedy
+actor Buzz Aldrin
+actor Neil Armstrong
+
+# director name
+director David Sington
+
+# content rating
+rating PG
+
+# genre
+genre Documentary
+
+# budget in dollars
+budget 2000000.0

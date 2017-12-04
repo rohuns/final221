@@ -1,0 +1,16 @@
+# all of the actors
+actor Ryan Gosling
+actor Kevin Connolly
+actor Gena Rowlands
+
+# director name
+director Nick Cassavetes
+
+# content rating
+rating PG-13
+
+# genre
+genre Drama
+
+# budget in dollars
+budget 29000000.0

@@ -1,0 +1,7 @@
+# all of the actors
+actor Peter Ostrum
+actor Jack Albertson
+
+# director name
+director Mel Stuart
+

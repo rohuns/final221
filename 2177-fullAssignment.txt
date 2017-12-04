@@ -1,0 +1,16 @@
+# all of the actors
+actor Johnny Depp
+actor Dianne Wiest
+actor Conchata Ferrell
+
+# director name
+director Tim Burton
+
+# content rating
+rating PG-13
+
+# genre
+genre Romance
+
+# budget in dollars
+budget 20000000.0

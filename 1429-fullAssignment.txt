@@ -1,0 +1,16 @@
+# all of the actors
+actor Denzel Washington
+actor Delroy Lindo
+actor Al Freeman Jr.
+
+# director name
+director Spike Lee
+
+# content rating
+rating PG-13
+
+# genre
+genre Biography
+
+# budget in dollars
+budget 33000000.0

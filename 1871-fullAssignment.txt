@@ -1,0 +1,16 @@
+# all of the actors
+actor Liam Neeson
+actor Holly Valance
+actor Xander Berkeley
+
+# director name
+director Pierre Morel
+
+# content rating
+rating PG-13
+
+# genre
+genre Thriller
+
+# budget in dollars
+budget 25000000.0

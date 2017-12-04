@@ -1,0 +1,7 @@
+# all of the actors
+actor Yuki Matsuzaki
+actor Kazunari Ninomiya
+
+# director name
+director Clint Eastwood
+

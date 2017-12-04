@@ -1,0 +1,16 @@
+# all of the actors
+actor Florian Lukas
+actor Chulpan Khamatova
+actor Burghart Klaußner
+
+# director name
+director Wolfgang Becker
+
+# content rating
+rating R
+
+# genre
+genre Drama
+
+# budget in dollars
+budget 4800000.0

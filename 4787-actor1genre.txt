@@ -1,0 +1,7 @@
+# all of the actors
+actor Bob Proctor
+actor Jack Canfield
+
+# director name
+director Joe Kenemore
+

@@ -1,0 +1,7 @@
+# all of the actors
+actor Tom Hanks
+actor Chris Mulkey
+
+# director name
+director Paul Greengrass
+

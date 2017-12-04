@@ -1,0 +1,7 @@
+# all of the actors
+actor Philip Seymour Hoffman
+actor Jeff Bridges
+
+# director name
+director Joel Coen
+

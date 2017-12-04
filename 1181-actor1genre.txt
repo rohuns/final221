@@ -1,0 +1,7 @@
+# all of the actors
+actor Bruce Willis
+actor Haley Joel Osment
+
+# director name
+director M. Night Shyamalan
+

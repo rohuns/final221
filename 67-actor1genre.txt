@@ -1,0 +1,7 @@
+# all of the actors
+actor John Ratzenberger
+actor Delroy Lindo
+
+# director name
+director Pete Docter
+

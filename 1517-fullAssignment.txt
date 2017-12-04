@@ -1,0 +1,16 @@
+# all of the actors
+actor Rumi Hiiragi
+actor Yûki Amami
+actor Yuria Nara
+
+# director name
+director Hayao Miyazaki
+
+# content rating
+rating G
+
+# genre
+genre Adventure
+
+# budget in dollars
+budget 34000000.0

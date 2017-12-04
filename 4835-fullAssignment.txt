@@ -1,0 +1,16 @@
+# all of the actors
+actor Jean-Paul Belmondo
+actor Anna Karina
+actor Graziella Galvani
+
+# director name
+director Jean-Luc Godard
+
+# content rating
+rating Not Rated
+
+# genre
+genre Drama
+
+# budget in dollars
+budget 300000.0

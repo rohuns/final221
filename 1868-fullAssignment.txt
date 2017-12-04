@@ -1,0 +1,16 @@
+# all of the actors
+actor Tom Cruise
+actor Valeria Golino
+actor Beth Grant
+
+# director name
+director Barry Levinson
+
+# content rating
+rating R
+
+# genre
+genre Drama
+
+# budget in dollars
+budget 25000000.0

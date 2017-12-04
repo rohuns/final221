@@ -1,0 +1,16 @@
+# all of the actors
+actor Kristen Stewart
+actor William Hurt
+actor Hal Holbrook
+
+# director name
+director Sean Penn
+
+# content rating
+rating R
+
+# genre
+genre Drama
+
+# budget in dollars
+budget 15000000.0

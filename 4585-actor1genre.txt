@@ -1,0 +1,7 @@
+# all of the actors
+actor Anwar Congo
+actor Herman Koto
+
+# director name
+director Joshua Oppenheimer
+

@@ -1,0 +1,7 @@
+# all of the actors
+actor Tom Cruise
+actor Lara Pulver
+
+# director name
+director Doug Liman
+

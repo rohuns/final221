@@ -1,0 +1,7 @@
+# all of the actors
+actor Mackenzie Foy
+actor Megan Mullally
+
+# director name
+director Stéphane Aubier
+

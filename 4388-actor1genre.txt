@@ -1,0 +1,7 @@
+# all of the actors
+actor Montgomery Clift
+actor Donna Reed
+
+# director name
+director Fred Zinnemann
+

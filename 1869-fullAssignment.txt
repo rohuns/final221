@@ -1,0 +1,16 @@
+# all of the actors
+actor Clint Eastwood
+actor Dreama Walker
+actor Ahney Her
+
+# director name
+director Clint Eastwood
+
+# content rating
+rating R
+
+# genre
+genre Drama
+
+# budget in dollars
+budget 33000000.0

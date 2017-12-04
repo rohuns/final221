@@ -1,0 +1,7 @@
+# all of the actors
+actor Sean Lennon
+actor Mick Lally
+
+# director name
+director Tomm Moore
+

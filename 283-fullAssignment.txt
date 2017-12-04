@@ -1,0 +1,16 @@
+# all of the actors
+actor Djimon Hounsou
+actor Connie Nielsen
+actor Oliver Reed
+
+# director name
+director Ridley Scott
+
+# content rating
+rating R
+
+# genre
+genre Drama
+
+# budget in dollars
+budget 103000000.0

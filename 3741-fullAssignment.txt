@@ -1,0 +1,16 @@
+# all of the actors
+actor Peter Serafinowicz
+actor Dylan Moran
+actor Rafe Spall
+
+# director name
+director Edgar Wright
+
+# content rating
+rating R
+
+# genre
+genre Horror
+
+# budget in dollars
+budget 4000000.0

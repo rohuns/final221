@@ -1,0 +1,7 @@
+# all of the actors
+actor Katharine Ross
+actor Ted Cassidy
+
+# director name
+director George Roy Hill
+

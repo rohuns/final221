@@ -1,0 +1,7 @@
+# all of the actors
+actor Janeane Garofalo
+actor John Ratzenberger
+
+# director name
+director Brad Bird
+

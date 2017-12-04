@@ -1,0 +1,7 @@
+# all of the actors
+actor Shirley Jones
+actor Jean Simmons
+
+# director name
+director Richard Brooks
+

@@ -1,0 +1,7 @@
+# all of the actors
+actor Jack Warden
+actor Lee J. Cobb
+
+# director name
+director Sidney Lumet
+

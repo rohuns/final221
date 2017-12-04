@@ -1,0 +1,7 @@
+# all of the actors
+actor Anil Kapoor
+actor Saurabh Shukla
+
+# director name
+director Danny Boyle
+

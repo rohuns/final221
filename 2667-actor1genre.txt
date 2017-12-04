@@ -1,0 +1,7 @@
+# all of the actors
+actor Don Cheadle
+actor Nicole Ari Parker
+
+# director name
+director Paul Thomas Anderson
+

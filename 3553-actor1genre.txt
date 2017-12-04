@@ -1,0 +1,7 @@
+# all of the actors
+actor Wagner Moura
+actor Fernanda Machado
+
+# director name
+director José Padilha
+

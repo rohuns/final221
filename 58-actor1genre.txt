@@ -1,0 +1,7 @@
+# all of the actors
+actor John Ratzenberger
+actor Fred Willard
+
+# director name
+director Andrew Stanton
+

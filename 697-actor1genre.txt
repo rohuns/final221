@@ -1,0 +1,7 @@
+# all of the actors
+actor Wayne Knight
+actor Ariana Richards
+
+# director name
+director Steven Spielberg
+

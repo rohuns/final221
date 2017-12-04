@@ -1,0 +1,5 @@
+# all of the actors
+actor Cary-Hiroyuki Tagawa
+actor Joan Chen
+actor Victor Wong
+

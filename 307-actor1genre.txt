@@ -1,0 +1,7 @@
+# all of the actors
+actor Leonardo DiCaprio
+actor Djimon Hounsou
+
+# director name
+director Edward Zwick
+

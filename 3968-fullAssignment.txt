@@ -1,0 +1,16 @@
+# all of the actors
+actor Robert Shaw
+actor Susannah York
+actor Paul Scofield
+
+# director name
+director Fred Zinnemann
+
+# content rating
+rating Approved
+
+# genre
+genre Drama
+
+# budget in dollars
+budget 2000000.0

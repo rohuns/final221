@@ -1,0 +1,16 @@
+# all of the actors
+actor Jake Gyllenhaal
+actor Anna Kendrick
+actor America Ferrera
+
+# director name
+director David Ayer
+
+# content rating
+rating R
+
+# genre
+genre Drama
+
+# budget in dollars
+budget 7000000.0

@@ -1,0 +1,16 @@
+# all of the actors
+actor Bill Maher
+actor Tal Bachman
+actor Steve Burg
+
+# director name
+director Larry Charles
+
+# content rating
+rating R
+
+# genre
+genre Documentary
+
+# budget in dollars
+budget 2500000.0

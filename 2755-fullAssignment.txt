@@ -1,0 +1,16 @@
+# all of the actors
+actor Bill Murray
+actor Chris Elliott
+actor Willie Garson
+
+# director name
+director Harold Ramis
+
+# content rating
+rating PG
+
+# genre
+genre Romance
+
+# budget in dollars
+budget 14600000.0

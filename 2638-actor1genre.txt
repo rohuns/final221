@@ -1,0 +1,7 @@
+# all of the actors
+actor Jake Gyllenhaal
+actor Anna Kendrick
+
+# director name
+director David Ayer
+

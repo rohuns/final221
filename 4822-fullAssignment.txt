@@ -1,0 +1,16 @@
+# all of the actors
+actor Jack Warden
+actor Lee J. Cobb
+actor John Fiedler
+
+# director name
+director Sidney Lumet
+
+# content rating
+rating Not Rated
+
+# genre
+genre Crime
+
+# budget in dollars
+budget 350000.0

@@ -1,0 +1,16 @@
+# all of the actors
+actor David Carradine
+actor Vivica A. Fox
+actor Chiaki Kuriyama
+
+# director name
+director Quentin Tarantino
+
+# content rating
+rating R
+
+# genre
+genre Action
+
+# budget in dollars
+budget 30000000.0

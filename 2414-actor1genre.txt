@@ -1,0 +1,7 @@
+# all of the actors
+actor Emma Stone
+actor Naomi Watts
+
+# director name
+director Alejandro G. Iñárritu
+

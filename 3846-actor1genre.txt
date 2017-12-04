@@ -1,0 +1,7 @@
+# all of the actors
+actor Philip Seymour Hoffman
+actor Rosario Dawson
+
+# director name
+director Spike Lee
+

@@ -1,0 +1,7 @@
+# all of the actors
+actor Keir Dullea
+actor Gary Lockwood
+
+# director name
+director Stanley Kubrick
+

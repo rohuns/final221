@@ -1,0 +1,16 @@
+# all of the actors
+actor Harrison Ford
+actor Daniel Roebuck
+actor Sela Ward
+
+# director name
+director Andrew Davis
+
+# content rating
+rating PG-13
+
+# genre
+genre Mystery
+
+# budget in dollars
+budget 44000000.0

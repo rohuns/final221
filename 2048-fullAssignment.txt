@@ -1,0 +1,16 @@
+# all of the actors
+actor Emma Stone
+actor Bill Murray
+actor Derek Graf
+
+# director name
+director Ruben Fleischer
+
+# content rating
+rating R
+
+# genre
+genre Sci-Fi
+
+# budget in dollars
+budget 23600000.0

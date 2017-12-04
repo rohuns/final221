@@ -1,0 +1,16 @@
+# all of the actors
+actor John Forsythe
+actor Robert Blake
+actor Will Geer
+
+# director name
+director Richard Brooks
+
+# content rating
+rating Approved
+
+# genre
+genre Drama
+
+# budget in dollars
+budget 3500000.0

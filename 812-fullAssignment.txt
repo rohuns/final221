@@ -1,0 +1,16 @@
+# all of the actors
+actor Ryan Reynolds
+actor Ed Skrein
+actor Stefan Kapicic
+
+# director name
+director Tim Miller
+
+# content rating
+rating R
+
+# genre
+genre Adventure
+
+# budget in dollars
+budget 58000000.0

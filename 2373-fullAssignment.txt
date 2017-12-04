@@ -1,0 +1,16 @@
+# all of the actors
+actor Bunta Sugawara
+actor Ryûnosuke Kamiki
+actor Miyu Irino
+
+# director name
+director Hayao Miyazaki
+
+# content rating
+rating PG
+
+# genre
+genre Animation
+
+# budget in dollars
+budget 19000000.0

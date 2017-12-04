@@ -1,0 +1,16 @@
+# all of the actors
+actor Adam Baldwin
+actor Elizabeth McGovern
+actor Judd Hirsch
+
+# director name
+director Robert Redford
+
+# content rating
+rating R
+
+# genre
+genre Drama
+
+# budget in dollars
+budget 6000000.0

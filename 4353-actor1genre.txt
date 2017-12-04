@@ -1,0 +1,7 @@
+# all of the actors
+actor Paul McGill
+actor Philippe Petit
+
+# director name
+director James Marsh
+

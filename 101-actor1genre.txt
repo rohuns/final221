@@ -1,0 +1,7 @@
+# all of the actors
+actor Brad Pitt
+actor Jason Flemyng
+
+# director name
+director David Fincher
+

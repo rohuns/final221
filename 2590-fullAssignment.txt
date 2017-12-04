@@ -1,0 +1,16 @@
+# all of the actors
+actor Cary-Hiroyuki Tagawa
+actor Sarah Roemer
+actor Joan Allen
+
+# director name
+director Lasse Hallström
+
+# content rating
+rating G
+
+# genre
+genre Drama
+
+# budget in dollars
+budget 16000000.0

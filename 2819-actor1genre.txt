@@ -1,0 +1,7 @@
+# all of the actors
+actor Jake Gyllenhaal
+actor Heath Ledger
+
+# director name
+director Ang Lee
+

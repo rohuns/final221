@@ -1,0 +1,16 @@
+# all of the actors
+actor John Gilbert
+actor Renée Adorée
+actor Claire Adams
+
+# director name
+director King Vidor
+
+# content rating
+rating Not Rated
+
+# genre
+genre Romance
+
+# budget in dollars
+budget 245000.0

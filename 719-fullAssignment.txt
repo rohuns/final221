@@ -1,0 +1,16 @@
+# all of the actors
+actor Natascha McElhone
+actor Noah Emmerich
+actor Peter Krause
+
+# director name
+director Peter Weir
+
+# content rating
+rating PG
+
+# genre
+genre Sci-Fi
+
+# budget in dollars
+budget 60000000.0

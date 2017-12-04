@@ -1,0 +1,5 @@
+# all of the actors
+actor Alice Braga
+actor Seu Jorge
+actor Alexandre Rodrigues
+

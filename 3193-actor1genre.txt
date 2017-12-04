@@ -1,0 +1,7 @@
+# all of the actors
+actor Don Cheadle
+actor Loretta Devine
+
+# director name
+director Paul Haggis
+

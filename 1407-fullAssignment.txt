@@ -1,0 +1,16 @@
+# all of the actors
+actor Matt Damon
+actor Jeff Bridges
+actor Bruce Green
+
+# director name
+director Ethan Coen
+
+# content rating
+rating PG-13
+
+# genre
+genre Western
+
+# budget in dollars
+budget 38000000.0

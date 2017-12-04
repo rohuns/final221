@@ -1,0 +1,7 @@
+# all of the actors
+actor Marlon Brando
+actor Karl Malden
+
+# director name
+director Elia Kazan
+

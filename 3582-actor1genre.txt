@@ -1,0 +1,7 @@
+# all of the actors
+actor Johnny Depp
+actor Tom Berenger
+
+# director name
+director Oliver Stone
+

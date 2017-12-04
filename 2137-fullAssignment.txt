@@ -1,0 +1,16 @@
+# all of the actors
+actor Jennifer Lawrence
+actor Robert De Niro
+actor Bradley Cooper
+
+# director name
+director David O. Russell
+
+# content rating
+rating R
+
+# genre
+genre Drama
+
+# budget in dollars
+budget 21000000.0

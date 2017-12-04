@@ -1,0 +1,7 @@
+# all of the actors
+actor Tom Cruise
+actor Frank Grillo
+
+# director name
+director Steven Spielberg
+

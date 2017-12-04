@@ -1,0 +1,5 @@
+# all of the actors
+actor Wes Studi
+actor Terry Kinney
+actor Eric Schweig
+

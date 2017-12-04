@@ -1,0 +1,7 @@
+# all of the actors
+actor Tom Hardy
+actor Frank Grillo
+
+# director name
+director Gavin O'Connor
+

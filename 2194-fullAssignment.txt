@@ -1,0 +1,16 @@
+# all of the actors
+actor Billy Crudup
+actor Jamey Sheridan
+actor Brian d'Arcy James
+
+# director name
+director Tom McCarthy
+
+# content rating
+rating R
+
+# genre
+genre Drama
+
+# budget in dollars
+budget 20000000.0

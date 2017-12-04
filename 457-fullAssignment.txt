@@ -1,0 +1,16 @@
+# all of the actors
+actor Tom Hanks
+actor Jennifer Jason Leigh
+actor Liam Aiken
+
+# director name
+director Sam Mendes
+
+# content rating
+rating R
+
+# genre
+genre Crime
+
+# budget in dollars
+budget 80000000.0

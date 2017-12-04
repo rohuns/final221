@@ -1,0 +1,7 @@
+# all of the actors
+actor Bruce Willis
+actor Bill Murray
+
+# director name
+director Wes Anderson
+

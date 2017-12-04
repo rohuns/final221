@@ -1,0 +1,7 @@
+# all of the actors
+actor Scatman Crothers
+actor Michael Berryman
+
+# director name
+director Milos Forman
+

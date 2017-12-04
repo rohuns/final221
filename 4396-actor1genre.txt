@@ -1,0 +1,7 @@
+# all of the actors
+actor Harrison Ford
+actor Teri Garr
+
+# director name
+director Francis Ford Coppola
+

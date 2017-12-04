@@ -1,0 +1,16 @@
+# all of the actors
+actor Paddy Considine
+actor Bruce McGill
+actor Rosemarie DeWitt
+
+# director name
+director Ron Howard
+
+# content rating
+rating PG-13
+
+# genre
+genre Biography
+
+# budget in dollars
+budget 88000000.0

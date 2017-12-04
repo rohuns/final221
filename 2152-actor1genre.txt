@@ -1,0 +1,7 @@
+# all of the actors
+actor Harrison Ford
+actor Karen Allen
+
+# director name
+director Steven Spielberg
+

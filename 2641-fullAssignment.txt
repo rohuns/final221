@@ -1,0 +1,16 @@
+# all of the actors
+actor Eddie Redmayne
+actor Emily Watson
+actor Simon McBurney
+
+# director name
+director James Marsh
+
+# content rating
+rating PG-13
+
+# genre
+genre Biography
+
+# budget in dollars
+budget 15000000.0

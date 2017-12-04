@@ -1,0 +1,7 @@
+# all of the actors
+actor Robert Shaw
+actor Susannah York
+
+# director name
+director Fred Zinnemann
+

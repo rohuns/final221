@@ -1,0 +1,7 @@
+# all of the actors
+actor Ellen Burstyn
+actor Linda Blair
+
+# director name
+director William Friedkin
+

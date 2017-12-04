@@ -1,0 +1,16 @@
+# all of the actors
+actor Joseph Gordon-Levitt
+actor Chloë Grace Moretz
+actor Zooey Deschanel
+
+# director name
+director Marc Webb
+
+# content rating
+rating PG-13
+
+# genre
+genre Drama
+
+# budget in dollars
+budget 7500000.0

@@ -1,0 +1,16 @@
+# all of the actors
+actor Stephen Graham
+actor Joseph Gilgun
+actor Jack O'Connell
+
+# director name
+director Shane Meadows
+
+# content rating
+rating Unrated
+
+# genre
+genre Crime
+
+# budget in dollars
+budget 1500000.0

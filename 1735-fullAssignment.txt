@@ -1,0 +1,16 @@
+# all of the actors
+actor Sandra Ellis Lafferty
+actor Dallas Roberts
+actor Tyler Hilton
+
+# director name
+director James Mangold
+
+# content rating
+rating PG-13
+
+# genre
+genre Biography
+
+# budget in dollars
+budget 28000000.0

@@ -1,0 +1,7 @@
+# all of the actors
+actor John Gilbert
+actor Renée Adorée
+
+# director name
+director King Vidor
+

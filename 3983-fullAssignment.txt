@@ -1,0 +1,16 @@
+# all of the actors
+actor Brenda Vaccaro
+actor Barnard Hughes
+actor John McGiver
+
+# director name
+director John Schlesinger
+
+# content rating
+rating X
+
+# genre
+genre Drama
+
+# budget in dollars
+budget 3600000.0

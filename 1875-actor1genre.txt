@@ -1,0 +1,7 @@
+# all of the actors
+actor Emma Stone
+actor Bryce Dallas Howard
+
+# director name
+director Tate Taylor
+

@@ -1,0 +1,7 @@
+# all of the actors
+actor Rapulana Seiphemo
+actor Kenneth Nkosi
+
+# director name
+director Ralph Ziman
+

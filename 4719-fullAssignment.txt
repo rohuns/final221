@@ -1,0 +1,16 @@
+# all of the actors
+actor Paul McCartney
+actor Ringo Starr
+actor George Harrison
+
+# director name
+director Richard Lester
+
+# content rating
+rating Approved
+
+# genre
+genre Musical
+
+# budget in dollars
+budget 560000.0

@@ -1,0 +1,7 @@
+# all of the actors
+actor Vivica A. Fox
+actor Michael Parks
+
+# director name
+director Quentin Tarantino
+

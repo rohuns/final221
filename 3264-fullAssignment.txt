@@ -1,0 +1,16 @@
+# all of the actors
+actor Isabelle Huppert
+actor Emmanuelle Riva
+actor Jean-Louis Trintignant
+
+# director name
+director Michael Haneke
+
+# content rating
+rating PG-13
+
+# genre
+genre Romance
+
+# budget in dollars
+budget 8900000.0

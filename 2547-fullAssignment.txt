@@ -1,0 +1,16 @@
+# all of the actors
+actor Bruce Willis
+actor Bill Murray
+actor Bob Balaban
+
+# director name
+director Wes Anderson
+
+# content rating
+rating PG-13
+
+# genre
+genre Drama
+
+# budget in dollars
+budget 16000000.0

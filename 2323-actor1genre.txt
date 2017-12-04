@@ -1,0 +1,7 @@
+# all of the actors
+actor Minnie Driver
+actor Jada Pinkett Smith
+
+# director name
+director Hayao Miyazaki
+

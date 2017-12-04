@@ -1,0 +1,16 @@
+# all of the actors
+actor William Holden
+actor Warren Oates
+actor L.Q. Jones
+
+# director name
+director Sam Peckinpah
+
+# content rating
+rating R
+
+# genre
+genre Western
+
+# budget in dollars
+budget 6244087.0

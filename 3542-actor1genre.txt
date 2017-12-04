@@ -1,0 +1,7 @@
+# all of the actors
+actor Milla Jovovich
+actor Adam Goldberg
+
+# director name
+director Richard Linklater
+

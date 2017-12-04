@@ -1,0 +1,16 @@
+# all of the actors
+actor Madeline Carroll
+actor Rebecca De Mornay
+actor Aidan Quinn
+
+# director name
+director Rob Reiner
+
+# content rating
+rating PG
+
+# genre
+genre Romance
+
+# budget in dollars
+budget 14000000.0

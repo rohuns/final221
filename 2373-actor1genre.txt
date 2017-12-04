@@ -1,0 +1,7 @@
+# all of the actors
+actor Bunta Sugawara
+actor Ryûnosuke Kamiki
+
+# director name
+director Hayao Miyazaki
+

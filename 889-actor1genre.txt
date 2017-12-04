@@ -1,0 +1,7 @@
+# all of the actors
+actor Denis Lavant
+actor André Dussollier
+
+# director name
+director Jean-Pierre Jeunet
+

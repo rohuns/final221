@@ -1,0 +1,7 @@
+# all of the actors
+actor Gary Cole
+actor Stephen Root
+
+# director name
+director Mike Judge
+

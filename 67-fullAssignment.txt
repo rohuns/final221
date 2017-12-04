@@ -1,0 +1,16 @@
+# all of the actors
+actor John Ratzenberger
+actor Delroy Lindo
+actor Jess Harnell
+
+# director name
+director Pete Docter
+
+# content rating
+rating PG
+
+# genre
+genre Family
+
+# budget in dollars
+budget 175000000.0

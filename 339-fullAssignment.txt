@@ -1,0 +1,16 @@
+# all of the actors
+actor Orlando Bloom
+actor Billy Boyd
+actor Bernard Hill
+
+# director name
+director Peter Jackson
+
+# content rating
+rating PG-13
+
+# genre
+genre Adventure
+
+# budget in dollars
+budget 94000000.0

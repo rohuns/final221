@@ -1,0 +1,7 @@
+# all of the actors
+actor Michael Moore
+actor Dick Clark
+
+# director name
+director Michael Moore
+

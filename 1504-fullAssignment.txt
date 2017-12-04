@@ -1,0 +1,16 @@
+# all of the actors
+actor Oliver Reed
+actor Rod Steiger
+actor John Gielgud
+
+# director name
+director Moustapha Akkad
+
+# content rating
+rating PG
+
+# genre
+genre Biography
+
+# budget in dollars
+budget 35000000.0

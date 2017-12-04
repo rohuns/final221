@@ -1,0 +1,7 @@
+# all of the actors
+actor Clint Eastwood
+actor Gian Maria Volontè
+
+# director name
+director Sergio Leone
+

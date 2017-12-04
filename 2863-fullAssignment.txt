@@ -1,0 +1,16 @@
+# all of the actors
+actor Yuki Matsuzaki
+actor Kazunari Ninomiya
+actor Shidô Nakamura
+
+# director name
+director Clint Eastwood
+
+# content rating
+rating R
+
+# genre
+genre Drama
+
+# budget in dollars
+budget 19000000.0

@@ -1,0 +1,16 @@
+# all of the actors
+actor Clea DuVall
+actor Scoot McNairy
+actor Tate Donovan
+
+# director name
+director Ben Affleck
+
+# content rating
+rating R
+
+# genre
+genre Biography
+
+# budget in dollars
+budget 44500000.0

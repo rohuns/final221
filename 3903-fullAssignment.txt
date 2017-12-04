@@ -1,0 +1,16 @@
+# all of the actors
+actor James Coburn
+actor Donald Pleasence
+actor Gordon Jackson
+
+# director name
+director John Sturges
+
+# content rating
+rating Approved
+
+# genre
+genre Adventure
+
+# budget in dollars
+budget 4000000.0

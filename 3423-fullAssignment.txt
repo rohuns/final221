@@ -1,0 +1,16 @@
+# all of the actors
+actor Mitsuo Iwata
+actor Takeshi Kusao
+actor Tesshô Genda
+
+# director name
+director Katsuhiro Ôtomo
+
+# content rating
+rating R
+
+# genre
+genre Animation
+
+# budget in dollars
+budget 1100000000.0

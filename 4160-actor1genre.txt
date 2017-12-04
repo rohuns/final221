@@ -1,0 +1,7 @@
+# all of the actors
+actor Vidya Balan
+actor Sanjay Dutt
+
+# director name
+director Rajkumar Hirani
+

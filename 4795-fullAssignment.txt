@@ -1,0 +1,16 @@
+# all of the actors
+actor Eric Idle
+actor Michael Palin
+actor Terry Jones
+
+# director name
+director Terry Gilliam
+
+# content rating
+rating PG
+
+# genre
+genre Adventure
+
+# budget in dollars
+budget 229575.0

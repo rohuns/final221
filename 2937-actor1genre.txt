@@ -1,0 +1,7 @@
+# all of the actors
+actor George C. Scott
+actor Karl Malden
+
+# director name
+director Franklin J. Schaffner
+

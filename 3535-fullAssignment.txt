@@ -1,0 +1,16 @@
+# all of the actors
+actor Norman Reedus
+actor David Della Rocco
+actor Bob Marley
+
+# director name
+director Troy Duffy
+
+# content rating
+rating R
+
+# genre
+genre Action
+
+# budget in dollars
+budget 7000000.0

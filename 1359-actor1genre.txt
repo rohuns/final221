@@ -1,0 +1,7 @@
+# all of the actors
+actor Wilford Brimley
+actor Richard Masur
+
+# director name
+director John Carpenter
+

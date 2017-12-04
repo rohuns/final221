@@ -1,0 +1,7 @@
+# all of the actors
+actor Takashi Shimura
+actor Minoru Chiaki
+
+# director name
+director Akira Kurosawa
+

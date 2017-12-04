@@ -1,0 +1,16 @@
+# all of the actors
+actor Tom Berenger
+actor William Morgan Sheppard
+actor James Patrick Stuart
+
+# director name
+director Ron Maxwell
+
+# content rating
+rating PG
+
+# genre
+genre War
+
+# budget in dollars
+budget 25000000.0

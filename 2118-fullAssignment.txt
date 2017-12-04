@@ -1,0 +1,16 @@
+# all of the actors
+actor Michiel Huisman
+actor Sebastian Koch
+actor Christian Berkel
+
+# director name
+director Paul Verhoeven
+
+# content rating
+rating R
+
+# genre
+genre Thriller
+
+# budget in dollars
+budget 21000000.0

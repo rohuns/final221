@@ -1,0 +1,7 @@
+# all of the actors
+actor John Forsythe
+actor Robert Blake
+
+# director name
+director Richard Brooks
+

@@ -1,0 +1,7 @@
+# all of the actors
+actor Marie-Josée Croze
+actor Stéphane Rousseau
+
+# director name
+director Denys Arcand
+

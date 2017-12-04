@@ -1,0 +1,7 @@
+# all of the actors
+actor William Gates
+actor Arthur Agee
+
+# director name
+director Steve James
+

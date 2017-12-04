@@ -1,0 +1,7 @@
+# all of the actors
+actor William Holden
+actor Sessue Hayakawa
+
+# director name
+director David Lean
+

@@ -1,0 +1,16 @@
+# all of the actors
+actor John Belushi
+actor Aretha Franklin
+actor Ray Charles
+
+# director name
+director John Landis
+
+# content rating
+rating R
+
+# genre
+genre Music
+
+# budget in dollars
+budget 27000000.0

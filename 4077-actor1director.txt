@@ -1,0 +1,5 @@
+# all of the actors
+actor Maximilian Schell
+actor Montgomery Clift
+actor Spencer Tracy
+

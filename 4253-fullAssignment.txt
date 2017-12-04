@@ -1,0 +1,16 @@
+# all of the actors
+actor Robert Duvall
+actor Brock Peters
+actor William Windom
+
+# director name
+director Robert Mulligan
+
+# content rating
+rating Not Rated
+
+# genre
+genre Crime
+
+# budget in dollars
+budget 2000000.0

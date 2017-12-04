@@ -1,0 +1,7 @@
+# all of the actors
+actor Janet Leigh
+actor Vera Miles
+
+# director name
+director Alfred Hitchcock
+

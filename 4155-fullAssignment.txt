@@ -1,0 +1,16 @@
+# all of the actors
+actor Nehemiah Persoff
+actor Joe E. Brown
+actor George Raft
+
+# director name
+director Billy Wilder
+
+# content rating
+rating Not Rated
+
+# genre
+genre Music
+
+# budget in dollars
+budget 2883848.0

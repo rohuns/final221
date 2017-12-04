@@ -1,0 +1,7 @@
+# all of the actors
+actor Bérénice Bejo
+actor Ed Lauter
+
+# director name
+director Michel Hazanavicius
+

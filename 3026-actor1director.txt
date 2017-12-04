@@ -1,0 +1,5 @@
+# all of the actors
+actor Julie Christie
+actor Klaus Kinski
+actor Geraldine Chaplin
+

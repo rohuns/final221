@@ -1,0 +1,5 @@
+# all of the actors
+actor Khalid Abdalla
+actor Ahmed Hassan
+actor Aida Elkashef
+

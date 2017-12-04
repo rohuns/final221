@@ -1,0 +1,7 @@
+# all of the actors
+actor Will Smith
+actor Rosario Dawson
+
+# director name
+director Gabriele Muccino
+

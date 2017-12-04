@@ -1,0 +1,7 @@
+# all of the actors
+actor Bill Murray
+actor Connie Nielsen
+
+# director name
+director Wes Anderson
+

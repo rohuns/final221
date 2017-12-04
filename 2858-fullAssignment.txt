@@ -1,0 +1,16 @@
+# all of the actors
+actor Elina Alminas
+actor Sonoya Mizuno
+actor Corey Johnson
+
+# director name
+director Alex Garland
+
+# content rating
+rating R
+
+# genre
+genre Sci-Fi
+
+# budget in dollars
+budget 15000000.0

@@ -1,0 +1,16 @@
+# all of the actors
+actor Gerard Butler
+actor Djimon Hounsou
+actor America Ferrera
+
+# director name
+director Dean DeBlois
+
+# content rating
+rating PG
+
+# genre
+genre Family
+
+# budget in dollars
+budget 145000000.0

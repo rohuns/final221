@@ -1,0 +1,16 @@
+# all of the actors
+actor Johnny Depp
+actor Bill Murray
+actor Martin Landau
+
+# director name
+director Tim Burton
+
+# content rating
+rating R
+
+# genre
+genre Biography
+
+# budget in dollars
+budget 18000000.0

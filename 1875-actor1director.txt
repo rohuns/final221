@@ -1,0 +1,5 @@
+# all of the actors
+actor Emma Stone
+actor Bryce Dallas Howard
+actor Mike Vogel
+

@@ -1,0 +1,7 @@
+# all of the actors
+actor Alice Braga
+actor Seu Jorge
+
+# director name
+director Fernando Meirelles
+

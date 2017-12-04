@@ -1,0 +1,16 @@
+# all of the actors
+actor Christian Bale
+actor Jack McGee
+actor Melissa McMeekin
+
+# director name
+director David O. Russell
+
+# content rating
+rating R
+
+# genre
+genre Sport
+
+# budget in dollars
+budget 25000000.0

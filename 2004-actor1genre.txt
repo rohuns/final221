@@ -1,0 +1,7 @@
+# all of the actors
+actor Jim Sturgess
+actor Sean Buchanan
+
+# director name
+director Giuseppe Tornatore
+

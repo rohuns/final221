@@ -1,0 +1,16 @@
+# all of the actors
+actor Henry Ian Cusick
+actor Alan Van Sprang
+actor Scott Handy
+
+# director name
+director Philip Saville
+
+# content rating
+rating PG-13
+
+# genre
+genre Drama
+
+# budget in dollars
+budget 17000000.0

@@ -1,0 +1,16 @@
+# all of the actors
+actor Morgan Freeman
+actor Brad Pitt
+actor Reg E. Cathey
+
+# director name
+director David Fincher
+
+# content rating
+rating R
+
+# genre
+genre Drama
+
+# budget in dollars
+budget 33000000.0

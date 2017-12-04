@@ -1,0 +1,7 @@
+# all of the actors
+actor Deborah Kara Unger
+actor Armin Mueller-Stahl
+
+# director name
+director David Fincher
+

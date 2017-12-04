@@ -1,0 +1,16 @@
+# all of the actors
+actor Marie-Josée Croze
+actor Stéphane Rousseau
+actor Marina Hands
+
+# director name
+director Denys Arcand
+
+# content rating
+rating R
+
+# genre
+genre Mystery
+
+# budget in dollars
+budget 6000000.0

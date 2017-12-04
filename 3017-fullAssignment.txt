@@ -1,0 +1,16 @@
+# all of the actors
+actor Jason Statham
+actor Brad Pitt
+actor Jason Flemyng
+
+# director name
+director Guy Ritchie
+
+# content rating
+rating R
+
+# genre
+genre Comedy
+
+# budget in dollars
+budget 6000000.0

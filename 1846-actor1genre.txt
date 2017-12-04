@@ -1,0 +1,7 @@
+# all of the actors
+actor Holly Hunter
+actor Tim Blake Nelson
+
+# director name
+director Joel Coen
+

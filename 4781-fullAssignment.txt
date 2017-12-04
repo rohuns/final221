@@ -1,0 +1,16 @@
+# all of the actors
+actor James Nesbitt
+actor Nicholas Farrell
+actor Tim Pigott-Smith
+
+# director name
+director Paul Greengrass
+
+# content rating
+rating R
+
+# genre
+genre War
+
+# budget in dollars
+budget 2000000.0

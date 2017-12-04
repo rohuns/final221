@@ -1,0 +1,7 @@
+# all of the actors
+actor David Carradine
+actor Vivica A. Fox
+
+# director name
+director Quentin Tarantino
+

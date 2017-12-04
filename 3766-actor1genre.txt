@@ -1,0 +1,7 @@
+# all of the actors
+actor Claudia Cardinale
+actor Woody Strode
+
+# director name
+director Sergio Leone
+

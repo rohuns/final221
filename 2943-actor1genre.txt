@@ -1,0 +1,7 @@
+# all of the actors
+actor Steven Mackintosh
+actor Jerry Nelson
+
+# director name
+director Brian Henson
+

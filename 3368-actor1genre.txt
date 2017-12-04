@@ -1,0 +1,7 @@
+# all of the actors
+actor Joseph Gordon-Levitt
+actor Anna Kendrick
+
+# director name
+director Jonathan Levine
+

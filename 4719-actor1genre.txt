@@ -1,0 +1,7 @@
+# all of the actors
+actor Paul McCartney
+actor Ringo Starr
+
+# director name
+director Richard Lester
+

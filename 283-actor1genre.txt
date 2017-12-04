@@ -1,0 +1,7 @@
+# all of the actors
+actor Djimon Hounsou
+actor Connie Nielsen
+
+# director name
+director Ridley Scott
+

@@ -1,0 +1,16 @@
+# all of the actors
+actor Kurt Fuller
+actor Audrey Fleurot
+actor Nina Arianda
+
+# director name
+director Woody Allen
+
+# content rating
+rating PG-13
+
+# genre
+genre Romance
+
+# budget in dollars
+budget 17000000.0

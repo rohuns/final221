@@ -1,0 +1,7 @@
+# all of the actors
+actor Mathieu Kassovitz
+actor Jamel Debbouze
+
+# director name
+director Jean-Pierre Jeunet
+

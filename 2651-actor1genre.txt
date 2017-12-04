@@ -1,0 +1,7 @@
+# all of the actors
+actor Robin Wright
+actor Carol Kane
+
+# director name
+director Rob Reiner
+

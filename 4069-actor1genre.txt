@@ -1,0 +1,7 @@
+# all of the actors
+actor Fred MacMurray
+actor Ray Walston
+
+# director name
+director Billy Wilder
+

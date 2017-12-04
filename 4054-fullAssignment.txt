@@ -1,0 +1,16 @@
+# all of the actors
+actor Michael Moore
+actor Dick Clark
+actor Bill Clinton
+
+# director name
+director Michael Moore
+
+# content rating
+rating R
+
+# genre
+genre Crime
+
+# budget in dollars
+budget 4000000.0

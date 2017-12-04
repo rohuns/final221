@@ -1,0 +1,16 @@
+# all of the actors
+actor Clint Eastwood
+actor Luigi Pistilli
+actor Enzo Petito
+
+# director name
+director Sergio Leone
+
+# content rating
+rating Approved
+
+# genre
+genre Western
+
+# budget in dollars
+budget 1200000.0

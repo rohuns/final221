@@ -1,0 +1,7 @@
+# all of the actors
+actor Seamus Davey-Fitzpatrick
+actor Ariane Labed
+
+# director name
+director Richard Linklater
+

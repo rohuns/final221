@@ -1,0 +1,7 @@
+# all of the actors
+actor Jean Harlow
+actor Marian Marsh
+
+# director name
+director Howard Hughes
+

@@ -1,0 +1,16 @@
+# all of the actors
+actor Will Smith
+actor Rosario Dawson
+actor Madison Pettis
+
+# director name
+director Gabriele Muccino
+
+# content rating
+rating PG-13
+
+# genre
+genre Romance
+
+# budget in dollars
+budget 55000000.0

@@ -1,0 +1,5 @@
+# all of the actors
+actor Tom Hardy
+actor Charlize Theron
+actor Zoë Kravitz
+

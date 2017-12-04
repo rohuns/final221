@@ -1,0 +1,7 @@
+# all of the actors
+actor Albert Finney
+actor Helen McCrory
+
+# director name
+director Sam Mendes
+

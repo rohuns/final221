@@ -1,0 +1,5 @@
+# all of the actors
+actor Gary Cooper
+actor Lloyd Bridges
+actor Lon Chaney Jr.
+

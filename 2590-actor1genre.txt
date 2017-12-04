@@ -1,0 +1,7 @@
+# all of the actors
+actor Cary-Hiroyuki Tagawa
+actor Sarah Roemer
+
+# director name
+director Lasse Hallström
+

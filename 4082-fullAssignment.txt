@@ -1,0 +1,16 @@
+# all of the actors
+actor Seamus Davey-Fitzpatrick
+actor Ariane Labed
+actor Athina Rachel Tsangari
+
+# director name
+director Richard Linklater
+
+# content rating
+rating R
+
+# genre
+genre Drama
+
+# budget in dollars
+budget 3000000.0

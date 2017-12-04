@@ -1,0 +1,7 @@
+# all of the actors
+actor Ginger Rogers
+actor Edward Everett Horton
+
+# director name
+director Mark Sandrich
+

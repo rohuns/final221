@@ -1,0 +1,16 @@
+# all of the actors
+actor Min-sik Choi
+actor Yeong-ae Lee
+actor Hye-jeong Kang
+
+# director name
+director Chan-wook Park
+
+# content rating
+rating R
+
+# genre
+genre Crime
+
+# budget in dollars
+budget 4200000000.0

@@ -1,0 +1,16 @@
+# all of the actors
+actor William Gates
+actor Arthur Agee
+actor Isiah Thomas
+
+# director name
+director Steve James
+
+# content rating
+rating PG-13
+
+# genre
+genre Sport
+
+# budget in dollars
+budget 700000.0

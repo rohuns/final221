@@ -1,0 +1,16 @@
+# all of the actors
+actor Peter Ostrum
+actor Jack Albertson
+actor Julie Dawn Cole
+
+# director name
+director Mel Stuart
+
+# content rating
+rating G
+
+# genre
+genre Fantasy
+
+# budget in dollars
+budget 3000000.0

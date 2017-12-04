@@ -1,0 +1,16 @@
+# all of the actors
+actor Henry Thomas
+actor Dee Wallace
+actor Peter Coyote
+
+# director name
+director Steven Spielberg
+
+# content rating
+rating PG
+
+# genre
+genre Sci-Fi
+
+# budget in dollars
+budget 10500000.0

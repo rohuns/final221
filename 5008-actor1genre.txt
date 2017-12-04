@@ -1,0 +1,7 @@
+# all of the actors
+actor Jason Mewes
+actor Brian O'Halloran
+
+# director name
+director Kevin Smith
+

@@ -1,0 +1,16 @@
+# all of the actors
+actor Don Cheadle
+actor Sophie Okonedo
+actor Hakeem Kae-Kazim
+
+# director name
+director Terry George
+
+# content rating
+rating PG-13
+
+# genre
+genre Drama
+
+# budget in dollars
+budget 17500000.0

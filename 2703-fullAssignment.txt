@@ -1,0 +1,16 @@
+# all of the actors
+actor Philip Seymour Hoffman
+actor Jeff Bridges
+actor Steve Buscemi
+
+# director name
+director Joel Coen
+
+# content rating
+rating R
+
+# genre
+genre Comedy
+
+# budget in dollars
+budget 15000000.0

@@ -1,0 +1,7 @@
+# all of the actors
+actor Pedro Armendáriz Jr.
+actor Jacques Perrin
+
+# director name
+director Jacques Perrin
+

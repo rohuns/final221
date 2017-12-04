@@ -1,0 +1,7 @@
+# all of the actors
+actor Jim Meskimen
+actor Paul F. Tompkins
+
+# director name
+director Paul Thomas Anderson
+

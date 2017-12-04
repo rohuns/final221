@@ -1,0 +1,7 @@
+# all of the actors
+actor Nicolas Cage
+actor Meryl Streep
+
+# director name
+director Spike Jonze
+

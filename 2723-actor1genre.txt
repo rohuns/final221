@@ -1,0 +1,7 @@
+# all of the actors
+actor Naomi Watts
+actor Robert Forster
+
+# director name
+director David Lynch
+

@@ -1,0 +1,16 @@
+# all of the actors
+actor Kevin Spacey
+actor Al Pacino
+actor Jude Ciccolella
+
+# director name
+director James Foley
+
+# content rating
+rating R
+
+# genre
+genre Crime
+
+# budget in dollars
+budget 12500000.0

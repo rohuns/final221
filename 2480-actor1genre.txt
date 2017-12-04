@@ -1,0 +1,7 @@
+# all of the actors
+actor Don Cheadle
+actor Sophie Okonedo
+
+# director name
+director Terry George
+

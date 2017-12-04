@@ -1,0 +1,16 @@
+# all of the actors
+actor Matt Damon
+actor Donald Glover
+actor Benedict Wong
+
+# director name
+director Ridley Scott
+
+# content rating
+rating PG-13
+
+# genre
+genre Drama
+
+# budget in dollars
+budget 108000000.0

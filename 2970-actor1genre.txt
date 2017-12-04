@@ -1,0 +1,7 @@
+# all of the actors
+actor Jürgen Prochnow
+actor Martin Semmelrogge
+
+# director name
+director Wolfgang Petersen
+

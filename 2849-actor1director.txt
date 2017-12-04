@@ -1,0 +1,5 @@
+# all of the actors
+actor Logan Lerman
+actor Eric Stoltz
+actor Cameron Bright
+

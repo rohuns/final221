@@ -1,0 +1,5 @@
+# all of the actors
+actor Rita Hayworth
+actor Everett Sloane
+actor Ted de Corsia
+

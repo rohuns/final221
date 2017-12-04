@@ -1,0 +1,7 @@
+# all of the actors
+actor George C. Scott
+actor Slim Pickens
+
+# director name
+director Stanley Kubrick
+

@@ -1,0 +1,16 @@
+# all of the actors
+actor Marlon Brando
+actor Karl Malden
+actor Rod Steiger
+
+# director name
+director Elia Kazan
+
+# content rating
+rating Not Rated
+
+# genre
+genre Drama
+
+# budget in dollars
+budget 910000.0

@@ -1,0 +1,7 @@
+# all of the actors
+actor Morgan Freeman
+actor Brad Pitt
+
+# director name
+director David Fincher
+

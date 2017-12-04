@@ -1,0 +1,7 @@
+# all of the actors
+actor Robert Duvall
+actor Brock Peters
+
+# director name
+director Robert Mulligan
+

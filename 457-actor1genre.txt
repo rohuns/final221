@@ -1,0 +1,7 @@
+# all of the actors
+actor Tom Hanks
+actor Jennifer Jason Leigh
+
+# director name
+director Sam Mendes
+

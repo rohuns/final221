@@ -1,0 +1,5 @@
+# all of the actors
+actor Topol
+actor Paul Michael Glaser
+actor Rosalind Harris
+

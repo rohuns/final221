@@ -1,0 +1,7 @@
+# all of the actors
+actor Robert De Niro
+actor Burt Young
+
+# director name
+director Sergio Leone
+

@@ -1,0 +1,7 @@
+# all of the actors
+actor Colin Firth
+actor Jennifer Ehle
+
+# director name
+director Tom Hooper
+

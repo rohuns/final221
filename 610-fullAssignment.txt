@@ -1,0 +1,16 @@
+# all of the actors
+actor Henry Cavill
+actor David Kelly
+actor Nathaniel Parker
+
+# director name
+director Matthew Vaughn
+
+# content rating
+rating PG-13
+
+# genre
+genre Fantasy
+
+# budget in dollars
+budget 70000000.0

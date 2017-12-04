@@ -1,0 +1,7 @@
+# all of the actors
+actor Catherine Dyer
+actor Quinton Aaron
+
+# director name
+director John Lee Hancock
+

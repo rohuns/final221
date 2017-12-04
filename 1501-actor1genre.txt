@@ -1,0 +1,7 @@
+# all of the actors
+actor Delroy Lindo
+actor Jesse Borrego
+
+# director name
+director Taylor Hackford
+

@@ -1,0 +1,7 @@
+# all of the actors
+actor Jennifer Lawrence
+actor Robert De Niro
+
+# director name
+director David O. Russell
+

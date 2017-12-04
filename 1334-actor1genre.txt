@@ -1,0 +1,7 @@
+# all of the actors
+actor Adam Baldwin
+actor Sean Maher
+
+# director name
+director Joss Whedon
+

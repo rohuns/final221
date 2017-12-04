@@ -1,0 +1,16 @@
+# all of the actors
+actor Johnny Depp
+actor Tom Berenger
+actor Kevin Dillon
+
+# director name
+director Oliver Stone
+
+# content rating
+rating R
+
+# genre
+genre War
+
+# budget in dollars
+budget 6000000.0

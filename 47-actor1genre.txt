@@ -1,0 +1,7 @@
+# all of the actors
+actor Jennifer Lawrence
+actor Peter Dinklage
+
+# director name
+director Bryan Singer
+

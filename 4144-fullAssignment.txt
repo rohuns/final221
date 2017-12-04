@@ -1,0 +1,16 @@
+# all of the actors
+actor Fernanda Montenegro
+actor Matheus Nachtergaele
+actor Othon Bastos
+
+# director name
+director Walter Salles
+
+# content rating
+rating R
+
+# genre
+genre Drama
+
+# budget in dollars
+budget 2900000.0

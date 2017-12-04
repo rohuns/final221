@@ -1,0 +1,16 @@
+# all of the actors
+actor J.K. Simmons
+actor Melissa Benoist
+actor Chris Mulkey
+
+# director name
+director Damien Chazelle
+
+# content rating
+rating R
+
+# genre
+genre Music
+
+# budget in dollars
+budget 3300000.0

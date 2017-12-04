@@ -1,0 +1,16 @@
+# all of the actors
+actor Matthew McConaughey
+actor Jennifer Garner
+actor Denis O'Hare
+
+# director name
+director Jean-Marc Vallée
+
+# content rating
+rating R
+
+# genre
+genre Drama
+
+# budget in dollars
+budget 5000000.0

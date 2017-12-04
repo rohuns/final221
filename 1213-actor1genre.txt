@@ -1,0 +1,7 @@
+# all of the actors
+actor Rosario Dawson
+actor Powers Boothe
+
+# director name
+director Frank Miller
+

@@ -1,0 +1,16 @@
+# all of the actors
+actor Mckenna Grace
+actor Lucy Fry
+actor Natalie Coughlin
+
+# director name
+director Bruce Beresford
+
+# content rating
+rating PG-13
+
+# genre
+genre Drama
+
+# budget in dollars
+budget 8000000.0

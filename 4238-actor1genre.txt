@@ -1,0 +1,7 @@
+# all of the actors
+actor Myrna Loy
+actor Teresa Wright
+
+# director name
+director William Wyler
+

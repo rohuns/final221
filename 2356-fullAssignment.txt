@@ -1,0 +1,16 @@
+# all of the actors
+actor Mary McDonnell
+actor Michael Spears
+actor Maury Chaykin
+
+# director name
+director Kevin Costner
+
+# content rating
+rating PG-13
+
+# genre
+genre Adventure
+
+# budget in dollars
+budget 22000000.0

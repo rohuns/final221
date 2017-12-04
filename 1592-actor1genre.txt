@@ -1,0 +1,7 @@
+# all of the actors
+actor Ryan Gosling
+actor Denzel Washington
+
+# director name
+director Boaz Yakin
+

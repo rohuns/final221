@@ -1,0 +1,7 @@
+# all of the actors
+actor Denzel Washington
+actor Ruby Dee
+
+# director name
+director Ridley Scott
+

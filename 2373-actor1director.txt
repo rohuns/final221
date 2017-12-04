@@ -1,0 +1,5 @@
+# all of the actors
+actor Bunta Sugawara
+actor Ryûnosuke Kamiki
+actor Miyu Irino
+

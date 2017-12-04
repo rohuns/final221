@@ -1,0 +1,7 @@
+# all of the actors
+actor Humphrey Bogart
+actor Claude Rains
+
+# director name
+director Michael Curtiz
+

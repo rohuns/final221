@@ -1,0 +1,7 @@
+# all of the actors
+actor Jean-Baptiste Maunier
+actor François Berléand
+
+# director name
+director Christophe Barratier
+

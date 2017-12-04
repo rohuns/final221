@@ -1,0 +1,7 @@
+# all of the actors
+actor Tom Hanks
+actor Vin Diesel
+
+# director name
+director Steven Spielberg
+

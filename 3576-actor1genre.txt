@@ -1,0 +1,7 @@
+# all of the actors
+actor Florian Lukas
+actor Chulpan Khamatova
+
+# director name
+director Wolfgang Becker
+

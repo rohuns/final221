@@ -1,0 +1,7 @@
+# all of the actors
+actor Jake Gyllenhaal
+actor Mary McDonnell
+
+# director name
+director Richard Kelly
+

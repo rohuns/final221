@@ -1,0 +1,7 @@
+# all of the actors
+actor Laurence Olivier
+actor Joan Fontaine
+
+# director name
+director Alfred Hitchcock
+

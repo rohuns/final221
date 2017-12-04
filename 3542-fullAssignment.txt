@@ -1,0 +1,16 @@
+# all of the actors
+actor Milla Jovovich
+actor Adam Goldberg
+actor Cole Hauser
+
+# director name
+director Richard Linklater
+
+# content rating
+rating R
+
+# genre
+genre Comedy
+
+# budget in dollars
+budget 6900000.0

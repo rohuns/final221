@@ -1,0 +1,16 @@
+# all of the actors
+actor Eleanor Parker
+actor Angela Cartwright
+actor Nicholas Hammond
+
+# director name
+director Robert Wise
+
+# content rating
+rating G
+
+# genre
+genre Biography
+
+# budget in dollars
+budget 8200000.0

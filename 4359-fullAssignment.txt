@@ -1,0 +1,16 @@
+# all of the actors
+actor George C. Scott
+actor Slim Pickens
+actor Keenan Wynn
+
+# director name
+director Stanley Kubrick
+
+# content rating
+rating PG
+
+# genre
+genre Comedy
+
+# budget in dollars
+budget 1800000.0

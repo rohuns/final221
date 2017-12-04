@@ -1,0 +1,16 @@
+# all of the actors
+actor Steven Mackintosh
+actor Jerry Nelson
+actor Steve Whitmire
+
+# director name
+director Brian Henson
+
+# content rating
+rating G
+
+# genre
+genre Comedy
+
+# budget in dollars
+budget 12000000.0

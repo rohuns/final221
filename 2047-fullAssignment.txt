@@ -1,0 +1,16 @@
+# all of the actors
+actor Christian Bale
+actor Blythe Danner
+actor Jean Simmons
+
+# director name
+director Hayao Miyazaki
+
+# content rating
+rating PG
+
+# genre
+genre Fantasy
+
+# budget in dollars
+budget 24000000.0

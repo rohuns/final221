@@ -1,0 +1,7 @@
+# all of the actors
+actor Wes Studi
+actor Terry Kinney
+
+# director name
+director Michael Mann
+

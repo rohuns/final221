@@ -1,0 +1,7 @@
+# all of the actors
+actor Johnny Depp
+actor Michael Jeter
+
+# director name
+director Terry Gilliam
+

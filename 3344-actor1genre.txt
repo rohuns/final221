@@ -1,0 +1,7 @@
+# all of the actors
+actor Shah Rukh Khan
+actor Jimmy Shergill
+
+# director name
+director Karan Johar
+

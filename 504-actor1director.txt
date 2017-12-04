@@ -1,0 +1,5 @@
+# all of the actors
+actor Pedro Armendáriz Jr.
+actor Jacques Perrin
+actor Rie Miyazawa
+

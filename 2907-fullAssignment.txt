@@ -1,0 +1,16 @@
+# all of the actors
+actor Catherine Deneuve
+actor Udo Kier
+actor Björk
+
+# director name
+director Lars von Trier
+
+# content rating
+rating R
+
+# genre
+genre Drama
+
+# budget in dollars
+budget 12800000.0

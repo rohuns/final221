@@ -1,0 +1,7 @@
+# all of the actors
+actor Robert De Niro
+actor Cathy Moriarty
+
+# director name
+director Martin Scorsese
+

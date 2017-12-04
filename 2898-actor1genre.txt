@@ -1,0 +1,7 @@
+# all of the actors
+actor Brad Pitt
+actor Gary Oldman
+
+# director name
+director Tony Scott
+

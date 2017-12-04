@@ -1,0 +1,7 @@
+# all of the actors
+actor Quvenzhané Wallis
+actor Scoot McNairy
+
+# director name
+director Steve McQueen
+

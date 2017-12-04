@@ -1,0 +1,7 @@
+# all of the actors
+actor Kevin Spacey
+actor Matt McCoy
+
+# director name
+director Curtis Hanson
+

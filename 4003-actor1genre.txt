@@ -1,0 +1,7 @@
+# all of the actors
+actor Ted Raimi
+actor Dan Hicks
+
+# director name
+director Sam Raimi
+

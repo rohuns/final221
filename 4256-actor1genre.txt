@@ -1,0 +1,7 @@
+# all of the actors
+actor James Mason
+actor Shelley Winters
+
+# director name
+director Stanley Kubrick
+

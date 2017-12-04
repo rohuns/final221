@@ -1,0 +1,16 @@
+# all of the actors
+actor Sylvester Stallone
+actor Phylicia Rashad
+actor Graham McTavish
+
+# director name
+director Ryan Coogler
+
+# content rating
+rating PG-13
+
+# genre
+genre Sport
+
+# budget in dollars
+budget 35000000.0

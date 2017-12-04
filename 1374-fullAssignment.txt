@@ -1,0 +1,16 @@
+# all of the actors
+actor Patton Oswalt
+actor Neil Flynn
+actor Jim Meskimen
+
+# director name
+director Paul Thomas Anderson
+
+# content rating
+rating R
+
+# genre
+genre Drama
+
+# budget in dollars
+budget 37000000.0

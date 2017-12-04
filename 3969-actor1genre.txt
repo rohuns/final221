@@ -1,0 +1,7 @@
+# all of the actors
+actor Robert Duvall
+actor Faye Dunaway
+
+# director name
+director Sidney Lumet
+

@@ -1,0 +1,16 @@
+# all of the actors
+actor Vidya Balan
+actor Sanjay Dutt
+actor Jimmy Shergill
+
+# director name
+director Rajkumar Hirani
+
+# content rating
+rating PG-13
+
+# genre
+genre Romance
+
+# budget in dollars
+budget 120000000.0

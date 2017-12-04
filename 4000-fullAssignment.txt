@@ -1,0 +1,16 @@
+# all of the actors
+actor Ricardo Darín
+actor Soledad Villamil
+actor Guillermo Francella
+
+# director name
+director Juan José Campanella
+
+# content rating
+rating R
+
+# genre
+genre Thriller
+
+# budget in dollars
+budget 2000000.0

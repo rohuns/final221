@@ -1,0 +1,16 @@
+# all of the actors
+actor Shah Rukh Khan
+actor Jimmy Shergill
+actor Christopher B. Duncan
+
+# director name
+director Karan Johar
+
+# content rating
+rating PG-13
+
+# genre
+genre Thriller
+
+# budget in dollars
+budget 12000000.0

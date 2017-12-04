@@ -1,0 +1,16 @@
+# all of the actors
+actor George C. Scott
+actor Karl Malden
+actor Bill Hickman
+
+# director name
+director Franklin J. Schaffner
+
+# content rating
+rating GP
+
+# genre
+genre Biography
+
+# budget in dollars
+budget 12000000.0

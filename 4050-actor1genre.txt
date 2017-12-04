@@ -1,0 +1,7 @@
+# all of the actors
+actor Kelly Macdonald
+actor Shirley Henderson
+
+# director name
+director Danny Boyle
+

@@ -1,0 +1,7 @@
+# all of the actors
+actor Charlotte Rampling
+actor James Mason
+
+# director name
+director Sidney Lumet
+

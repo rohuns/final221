@@ -1,0 +1,16 @@
+# all of the actors
+actor Chris Hemsworth
+actor Leonard Nimoy
+actor Bruce Greenwood
+
+# director name
+director J.J. Abrams
+
+# content rating
+rating PG-13
+
+# genre
+genre Sci-Fi
+
+# budget in dollars
+budget 150000000.0

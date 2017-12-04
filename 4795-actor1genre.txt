@@ -1,0 +1,7 @@
+# all of the actors
+actor Eric Idle
+actor Michael Palin
+
+# director name
+director Terry Gilliam
+

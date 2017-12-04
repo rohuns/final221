@@ -1,0 +1,16 @@
+# all of the actors
+actor Ryan Gosling
+actor Denzel Washington
+actor Ethan Suplee
+
+# director name
+director Boaz Yakin
+
+# content rating
+rating PG
+
+# genre
+genre Drama
+
+# budget in dollars
+budget 30000000.0
