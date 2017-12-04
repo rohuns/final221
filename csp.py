@@ -123,7 +123,7 @@ class BacktrackingSearch():
 
 
         print "total cost for %s with {%s: %s} is %s" %(assignment, var, val, totalCost)
-        if totalCost > 200000000:
+        if totalCost > self.budget:
             print '------------------------------>pruned'
             return 0
         w = 1.0
@@ -136,7 +136,7 @@ class BacktrackingSearch():
             if w == 0: return w
         return w
 
-    def solve(self, csp, mcv = False, ac3 = False):
+    def solve(self, csp, mcv = False, ac3 = False, budget = 100000000):
         """
         Solves the given weighted CSP using heuristics as specified in the
         parameter. Note that unlike a typical unweighted CSP where the search
@@ -159,6 +159,7 @@ class BacktrackingSearch():
 
         # Reset solutions from previous search.
         self.reset_results()
+        self.budget = budget*0.5
 
         # The dictionary of domains of every variable in the CSP.
         self.domains = {var: list(self.csp.values[var]) for var in self.csp.variables}

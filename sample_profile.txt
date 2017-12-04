@@ -12,4 +12,4 @@ rating PG-13
 genre Comedy
 
 # budget in dollars
-budget 200000000
+budget 500000000
