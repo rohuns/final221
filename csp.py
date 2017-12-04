@@ -256,8 +256,6 @@ class BacktrackingSearch():
                         g = genres_map[assignment['genre']]
 
                     rating = forest.predict([[randint(30000000, 40000000),content_r,d_name,a3_name,a2_name,a1_name,g]])[0]
-                    print assignment
-                    print rating
                     self.backtrack(assignment, numAssigned + 1, rating * weight * deltaWeight)
                     # restore the previous domains
                     self.domains = localCopy
@@ -336,7 +334,7 @@ class BacktrackingSearch():
 
 class MovieCSPConstructor():
 
-    def __init__(self, actorBulletin, directorBulletin):
+    def __init__(self, actorBulletin, directorBulletin, profile):
         """
         Saves the necessary data.
 
@@ -345,7 +343,7 @@ class MovieCSPConstructor():
         """
         self.actorBulletin = actorBulletin
         self.directorBulletin = directorBulletin
-        self.profile = None
+        self.profile = profile
 
     def add_variables(self, csp):
         """
@@ -405,7 +403,7 @@ class MovieCSPConstructor():
         csp = util.CSP()
         self.add_variables(csp)
         self.add_constraints(csp)
-        #self.add_specific_constraints(csp) #NOTE try to separate these out
+        self.add_specific_constraints(csp) #NOTE try to separate these out
         print 'end'
         return csp
 
