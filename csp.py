@@ -403,19 +403,31 @@ class MovieCSPConstructor():
         """
         csp = util.CSP()
         self.add_variables(csp)
-
         self.add_constraints(csp)
+        self.add_specific_constraints(csp) #NOTE try to separate these out
         return csp
 
-    def add_constraints(self, csp):
-        csp.add_binary_factor("actor1", "actor2", lambda x, y : x!=y)
-        csp.add_binary_factor("actor3", "actor2", lambda x, y : x!=y)
-        csp.add_binary_factor("actor1", "actor3", lambda x, y : x!=y)
+    def add_specific_constraints(self, csp):
         count = 1
         for a in self.profile.actors:
             v = "actor%d" %count
             csp.add_unary_factor(v, lambda x: x == a.name)
             count += 1
+        if self.profile.director:
+            csp.add_unary_factor("director", lambda x: x==self.profile.director.name)
+        if self.profile.content_rating:
+            csp.add_unary_factor("content_rating", lambda x: x==self.profile.content_rating)
+        if self.profile.genre:
+            csp.add_unary_factor("genre", lambda x: x==self.profile.genre)
+
+   
+
+    def add_constraints(self, csp):
+        csp.add_binary_factor("actor1", "actor2", lambda x, y : x!=y)
+        csp.add_binary_factor("actor3", "actor2", lambda x, y : x!=y)
+        csp.add_binary_factor("actor1", "actor3", lambda x, y : x!=y)
+
+
 
 
     # def add_request_weights(self, csp):

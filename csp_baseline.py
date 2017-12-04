@@ -44,3 +44,4 @@ def baseline():
 	print(assignments_error.error(done))
 
 baseline()
+print len(actors_map.keys())
