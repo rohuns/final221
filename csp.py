@@ -123,7 +123,7 @@ class BacktrackingSearch():
 
         # print "total cost for %s with {%s: %s} is %s" %(assignment, var, val, totalCost)
         if totalCost > self.budget:
-            print '--->pruning total cost for %s with {%s: %s} is %s' %(assignment, var, val, totalCost)
+            print '----------------------------->pruning total cost for %s with {%s: %s} is %s' %(assignment, var, val, totalCost)
             return 0
         w = 1.0
         if self.csp.unaryFactors[var]:
@@ -363,6 +363,9 @@ class MovieCSPConstructor():
         genres_map = pickle.load(open("genre.pickle", "rb"))
         content_ratings_map = pickle.load(open("content_ratings.pickle", "rb"))
 
+        print len(self.actorBulletin.actors_map.keys())
+        print len(self.directorBulletin.directors_map.keys())
+
         csp.add_variable("actor1", self.actorBulletin.actors_map.keys())
         csp.add_variable("actor2", self.actorBulletin.actors_map.keys())
         # csp.add_variable("a3", self.actorBulletin.actors_map.keys())
@@ -372,9 +375,9 @@ class MovieCSPConstructor():
         # csp.add_variable("actor1", ['Tyra Banks'])
         #csp.add_variable("actor2", ['John','Adam'])
         csp.add_variable("actor3", self.actorBulletin.actors_map.keys())
-        csp.add_variable("genre", ['Comedy','Action','Romance'])
+        csp.add_variable("genre", genres_map.keys())
         csp.add_variable("director", self.directorBulletin.directors_map.keys())
-        csp.add_variable("content_rating", ['PG','PG-13'])
+        csp.add_variable("content_rating", content_ratings_map.keys())
 
         #csp.add_variable("budget", ) #NOTE add the budget
 
