@@ -27,11 +27,12 @@ def makeProfile(m):
 actors_map = pickle.load(open("actors.pickle", 'rb'))
 directors_map = pickle.load(open("directors.pickle", "rb"))
 actorBulletin, directorBulletin = util.ActorBulletin(actors_map), util.DirectorBulletin(directors_map) #load pickles
-#assignments = pickle.load(open("fileMapping.pickle", "rb")) #partial assignments to test
-assignments = ["sample_profile.txt", "sample_profile_2.txt"]
+assignments = pickle.load(open("fileMapping.pickle", "rb")) #partial assignments to test
+#assignments = ["sample_profile.txt", "sample_profile_2.txt"]
 
 completed = []
-for p in assignments:
+print assignments.keys()[0]
+for p in [assignments.keys()[0]]:
 	profile = util.Profile(actorBulletin, directorBulletin, "profiles/" + p)
 	cspConstructor = csp.MovieCSPConstructor(actorBulletin, directorBulletin, profile)
 	csp_1 = cspConstructor.get_basic_csp()
