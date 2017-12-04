@@ -324,7 +324,7 @@ class Profile:
             if m:
                 name = m.group(1)
                 if name not in actorBulletin.actors_map:
-                    print "Invalid actor: %s. Will be ignored from request."
+                    print "Invalid actor: %s. Will be ignored from request." %name
                     continue
                 if len(self.actors) < 3:
                     cid = actorBulletin.actors_map[name]

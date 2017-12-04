@@ -1,10 +1,10 @@
 # all of the actors
 actor Robert De Niro
 actor Sean Connery
-# actor Angelina Jolie Pitt
+actor Angelina Jolie Pitt
 
 # director name
-director Steven Spielberg
+# director Steven Spielberg
 
 # content rating 
 rating PG-13
