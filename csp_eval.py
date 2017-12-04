@@ -11,10 +11,14 @@ import csp
 actors_map = pickle.load(open("actors.pickle", 'rb'))
 directors_map = pickle.load(open("directors.pickle", "rb"))
 actorBulletin, directorBulletin = util.ActorBulletin(actors_map), util.DirectorBulletin(directors_map) #load pickles
+assignments = pickle.load(open("fileMapping.pickle", "rb")) #partial assignments to test
 
-profile = util.Profile(actorBulletin, directorBulletin, 'sample_profile.txt')
-cspConstructor = csp.MovieCSPConstructor(actorBulletin, directorBulletin, copy.deepcopy(profile))
-csp_1 = cspConstructor.get_basic_csp()
-alg = csp.BacktrackingSearch()
-alg.solve(csp_1, mcv=True, ac3=True, budget=profile.budget)
-print alg.optimalAssignment
+cspConstructor = csp.MovieCSPConstructor(actorBulletin, directorBulletin)
+completed = []
+for p in assignments:
+	profile = util.Profile(actorBulletin, directorBulletin, p)
+	copy.deepcopy(profile)
+	csp_1 = cspConstructor.get_basic_csp()
+	alg = csp.BacktrackingSearch()
+	alg.solve(csp_1, mcv=True, ac3=True, budget=profile.budget)
+	print alg.optimalAssignment
