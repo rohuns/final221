@@ -5,3 +5,5 @@ actor Austin Pendleton
 # director name
 director Ron Howard
 
+# budget in dollars
+budget 58000000.0

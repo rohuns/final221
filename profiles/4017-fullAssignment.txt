@@ -10,7 +10,7 @@ director Jay Oliva
 rating PG-13
 
 # genre
-genre Action
+genre Thriller
 
 # budget in dollars
 budget 3500000.0

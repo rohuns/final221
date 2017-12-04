@@ -5,3 +5,5 @@ actor Ariane Labed
 # director name
 director Richard Linklater
 
+# budget in dollars
+budget 3000000.0

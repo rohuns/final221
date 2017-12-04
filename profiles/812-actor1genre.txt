@@ -5,3 +5,5 @@ actor Ed Skrein
 # director name
 director Tim Miller
 
+# budget in dollars
+budget 58000000.0

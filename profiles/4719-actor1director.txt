@@ -3,3 +3,5 @@ actor Paul McCartney
 actor Ringo Starr
 actor George Harrison
 
+# budget in dollars
+budget 560000.0

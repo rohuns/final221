@@ -5,3 +5,5 @@ actor Holly Valance
 # director name
 director Pierre Morel
 
+# budget in dollars
+budget 25000000.0

@@ -3,3 +3,5 @@ actor Tom Hanks
 actor Paul Sanchez
 actor Nick Searcy
 
+# budget in dollars
+budget 90000000.0

@@ -3,3 +3,5 @@ actor Jeremy Brett
 actor Rex Harrison
 actor Theodore Bikel
 
+# budget in dollars
+budget 17000000.0

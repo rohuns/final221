@@ -5,3 +5,5 @@ actor Melissa Benoist
 # director name
 director Damien Chazelle
 
+# budget in dollars
+budget 3300000.0

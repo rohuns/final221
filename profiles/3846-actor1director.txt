@@ -3,3 +3,5 @@ actor Philip Seymour Hoffman
 actor Rosario Dawson
 actor Aaron Stanford
 
+# budget in dollars
+budget 15000000.0

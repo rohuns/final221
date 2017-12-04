@@ -10,7 +10,7 @@ director Martin McDonagh
 rating R
 
 # genre
-genre Crime
+genre Comedy
 
 # budget in dollars
 budget 15000000.0

@@ -5,3 +5,5 @@ actor David Della Rocco
 # director name
 director Troy Duffy
 
+# budget in dollars
+budget 7000000.0

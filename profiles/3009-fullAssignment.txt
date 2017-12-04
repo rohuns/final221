@@ -10,7 +10,7 @@ director Chuan Lu
 rating R
 
 # genre
-genre History
+genre War
 
 # budget in dollars
 budget 12000000.0

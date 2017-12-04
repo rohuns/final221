@@ -3,3 +3,5 @@ actor Wagner Moura
 actor Fernanda Machado
 actor André Ramiro
 
+# budget in dollars
+budget 4000000.0

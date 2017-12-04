@@ -3,3 +3,5 @@ actor Don Cheadle
 actor Nicole Ari Parker
 actor Nina Hartley
 
+# budget in dollars
+budget 15000000.0

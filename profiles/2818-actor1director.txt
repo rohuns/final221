@@ -3,3 +3,5 @@ actor Madeline Carroll
 actor Rebecca De Mornay
 actor Aidan Quinn
 
+# budget in dollars
+budget 14000000.0

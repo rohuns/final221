@@ -5,3 +5,5 @@ actor Steven Michael Quezada
 # director name
 director Lance McDaniel
 
+# budget in dollars
+budget 600000.0

@@ -5,3 +5,5 @@ actor Brian Thompson
 # director name
 director James Cameron
 
+# budget in dollars
+budget 6500000.0

@@ -3,3 +3,5 @@ actor Tom Hanks
 actor John Ratzenberger
 actor Jim Varney
 
+# budget in dollars
+budget 30000000.0

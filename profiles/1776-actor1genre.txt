@@ -5,3 +5,5 @@ actor Brenda Blethyn
 # director name
 director Joe Wright
 
+# budget in dollars
+budget 28000000.0

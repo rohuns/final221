@@ -10,7 +10,7 @@ director Christopher Nolan
 rating R
 
 # genre
-genre Mystery
+genre Thriller
 
 # budget in dollars
 budget 9000000.0

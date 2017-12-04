@@ -5,3 +5,5 @@ actor Jesse Borrego
 # director name
 director Taylor Hackford
 
+# budget in dollars
+budget 35000000.0

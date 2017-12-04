@@ -5,3 +5,5 @@ actor Burgess Meredith
 # director name
 director John G. Avildsen
 
+# budget in dollars
+budget 960000.0

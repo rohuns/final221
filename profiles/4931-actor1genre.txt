@@ -5,3 +5,5 @@ actor Markéta Irglová
 # director name
 director John Carney
 
+# budget in dollars
+budget 180000.0

@@ -3,3 +3,5 @@ actor James Nesbitt
 actor Nicholas Farrell
 actor Tim Pigott-Smith
 
+# budget in dollars
+budget 2000000.0

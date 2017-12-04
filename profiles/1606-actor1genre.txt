@@ -5,3 +5,5 @@ actor Kevin Connolly
 # director name
 director Nick Cassavetes
 
+# budget in dollars
+budget 29000000.0

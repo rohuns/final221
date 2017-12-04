@@ -3,3 +3,5 @@ actor Jake Gyllenhaal
 actor Michael Papajohn
 actor James Huang
 
+# budget in dollars
+budget 8500000.0

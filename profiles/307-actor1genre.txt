@@ -5,3 +5,5 @@ actor Djimon Hounsou
 # director name
 director Edward Zwick
 
+# budget in dollars
+budget 100000000.0

@@ -10,7 +10,7 @@ director Richard Kelly
 rating R
 
 # genre
-genre Sci-Fi
+genre Thriller
 
 # budget in dollars
 budget 4500000.0

@@ -5,3 +5,5 @@ actor Arthur Agee
 # director name
 director Steve James
 
+# budget in dollars
+budget 700000.0

@@ -5,3 +5,5 @@ actor Daniel Roebuck
 # director name
 director Andrew Davis
 
+# budget in dollars
+budget 44000000.0

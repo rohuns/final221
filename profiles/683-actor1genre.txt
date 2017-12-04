@@ -5,3 +5,5 @@ actor Meat Loaf
 # director name
 director David Fincher
 
+# budget in dollars
+budget 63000000.0

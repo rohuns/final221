@@ -5,3 +5,5 @@ actor John Ratzenberger
 # director name
 director Lee Unkrich
 
+# budget in dollars
+budget 200000000.0

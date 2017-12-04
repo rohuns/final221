@@ -5,3 +5,5 @@ actor Peter Dinklage
 # director name
 director Bryan Singer
 
+# budget in dollars
+budget 200000000.0

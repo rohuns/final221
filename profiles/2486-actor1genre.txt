@@ -5,3 +5,5 @@ actor Carrie Henn
 # director name
 director James Cameron
 
+# budget in dollars
+budget 18500000.0

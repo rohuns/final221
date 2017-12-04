@@ -3,3 +3,5 @@ actor Robin Williams
 actor Josh Charles
 actor Kurtwood Smith
 
+# budget in dollars
+budget 16400000.0

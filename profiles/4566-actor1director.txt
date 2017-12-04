@@ -3,3 +3,5 @@ actor Ed Begley Jr.
 actor Phyllis Diller
 actor Colette Divine
 
+# budget in dollars
+budget 1000000.0

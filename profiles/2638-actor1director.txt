@@ -3,3 +3,5 @@ actor Jake Gyllenhaal
 actor Anna Kendrick
 actor America Ferrera
 
+# budget in dollars
+budget 7000000.0

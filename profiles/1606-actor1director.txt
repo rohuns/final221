@@ -3,3 +3,5 @@ actor Ryan Gosling
 actor Kevin Connolly
 actor Gena Rowlands
 
+# budget in dollars
+budget 29000000.0

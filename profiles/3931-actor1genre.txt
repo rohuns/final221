@@ -5,3 +5,5 @@ actor Balinese Tari Legong Dancers
 # director name
 director Ron Fricke
 
+# budget in dollars
+budget 4000000.0

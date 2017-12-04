@@ -3,3 +3,5 @@ actor Tom Hanks
 actor Jeffrey DeMunn
 actor Michael Jeter
 
+# budget in dollars
+budget 60000000.0

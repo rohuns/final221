@@ -3,3 +3,5 @@ actor Janet Leigh
 actor Vera Miles
 actor John Gavin
 
+# budget in dollars
+budget 806947.0

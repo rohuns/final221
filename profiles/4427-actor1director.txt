@@ -3,3 +3,5 @@ actor Paulette Goddard
 actor Stanley Blystone
 actor Fred Malatesta
 
+# budget in dollars
+budget 1500000.0

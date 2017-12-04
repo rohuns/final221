@@ -5,3 +5,5 @@ actor Michael Papajohn
 # director name
 director Dan Gilroy
 
+# budget in dollars
+budget 8500000.0

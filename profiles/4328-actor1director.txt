@@ -3,3 +3,5 @@ actor Rita Hayworth
 actor Everett Sloane
 actor Ted de Corsia
 
+# budget in dollars
+budget 2300000.0

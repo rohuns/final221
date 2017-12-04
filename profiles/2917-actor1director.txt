@@ -3,3 +3,5 @@ actor Roy Scheider
 actor Robert Shaw
 actor Murray Hamilton
 
+# budget in dollars
+budget 8000000.0

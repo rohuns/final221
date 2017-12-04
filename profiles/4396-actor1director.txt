@@ -3,3 +3,5 @@ actor Harrison Ford
 actor Teri Garr
 actor Cindy Williams
 
+# budget in dollars
+budget 1600000.0

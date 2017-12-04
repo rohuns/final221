@@ -5,3 +5,5 @@ actor Sabrina Ferilli
 # director name
 director Paolo Sorrentino
 
+# budget in dollars
+budget 9200000.0

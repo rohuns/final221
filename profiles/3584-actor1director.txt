@@ -3,3 +3,5 @@ actor Katharine Ross
 actor Ted Cassidy
 actor Kenneth Mars
 
+# budget in dollars
+budget 6000000.0

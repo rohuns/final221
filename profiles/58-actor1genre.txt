@@ -5,3 +5,5 @@ actor Fred Willard
 # director name
 director Andrew Stanton
 
+# budget in dollars
+budget 180000000.0

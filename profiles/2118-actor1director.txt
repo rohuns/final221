@@ -3,3 +3,5 @@ actor Michiel Huisman
 actor Sebastian Koch
 actor Christian Berkel
 
+# budget in dollars
+budget 21000000.0

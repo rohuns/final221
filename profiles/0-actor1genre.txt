@@ -5,3 +5,5 @@ actor Joel David Moore
 # director name
 director James Cameron
 
+# budget in dollars
+budget 237000000.0

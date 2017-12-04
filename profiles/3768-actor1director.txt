@@ -3,3 +3,5 @@ actor Kevin Spacey
 actor Matt Berry
 actor Benedict Wong
 
+# budget in dollars
+budget 5000000.0

@@ -5,3 +5,5 @@ actor Vlad Ivanov
 # director name
 director Cristian Mungiu
 
+# budget in dollars
+budget 590000.0

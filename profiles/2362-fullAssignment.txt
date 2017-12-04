@@ -10,7 +10,7 @@ director Stanley Kubrick
 rating R
 
 # genre
-genre Drama
+genre Horror
 
 # budget in dollars
 budget 19000000.0

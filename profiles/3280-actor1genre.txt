@@ -5,3 +5,5 @@ actor Paul Michael Glaser
 # director name
 director Norman Jewison
 
+# budget in dollars
+budget 9000000.0

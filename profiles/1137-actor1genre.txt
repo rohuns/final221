@@ -5,3 +5,5 @@ actor Scoot McNairy
 # director name
 director Ben Affleck
 
+# budget in dollars
+budget 44500000.0

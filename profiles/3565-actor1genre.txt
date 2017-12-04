@@ -5,3 +5,5 @@ actor Juliane Köhler
 # director name
 director Caroline Link
 
+# budget in dollars
+budget 7000000.0

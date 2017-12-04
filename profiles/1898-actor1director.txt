@@ -3,3 +3,5 @@ actor Johnny Depp
 actor Kate Winslet
 actor Kelly Macdonald
 
+# budget in dollars
+budget 25000000.0

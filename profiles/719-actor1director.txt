@@ -3,3 +3,5 @@ actor Natascha McElhone
 actor Noah Emmerich
 actor Peter Krause
 
+# budget in dollars
+budget 60000000.0

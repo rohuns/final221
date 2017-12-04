@@ -5,3 +5,5 @@ actor Yeong-ae Lee
 # director name
 director Chan-wook Park
 
+# budget in dollars
+budget 4200000000.0

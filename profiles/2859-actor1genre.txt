@@ -5,3 +5,5 @@ actor Orson Bean
 # director name
 director Spike Jonze
 
+# budget in dollars
+budget 13000000.0

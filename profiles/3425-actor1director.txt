@@ -3,3 +3,5 @@ actor Stephen McHattie
 actor Roy Dupuis
 actor Julie LeBreton
 
+# budget in dollars
+budget 8000000.0

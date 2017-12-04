@@ -3,3 +3,5 @@ actor Roy Scheider
 actor Joe Spinell
 actor Amidou
 
+# budget in dollars
+budget 12000000.0

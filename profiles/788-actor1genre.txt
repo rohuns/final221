@@ -5,3 +5,5 @@ actor Zooey Deschanel
 # director name
 director Cameron Crowe
 
+# budget in dollars
+budget 60000000.0

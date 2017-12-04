@@ -3,3 +3,5 @@ actor John Cameron Mitchell
 actor Miriam Shor
 actor Andrea Martin
 
+# budget in dollars
+budget 6000000.0

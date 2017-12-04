@@ -5,3 +5,5 @@ actor Jack Canfield
 # director name
 director Joe Kenemore
 
+# budget in dollars
+budget 450000.0

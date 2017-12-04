@@ -5,3 +5,5 @@ actor François Berléand
 # director name
 director Christophe Barratier
 
+# budget in dollars
+budget 5500000.0

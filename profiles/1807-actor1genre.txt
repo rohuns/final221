@@ -5,3 +5,5 @@ actor Aretha Franklin
 # director name
 director John Landis
 
+# budget in dollars
+budget 27000000.0

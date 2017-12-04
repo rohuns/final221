@@ -5,3 +5,5 @@ actor Robert Blake
 # director name
 director Richard Brooks
 
+# budget in dollars
+budget 3500000.0

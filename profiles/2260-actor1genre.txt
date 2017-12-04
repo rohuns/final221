@@ -5,3 +5,5 @@ actor Eddie Marsan
 # director name
 director Alejandro G. Iñárritu
 
+# budget in dollars
+budget 20000000.0

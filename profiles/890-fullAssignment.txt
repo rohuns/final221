@@ -10,7 +10,7 @@ director Stanley Kubrick
 rating Not Rated
 
 # genre
-genre Drama
+genre Romance
 
 # budget in dollars
 budget 2000000.0

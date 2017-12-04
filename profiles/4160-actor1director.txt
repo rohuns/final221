@@ -3,3 +3,5 @@ actor Vidya Balan
 actor Sanjay Dutt
 actor Jimmy Shergill
 
+# budget in dollars
+budget 120000000.0

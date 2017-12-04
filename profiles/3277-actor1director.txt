@@ -3,3 +3,5 @@ actor Tom Skerritt
 actor Yaphet Kotto
 actor Bolaji Badejo
 
+# budget in dollars
+budget 11000000.0

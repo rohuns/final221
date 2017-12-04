@@ -5,3 +5,5 @@ actor Melvyn Douglas
 # director name
 director Martin Ritt
 
+# budget in dollars
+budget 2500000.0

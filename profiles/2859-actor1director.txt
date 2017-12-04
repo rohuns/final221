@@ -3,3 +3,5 @@ actor Willie Garson
 actor Orson Bean
 actor Mary Kay Place
 
+# budget in dollars
+budget 13000000.0

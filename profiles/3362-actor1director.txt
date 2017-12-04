@@ -3,3 +3,5 @@ actor Marshall Bell
 actor Frances Lee McCain
 actor Casey Siemaszko
 
+# budget in dollars
+budget 8000000.0

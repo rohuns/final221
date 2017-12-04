@@ -10,7 +10,7 @@ director David Lean
 rating PG
 
 # genre
-genre Biography
+genre War
 
 # budget in dollars
 budget 15000000.0

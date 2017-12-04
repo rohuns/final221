@@ -3,3 +3,5 @@ actor Chris Hemsworth
 actor Leonard Nimoy
 actor Bruce Greenwood
 
+# budget in dollars
+budget 150000000.0

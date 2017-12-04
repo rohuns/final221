@@ -3,3 +3,5 @@ actor Patrick Fugit
 actor Sela Ward
 actor Emily Ratajkowski
 
+# budget in dollars
+budget 61000000.0

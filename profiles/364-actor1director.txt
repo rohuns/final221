@@ -3,3 +3,5 @@ actor Robin Wright
 actor Goran Visnjic
 actor Joely Richardson
 
+# budget in dollars
+budget 90000000.0

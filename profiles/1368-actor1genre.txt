@@ -5,3 +5,5 @@ actor Phylicia Rashad
 # director name
 director Ryan Coogler
 
+# budget in dollars
+budget 35000000.0

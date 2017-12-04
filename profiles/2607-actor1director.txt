@@ -3,3 +3,5 @@ actor Colin Firth
 actor Jennifer Ehle
 actor Derek Jacobi
 
+# budget in dollars
+budget 15000000.0

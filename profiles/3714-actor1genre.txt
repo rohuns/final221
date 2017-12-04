@@ -5,3 +5,5 @@ actor Jennifer Garner
 # director name
 director Jean-Marc Vallée
 
+# budget in dollars
+budget 5000000.0

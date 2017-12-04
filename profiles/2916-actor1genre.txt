@@ -5,3 +5,5 @@ actor Linda Blair
 # director name
 director William Friedkin
 
+# budget in dollars
+budget 8000000.0

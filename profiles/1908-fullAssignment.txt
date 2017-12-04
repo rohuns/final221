@@ -10,7 +10,7 @@ director Bernardo Bertolucci
 rating PG-13
 
 # genre
-genre Biography
+genre History
 
 # budget in dollars
 budget 23000000.0

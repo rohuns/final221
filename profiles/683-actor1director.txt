@@ -3,3 +3,5 @@ actor Brad Pitt
 actor Meat Loaf
 actor Eugenie Bondurant
 
+# budget in dollars
+budget 63000000.0

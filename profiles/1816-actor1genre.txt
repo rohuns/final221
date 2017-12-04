@@ -5,3 +5,5 @@ actor William Hurt
 # director name
 director Alex Proyas
 
+# budget in dollars
+budget 27000000.0

@@ -3,3 +3,5 @@ actor Tom Cullen
 actor Chris New
 actor Vauxhall Jermaine
 
+# budget in dollars
+budget 120000.0

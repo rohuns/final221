@@ -5,3 +5,5 @@ actor Jorge Salinas
 # director name
 director Alejandro G. Iñárritu
 
+# budget in dollars
+budget 2000000.0

@@ -3,3 +3,5 @@ actor Tom Hanks
 actor Siobhan Fallon Hogan
 actor Sam Anderson
 
+# budget in dollars
+budget 55000000.0

@@ -5,3 +5,5 @@ actor Gloria Foster
 # director name
 director Michael Roemer
 
+# budget in dollars
+budget 160000.0

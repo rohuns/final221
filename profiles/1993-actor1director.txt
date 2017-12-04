@@ -3,3 +3,5 @@ actor Anthony Hopkins
 actor Antony Starr
 actor Craig Hall
 
+# budget in dollars
+budget 25000000.0

@@ -3,3 +3,5 @@ actor Ryan Gosling
 actor Denzel Washington
 actor Ethan Suplee
 
+# budget in dollars
+budget 30000000.0

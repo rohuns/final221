@@ -3,3 +3,5 @@ actor Jack Warden
 actor Lee J. Cobb
 actor John Fiedler
 
+# budget in dollars
+budget 350000.0

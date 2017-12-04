@@ -5,3 +5,5 @@ actor Walter Pidgeon
 # director name
 director John Ford
 
+# budget in dollars
+budget 1250000.0

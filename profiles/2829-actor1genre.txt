@@ -5,3 +5,5 @@ actor Bruno Ganz
 # director name
 director Oliver Hirschbiegel
 
+# budget in dollars
+budget 13500000.0

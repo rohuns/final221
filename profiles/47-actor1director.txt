@@ -3,3 +3,5 @@ actor Jennifer Lawrence
 actor Peter Dinklage
 actor Hugh Jackman
 
+# budget in dollars
+budget 200000000.0

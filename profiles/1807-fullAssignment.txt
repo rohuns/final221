@@ -10,7 +10,7 @@ director John Landis
 rating R
 
 # genre
-genre Music
+genre Action
 
 # budget in dollars
 budget 27000000.0

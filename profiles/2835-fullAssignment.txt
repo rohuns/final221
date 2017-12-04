@@ -10,7 +10,7 @@ director Darren Aronofsky
 rating R
 
 # genre
-genre Thriller
+genre Drama
 
 # budget in dollars
 budget 13000000.0

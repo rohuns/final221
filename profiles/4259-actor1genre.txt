@@ -5,3 +5,5 @@ actor Ulrich Mühe
 # director name
 director Florian Henckel von Donnersmarck
 
+# budget in dollars
+budget 2000000.0

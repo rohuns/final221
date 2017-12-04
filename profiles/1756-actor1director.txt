@@ -3,3 +3,5 @@ actor Ryan Gosling
 actor Christian Bale
 actor Charlie Talbert
 
+# budget in dollars
+budget 28000000.0

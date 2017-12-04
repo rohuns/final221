@@ -3,3 +3,5 @@ actor Mckenna Grace
 actor Lucy Fry
 actor Natalie Coughlin
 
+# budget in dollars
+budget 8000000.0

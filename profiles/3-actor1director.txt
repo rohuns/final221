@@ -3,3 +3,5 @@ actor Tom Hardy
 actor Christian Bale
 actor Joseph Gordon-Levitt
 
+# budget in dollars
+budget 250000000.0

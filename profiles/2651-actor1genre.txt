@@ -5,3 +5,5 @@ actor Carol Kane
 # director name
 director Rob Reiner
 
+# budget in dollars
+budget 16000000.0

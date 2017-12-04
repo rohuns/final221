@@ -3,3 +3,5 @@ actor Chris Hemsworth
 actor Robert Downey Jr.
 actor Scarlett Johansson
 
+# budget in dollars
+budget 220000000.0

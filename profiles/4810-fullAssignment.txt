@@ -10,7 +10,7 @@ director D.W. Griffith
 rating Not Rated
 
 # genre
-genre Drama
+genre History
 
 # budget in dollars
 budget 385907.0

@@ -5,3 +5,5 @@ actor Takeshi Kusao
 # director name
 director Katsuhiro Ôtomo
 
+# budget in dollars
+budget 1100000000.0

@@ -10,7 +10,7 @@ director Brad Bird
 rating G
 
 # genre
-genre Comedy
+genre Fantasy
 
 # budget in dollars
 budget 150000000.0

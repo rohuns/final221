@@ -5,3 +5,5 @@ actor Kenny Baker
 # director name
 director Irvin Kershner
 
+# budget in dollars
+budget 18000000.0

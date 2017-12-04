@@ -5,3 +5,5 @@ actor Carol Kane
 # director name
 director Woody Allen
 
+# budget in dollars
+budget 4000000.0

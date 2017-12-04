@@ -3,3 +3,5 @@ actor Cary-Hiroyuki Tagawa
 actor Joan Chen
 actor Victor Wong
 
+# budget in dollars
+budget 23000000.0

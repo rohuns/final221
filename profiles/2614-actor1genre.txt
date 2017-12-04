@@ -5,3 +5,5 @@ actor Rory Kinnear
 # director name
 director Morten Tyldum
 
+# budget in dollars
+budget 14000000.0

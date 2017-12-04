@@ -3,3 +3,5 @@ actor Christian Bale
 actor Hugh Jackman
 actor Scarlett Johansson
 
+# budget in dollars
+budget 40000000.0

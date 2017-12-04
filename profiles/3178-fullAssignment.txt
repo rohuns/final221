@@ -10,7 +10,7 @@ director François Girard
 rating R
 
 # genre
-genre Music
+genre Romance
 
 # budget in dollars
 budget 10000000.0

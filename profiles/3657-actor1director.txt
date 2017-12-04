@@ -3,3 +3,5 @@ actor Jeanne Moreau
 actor Paul Scofield
 actor Michel Simon
 
+# budget in dollars
+budget 6700000.0

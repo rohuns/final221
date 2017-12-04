@@ -3,3 +3,5 @@ actor Will Smith
 actor Rosario Dawson
 actor Madison Pettis
 
+# budget in dollars
+budget 55000000.0

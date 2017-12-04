@@ -5,3 +5,5 @@ actor Brian Dennehy
 # director name
 director Ted Kotcheff
 
+# budget in dollars
+budget 14000000.0

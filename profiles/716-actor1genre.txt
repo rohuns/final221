@@ -5,3 +5,5 @@ actor Josh Hamilton
 # director name
 director Doug Liman
 
+# budget in dollars
+budget 60000000.0

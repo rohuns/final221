@@ -5,3 +5,5 @@ actor Loretta Devine
 # director name
 director Paul Haggis
 
+# budget in dollars
+budget 6500000.0

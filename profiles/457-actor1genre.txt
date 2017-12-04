@@ -5,3 +5,5 @@ actor Jennifer Jason Leigh
 # director name
 director Sam Mendes
 
+# budget in dollars
+budget 80000000.0

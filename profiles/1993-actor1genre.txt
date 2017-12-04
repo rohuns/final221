@@ -5,3 +5,5 @@ actor Antony Starr
 # director name
 director Roger Donaldson
 
+# budget in dollars
+budget 25000000.0

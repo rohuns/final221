@@ -3,3 +3,5 @@ actor Ginger Rogers
 actor Edward Everett Horton
 actor Eric Blore
 
+# budget in dollars
+budget 609000.0

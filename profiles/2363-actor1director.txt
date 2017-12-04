@@ -3,3 +3,5 @@ actor Lea Thompson
 actor Thomas F. Wilson
 actor J.J. Cohen
 
+# budget in dollars
+budget 19000000.0

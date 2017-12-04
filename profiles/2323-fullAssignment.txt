@@ -10,7 +10,7 @@ director Hayao Miyazaki
 rating PG-13
 
 # genre
-genre Adventure
+genre Animation
 
 # budget in dollars
 budget 2400000000.0

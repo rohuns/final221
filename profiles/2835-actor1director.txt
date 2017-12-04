@@ -3,3 +3,5 @@ actor Natalie Portman
 actor Mila Kunis
 actor Mark Margolis
 
+# budget in dollars
+budget 13000000.0

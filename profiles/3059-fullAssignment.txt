@@ -10,7 +10,7 @@ director Philip Saville
 rating PG-13
 
 # genre
-genre Drama
+genre Biography
 
 # budget in dollars
 budget 17000000.0

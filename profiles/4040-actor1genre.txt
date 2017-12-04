@@ -5,3 +5,5 @@ actor Mia Farrow
 # director name
 director Roman Polanski
 
+# budget in dollars
+budget 2300000.0

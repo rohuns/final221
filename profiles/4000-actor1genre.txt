@@ -5,3 +5,5 @@ actor Soledad Villamil
 # director name
 director Juan José Campanella
 
+# budget in dollars
+budget 2000000.0

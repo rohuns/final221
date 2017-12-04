@@ -3,3 +3,5 @@ actor Vin Diesel
 actor Harry Connick Jr.
 actor M. Emmet Walsh
 
+# budget in dollars
+budget 70000000.0

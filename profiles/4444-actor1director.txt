@@ -3,3 +3,5 @@ actor Brighton Sharbino
 actor Jake Busey
 actor Tim Guinee
 
+# budget in dollars
+budget 2000000.0

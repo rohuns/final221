@@ -5,3 +5,5 @@ actor Marian Marsh
 # director name
 director Howard Hughes
 
+# budget in dollars
+budget 3950000.0

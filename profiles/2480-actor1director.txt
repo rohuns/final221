@@ -3,3 +3,5 @@ actor Don Cheadle
 actor Sophie Okonedo
 actor Hakeem Kae-Kazim
 
+# budget in dollars
+budget 17500000.0

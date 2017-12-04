@@ -5,3 +5,5 @@ actor Stefania Sandrelli
 # director name
 director Bernardo Bertolucci
 
+# budget in dollars
+budget 750000.0

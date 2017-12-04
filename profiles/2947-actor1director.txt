@@ -3,3 +3,5 @@ actor Shailene Woodley
 actor Sam Trammell
 actor Nat Wolff
 
+# budget in dollars
+budget 12000000.0

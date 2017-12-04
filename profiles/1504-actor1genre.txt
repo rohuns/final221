@@ -5,3 +5,5 @@ actor Rod Steiger
 # director name
 director Moustapha Akkad
 
+# budget in dollars
+budget 35000000.0

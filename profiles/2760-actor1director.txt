@@ -3,3 +3,5 @@ actor Clint Eastwood
 actor Morgan Freeman
 actor Frances Fisher
 
+# budget in dollars
+budget 14400000.0

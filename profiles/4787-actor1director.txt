@@ -3,3 +3,5 @@ actor Bob Proctor
 actor Jack Canfield
 actor Eric Worre
 
+# budget in dollars
+budget 450000.0

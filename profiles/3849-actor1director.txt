@@ -3,3 +3,5 @@ actor Ellen Burstyn
 actor Mark Margolis
 actor Louise Lasser
 
+# budget in dollars
+budget 4500000.0

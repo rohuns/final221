@@ -5,3 +5,5 @@ actor Steven Berkoff
 # director name
 director Stanley Kubrick
 
+# budget in dollars
+budget 11000000.0

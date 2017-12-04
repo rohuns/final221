@@ -3,3 +3,5 @@ actor Claude Rains
 actor Jean Arthur
 actor Thomas Mitchell
 
+# budget in dollars
+budget 1500000.0

@@ -10,7 +10,7 @@ director Darren Aronofsky
 rating R
 
 # genre
-genre Sport
+genre Drama
 
 # budget in dollars
 budget 6000000.0

@@ -5,3 +5,5 @@ actor David Kelly
 # director name
 director Matthew Vaughn
 
+# budget in dollars
+budget 70000000.0

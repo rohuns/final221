@@ -5,3 +5,5 @@ actor Christian Bale
 # director name
 director Adam McKay
 
+# budget in dollars
+budget 28000000.0

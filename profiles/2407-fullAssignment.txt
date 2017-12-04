@@ -10,7 +10,7 @@ director Milos Forman
 rating R
 
 # genre
-genre Biography
+genre Music
 
 # budget in dollars
 budget 18000000.0

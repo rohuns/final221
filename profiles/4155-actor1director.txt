@@ -3,3 +3,5 @@ actor Nehemiah Persoff
 actor Joe E. Brown
 actor George Raft
 
+# budget in dollars
+budget 2883848.0

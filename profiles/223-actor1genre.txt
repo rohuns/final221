@@ -5,3 +5,5 @@ actor Rafe Spall
 # director name
 director Ang Lee
 
+# budget in dollars
+budget 120000000.0

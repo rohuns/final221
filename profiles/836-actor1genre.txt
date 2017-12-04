@@ -5,3 +5,5 @@ actor Siobhan Fallon Hogan
 # director name
 director Robert Zemeckis
 
+# budget in dollars
+budget 55000000.0

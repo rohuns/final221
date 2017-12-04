@@ -10,7 +10,7 @@ director Christian Carion
 rating PG-13
 
 # genre
-genre War
+genre Music
 
 # budget in dollars
 budget 22000000.0

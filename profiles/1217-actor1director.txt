@@ -3,3 +3,5 @@ actor Sally Kirkland
 actor Jay O. Sanders
 actor Cheryl Penland
 
+# budget in dollars
+budget 40000000.0

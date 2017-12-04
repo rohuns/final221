@@ -10,7 +10,7 @@ director Joe Wright
 rating R
 
 # genre
-genre Mystery
+genre Romance
 
 # budget in dollars
 budget 30000000.0

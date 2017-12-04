@@ -5,3 +5,5 @@ actor Joan Allen
 # director name
 director Paul Greengrass
 
+# budget in dollars
+budget 75000000.0

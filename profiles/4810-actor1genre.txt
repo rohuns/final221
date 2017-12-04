@@ -5,3 +5,5 @@ actor Mae Marsh
 # director name
 director D.W. Griffith
 
+# budget in dollars
+budget 385907.0

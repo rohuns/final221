@@ -3,3 +3,5 @@ actor Robert De Niro
 actor Al Pacino
 actor Robert Duvall
 
+# budget in dollars
+budget 13000000.0

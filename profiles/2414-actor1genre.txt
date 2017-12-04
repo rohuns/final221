@@ -5,3 +5,5 @@ actor Naomi Watts
 # director name
 director Alejandro G. Iñárritu
 
+# budget in dollars
+budget 18000000.0

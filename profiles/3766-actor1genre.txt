@@ -5,3 +5,5 @@ actor Woody Strode
 # director name
 director Sergio Leone
 
+# budget in dollars
+budget 5000000.0

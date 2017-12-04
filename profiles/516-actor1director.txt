@@ -3,3 +3,5 @@ actor Jeff Bridges
 actor James Franco
 actor Mackenzie Foy
 
+# budget in dollars
+budget 81200000.0

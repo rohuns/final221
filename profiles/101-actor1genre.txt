@@ -5,3 +5,5 @@ actor Jason Flemyng
 # director name
 director David Fincher
 
+# budget in dollars
+budget 150000000.0

@@ -3,3 +3,5 @@ actor Suraj Sharma
 actor Rafe Spall
 actor Tabu
 
+# budget in dollars
+budget 120000000.0

@@ -10,7 +10,7 @@ director Spike Jonze
 rating R
 
 # genre
-genre Drama
+genre Romance
 
 # budget in dollars
 budget 23000000.0

@@ -3,3 +3,5 @@ actor Gerard Butler
 actor Djimon Hounsou
 actor America Ferrera
 
+# budget in dollars
+budget 145000000.0

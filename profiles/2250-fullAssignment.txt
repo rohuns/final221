@@ -10,7 +10,7 @@ director Sean Penn
 rating R
 
 # genre
-genre Drama
+genre Biography
 
 # budget in dollars
 budget 15000000.0

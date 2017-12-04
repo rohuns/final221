@@ -5,3 +5,5 @@ actor James Mason
 # director name
 director Sidney Lumet
 
+# budget in dollars
+budget 16000000.0

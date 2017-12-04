@@ -3,3 +3,5 @@ actor Keir Dullea
 actor Gary Lockwood
 actor Glenn Beck
 
+# budget in dollars
+budget 12000000.0

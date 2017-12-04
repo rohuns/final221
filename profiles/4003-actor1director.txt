@@ -3,3 +3,5 @@ actor Ted Raimi
 actor Dan Hicks
 actor Kassie Wesley DePaiva
 
+# budget in dollars
+budget 3600000.0

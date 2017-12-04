@@ -5,3 +5,5 @@ actor David Huddleston
 # director name
 director Mel Brooks
 
+# budget in dollars
+budget 2600000.0

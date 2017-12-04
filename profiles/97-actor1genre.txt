@@ -5,3 +5,5 @@ actor Tom Hardy
 # director name
 director Christopher Nolan
 
+# budget in dollars
+budget 160000000.0

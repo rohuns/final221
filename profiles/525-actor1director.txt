@@ -3,3 +3,5 @@ actor Charlie Hunnam
 actor Danny Huston
 actor Rita Davies
 
+# budget in dollars
+budget 76000000.0

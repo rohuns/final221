@@ -5,3 +5,5 @@ actor Rosario Dawson
 # director name
 director Spike Lee
 
+# budget in dollars
+budget 15000000.0

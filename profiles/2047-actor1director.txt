@@ -3,3 +3,5 @@ actor Christian Bale
 actor Blythe Danner
 actor Jean Simmons
 
+# budget in dollars
+budget 24000000.0

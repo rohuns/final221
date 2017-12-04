@@ -3,3 +3,5 @@ actor Bruce Willis
 actor Eric Stoltz
 actor Phil LaMarr
 
+# budget in dollars
+budget 8000000.0

@@ -5,3 +5,5 @@ actor Kenneth Nkosi
 # director name
 director Ralph Ziman
 
+# budget in dollars
+budget 2000000.0

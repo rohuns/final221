@@ -5,3 +5,5 @@ actor Tom Hanks
 # director name
 director Steven Spielberg
 
+# budget in dollars
+budget 52000000.0

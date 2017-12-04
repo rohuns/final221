@@ -10,7 +10,7 @@ director Christopher Nolan
 rating PG-13
 
 # genre
-genre Thriller
+genre Action
 
 # budget in dollars
 budget 250000000.0

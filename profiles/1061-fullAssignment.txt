@@ -10,7 +10,7 @@ director Andrei Tarkovsky
 rating PG
 
 # genre
-genre Drama
+genre Mystery
 
 # budget in dollars
 budget 1000000.0

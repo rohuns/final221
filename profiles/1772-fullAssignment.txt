@@ -10,7 +10,7 @@ director Matthew Vaughn
 rating R
 
 # genre
-genre Comedy
+genre Action
 
 # budget in dollars
 budget 30000000.0

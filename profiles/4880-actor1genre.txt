@@ -5,3 +5,5 @@ actor Steve Duin
 # director name
 director Sam Martin
 
+# budget in dollars
+budget 250000.0

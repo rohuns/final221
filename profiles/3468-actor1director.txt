@@ -3,3 +3,5 @@ actor Joseph Gordon-Levitt
 actor Chloë Grace Moretz
 actor Zooey Deschanel
 
+# budget in dollars
+budget 7500000.0

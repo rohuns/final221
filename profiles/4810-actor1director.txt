@@ -3,3 +3,5 @@ actor Lillian Gish
 actor Mae Marsh
 actor Walter Long
 
+# budget in dollars
+budget 385907.0

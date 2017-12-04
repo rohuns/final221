@@ -3,3 +3,5 @@ actor Scatman Crothers
 actor Shelley Duvall
 actor Joe Turkel
 
+# budget in dollars
+budget 19000000.0

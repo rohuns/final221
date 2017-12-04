@@ -5,3 +5,5 @@ actor Edward Everett Horton
 # director name
 director Mark Sandrich
 
+# budget in dollars
+budget 609000.0

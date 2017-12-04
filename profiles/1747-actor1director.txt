@@ -3,3 +3,5 @@ actor Robin Williams
 actor Frank Welker
 actor Scott Weinger
 
+# budget in dollars
+budget 28000000.0

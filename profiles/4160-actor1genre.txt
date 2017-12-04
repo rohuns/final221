@@ -5,3 +5,5 @@ actor Sanjay Dutt
 # director name
 director Rajkumar Hirani
 
+# budget in dollars
+budget 120000000.0

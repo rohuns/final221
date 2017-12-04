@@ -3,3 +3,5 @@ actor Elizabeth McGovern
 actor Deborah Twiss
 actor Michael Rispoli
 
+# budget in dollars
+budget 30000000.0

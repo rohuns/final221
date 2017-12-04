@@ -5,3 +5,5 @@ actor Donald Pleasence
 # director name
 director John Carpenter
 
+# budget in dollars
+budget 300000.0

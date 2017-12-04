@@ -3,3 +3,5 @@ actor Robert Duvall
 actor Dwight Yoakam
 actor J.T. Walsh
 
+# budget in dollars
+budget 890000.0

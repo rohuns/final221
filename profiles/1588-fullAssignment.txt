@@ -10,7 +10,7 @@ director John Lasseter
 rating G
 
 # genre
-genre Family
+genre Fantasy
 
 # budget in dollars
 budget 30000000.0

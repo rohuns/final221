@@ -10,7 +10,7 @@ director Tim Burton
 rating R
 
 # genre
-genre Biography
+genre Comedy
 
 # budget in dollars
 budget 18000000.0

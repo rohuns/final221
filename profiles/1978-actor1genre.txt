@@ -5,3 +5,5 @@ actor Frank Grillo
 # director name
 director Gavin O'Connor
 
+# budget in dollars
+budget 25000000.0

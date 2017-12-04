@@ -5,3 +5,5 @@ actor Bill Duke
 # director name
 director John McTiernan
 
+# budget in dollars
+budget 15000000.0

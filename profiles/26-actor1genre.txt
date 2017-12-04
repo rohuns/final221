@@ -5,3 +5,5 @@ actor Kate Winslet
 # director name
 director James Cameron
 
+# budget in dollars
+budget 200000000.0

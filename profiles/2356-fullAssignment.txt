@@ -10,7 +10,7 @@ director Kevin Costner
 rating PG-13
 
 # genre
-genre Adventure
+genre Western
 
 # budget in dollars
 budget 22000000.0

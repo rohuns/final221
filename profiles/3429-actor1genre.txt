@@ -5,3 +5,5 @@ actor Lucy Fry
 # director name
 director Bruce Beresford
 
+# budget in dollars
+budget 8000000.0

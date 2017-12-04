@@ -10,7 +10,7 @@ director Edgar Wright
 rating R
 
 # genre
-genre Horror
+genre Comedy
 
 # budget in dollars
 budget 4000000.0

@@ -3,3 +3,5 @@ actor CCH Pounder
 actor Joel David Moore
 actor Wes Studi
 
+# budget in dollars
+budget 237000000.0

@@ -10,7 +10,7 @@ director Mike Leigh
 rating R
 
 # genre
-genre Crime
+genre Drama
 
 # budget in dollars
 budget 11000000.0

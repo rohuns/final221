@@ -5,3 +5,5 @@ actor Will Ferrell
 # director name
 director Phil Lord
 
+# budget in dollars
+budget 60000000.0

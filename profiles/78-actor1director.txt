@@ -3,3 +3,5 @@ actor Amy Poehler
 actor Mindy Kaling
 actor Phyllis Smith
 
+# budget in dollars
+budget 175000000.0

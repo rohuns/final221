@@ -5,3 +5,5 @@ actor Nicholas Farrell
 # director name
 director Paul Greengrass
 
+# budget in dollars
+budget 2000000.0

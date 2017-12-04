@@ -5,3 +5,5 @@ actor Teresa Wright
 # director name
 director William Wyler
 
+# budget in dollars
+budget 2100000.0

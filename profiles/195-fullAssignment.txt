@@ -10,7 +10,7 @@ director Alfonso Cuarón
 rating PG
 
 # genre
-genre Mystery
+genre Family
 
 # budget in dollars
 budget 130000000.0

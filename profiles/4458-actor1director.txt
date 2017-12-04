@@ -3,3 +3,5 @@ actor Jason Statham
 actor Jason Flemyng
 actor Dexter Fletcher
 
+# budget in dollars
+budget 960000.0

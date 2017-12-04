@@ -10,7 +10,7 @@ director Danny Boyle
 rating R
 
 # genre
-genre Drama
+genre Romance
 
 # budget in dollars
 budget 15000000.0

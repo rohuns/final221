@@ -10,7 +10,7 @@ director Andrew Niccol
 rating PG-13
 
 # genre
-genre Drama
+genre Thriller
 
 # budget in dollars
 budget 36000000.0

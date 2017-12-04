@@ -3,3 +3,5 @@ actor Denis Lavant
 actor André Dussollier
 actor Albert Dupontel
 
+# budget in dollars
+budget 47000000.0

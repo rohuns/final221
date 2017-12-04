@@ -3,3 +3,5 @@ actor Ryan Gosling
 actor Albert Brooks
 actor Russ Tamblyn
 
+# budget in dollars
+budget 15000000.0

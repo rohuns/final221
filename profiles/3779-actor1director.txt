@@ -3,3 +3,5 @@ actor Christian Bale
 actor Jennifer Jason Leigh
 actor Reg E. Cathey
 
+# budget in dollars
+budget 5000000.0

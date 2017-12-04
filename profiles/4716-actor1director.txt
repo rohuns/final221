@@ -3,3 +3,5 @@ actor Russell Wong
 actor Steven Michael Quezada
 actor Lymari Nadal
 
+# budget in dollars
+budget 600000.0

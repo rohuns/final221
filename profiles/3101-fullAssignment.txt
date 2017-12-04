@@ -10,7 +10,7 @@ director Ken Annakin
 rating G
 
 # genre
-genre Action
+genre History
 
 # budget in dollars
 budget 10000000.0

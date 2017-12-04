@@ -5,3 +5,5 @@ actor Stephen Root
 # director name
 director Ethan Coen
 
+# budget in dollars
+budget 25000000.0

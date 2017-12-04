@@ -10,7 +10,7 @@ director Rajkumar Hirani
 rating PG-13
 
 # genre
-genre Romance
+genre Comedy
 
 # budget in dollars
 budget 120000000.0

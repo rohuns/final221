@@ -10,7 +10,7 @@ director Adam McKay
 rating R
 
 # genre
-genre History
+genre Drama
 
 # budget in dollars
 budget 28000000.0

@@ -5,3 +5,5 @@ actor Steven Christopher Parker
 # director name
 director Jonathan Dayton
 
+# budget in dollars
+budget 8000000.0

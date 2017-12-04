@@ -3,3 +3,5 @@ actor Bradley Cooper
 actor Vin Diesel
 actor Djimon Hounsou
 
+# budget in dollars
+budget 170000000.0

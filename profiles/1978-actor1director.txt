@@ -3,3 +3,5 @@ actor Tom Hardy
 actor Frank Grillo
 actor Kevin Dunn
 
+# budget in dollars
+budget 25000000.0

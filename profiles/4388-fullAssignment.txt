@@ -10,7 +10,7 @@ director Fred Zinnemann
 rating Not Rated
 
 # genre
-genre Drama
+genre War
 
 # budget in dollars
 budget 1650000.0

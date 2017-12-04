@@ -3,3 +3,5 @@ actor John Forsythe
 actor Robert Blake
 actor Will Geer
 
+# budget in dollars
+budget 3500000.0

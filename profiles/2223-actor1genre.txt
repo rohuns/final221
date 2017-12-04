@@ -5,3 +5,5 @@ actor Kirsten Dunst
 # director name
 director Michel Gondry
 
+# budget in dollars
+budget 20000000.0

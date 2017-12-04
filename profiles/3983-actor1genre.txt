@@ -5,3 +5,5 @@ actor Barnard Hughes
 # director name
 director John Schlesinger
 
+# budget in dollars
+budget 3600000.0

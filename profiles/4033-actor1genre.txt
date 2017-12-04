@@ -5,3 +5,5 @@ actor Alexandra Rapaport
 # director name
 director Thomas Vinterberg
 
+# budget in dollars
+budget 3800000.0

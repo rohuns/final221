@@ -5,3 +5,5 @@ actor Seu Jorge
 # director name
 director Fernando Meirelles
 
+# budget in dollars
+budget 3300000.0

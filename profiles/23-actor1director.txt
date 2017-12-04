@@ -3,3 +3,5 @@ actor Aidan Turner
 actor Adam Brown
 actor James Nesbitt
 
+# budget in dollars
+budget 225000000.0

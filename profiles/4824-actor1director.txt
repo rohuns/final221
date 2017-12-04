@@ -3,3 +3,5 @@ actor Claudette Colbert
 actor Alan Hale
 actor Walter Connolly
 
+# budget in dollars
+budget 325000.0

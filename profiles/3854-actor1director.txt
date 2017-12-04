@@ -3,3 +3,5 @@ actor Jake Gyllenhaal
 actor Mary McDonnell
 actor James Duval
 
+# budget in dollars
+budget 4500000.0

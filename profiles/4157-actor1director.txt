@@ -3,3 +3,5 @@ actor Margaret Hamilton
 actor Terry
 actor Billie Burke
 
+# budget in dollars
+budget 2800000.0

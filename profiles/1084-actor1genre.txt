@@ -5,3 +5,5 @@ actor Jake Gyllenhaal
 # director name
 director Denis Villeneuve
 
+# budget in dollars
+budget 46000000.0

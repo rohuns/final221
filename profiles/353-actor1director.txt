@@ -3,3 +3,5 @@ actor Tom Hanks
 actor John Ratzenberger
 actor Wayne Knight
 
+# budget in dollars
+budget 90000000.0

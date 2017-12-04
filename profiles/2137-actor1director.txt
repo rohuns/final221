@@ -3,3 +3,5 @@ actor Jennifer Lawrence
 actor Robert De Niro
 actor Bradley Cooper
 
+# budget in dollars
+budget 21000000.0

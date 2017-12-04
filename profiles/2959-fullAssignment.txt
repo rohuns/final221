@@ -10,7 +10,7 @@ director Alexander Payne
 rating R
 
 # genre
-genre Adventure
+genre Drama
 
 # budget in dollars
 budget 12000000.0

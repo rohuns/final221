@@ -5,3 +5,5 @@ actor Josh Charles
 # director name
 director Peter Weir
 
+# budget in dollars
+budget 16400000.0

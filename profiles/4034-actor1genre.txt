@@ -5,3 +5,5 @@ actor Darren McGavin
 # director name
 director Bob Clark
 
+# budget in dollars
+budget 4000000.0

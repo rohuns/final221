@@ -5,3 +5,5 @@ actor Bill Murray
 # director name
 director Wes Anderson
 
+# budget in dollars
+budget 16000000.0

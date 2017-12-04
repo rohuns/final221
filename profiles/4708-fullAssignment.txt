@@ -10,7 +10,7 @@ director Michael Wadleigh
 rating R
 
 # genre
-genre Music
+genre History
 
 # budget in dollars
 budget 600000.0

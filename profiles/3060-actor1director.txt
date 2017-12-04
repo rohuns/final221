@@ -3,3 +3,5 @@ actor Eddie Marsan
 actor Sally Hawkins
 actor Imelda Staunton
 
+# budget in dollars
+budget 11000000.0

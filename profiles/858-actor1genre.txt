@@ -5,3 +5,5 @@ actor Michael Parks
 # director name
 director Quentin Tarantino
 
+# budget in dollars
+budget 30000000.0

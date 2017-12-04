@@ -3,3 +3,5 @@ actor Jake Gyllenhaal
 actor Heath Ledger
 actor Anne Hathaway
 
+# budget in dollars
+budget 14000000.0

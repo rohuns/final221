@@ -10,7 +10,7 @@ director James Foley
 rating R
 
 # genre
-genre Crime
+genre Mystery
 
 # budget in dollars
 budget 12500000.0

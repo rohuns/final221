@@ -5,3 +5,5 @@ actor Gary Oldman
 # director name
 director Tony Scott
 
+# budget in dollars
+budget 13000000.0

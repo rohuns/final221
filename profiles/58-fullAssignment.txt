@@ -10,7 +10,7 @@ director Andrew Stanton
 rating G
 
 # genre
-genre Sci-Fi
+genre Adventure
 
 # budget in dollars
 budget 180000000.0

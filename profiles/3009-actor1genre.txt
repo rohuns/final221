@@ -5,3 +5,5 @@ actor Yuanyuan Gao
 # director name
 director Chuan Lu
 
+# budget in dollars
+budget 12000000.0

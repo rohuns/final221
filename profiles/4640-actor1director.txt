@@ -3,3 +3,5 @@ actor Anamaria Marinca
 actor Vlad Ivanov
 actor Alexandru Potocean
 
+# budget in dollars
+budget 590000.0

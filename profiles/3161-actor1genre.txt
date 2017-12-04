@@ -5,3 +5,5 @@ actor Stephen Root
 # director name
 director Mike Judge
 
+# budget in dollars
+budget 10000000.0

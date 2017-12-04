@@ -5,3 +5,5 @@ actor Spencer Treat Clark
 # director name
 director Clint Eastwood
 
+# budget in dollars
+budget 25000000.0

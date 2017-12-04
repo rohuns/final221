@@ -10,7 +10,7 @@ director Rich Moore
 rating PG
 
 # genre
-genre Adventure
+genre Animation
 
 # budget in dollars
 budget 165000000.0

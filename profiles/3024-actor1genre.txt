@@ -5,3 +5,5 @@ actor Peter Cushing
 # director name
 director George Lucas
 
+# budget in dollars
+budget 11000000.0

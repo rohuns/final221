@@ -3,3 +3,5 @@ actor Mary McDonnell
 actor Michael Spears
 actor Maury Chaykin
 
+# budget in dollars
+budget 22000000.0

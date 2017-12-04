@@ -5,3 +5,5 @@ actor Jada Pinkett Smith
 # director name
 director Hayao Miyazaki
 
+# budget in dollars
+budget 2400000000.0

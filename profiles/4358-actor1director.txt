@@ -3,3 +3,5 @@ actor Marlon Brando
 actor Karl Malden
 actor Kim Hunter
 
+# budget in dollars
+budget 1800000.0

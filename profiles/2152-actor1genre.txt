@@ -5,3 +5,5 @@ actor Karen Allen
 # director name
 director Steven Spielberg
 
+# budget in dollars
+budget 18000000.0

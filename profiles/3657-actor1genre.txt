@@ -5,3 +5,5 @@ actor Paul Scofield
 # director name
 director John Frankenheimer
 
+# budget in dollars
+budget 6700000.0

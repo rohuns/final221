@@ -3,3 +3,5 @@ actor Wilford Brimley
 actor Richard Masur
 actor David Clennon
 
+# budget in dollars
+budget 15000000.0

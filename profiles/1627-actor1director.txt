@@ -3,3 +3,5 @@ actor Kurt Fuller
 actor Audrey Fleurot
 actor Nina Arianda
 
+# budget in dollars
+budget 17000000.0

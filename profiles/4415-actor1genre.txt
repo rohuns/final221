@@ -5,3 +5,5 @@ actor Gastón Pauls
 # director name
 director Fabián Bielinsky
 
+# budget in dollars
+budget 1500000.0

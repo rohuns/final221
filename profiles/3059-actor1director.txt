@@ -3,3 +3,5 @@ actor Henry Ian Cusick
 actor Alan Van Sprang
 actor Scott Handy
 
+# budget in dollars
+budget 17000000.0

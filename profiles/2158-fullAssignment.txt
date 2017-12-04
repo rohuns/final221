@@ -10,7 +10,7 @@ director Jonathan Demme
 rating R
 
 # genre
-genre Horror
+genre Crime
 
 # budget in dollars
 budget 19000000.0

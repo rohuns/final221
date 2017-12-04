@@ -5,3 +5,5 @@ actor Al Pacino
 # director name
 director James Foley
 
+# budget in dollars
+budget 12500000.0

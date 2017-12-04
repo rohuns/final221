@@ -10,7 +10,7 @@ director Dan Gilroy
 rating R
 
 # genre
-genre Crime
+genre Drama
 
 # budget in dollars
 budget 8500000.0

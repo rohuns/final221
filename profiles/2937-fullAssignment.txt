@@ -10,7 +10,7 @@ director Franklin J. Schaffner
 rating GP
 
 # genre
-genre Biography
+genre Drama
 
 # budget in dollars
 budget 12000000.0

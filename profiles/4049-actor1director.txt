@@ -3,3 +3,5 @@ actor Donna Reed
 actor Lionel Barrymore
 actor Thomas Mitchell
 
+# budget in dollars
+budget 3180000.0

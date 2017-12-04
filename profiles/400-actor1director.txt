@@ -3,3 +3,5 @@ actor Brad Pitt
 actor Bernie Mac
 actor Elliott Gould
 
+# budget in dollars
+budget 85000000.0

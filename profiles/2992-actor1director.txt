@@ -3,3 +3,5 @@ actor Toni Servillo
 actor Sabrina Ferilli
 actor Serena Grandi
 
+# budget in dollars
+budget 9200000.0

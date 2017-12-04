@@ -3,3 +3,5 @@ actor Henry Thomas
 actor Dee Wallace
 actor Peter Coyote
 
+# budget in dollars
+budget 10500000.0

@@ -5,3 +5,5 @@ actor Powers Boothe
 # director name
 director Frank Miller
 
+# budget in dollars
+budget 40000000.0

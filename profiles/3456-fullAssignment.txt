@@ -10,7 +10,7 @@ director Vincent Paronnaud
 rating PG-13
 
 # genre
-genre War
+genre Drama
 
 # budget in dollars
 budget 7300000.0

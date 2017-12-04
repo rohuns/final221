@@ -5,3 +5,5 @@ actor Teri Garr
 # director name
 director Francis Ford Coppola
 
+# budget in dollars
+budget 1600000.0

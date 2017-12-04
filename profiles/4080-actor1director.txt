@@ -3,3 +3,5 @@ actor Montgomery Clift
 actor Walter Brennan
 actor Harry Carey Jr.
 
+# budget in dollars
+budget 3000000.0

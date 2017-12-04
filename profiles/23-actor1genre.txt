@@ -5,3 +5,5 @@ actor Adam Brown
 # director name
 director Peter Jackson
 
+# budget in dollars
+budget 225000000.0

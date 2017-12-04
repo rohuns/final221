@@ -5,3 +5,5 @@ actor Anna Kendrick
 # director name
 director Jonathan Levine
 
+# budget in dollars
+budget 8000000.0

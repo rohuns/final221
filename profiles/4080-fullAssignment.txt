@@ -10,7 +10,7 @@ director Howard Hawks
 rating Approved
 
 # genre
-genre Romance
+genre Western
 
 # budget in dollars
 budget 3000000.0

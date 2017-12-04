@@ -5,3 +5,5 @@ actor Michael Kelly
 # director name
 director Clint Eastwood
 
+# budget in dollars
+budget 55000000.0

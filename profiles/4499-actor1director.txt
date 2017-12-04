@@ -3,3 +3,5 @@ actor Alex Huszar
 actor Regina Casé
 actor Luis Miranda
 
+# budget in dollars
+budget 4000000.0

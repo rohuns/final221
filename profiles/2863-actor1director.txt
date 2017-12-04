@@ -3,3 +3,5 @@ actor Yuki Matsuzaki
 actor Kazunari Ninomiya
 actor Shidô Nakamura
 
+# budget in dollars
+budget 19000000.0

@@ -3,3 +3,5 @@ actor Peter Ostrum
 actor Jack Albertson
 actor Julie Dawn Cole
 
+# budget in dollars
+budget 3000000.0

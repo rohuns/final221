@@ -3,3 +3,5 @@ actor Tom Cruise
 actor Valeria Golino
 actor Beth Grant
 
+# budget in dollars
+budget 25000000.0

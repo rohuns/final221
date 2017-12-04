@@ -5,3 +5,5 @@ actor Lloyd Bridges
 # director name
 director Jim Abrahams
 
+# budget in dollars
+budget 3500000.0

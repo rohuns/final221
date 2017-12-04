@@ -3,3 +3,5 @@ actor Thomas Bo Larsen
 actor Alexandra Rapaport
 actor Hana Shuan
 
+# budget in dollars
+budget 3800000.0

@@ -3,3 +3,5 @@ actor Catherine Deneuve
 actor Gena Rowlands
 actor Danielle Darrieux
 
+# budget in dollars
+budget 7300000.0

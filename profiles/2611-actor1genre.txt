@@ -5,3 +5,5 @@ actor Rae Dawn Chong
 # director name
 director Steven Spielberg
 
+# budget in dollars
+budget 15000000.0

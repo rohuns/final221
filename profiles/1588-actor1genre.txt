@@ -5,3 +5,5 @@ actor John Ratzenberger
 # director name
 director John Lasseter
 
+# budget in dollars
+budget 30000000.0

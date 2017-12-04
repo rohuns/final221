@@ -3,3 +3,5 @@ actor Ricardo Darín
 actor Gastón Pauls
 actor Leticia Brédice
 
+# budget in dollars
+budget 1500000.0

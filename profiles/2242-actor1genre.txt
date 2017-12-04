@@ -5,3 +5,5 @@ actor Vera Miles
 # director name
 director Alfred Hitchcock
 
+# budget in dollars
+budget 806947.0

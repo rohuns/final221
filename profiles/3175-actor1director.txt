@@ -3,3 +3,5 @@ actor Ethan Suplee
 actor Beverly D'Angelo
 actor Stacy Keach
 
+# budget in dollars
+budget 7500000.0

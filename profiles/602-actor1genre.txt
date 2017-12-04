@@ -5,3 +5,5 @@ actor Alison Lohman
 # director name
 director Tim Burton
 
+# budget in dollars
+budget 70000000.0

@@ -5,3 +5,5 @@ actor Jay O. Sanders
 # director name
 director Oliver Stone
 
+# budget in dollars
+budget 40000000.0

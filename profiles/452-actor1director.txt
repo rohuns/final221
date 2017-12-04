@@ -3,3 +3,5 @@ actor Leonardo DiCaprio
 actor Joseph Sikora
 actor Nellie Sciutto
 
+# budget in dollars
+budget 80000000.0

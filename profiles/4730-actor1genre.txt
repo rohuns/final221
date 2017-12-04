@@ -5,3 +5,5 @@ actor Joe Lo Truglio
 # director name
 director Tom McCarthy
 
+# budget in dollars
+budget 500000.0

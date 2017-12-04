@@ -5,3 +5,5 @@ actor Joe Spinell
 # director name
 director William Friedkin
 
+# budget in dollars
+budget 12000000.0

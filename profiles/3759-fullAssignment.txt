@@ -10,7 +10,7 @@ director Denys Arcand
 rating R
 
 # genre
-genre Mystery
+genre Comedy
 
 # budget in dollars
 budget 6000000.0

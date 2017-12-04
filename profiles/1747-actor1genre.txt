@@ -5,3 +5,5 @@ actor Frank Welker
 # director name
 director Ron Clements
 
+# budget in dollars
+budget 28000000.0

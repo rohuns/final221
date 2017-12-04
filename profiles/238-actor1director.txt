@@ -3,3 +3,5 @@ actor Steve Buscemi
 actor John Ratzenberger
 actor James Coburn
 
+# budget in dollars
+budget 115000000.0

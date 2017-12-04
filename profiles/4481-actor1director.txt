@@ -3,3 +3,5 @@ actor Roddy McDowall
 actor Walter Pidgeon
 actor Barry Fitzgerald
 
+# budget in dollars
+budget 1250000.0

@@ -3,3 +3,5 @@ actor Myrna Loy
 actor Teresa Wright
 actor Dana Andrews
 
+# budget in dollars
+budget 2100000.0

@@ -3,3 +3,5 @@ actor Johannes Silberschneider
 actor Clotilde Mollet
 actor Carlo Cecchi
 
+# budget in dollars
+budget 10000000.0

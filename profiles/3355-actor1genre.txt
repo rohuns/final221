@@ -5,3 +5,5 @@ actor Eric Stoltz
 # director name
 director Quentin Tarantino
 
+# budget in dollars
+budget 8000000.0

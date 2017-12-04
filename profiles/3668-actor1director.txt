@@ -3,3 +3,5 @@ actor Eileen Brennan
 actor Robert Shaw
 actor Ray Walston
 
+# budget in dollars
+budget 5500000.0

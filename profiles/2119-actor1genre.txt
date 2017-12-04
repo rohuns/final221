@@ -5,3 +5,5 @@ actor Dany Boon
 # director name
 director Christian Carion
 
+# budget in dollars
+budget 22000000.0

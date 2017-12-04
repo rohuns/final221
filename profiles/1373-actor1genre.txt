@@ -5,3 +5,5 @@ actor Olivia Wilde
 # director name
 director Ron Howard
 
+# budget in dollars
+budget 38000000.0

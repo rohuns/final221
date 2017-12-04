@@ -5,3 +5,5 @@ actor Lorelei Linklater
 # director name
 director Richard Linklater
 
+# budget in dollars
+budget 4000000.0

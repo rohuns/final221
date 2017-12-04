@@ -5,3 +5,5 @@ actor Phyllis Diller
 # director name
 director Chris Paine
 
+# budget in dollars
+budget 1000000.0

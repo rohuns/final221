@@ -3,3 +3,5 @@ actor Lee Marvin
 actor Woody Strode
 actor Vera Miles
 
+# budget in dollars
+budget 3200000.0

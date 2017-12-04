@@ -3,3 +3,5 @@ actor Montgomery Clift
 actor Donna Reed
 actor Deborah Kerr
 
+# budget in dollars
+budget 1650000.0

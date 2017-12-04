@@ -5,3 +5,5 @@ actor Patrick McGoohan
 # director name
 director Mel Gibson
 
+# budget in dollars
+budget 72000000.0

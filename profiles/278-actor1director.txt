@@ -3,3 +3,5 @@ actor Matt Damon
 actor Donald Glover
 actor Benedict Wong
 
+# budget in dollars
+budget 108000000.0

@@ -10,7 +10,7 @@ director Elia Kazan
 rating Not Rated
 
 # genre
-genre Drama
+genre Crime
 
 # budget in dollars
 budget 910000.0

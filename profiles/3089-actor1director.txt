@@ -3,3 +3,5 @@ actor Robin Williams
 actor Matt Damon
 actor Minnie Driver
 
+# budget in dollars
+budget 10000000.0

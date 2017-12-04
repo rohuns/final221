@@ -10,7 +10,7 @@ director Tom McCarthy
 rating R
 
 # genre
-genre Drama
+genre History
 
 # budget in dollars
 budget 20000000.0

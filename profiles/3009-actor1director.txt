@@ -3,3 +3,5 @@ actor Ye Liu
 actor Yuanyuan Gao
 actor Ryu Kohata
 
+# budget in dollars
+budget 12000000.0

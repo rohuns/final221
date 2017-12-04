@@ -3,3 +3,5 @@ actor Belén Rueda
 actor Lola Dueñas
 actor Tamar Novas
 
+# budget in dollars
+budget 10000000.0

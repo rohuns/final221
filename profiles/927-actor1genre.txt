@@ -5,3 +5,5 @@ actor Chris Miller
 # director name
 director Andrew Adamson
 
+# budget in dollars
+budget 60000000.0

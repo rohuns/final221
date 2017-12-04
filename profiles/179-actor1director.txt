@@ -3,3 +3,5 @@ actor Leonardo DiCaprio
 actor Tom Hardy
 actor Lukas Haas
 
+# budget in dollars
+budget 135000000.0

@@ -3,3 +3,5 @@ actor Orlando Bloom
 actor Billy Boyd
 actor Bernard Hill
 
+# budget in dollars
+budget 94000000.0

@@ -5,3 +5,5 @@ actor Mark Valley
 # director name
 director Jay Oliva
 
+# budget in dollars
+budget 3500000.0

@@ -3,3 +3,5 @@ actor Jack McBrayer
 actor Sarah Silverman
 actor Joe Lo Truglio
 
+# budget in dollars
+budget 165000000.0

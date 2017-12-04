@@ -3,3 +3,5 @@ actor Milla Jovovich
 actor Adam Goldberg
 actor Cole Hauser
 
+# budget in dollars
+budget 6900000.0

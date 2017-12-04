@@ -5,3 +5,5 @@ actor Dreama Walker
 # director name
 director Clint Eastwood
 
+# budget in dollars
+budget 33000000.0

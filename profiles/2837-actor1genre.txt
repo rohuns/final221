@@ -5,3 +5,5 @@ actor Al Pacino
 # director name
 director Francis Ford Coppola
 
+# budget in dollars
+budget 13000000.0

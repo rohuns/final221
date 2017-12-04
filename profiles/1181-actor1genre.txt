@@ -5,3 +5,5 @@ actor Haley Joel Osment
 # director name
 director M. Night Shyamalan
 
+# budget in dollars
+budget 40000000.0

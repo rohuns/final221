@@ -5,3 +5,5 @@ actor Brad Pitt
 # director name
 director Guy Ritchie
 
+# budget in dollars
+budget 6000000.0

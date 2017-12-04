@@ -3,3 +3,5 @@ actor Joe Cocker
 actor Jimi Hendrix
 actor Joan Baez
 
+# budget in dollars
+budget 600000.0

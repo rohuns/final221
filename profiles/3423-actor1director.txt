@@ -3,3 +3,5 @@ actor Mitsuo Iwata
 actor Takeshi Kusao
 actor Tesshô Genda
 
+# budget in dollars
+budget 1100000000.0

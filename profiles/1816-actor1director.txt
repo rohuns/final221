@@ -3,3 +3,5 @@ actor Rufus Sewell
 actor William Hurt
 actor Bruce Spence
 
+# budget in dollars
+budget 27000000.0

@@ -5,3 +5,5 @@ actor Richard Farnsworth
 # director name
 director David Lynch
 
+# budget in dollars
+budget 10000000.0

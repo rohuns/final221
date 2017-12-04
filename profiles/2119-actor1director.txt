@@ -3,3 +3,5 @@ actor Gary Lewis
 actor Dany Boon
 actor Ian Richardson
 
+# budget in dollars
+budget 22000000.0

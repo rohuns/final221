@@ -5,3 +5,5 @@ actor Robert Downey Jr.
 # director name
 director Joss Whedon
 
+# budget in dollars
+budget 220000000.0

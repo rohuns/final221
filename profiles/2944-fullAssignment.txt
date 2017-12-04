@@ -10,7 +10,7 @@ director Martin Campbell
 rating PG-13
 
 # genre
-genre Action
+genre Thriller
 
 # budget in dollars
 budget 150000000.0

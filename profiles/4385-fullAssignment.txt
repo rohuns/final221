@@ -10,7 +10,7 @@ director Ritesh Batra
 rating PG
 
 # genre
-genre Drama
+genre Romance
 
 # budget in dollars
 budget 1000000.0

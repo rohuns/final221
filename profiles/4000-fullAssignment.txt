@@ -10,7 +10,7 @@ director Juan José Campanella
 rating R
 
 # genre
-genre Thriller
+genre Mystery
 
 # budget in dollars
 budget 2000000.0

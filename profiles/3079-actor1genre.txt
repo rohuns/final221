@@ -5,3 +5,5 @@ actor Gary Lockwood
 # director name
 director Stanley Kubrick
 
+# budget in dollars
+budget 12000000.0

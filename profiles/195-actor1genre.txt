@@ -5,3 +5,5 @@ actor Gary Oldman
 # director name
 director Alfonso Cuarón
 
+# budget in dollars
+budget 130000000.0

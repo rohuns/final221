@@ -3,3 +3,5 @@ actor Fernanda Montenegro
 actor Matheus Nachtergaele
 actor Othon Bastos
 
+# budget in dollars
+budget 2900000.0

@@ -10,7 +10,7 @@ director John Frankenheimer
 rating Unrated
 
 # genre
-genre Thriller
+genre War
 
 # budget in dollars
 budget 6700000.0

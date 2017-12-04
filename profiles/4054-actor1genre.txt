@@ -5,3 +5,5 @@ actor Dick Clark
 # director name
 director Michael Moore
 
+# budget in dollars
+budget 4000000.0

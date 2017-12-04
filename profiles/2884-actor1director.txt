@@ -3,3 +3,5 @@ actor Logan Lerman
 actor Ezra Miller
 actor Kate Walsh
 
+# budget in dollars
+budget 13000000.0

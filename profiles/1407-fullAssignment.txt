@@ -10,7 +10,7 @@ director Ethan Coen
 rating PG-13
 
 # genre
-genre Western
+genre Adventure
 
 # budget in dollars
 budget 38000000.0

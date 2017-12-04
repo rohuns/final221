@@ -5,3 +5,5 @@ actor Bill Murray
 # director name
 director Tim Burton
 
+# budget in dollars
+budget 18000000.0

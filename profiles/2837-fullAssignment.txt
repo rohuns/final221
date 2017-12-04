@@ -10,7 +10,7 @@ director Francis Ford Coppola
 rating R
 
 # genre
-genre Crime
+genre Drama
 
 # budget in dollars
 budget 13000000.0

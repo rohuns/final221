@@ -3,3 +3,5 @@ actor Maximilian Schell
 actor Montgomery Clift
 actor Spencer Tracy
 
+# budget in dollars
+budget 3000000.0

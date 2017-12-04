@@ -5,3 +5,5 @@ actor Tom Wilkinson
 # director name
 director Wes Anderson
 
+# budget in dollars
+budget 25000000.0

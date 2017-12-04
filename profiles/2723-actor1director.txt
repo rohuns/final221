@@ -3,3 +3,5 @@ actor Naomi Watts
 actor Robert Forster
 actor Laura Harring
 
+# budget in dollars
+budget 15000000.0

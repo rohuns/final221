@@ -5,3 +5,5 @@ actor Bryce Dallas Howard
 # director name
 director Tate Taylor
 
+# budget in dollars
+budget 25000000.0

@@ -5,3 +5,5 @@ actor Matt McCoy
 # director name
 director Curtis Hanson
 
+# budget in dollars
+budget 35000000.0

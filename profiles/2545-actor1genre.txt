@@ -5,3 +5,5 @@ actor Ed Lauter
 # director name
 director Michel Hazanavicius
 
+# budget in dollars
+budget 15000000.0

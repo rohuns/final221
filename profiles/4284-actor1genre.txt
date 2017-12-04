@@ -5,3 +5,5 @@ actor Ronny Dayag
 # director name
 director Ari Folman
 
+# budget in dollars
+budget 1500000.0

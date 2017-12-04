@@ -3,3 +3,5 @@ actor Ellar Coltrane
 actor Lorelei Linklater
 actor Libby Villari
 
+# budget in dollars
+budget 4000000.0

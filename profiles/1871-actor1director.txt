@@ -3,3 +3,5 @@ actor Liam Neeson
 actor Holly Valance
 actor Xander Berkeley
 
+# budget in dollars
+budget 25000000.0

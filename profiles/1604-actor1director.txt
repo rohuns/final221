@@ -3,3 +3,5 @@ actor Clint Eastwood
 actor Morgan Freeman
 actor Mike Colter
 
+# budget in dollars
+budget 30000000.0

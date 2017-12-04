@@ -5,3 +5,5 @@ actor Sarah Roemer
 # director name
 director Lasse Hallström
 
+# budget in dollars
+budget 16000000.0

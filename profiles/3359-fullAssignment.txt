@@ -10,7 +10,7 @@ director Robert Wise
 rating G
 
 # genre
-genre Biography
+genre Family
 
 # budget in dollars
 budget 8200000.0

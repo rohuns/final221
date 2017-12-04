@@ -3,3 +3,5 @@ actor Scarlett Johansson
 actor Bill Murray
 actor Garry Shandling
 
+# budget in dollars
+budget 175000000.0

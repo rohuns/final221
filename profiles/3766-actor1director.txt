@@ -3,3 +3,5 @@ actor Claudia Cardinale
 actor Woody Strode
 actor Jack Elam
 
+# budget in dollars
+budget 5000000.0

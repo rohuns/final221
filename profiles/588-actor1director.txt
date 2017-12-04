@@ -3,3 +3,5 @@ actor Michael Fassbender
 actor Brad Pitt
 actor Christoph Waltz
 
+# budget in dollars
+budget 75000000.0

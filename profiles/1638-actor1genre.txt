@@ -5,3 +5,5 @@ actor Alfie Allen
 # director name
 director Joe Wright
 
+# budget in dollars
+budget 30000000.0

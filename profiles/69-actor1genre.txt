@@ -5,3 +5,5 @@ actor Jeff Bridges
 # director name
 director Jon Favreau
 
+# budget in dollars
+budget 140000000.0

@@ -5,3 +5,5 @@ actor Quinton Aaron
 # director name
 director John Lee Hancock
 
+# budget in dollars
+budget 29000000.0

@@ -3,3 +3,5 @@ actor Bill Bailey
 actor Joe Cornish
 actor Billie Whitelaw
 
+# budget in dollars
+budget 8000000.0

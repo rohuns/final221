@@ -10,7 +10,7 @@ director George Roy Hill
 rating PG
 
 # genre
-genre Crime
+genre Comedy
 
 # budget in dollars
 budget 5500000.0

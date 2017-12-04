@@ -3,3 +3,5 @@ actor Kathleen Freeman
 actor Chris Miller
 actor Bobby Block
 
+# budget in dollars
+budget 60000000.0

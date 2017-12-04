@@ -3,3 +3,5 @@ actor Deborah Kara Unger
 actor Armin Mueller-Stahl
 actor Charles Martinet
 
+# budget in dollars
+budget 50000000.0

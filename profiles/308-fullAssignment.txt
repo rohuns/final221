@@ -10,7 +10,7 @@ director Martin Scorsese
 rating R
 
 # genre
-genre Comedy
+genre Biography
 
 # budget in dollars
 budget 100000000.0

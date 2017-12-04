@@ -10,7 +10,7 @@ director Nathan Greno
 rating PG
 
 # genre
-genre Comedy
+genre Musical
 
 # budget in dollars
 budget 260000000.0

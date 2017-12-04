@@ -5,3 +5,5 @@ actor Tom Hollander
 # director name
 director Richard Curtis
 
+# budget in dollars
+budget 12000000.0

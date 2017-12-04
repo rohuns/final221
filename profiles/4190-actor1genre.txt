@@ -5,3 +5,5 @@ actor Hans Weingartner
 # director name
 director Richard Linklater
 
+# budget in dollars
+budget 2500000.0

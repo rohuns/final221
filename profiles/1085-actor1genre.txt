@@ -5,3 +5,5 @@ actor Snoop Dogg
 # director name
 director Antoine Fuqua
 
+# budget in dollars
+budget 45000000.0

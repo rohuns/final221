@@ -3,3 +3,5 @@ actor Glen Hansard
 actor Markéta Irglová
 actor Darren Healy
 
+# budget in dollars
+budget 180000.0

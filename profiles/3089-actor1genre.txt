@@ -5,3 +5,5 @@ actor Matt Damon
 # director name
 director Gus Van Sant
 
+# budget in dollars
+budget 10000000.0

@@ -3,3 +3,5 @@ actor Bunta Sugawara
 actor Ryûnosuke Kamiki
 actor Miyu Irino
 
+# budget in dollars
+budget 19000000.0

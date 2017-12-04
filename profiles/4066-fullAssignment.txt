@@ -10,7 +10,7 @@ director David Lean
 rating PG
 
 # genre
-genre Drama
+genre War
 
 # budget in dollars
 budget 3000000.0

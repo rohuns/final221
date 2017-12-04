@@ -5,3 +5,5 @@ actor Alan Hale
 # director name
 director Frank Capra
 
+# budget in dollars
+budget 325000.0

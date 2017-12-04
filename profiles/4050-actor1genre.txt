@@ -5,3 +5,5 @@ actor Shirley Henderson
 # director name
 director Danny Boyle
 
+# budget in dollars
+budget 3500000.0

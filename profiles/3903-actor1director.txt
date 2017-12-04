@@ -3,3 +3,5 @@ actor James Coburn
 actor Donald Pleasence
 actor Gordon Jackson
 
+# budget in dollars
+budget 4000000.0

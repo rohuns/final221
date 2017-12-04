@@ -5,3 +5,5 @@ actor Blythe Danner
 # director name
 director Hayao Miyazaki
 
+# budget in dollars
+budget 24000000.0

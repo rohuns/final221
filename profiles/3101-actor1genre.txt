@@ -5,3 +5,5 @@ actor Richard Beymer
 # director name
 director Ken Annakin
 
+# budget in dollars
+budget 10000000.0

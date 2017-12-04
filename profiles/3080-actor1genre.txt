@@ -5,3 +5,5 @@ actor Dee Wallace
 # director name
 director Steven Spielberg
 
+# budget in dollars
+budget 10500000.0

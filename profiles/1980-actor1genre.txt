@@ -5,3 +5,5 @@ actor William Morgan Sheppard
 # director name
 director Ron Maxwell
 
+# budget in dollars
+budget 25000000.0

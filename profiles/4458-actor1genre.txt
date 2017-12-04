@@ -5,3 +5,5 @@ actor Jason Flemyng
 # director name
 director Guy Ritchie
 
+# budget in dollars
+budget 960000.0

@@ -5,3 +5,5 @@ actor Sarah Silverman
 # director name
 director Rich Moore
 
+# budget in dollars
+budget 165000000.0

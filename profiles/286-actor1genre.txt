@@ -5,3 +5,5 @@ actor Tobias Menzies
 # director name
 director Martin Campbell
 
+# budget in dollars
+budget 150000000.0

@@ -5,3 +5,5 @@ actor Saurabh Shukla
 # director name
 director Danny Boyle
 
+# budget in dollars
+budget 15000000.0

@@ -5,3 +5,5 @@ actor Udo Kier
 # director name
 director Lars von Trier
 
+# budget in dollars
+budget 12800000.0

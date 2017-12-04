@@ -3,3 +3,5 @@ actor Marlon Brando
 actor Karl Malden
 actor Rod Steiger
 
+# budget in dollars
+budget 910000.0

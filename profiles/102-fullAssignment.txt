@@ -10,7 +10,7 @@ director Matthew Vaughn
 rating PG-13
 
 # genre
-genre Action
+genre Sci-Fi
 
 # budget in dollars
 budget 160000000.0

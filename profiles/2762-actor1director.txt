@@ -3,3 +3,5 @@ actor Anil Kapoor
 actor Saurabh Shukla
 actor Ayush Mahesh Khedekar
 
+# budget in dollars
+budget 15000000.0

@@ -3,3 +3,5 @@ actor Catherine Dyer
 actor Quinton Aaron
 actor Kim Dickens
 
+# budget in dollars
+budget 29000000.0

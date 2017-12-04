@@ -3,3 +3,5 @@ actor Emma Stone
 actor Bryce Dallas Howard
 actor Mike Vogel
 
+# budget in dollars
+budget 25000000.0

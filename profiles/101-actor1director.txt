@@ -3,3 +3,5 @@ actor Brad Pitt
 actor Jason Flemyng
 actor Julia Ormond
 
+# budget in dollars
+budget 150000000.0

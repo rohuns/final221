@@ -5,3 +5,5 @@ actor Lloyd Avery II
 # director name
 director John Singleton
 
+# budget in dollars
+budget 6000000.0

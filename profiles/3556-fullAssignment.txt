@@ -10,7 +10,7 @@ director John Singleton
 rating R
 
 # genre
-genre Drama
+genre Crime
 
 # budget in dollars
 budget 6000000.0

@@ -10,7 +10,7 @@ director Matthew Vaughn
 rating PG-13
 
 # genre
-genre Fantasy
+genre Adventure
 
 # budget in dollars
 budget 70000000.0

@@ -5,3 +5,5 @@ actor Vin Diesel
 # director name
 director James Gunn
 
+# budget in dollars
+budget 170000000.0

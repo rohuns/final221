@@ -3,3 +3,5 @@ actor Peter Serafinowicz
 actor Dylan Moran
 actor Rafe Spall
 
+# budget in dollars
+budget 4000000.0

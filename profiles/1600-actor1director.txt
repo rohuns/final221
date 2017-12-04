@@ -3,3 +3,5 @@ actor Morgan Freeman
 actor Brad Pitt
 actor Reg E. Cathey
 
+# budget in dollars
+budget 33000000.0

@@ -5,3 +5,5 @@ actor Sophie Okonedo
 # director name
 director Terry George
 
+# budget in dollars
+budget 17500000.0

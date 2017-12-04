@@ -5,3 +5,5 @@ actor Ruby Dee
 # director name
 director Ridley Scott
 
+# budget in dollars
+budget 100000000.0

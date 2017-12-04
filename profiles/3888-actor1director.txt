@@ -3,3 +3,5 @@ actor Scarlett Johansson
 actor Bill Murray
 actor Catherine Lambert
 
+# budget in dollars
+budget 4000000.0

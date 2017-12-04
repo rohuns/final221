@@ -3,3 +3,5 @@ actor Leonard Nimoy
 actor Kirstie Alley
 actor Nichelle Nichols
 
+# budget in dollars
+budget 11000000.0

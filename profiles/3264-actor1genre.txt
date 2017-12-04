@@ -5,3 +5,5 @@ actor Emmanuelle Riva
 # director name
 director Michael Haneke
 
+# budget in dollars
+budget 8900000.0

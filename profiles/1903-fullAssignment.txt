@@ -10,7 +10,7 @@ director Martin Scorsese
 rating R
 
 # genre
-genre Crime
+genre Drama
 
 # budget in dollars
 budget 25000000.0

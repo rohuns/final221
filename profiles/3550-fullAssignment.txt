@@ -10,7 +10,7 @@ director Denis Villeneuve
 rating R
 
 # genre
-genre Mystery
+genre Drama
 
 # budget in dollars
 budget 6800000.0

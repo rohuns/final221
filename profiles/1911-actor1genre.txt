@@ -5,3 +5,5 @@ actor Paul F. Tompkins
 # director name
 director Paul Thomas Anderson
 
+# budget in dollars
+budget 25000000.0

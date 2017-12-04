@@ -3,3 +3,5 @@ actor William Gates
 actor Arthur Agee
 actor Isiah Thomas
 
+# budget in dollars
+budget 700000.0

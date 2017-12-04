@@ -5,3 +5,5 @@ actor Burt Young
 # director name
 director Sergio Leone
 
+# budget in dollars
+budget 30000000.0

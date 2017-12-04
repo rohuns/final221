@@ -5,3 +5,5 @@ actor Terry
 # director name
 director Victor Fleming
 
+# budget in dollars
+budget 2800000.0

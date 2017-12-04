@@ -3,3 +3,5 @@ actor Henry Cavill
 actor David Kelly
 actor Nathaniel Parker
 
+# budget in dollars
+budget 70000000.0

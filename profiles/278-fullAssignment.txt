@@ -10,7 +10,7 @@ director Ridley Scott
 rating PG-13
 
 # genre
-genre Drama
+genre Adventure
 
 # budget in dollars
 budget 108000000.0

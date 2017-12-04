@@ -5,3 +5,5 @@ actor Gian Maria Volontè
 # director name
 director Sergio Leone
 
+# budget in dollars
+budget 200000.0

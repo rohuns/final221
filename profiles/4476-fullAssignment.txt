@@ -10,7 +10,7 @@ director Billy Wilder
 rating Not Rated
 
 # genre
-genre Drama
+genre Film-Noir
 
 # budget in dollars
 budget 1250000.0

@@ -3,3 +3,5 @@ actor Robert Shaw
 actor Susannah York
 actor Paul Scofield
 
+# budget in dollars
+budget 2000000.0

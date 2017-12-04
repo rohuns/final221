@@ -5,3 +5,5 @@ actor Tucker Albrizzi
 # director name
 director Michael Moore
 
+# budget in dollars
+budget 9000000.0

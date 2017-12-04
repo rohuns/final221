@@ -3,3 +3,5 @@ actor Michael Moore
 actor Dick Clark
 actor Bill Clinton
 
+# budget in dollars
+budget 4000000.0

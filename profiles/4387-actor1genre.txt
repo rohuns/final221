@@ -5,3 +5,5 @@ actor Ann Miller
 # director name
 director Frank Capra
 
+# budget in dollars
+budget 1644736.0

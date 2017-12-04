@@ -5,3 +5,5 @@ actor Marlon Brando
 # director name
 director Francis Ford Coppola
 
+# budget in dollars
+budget 31500000.0

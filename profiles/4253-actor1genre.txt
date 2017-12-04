@@ -5,3 +5,5 @@ actor Brock Peters
 # director name
 director Robert Mulligan
 
+# budget in dollars
+budget 2000000.0

@@ -5,3 +5,5 @@ actor Clotilde Mollet
 # director name
 director François Girard
 
+# budget in dollars
+budget 10000000.0

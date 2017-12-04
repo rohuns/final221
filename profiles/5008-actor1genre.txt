@@ -5,3 +5,5 @@ actor Brian O'Halloran
 # director name
 director Kevin Smith
 
+# budget in dollars
+budget 230000.0

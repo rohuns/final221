@@ -5,3 +5,5 @@ actor Cathy Moriarty
 # director name
 director Martin Scorsese
 
+# budget in dollars
+budget 18000000.0

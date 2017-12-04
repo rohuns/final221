@@ -3,3 +3,5 @@ actor Hugh Jackman
 actor Jake Gyllenhaal
 actor Dylan Minnette
 
+# budget in dollars
+budget 46000000.0

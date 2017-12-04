@@ -3,3 +3,5 @@ actor Lea Thompson
 actor Jeffrey Weissman
 actor Thomas F. Wilson
 
+# budget in dollars
+budget 40000000.0

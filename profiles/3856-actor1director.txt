@@ -3,3 +3,5 @@ actor Jan Decleir
 actor Fedja van Huêt
 actor Hans Kesting
 
+# budget in dollars
+budget 4500000.0

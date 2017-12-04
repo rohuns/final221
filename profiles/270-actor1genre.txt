@@ -5,3 +5,5 @@ actor Orlando Bloom
 # director name
 director Peter Jackson
 
+# budget in dollars
+budget 93000000.0

@@ -5,3 +5,5 @@ actor Karl Malden
 # director name
 director Franklin J. Schaffner
 
+# budget in dollars
+budget 12000000.0

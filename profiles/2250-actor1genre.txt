@@ -5,3 +5,5 @@ actor William Hurt
 # director name
 director Sean Penn
 
+# budget in dollars
+budget 15000000.0

@@ -10,7 +10,7 @@ director Philip Kaufman
 rating PG
 
 # genre
-genre History
+genre Adventure
 
 # budget in dollars
 budget 27000000.0

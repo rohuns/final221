@@ -5,3 +5,5 @@ actor Amir Farrokh Hashemian
 # director name
 director Majid Majidi
 
+# budget in dollars
+budget 180000.0

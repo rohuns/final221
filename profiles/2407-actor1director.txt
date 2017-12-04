@@ -3,3 +3,5 @@ actor Jeffrey Jones
 actor F. Murray Abraham
 actor Tom Hulce
 
+# budget in dollars
+budget 18000000.0

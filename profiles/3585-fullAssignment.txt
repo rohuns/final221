@@ -10,7 +10,7 @@ director Robert Stevenson
 rating Approved
 
 # genre
-genre Comedy
+genre Family
 
 # budget in dollars
 budget 6000000.0

@@ -5,3 +5,5 @@ actor Craig T. Nelson
 # director name
 director Brad Bird
 
+# budget in dollars
+budget 92000000.0

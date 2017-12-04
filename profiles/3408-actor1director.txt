@@ -3,3 +3,5 @@ actor Sean Lennon
 actor Mick Lally
 actor Evan McGuire
 
+# budget in dollars
+budget 6500000.0

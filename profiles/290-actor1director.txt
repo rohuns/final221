@@ -3,3 +3,5 @@ actor Denzel Washington
 actor Ruby Dee
 actor RZA
 
+# budget in dollars
+budget 100000000.0

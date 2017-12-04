@@ -5,3 +5,5 @@ actor Sally Hawkins
 # director name
 director Mike Leigh
 
+# budget in dollars
+budget 11000000.0

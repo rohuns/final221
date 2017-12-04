@@ -3,3 +3,5 @@ actor Michael Biehn
 actor Dana Delany
 actor Powers Boothe
 
+# budget in dollars
+budget 25000000.0

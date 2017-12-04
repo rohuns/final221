@@ -10,7 +10,7 @@ director Fritz Lang
 rating Not Rated
 
 # genre
-genre Drama
+genre Sci-Fi
 
 # budget in dollars
 budget 6000000.0

@@ -3,3 +3,5 @@ actor Mhairi Calvey
 actor Patrick McGoohan
 actor James Robinson
 
+# budget in dollars
+budget 72000000.0

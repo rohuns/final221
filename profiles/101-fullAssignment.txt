@@ -10,7 +10,7 @@ director David Fincher
 rating PG-13
 
 # genre
-genre Romance
+genre Drama
 
 # budget in dollars
 budget 150000000.0

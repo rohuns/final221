@@ -5,3 +5,5 @@ actor Eric Idle
 # director name
 director Trey Parker
 
+# budget in dollars
+budget 21000000.0

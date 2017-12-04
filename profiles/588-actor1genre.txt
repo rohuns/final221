@@ -5,3 +5,5 @@ actor Brad Pitt
 # director name
 director Quentin Tarantino
 
+# budget in dollars
+budget 75000000.0

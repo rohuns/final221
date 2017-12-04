@@ -10,7 +10,7 @@ director Francis Ford Coppola
 rating R
 
 # genre
-genre War
+genre Drama
 
 # budget in dollars
 budget 31500000.0

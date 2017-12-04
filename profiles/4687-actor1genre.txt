@@ -5,3 +5,5 @@ actor Lloyd Bridges
 # director name
 director Fred Zinnemann
 
+# budget in dollars
+budget 750000.0

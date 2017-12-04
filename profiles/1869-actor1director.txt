@@ -3,3 +3,5 @@ actor Clint Eastwood
 actor Dreama Walker
 actor Ahney Her
 
+# budget in dollars
+budget 33000000.0

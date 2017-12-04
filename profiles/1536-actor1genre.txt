@@ -5,3 +5,5 @@ actor Ian McDiarmid
 # director name
 director Richard Marquand
 
+# budget in dollars
+budget 32500000.0

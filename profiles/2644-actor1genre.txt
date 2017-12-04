@@ -5,3 +5,5 @@ actor José Ferrer
 # director name
 director David Lean
 
+# budget in dollars
+budget 15000000.0

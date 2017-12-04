@@ -5,3 +5,5 @@ actor John Ratzenberger
 # director name
 director Pete Docter
 
+# budget in dollars
+budget 115000000.0

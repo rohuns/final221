@@ -5,3 +5,5 @@ actor Everett Sloane
 # director name
 director Orson Welles
 
+# budget in dollars
+budget 2300000.0

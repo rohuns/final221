@@ -10,7 +10,7 @@ director Jean-Pierre Jeunet
 rating R
 
 # genre
-genre Romance
+genre War
 
 # budget in dollars
 budget 47000000.0

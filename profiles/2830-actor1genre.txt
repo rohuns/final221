@@ -5,3 +5,5 @@ actor Lola Dueñas
 # director name
 director Alejandro Amenábar
 
+# budget in dollars
+budget 10000000.0

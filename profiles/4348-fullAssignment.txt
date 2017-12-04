@@ -10,7 +10,7 @@ director Jehane Noujaim
 rating Not Rated
 
 # genre
-genre Drama
+genre News
 
 # budget in dollars
 budget 1500000.0

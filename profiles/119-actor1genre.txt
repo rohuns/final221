@@ -5,3 +5,5 @@ actor John Ratzenberger
 # director name
 director Brad Bird
 
+# budget in dollars
+budget 150000000.0

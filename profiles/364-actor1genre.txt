@@ -5,3 +5,5 @@ actor Goran Visnjic
 # director name
 director David Fincher
 
+# budget in dollars
+budget 90000000.0

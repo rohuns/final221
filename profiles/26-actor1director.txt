@@ -3,3 +3,5 @@ actor Leonardo DiCaprio
 actor Kate Winslet
 actor Gloria Stuart
 
+# budget in dollars
+budget 200000000.0

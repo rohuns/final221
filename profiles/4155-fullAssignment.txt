@@ -10,7 +10,7 @@ director Billy Wilder
 rating Not Rated
 
 # genre
-genre Music
+genre Comedy
 
 # budget in dollars
 budget 2883848.0

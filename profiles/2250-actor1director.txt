@@ -3,3 +3,5 @@ actor Kristen Stewart
 actor William Hurt
 actor Hal Holbrook
 
+# budget in dollars
+budget 15000000.0

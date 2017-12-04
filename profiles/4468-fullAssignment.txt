@@ -10,7 +10,7 @@ director Sadyk Sher-Niyaz
 rating PG-13
 
 # genre
-genre Drama
+genre History
 
 # budget in dollars
 budget 1400000.0

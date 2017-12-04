@@ -3,3 +3,5 @@ actor Ruby Dee
 actor John Savage
 actor Danny Aiello
 
+# budget in dollars
+budget 6500000.0

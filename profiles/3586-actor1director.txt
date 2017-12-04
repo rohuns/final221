@@ -3,3 +3,5 @@ actor Adam Baldwin
 actor Elizabeth McGovern
 actor Judd Hirsch
 
+# budget in dollars
+budget 6000000.0

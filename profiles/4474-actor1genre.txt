@@ -5,3 +5,5 @@ actor Joan Fontaine
 # director name
 director Alfred Hitchcock
 
+# budget in dollars
+budget 1288000.0

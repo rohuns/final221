@@ -5,3 +5,5 @@ actor Derek Jacobi
 # director name
 director Kenneth Branagh
 
+# budget in dollars
+budget 9000000.0

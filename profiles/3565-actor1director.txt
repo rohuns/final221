@@ -3,3 +3,5 @@ actor Merab Ninidze
 actor Juliane Köhler
 actor Matthias Habich
 
+# budget in dollars
+budget 7000000.0

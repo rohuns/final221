@@ -3,3 +3,5 @@ actor Mathieu Kassovitz
 actor Jamel Debbouze
 actor Isabelle Nanty
 
+# budget in dollars
+budget 77000000.0

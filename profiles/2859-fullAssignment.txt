@@ -10,7 +10,7 @@ director Spike Jonze
 rating R
 
 # genre
-genre Comedy
+genre Fantasy
 
 # budget in dollars
 budget 13000000.0

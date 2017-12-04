@@ -5,3 +5,5 @@ actor Joseph Sikora
 # director name
 director Martin Scorsese
 
+# budget in dollars
+budget 80000000.0

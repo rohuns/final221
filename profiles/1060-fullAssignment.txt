@@ -10,7 +10,7 @@ director Ted Kotcheff
 rating R
 
 # genre
-genre Drama
+genre Adventure
 
 # budget in dollars
 budget 14000000.0

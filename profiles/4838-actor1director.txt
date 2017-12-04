@@ -3,3 +3,5 @@ actor Yaphet Kotto
 actor Gloria Foster
 actor Ivan Dixon
 
+# budget in dollars
+budget 160000.0

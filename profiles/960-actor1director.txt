@@ -3,3 +3,5 @@ actor Natalie Portman
 actor Eddie Marsan
 actor Rupert Graves
 
+# budget in dollars
+budget 54000000.0

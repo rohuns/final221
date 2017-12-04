@@ -5,3 +5,5 @@ actor Woody Strode
 # director name
 director John Ford
 
+# budget in dollars
+budget 3200000.0

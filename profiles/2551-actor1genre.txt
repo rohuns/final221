@@ -5,3 +5,5 @@ actor Maribel Verdú
 # director name
 director Guillermo del Toro
 
+# budget in dollars
+budget 13500000.0

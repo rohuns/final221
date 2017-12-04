@@ -5,3 +5,5 @@ actor Mark Margolis
 # director name
 director Darren Aronofsky
 
+# budget in dollars
+budget 4500000.0

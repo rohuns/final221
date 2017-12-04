@@ -3,3 +3,5 @@ actor Devin Ratray
 actor Bruce Dern
 actor Will Forte
 
+# budget in dollars
+budget 12000000.0

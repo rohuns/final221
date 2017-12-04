@@ -10,7 +10,7 @@ director Peter Weir
 rating PG
 
 # genre
-genre Sci-Fi
+genre Comedy
 
 # budget in dollars
 budget 60000000.0

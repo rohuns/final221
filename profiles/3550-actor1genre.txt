@@ -5,3 +5,5 @@ actor Mélissa Désormeaux-Poulin
 # director name
 director Denis Villeneuve
 
+# budget in dollars
+budget 6800000.0

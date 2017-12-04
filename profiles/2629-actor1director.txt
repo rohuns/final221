@@ -3,3 +3,5 @@ actor Robert De Niro
 actor Meryl Streep
 actor John Savage
 
+# budget in dollars
+budget 15000000.0

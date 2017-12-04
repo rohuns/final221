@@ -5,3 +5,5 @@ actor Jimi Hendrix
 # director name
 director Michael Wadleigh
 
+# budget in dollars
+budget 600000.0

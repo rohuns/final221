@@ -10,7 +10,7 @@ director James Mangold
 rating R
 
 # genre
-genre Drama
+genre Western
 
 # budget in dollars
 budget 55000000.0

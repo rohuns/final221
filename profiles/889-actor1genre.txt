@@ -5,3 +5,5 @@ actor André Dussollier
 # director name
 director Jean-Pierre Jeunet
 
+# budget in dollars
+budget 47000000.0

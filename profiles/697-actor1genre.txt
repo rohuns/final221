@@ -5,3 +5,5 @@ actor Ariana Richards
 # director name
 director Steven Spielberg
 
+# budget in dollars
+budget 63000000.0

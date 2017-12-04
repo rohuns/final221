@@ -5,3 +5,5 @@ actor Bernie Mac
 # director name
 director Steven Soderbergh
 
+# budget in dollars
+budget 85000000.0

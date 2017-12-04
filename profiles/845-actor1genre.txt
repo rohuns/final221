@@ -5,3 +5,5 @@ actor Chris Mulkey
 # director name
 director Paul Greengrass
 
+# budget in dollars
+budget 55000000.0

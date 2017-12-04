@@ -3,3 +3,5 @@ actor Humphrey Bogart
 actor Claude Rains
 actor Conrad Veidt
 
+# budget in dollars
+budget 950000.0

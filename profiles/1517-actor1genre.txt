@@ -5,3 +5,5 @@ actor Yûki Amami
 # director name
 director Hayao Miyazaki
 
+# budget in dollars
+budget 34000000.0

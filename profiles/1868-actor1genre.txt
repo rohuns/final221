@@ -5,3 +5,5 @@ actor Valeria Golino
 # director name
 director Barry Levinson
 
+# budget in dollars
+budget 25000000.0

@@ -5,3 +5,5 @@ actor Ingrid Thulin
 # director name
 director Ingmar Bergman
 
+# budget in dollars
+budget 400000.0

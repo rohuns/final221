@@ -5,3 +5,5 @@ actor Adam Goldberg
 # director name
 director Richard Linklater
 
+# budget in dollars
+budget 6900000.0

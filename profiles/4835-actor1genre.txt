@@ -5,3 +5,5 @@ actor Anna Karina
 # director name
 director Jean-Luc Godard
 
+# budget in dollars
+budget 300000.0

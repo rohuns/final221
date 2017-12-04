@@ -3,3 +3,5 @@ actor Sylvester Stallone
 actor Brian Dennehy
 actor Chris Mulkey
 
+# budget in dollars
+budget 14000000.0

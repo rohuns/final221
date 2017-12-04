@@ -3,3 +3,5 @@ actor Billy Crudup
 actor Jamey Sheridan
 actor Brian d'Arcy James
 
+# budget in dollars
+budget 20000000.0

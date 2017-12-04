@@ -5,3 +5,5 @@ actor Tim Blake Nelson
 # director name
 director Joel Coen
 
+# budget in dollars
+budget 26000000.0

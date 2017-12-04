@@ -3,3 +3,5 @@ actor Madeline Kahn
 actor David Huddleston
 actor Harvey Korman
 
+# budget in dollars
+budget 2600000.0

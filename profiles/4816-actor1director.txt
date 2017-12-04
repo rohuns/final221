@@ -3,3 +3,5 @@ actor Mark Zupan
 actor Joe Bishop
 actor Andy Cohn
 
+# budget in dollars
+budget 1750211.0

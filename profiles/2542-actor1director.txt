@@ -3,3 +3,5 @@ actor Charlotte Rampling
 actor James Mason
 actor Jack Warden
 
+# budget in dollars
+budget 16000000.0

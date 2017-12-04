@@ -3,3 +3,5 @@ actor Ray Milland
 actor Jane Wyman
 actor Frank Faylen
 
+# budget in dollars
+budget 1250000.0

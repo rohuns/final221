@@ -5,3 +5,5 @@ actor Kate Winslet
 # director name
 director Marc Forster
 
+# budget in dollars
+budget 25000000.0

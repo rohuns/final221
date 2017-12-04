@@ -5,3 +5,5 @@ actor Rebecca De Mornay
 # director name
 director Rob Reiner
 
+# budget in dollars
+budget 14000000.0

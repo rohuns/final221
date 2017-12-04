@@ -5,3 +5,5 @@ actor Billy Drago
 # director name
 director Brian De Palma
 
+# budget in dollars
+budget 25000000.0

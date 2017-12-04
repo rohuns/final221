@@ -10,7 +10,7 @@ director James Marsh
 rating PG-13
 
 # genre
-genre Biography
+genre History
 
 # budget in dollars
 budget 1000000.0

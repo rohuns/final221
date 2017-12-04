@@ -3,3 +3,5 @@ actor Toby Jones
 actor Clint Howard
 actor Oliver Platt
 
+# budget in dollars
+budget 35000000.0

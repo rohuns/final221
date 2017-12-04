@@ -3,3 +3,5 @@ actor Adriana Barraza
 actor Jorge Salinas
 actor Goya Toledo
 
+# budget in dollars
+budget 2000000.0

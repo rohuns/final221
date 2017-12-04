@@ -5,3 +5,5 @@ actor Scoot McNairy
 # director name
 director Steve McQueen
 
+# budget in dollars
+budget 20000000.0

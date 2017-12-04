@@ -3,3 +3,5 @@ actor Shirley Jones
 actor Jean Simmons
 actor Edward Andrews
 
+# budget in dollars
+budget 3000000.0

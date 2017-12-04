@@ -3,3 +3,5 @@ actor Johnny Depp
 actor Orlando Bloom
 actor Jack Davenport
 
+# budget in dollars
+budget 140000000.0

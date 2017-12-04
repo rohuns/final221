@@ -3,3 +3,5 @@ actor Michael Biehn
 actor Brian Thompson
 actor Paul Winfield
 
+# budget in dollars
+budget 6500000.0

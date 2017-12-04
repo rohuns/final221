@@ -3,3 +3,5 @@ actor Wes Studi
 actor Terry Kinney
 actor Eric Schweig
 
+# budget in dollars
+budget 40000000.0

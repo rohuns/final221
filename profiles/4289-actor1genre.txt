@@ -5,3 +5,5 @@ actor Buzz Aldrin
 # director name
 director David Sington
 
+# budget in dollars
+budget 2000000.0

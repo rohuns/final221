@@ -10,7 +10,7 @@ director Mike van Diem
 rating R
 
 # genre
-genre Crime
+genre Mystery
 
 # budget in dollars
 budget 4500000.0

@@ -5,3 +5,5 @@ actor Scott Glenn
 # director name
 director Philip Kaufman
 
+# budget in dollars
+budget 27000000.0

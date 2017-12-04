@@ -5,3 +5,5 @@ actor Lionel Barrymore
 # director name
 director Frank Capra
 
+# budget in dollars
+budget 3180000.0

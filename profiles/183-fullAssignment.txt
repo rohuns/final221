@@ -10,7 +10,7 @@ director Paul Greengrass
 rating PG-13
 
 # genre
-genre Action
+genre Mystery
 
 # budget in dollars
 budget 110000000.0

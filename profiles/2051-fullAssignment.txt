@@ -10,7 +10,7 @@ director Irvin Kershner
 rating PG
 
 # genre
-genre Sci-Fi
+genre Fantasy
 
 # budget in dollars
 budget 18000000.0

@@ -10,7 +10,7 @@ director Steven Spielberg
 rating R
 
 # genre
-genre Drama
+genre Action
 
 # budget in dollars
 budget 70000000.0

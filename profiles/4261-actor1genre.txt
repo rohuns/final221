@@ -5,3 +5,5 @@ actor Jackie Gleason
 # director name
 director Robert Rossen
 
+# budget in dollars
+budget 2000000.0

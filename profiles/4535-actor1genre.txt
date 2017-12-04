@@ -5,3 +5,5 @@ actor Albert Brooks
 # director name
 director Martin Scorsese
 
+# budget in dollars
+budget 1300000.0

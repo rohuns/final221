@@ -5,3 +5,5 @@ actor Joe E. Brown
 # director name
 director Billy Wilder
 
+# budget in dollars
+budget 2883848.0

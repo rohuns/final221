@@ -5,3 +5,5 @@ actor Jed Brophy
 # director name
 director Neill Blomkamp
 
+# budget in dollars
+budget 30000000.0

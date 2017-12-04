@@ -5,3 +5,5 @@ actor Debbie Reynolds
 # director name
 director Stanley Donen
 
+# budget in dollars
+budget 2540800.0

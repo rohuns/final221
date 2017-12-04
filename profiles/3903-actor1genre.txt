@@ -5,3 +5,5 @@ actor Donald Pleasence
 # director name
 director John Sturges
 
+# budget in dollars
+budget 4000000.0

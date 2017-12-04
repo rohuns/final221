@@ -10,7 +10,7 @@ director Guy Ritchie
 rating R
 
 # genre
-genre Comedy
+genre Crime
 
 # budget in dollars
 budget 6000000.0

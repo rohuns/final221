@@ -5,3 +5,5 @@ actor Paul Sanchez
 # director name
 director Robert Zemeckis
 
+# budget in dollars
+budget 90000000.0

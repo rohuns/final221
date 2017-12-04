@@ -5,3 +5,5 @@ actor Albert Delpy
 # director name
 director Richard Linklater
 
+# budget in dollars
+budget 2700000.0

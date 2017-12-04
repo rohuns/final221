@@ -10,7 +10,7 @@ director Sam Peckinpah
 rating R
 
 # genre
-genre Western
+genre Action
 
 # budget in dollars
 budget 6244087.0

@@ -5,3 +5,5 @@ actor Helen McCrory
 # director name
 director Sam Mendes
 
+# budget in dollars
+budget 200000000.0

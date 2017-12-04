@@ -3,3 +3,5 @@ actor Janeane Garofalo
 actor John Ratzenberger
 actor Brian Dennehy
 
+# budget in dollars
+budget 150000000.0

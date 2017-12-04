@@ -3,3 +3,5 @@ actor George C. Scott
 actor Karl Malden
 actor Bill Hickman
 
+# budget in dollars
+budget 12000000.0

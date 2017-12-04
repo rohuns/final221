@@ -3,3 +3,5 @@ actor Eleanor Parker
 actor Angela Cartwright
 actor Nicholas Hammond
 
+# budget in dollars
+budget 8200000.0

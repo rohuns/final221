@@ -5,3 +5,5 @@ actor James Franco
 # director name
 director Mark Osborne
 
+# budget in dollars
+budget 81200000.0

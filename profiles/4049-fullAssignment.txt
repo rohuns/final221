@@ -10,7 +10,7 @@ director Frank Capra
 rating PG
 
 # genre
-genre Family
+genre Romance
 
 # budget in dollars
 budget 3180000.0

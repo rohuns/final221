@@ -3,3 +3,5 @@ actor Kate Winslet
 actor Kirsten Dunst
 actor Tom Wilkinson
 
+# budget in dollars
+budget 20000000.0

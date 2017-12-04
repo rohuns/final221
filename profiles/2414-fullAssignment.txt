@@ -10,7 +10,7 @@ director Alejandro G. Iñárritu
 rating R
 
 # genre
-genre Romance
+genre Drama
 
 # budget in dollars
 budget 18000000.0

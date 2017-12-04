@@ -3,3 +3,5 @@ actor Sylvester Stallone
 actor Burgess Meredith
 actor Carl Weathers
 
+# budget in dollars
+budget 960000.0

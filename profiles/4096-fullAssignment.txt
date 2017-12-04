@@ -10,7 +10,7 @@ director Terrence Malick
 rating PG
 
 # genre
-genre Romance
+genre Drama
 
 # budget in dollars
 budget 3000000.0

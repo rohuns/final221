@@ -3,3 +3,5 @@ actor Leonardo DiCaprio
 actor Djimon Hounsou
 actor Stephen Collins
 
+# budget in dollars
+budget 100000000.0

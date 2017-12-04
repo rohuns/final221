@@ -3,3 +3,5 @@ actor Phaldut Sharma
 actor Basher Savage
 actor Amy Warren
 
+# budget in dollars
+budget 100000000.0

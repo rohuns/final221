@@ -3,3 +3,5 @@ actor Topol
 actor Paul Michael Glaser
 actor Rosalind Harris
 
+# budget in dollars
+budget 9000000.0

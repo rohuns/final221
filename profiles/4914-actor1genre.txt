@@ -5,3 +5,5 @@ actor John Billingsley
 # director name
 director Richard Schenkman
 
+# budget in dollars
+budget 200000.0

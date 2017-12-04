@@ -3,3 +3,5 @@ actor Liam Neeson
 actor Embeth Davidtz
 actor Caroline Goodall
 
+# budget in dollars
+budget 22000000.0

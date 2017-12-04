@@ -3,3 +3,5 @@ actor Vernon Dobtcheff
 actor Albert Delpy
 actor Marie Pillet
 
+# budget in dollars
+budget 2700000.0

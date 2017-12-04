@@ -3,3 +3,5 @@ actor Morgan Freeman
 actor Will Ferrell
 actor Alison Brie
 
+# budget in dollars
+budget 60000000.0

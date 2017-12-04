@@ -3,3 +3,5 @@ actor Adam Goldberg
 actor Austin Pendleton
 actor Judd Hirsch
 
+# budget in dollars
+budget 58000000.0

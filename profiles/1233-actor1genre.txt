@@ -5,3 +5,5 @@ actor Hugh Jackman
 # director name
 director Christopher Nolan
 
+# budget in dollars
+budget 40000000.0

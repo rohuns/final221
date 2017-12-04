@@ -5,3 +5,5 @@ actor Warren Oates
 # director name
 director Sam Peckinpah
 
+# budget in dollars
+budget 6244087.0

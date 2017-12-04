@@ -3,3 +3,5 @@ actor Ryan Reynolds
 actor Ed Skrein
 actor Stefan Kapicic
 
+# budget in dollars
+budget 58000000.0

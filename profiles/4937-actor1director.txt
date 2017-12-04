@@ -3,3 +3,5 @@ actor Peter Robbins
 actor Bill Melendez
 actor Christopher Shea
 
+# budget in dollars
+budget 150000.0

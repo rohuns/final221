@@ -3,3 +3,5 @@ actor John Cothran
 actor Lloyd Avery II
 actor Na'Blonka Durden
 
+# budget in dollars
+budget 6000000.0

@@ -3,3 +3,5 @@ actor William Holden
 actor Warren Oates
 actor L.Q. Jones
 
+# budget in dollars
+budget 6244087.0

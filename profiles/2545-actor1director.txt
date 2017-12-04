@@ -3,3 +3,5 @@ actor Bérénice Bejo
 actor Ed Lauter
 actor Beth Grant
 
+# budget in dollars
+budget 15000000.0

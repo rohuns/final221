@@ -5,3 +5,5 @@ actor Tom Hanks
 # director name
 director Jonathan Demme
 
+# budget in dollars
+budget 26000000.0

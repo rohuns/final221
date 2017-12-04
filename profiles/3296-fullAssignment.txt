@@ -10,7 +10,7 @@ director Kenneth Branagh
 rating PG-13
 
 # genre
-genre Biography
+genre Drama
 
 # budget in dollars
 budget 9000000.0

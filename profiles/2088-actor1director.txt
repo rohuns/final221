@@ -3,3 +3,5 @@ actor Candice Bergen
 actor Amrish Puri
 actor John Gielgud
 
+# budget in dollars
+budget 22000000.0

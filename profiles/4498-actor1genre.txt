@@ -5,3 +5,5 @@ actor Luigi Pistilli
 # director name
 director Sergio Leone
 
+# budget in dollars
+budget 1200000.0

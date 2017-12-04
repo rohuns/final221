@@ -5,3 +5,5 @@ actor Philippe Petit
 # director name
 director James Marsh
 
+# budget in dollars
+budget 1000000.0

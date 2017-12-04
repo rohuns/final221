@@ -3,3 +3,5 @@ actor Harrison Ford
 actor Peter Cushing
 actor Kenny Baker
 
+# budget in dollars
+budget 11000000.0

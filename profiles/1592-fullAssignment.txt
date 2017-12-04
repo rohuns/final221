@@ -10,7 +10,7 @@ director Boaz Yakin
 rating PG
 
 # genre
-genre Drama
+genre Sport
 
 # budget in dollars
 budget 30000000.0

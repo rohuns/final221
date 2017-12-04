@@ -3,3 +3,5 @@ actor Logan Lerman
 actor Eric Stoltz
 actor Cameron Bright
 
+# budget in dollars
+budget 13000000.0

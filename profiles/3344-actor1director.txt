@@ -3,3 +3,5 @@ actor Shah Rukh Khan
 actor Jimmy Shergill
 actor Christopher B. Duncan
 
+# budget in dollars
+budget 12000000.0

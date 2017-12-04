@@ -3,3 +3,5 @@ actor Honor Blackman
 actor Gert Fröbe
 actor Lois Maxwell
 
+# budget in dollars
+budget 3000000.0

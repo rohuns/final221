@@ -3,3 +3,5 @@ actor Philip Seymour Hoffman
 actor Jeff Bridges
 actor Steve Buscemi
 
+# budget in dollars
+budget 15000000.0

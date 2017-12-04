@@ -3,3 +3,5 @@ actor Leonardo DiCaprio
 actor Matthew McConaughey
 actor Jon Favreau
 
+# budget in dollars
+budget 100000000.0

@@ -3,3 +3,5 @@ actor Michael Biehn
 actor Carrie Henn
 actor Jenette Goldstein
 
+# budget in dollars
+budget 18500000.0

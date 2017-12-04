@@ -5,3 +5,5 @@ actor Sam Trammell
 # director name
 director Josh Boone
 
+# budget in dollars
+budget 12000000.0

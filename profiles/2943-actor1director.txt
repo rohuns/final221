@@ -3,3 +3,5 @@ actor Steven Mackintosh
 actor Jerry Nelson
 actor Steve Whitmire
 
+# budget in dollars
+budget 12000000.0

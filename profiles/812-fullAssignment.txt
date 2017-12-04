@@ -10,7 +10,7 @@ director Tim Miller
 rating R
 
 # genre
-genre Adventure
+genre Romance
 
 # budget in dollars
 budget 58000000.0

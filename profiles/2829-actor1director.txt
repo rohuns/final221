@@ -3,3 +3,5 @@ actor Thomas Kretschmann
 actor Bruno Ganz
 actor Alexandra Maria Lara
 
+# budget in dollars
+budget 13500000.0

@@ -3,3 +3,5 @@ actor Jason Mewes
 actor Brian O'Halloran
 actor Jeff Anderson
 
+# budget in dollars
+budget 230000.0

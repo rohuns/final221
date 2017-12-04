@@ -3,3 +3,5 @@ actor Bruce Willis
 actor Bill Murray
 actor Bob Balaban
 
+# budget in dollars
+budget 16000000.0

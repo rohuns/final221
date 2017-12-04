@@ -5,3 +5,5 @@ actor Rob Riggle
 # director name
 director Todd Phillips
 
+# budget in dollars
+budget 35000000.0

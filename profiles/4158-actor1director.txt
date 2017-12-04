@@ -3,3 +3,5 @@ actor Madeline Kahn
 actor Peter Boyle
 actor Teri Garr
 
+# budget in dollars
+budget 2800000.0

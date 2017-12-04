@@ -5,3 +5,5 @@ actor Liam Neeson
 # director name
 director Christopher Nolan
 
+# budget in dollars
+budget 150000000.0

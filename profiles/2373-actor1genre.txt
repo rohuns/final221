@@ -5,3 +5,5 @@ actor Ryûnosuke Kamiki
 # director name
 director Hayao Miyazaki
 
+# budget in dollars
+budget 19000000.0

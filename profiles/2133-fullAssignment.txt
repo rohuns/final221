@@ -10,7 +10,7 @@ director Trey Parker
 rating R
 
 # genre
-genre Musical
+genre Fantasy
 
 # budget in dollars
 budget 21000000.0

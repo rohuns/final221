@@ -3,3 +3,5 @@ actor Christian Bale
 actor Liam Neeson
 actor Morgan Freeman
 
+# budget in dollars
+budget 150000000.0

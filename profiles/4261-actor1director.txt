@@ -3,3 +3,5 @@ actor George C. Scott
 actor Jackie Gleason
 actor Murray Hamilton
 
+# budget in dollars
+budget 2000000.0

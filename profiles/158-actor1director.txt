@@ -3,3 +3,5 @@ actor Tom Cruise
 actor Tony Goldwyn
 actor Chad Lindberg
 
+# budget in dollars
+budget 140000000.0

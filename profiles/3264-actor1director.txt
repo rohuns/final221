@@ -3,3 +3,5 @@ actor Isabelle Huppert
 actor Emmanuelle Riva
 actor Jean-Louis Trintignant
 
+# budget in dollars
+budget 8900000.0

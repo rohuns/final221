@@ -3,3 +3,5 @@ actor Robert De Niro
 actor Billy Drago
 actor Charles Martin Smith
 
+# budget in dollars
+budget 25000000.0

@@ -10,7 +10,7 @@ director Peter Jackson
 rating PG-13
 
 # genre
-genre Adventure
+genre Fantasy
 
 # budget in dollars
 budget 225000000.0

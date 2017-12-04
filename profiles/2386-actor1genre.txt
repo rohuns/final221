@@ -5,3 +5,5 @@ actor Meryl Streep
 # director name
 director Spike Jonze
 
+# budget in dollars
+budget 19000000.0

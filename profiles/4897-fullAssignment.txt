@@ -10,7 +10,7 @@ director Sergio Leone
 rating R
 
 # genre
-genre Western
+genre Drama
 
 # budget in dollars
 budget 200000.0

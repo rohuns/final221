@@ -3,3 +3,5 @@ actor Jamie Lee Curtis
 actor Donald Pleasence
 actor P.J. Soles
 
+# budget in dollars
+budget 300000.0

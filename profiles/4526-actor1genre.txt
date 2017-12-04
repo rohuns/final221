@@ -5,3 +5,5 @@ actor Claude Rains
 # director name
 director Michael Curtiz
 
+# budget in dollars
+budget 950000.0

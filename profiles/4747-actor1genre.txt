@@ -5,3 +5,5 @@ actor Minoru Chiaki
 # director name
 director Akira Kurosawa
 
+# budget in dollars
+budget 2000000.0

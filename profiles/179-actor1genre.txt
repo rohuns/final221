@@ -5,3 +5,5 @@ actor Tom Hardy
 # director name
 director Alejandro G. Iñárritu
 
+# budget in dollars
+budget 135000000.0

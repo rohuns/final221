@@ -3,3 +3,5 @@ actor Patricia Neal
 actor Melvyn Douglas
 actor Whit Bissell
 
+# budget in dollars
+budget 2500000.0

@@ -3,3 +3,5 @@ actor Ioan Gruffudd
 actor Sam Shepard
 actor Ewen Bremner
 
+# budget in dollars
+budget 92000000.0

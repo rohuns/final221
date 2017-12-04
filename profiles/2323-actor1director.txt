@@ -3,3 +3,5 @@ actor Minnie Driver
 actor Jada Pinkett Smith
 actor Billy Crudup
 
+# budget in dollars
+budget 2400000000.0

@@ -3,3 +3,5 @@ actor Robert De Niro
 actor Don Rickles
 actor Kevin Pollak
 
+# budget in dollars
+budget 52000000.0

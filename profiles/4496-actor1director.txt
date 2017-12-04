@@ -3,3 +3,5 @@ actor Quentin Tarantino
 actor Steve Buscemi
 actor Chris Penn
 
+# budget in dollars
+budget 1200000.0

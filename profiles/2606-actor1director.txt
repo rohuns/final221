@@ -3,3 +3,5 @@ actor Kevin Spacey
 actor Peter Gallagher
 actor Ara Celi
 
+# budget in dollars
+budget 15000000.0

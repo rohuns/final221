@@ -5,3 +5,5 @@ actor Mick Lally
 # director name
 director Tomm Moore
 
+# budget in dollars
+budget 6500000.0

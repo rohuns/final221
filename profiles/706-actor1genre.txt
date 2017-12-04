@@ -5,3 +5,5 @@ actor Jennifer Jason Leigh
 # director name
 director Quentin Tarantino
 
+# budget in dollars
+budget 44000000.0

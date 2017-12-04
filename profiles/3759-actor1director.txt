@@ -3,3 +3,5 @@ actor Marie-Josée Croze
 actor Stéphane Rousseau
 actor Marina Hands
 
+# budget in dollars
+budget 6000000.0

@@ -10,7 +10,7 @@ director Ari Folman
 rating R
 
 # genre
-genre Drama
+genre Animation
 
 # budget in dollars
 budget 1500000.0

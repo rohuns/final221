@@ -3,3 +3,5 @@ actor Johnny Depp
 actor Dianne Wiest
 actor Conchata Ferrell
 
+# budget in dollars
+budget 20000000.0

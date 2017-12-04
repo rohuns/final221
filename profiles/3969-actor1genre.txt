@@ -5,3 +5,5 @@ actor Faye Dunaway
 # director name
 director Sidney Lumet
 
+# budget in dollars
+budget 3800000.0

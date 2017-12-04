@@ -10,7 +10,7 @@ director George A. Romero
 rating Unrated
 
 # genre
-genre Drama
+genre Mystery
 
 # budget in dollars
 budget 114000.0

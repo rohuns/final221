@@ -5,3 +5,5 @@ actor Jack McGee
 # director name
 director David O. Russell
 
+# budget in dollars
+budget 25000000.0

@@ -3,3 +3,5 @@ actor Peter Dinklage
 actor Joe Lo Truglio
 actor Paula Garcés
 
+# budget in dollars
+budget 500000.0

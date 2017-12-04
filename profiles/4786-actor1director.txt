@@ -3,3 +3,5 @@ actor Ginger Rogers
 actor Dick Powell
 actor George Brent
 
+# budget in dollars
+budget 439000.0

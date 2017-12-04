@@ -5,3 +5,5 @@ actor Mike Starr
 # director name
 director Martin Scorsese
 
+# budget in dollars
+budget 25000000.0

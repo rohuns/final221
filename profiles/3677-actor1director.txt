@@ -3,3 +3,5 @@ actor Jean-Baptiste Maunier
 actor François Berléand
 actor Gérard Jugnot
 
+# budget in dollars
+budget 5500000.0

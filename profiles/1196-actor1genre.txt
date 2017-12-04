@@ -5,3 +5,5 @@ actor Frances O'Connor
 # director name
 director James Wan
 
+# budget in dollars
+budget 40000000.0

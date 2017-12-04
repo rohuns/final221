@@ -3,3 +3,5 @@ actor Djimon Hounsou
 actor Connie Nielsen
 actor Oliver Reed
 
+# budget in dollars
+budget 103000000.0

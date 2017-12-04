@@ -3,3 +3,5 @@ actor Johnny Depp
 actor Leonardo DiCaprio
 actor Kevin Tighe
 
+# budget in dollars
+budget 11000000.0

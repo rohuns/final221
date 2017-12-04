@@ -3,3 +3,5 @@ actor Wayne Knight
 actor Ariana Richards
 actor Bob Peck
 
+# budget in dollars
+budget 63000000.0

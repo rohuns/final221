@@ -10,7 +10,7 @@ director Jean-Pierre Jeunet
 rating R
 
 # genre
-genre Comedy
+genre Romance
 
 # budget in dollars
 budget 77000000.0

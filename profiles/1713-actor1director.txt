@@ -3,3 +3,5 @@ actor Denzel Washington
 actor Morgan Freeman
 actor Matthew Broderick
 
+# budget in dollars
+budget 18000000.0

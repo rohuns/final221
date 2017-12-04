@@ -3,3 +3,5 @@ actor Rita Moreno
 actor Debbie Reynolds
 actor Cyd Charisse
 
+# budget in dollars
+budget 2540800.0

@@ -3,3 +3,5 @@ actor Bill Murray
 actor Chris Elliott
 actor Willie Garson
 
+# budget in dollars
+budget 14600000.0

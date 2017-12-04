@@ -10,7 +10,7 @@ director David Sington
 rating PG
 
 # genre
-genre Documentary
+genre History
 
 # budget in dollars
 budget 2000000.0

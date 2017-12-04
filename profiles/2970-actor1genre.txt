@@ -5,3 +5,5 @@ actor Martin Semmelrogge
 # director name
 director Wolfgang Petersen
 
+# budget in dollars
+budget 14000000.0

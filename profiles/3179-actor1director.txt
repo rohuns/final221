@@ -3,3 +3,5 @@ actor Sissy Spacek
 actor Richard Farnsworth
 actor Everett McGill
 
+# budget in dollars
+budget 10000000.0

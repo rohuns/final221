@@ -3,3 +3,5 @@ actor Christian Bale
 actor Heath Ledger
 actor Morgan Freeman
 
+# budget in dollars
+budget 185000000.0

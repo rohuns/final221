@@ -3,3 +3,5 @@ actor Steve Carell
 actor Miranda Cosgrove
 actor Jack McBrayer
 
+# budget in dollars
+budget 69000000.0

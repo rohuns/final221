@@ -3,3 +3,5 @@ actor Steve Carell
 actor Steven Christopher Parker
 actor Jill Talley
 
+# budget in dollars
+budget 8000000.0

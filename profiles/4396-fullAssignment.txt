@@ -10,7 +10,7 @@ director Francis Ford Coppola
 rating PG
 
 # genre
-genre Thriller
+genre Mystery
 
 # budget in dollars
 budget 1600000.0

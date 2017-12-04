@@ -5,3 +5,5 @@ actor Michael Fassbender
 # director name
 director Matthew Vaughn
 
+# budget in dollars
+budget 160000000.0

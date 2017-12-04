@@ -3,3 +3,5 @@ actor Hanno Pöschl
 actor Hans Weingartner
 actor Dominik Castell
 
+# budget in dollars
+budget 2500000.0

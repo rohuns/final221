@@ -5,3 +5,5 @@ actor Ezra Miller
 # director name
 director Stephen Chbosky
 
+# budget in dollars
+budget 13000000.0

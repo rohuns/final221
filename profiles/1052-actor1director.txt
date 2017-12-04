@@ -3,3 +3,5 @@ actor Christian Bale
 actor Logan Lerman
 actor Gretchen Mol
 
+# budget in dollars
+budget 55000000.0

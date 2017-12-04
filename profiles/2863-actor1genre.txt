@@ -5,3 +5,5 @@ actor Kazunari Ninomiya
 # director name
 director Clint Eastwood
 
+# budget in dollars
+budget 19000000.0

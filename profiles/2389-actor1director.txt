@@ -3,3 +3,5 @@ actor Johnny Depp
 actor Michael Jeter
 actor Ellen Barkin
 
+# budget in dollars
+budget 18500000.0

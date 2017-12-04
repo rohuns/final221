@@ -10,7 +10,7 @@ director Steven Spielberg
 rating PG-13
 
 # genre
-genre Adventure
+genre Sci-Fi
 
 # budget in dollars
 budget 63000000.0

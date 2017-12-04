@@ -3,3 +3,5 @@ actor Catherine Deneuve
 actor Udo Kier
 actor Björk
 
+# budget in dollars
+budget 12800000.0

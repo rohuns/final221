@@ -3,3 +3,5 @@ actor Keanu Reeves
 actor Marcus Chong
 actor Gloria Foster
 
+# budget in dollars
+budget 63000000.0

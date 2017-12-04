@@ -3,3 +3,5 @@ actor Sylvester Stallone
 actor Phylicia Rashad
 actor Graham McTavish
 
+# budget in dollars
+budget 35000000.0

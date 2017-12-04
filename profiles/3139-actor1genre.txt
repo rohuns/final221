@@ -5,3 +5,5 @@ actor Connie Nielsen
 # director name
 director Wes Anderson
 
+# budget in dollars
+budget 9000000.0

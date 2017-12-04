@@ -3,3 +3,5 @@ actor Matt Damon
 actor Josh Hamilton
 actor Nicky Naudé
 
+# budget in dollars
+budget 60000000.0

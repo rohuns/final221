@@ -5,3 +5,5 @@ actor Stuart Margolin
 # director name
 director Terrence Malick
 
+# budget in dollars
+budget 3000000.0

@@ -3,3 +3,5 @@ actor Bradley Cooper
 actor Rob Riggle
 actor Mike Epps
 
+# budget in dollars
+budget 35000000.0

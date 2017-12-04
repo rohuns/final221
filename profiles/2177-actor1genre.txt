@@ -5,3 +5,5 @@ actor Dianne Wiest
 # director name
 director Tim Burton
 
+# budget in dollars
+budget 20000000.0

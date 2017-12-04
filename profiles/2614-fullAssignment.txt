@@ -10,7 +10,7 @@ director Morten Tyldum
 rating PG-13
 
 # genre
-genre Thriller
+genre War
 
 # budget in dollars
 budget 14000000.0

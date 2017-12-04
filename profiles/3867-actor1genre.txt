@@ -5,3 +5,5 @@ actor Michael Berryman
 # director name
 director Milos Forman
 
+# budget in dollars
+budget 4400000.0

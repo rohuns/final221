@@ -5,3 +5,5 @@ actor Bruce Greenwood
 # director name
 director J.J. Abrams
 
+# budget in dollars
+budget 190000000.0

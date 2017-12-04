@@ -3,3 +3,5 @@ actor Kelly Macdonald
 actor Stephen Root
 actor Barry Corbin
 
+# budget in dollars
+budget 25000000.0

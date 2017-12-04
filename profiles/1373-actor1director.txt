@@ -3,3 +3,5 @@ actor Chris Hemsworth
 actor Olivia Wilde
 actor Alexandra Maria Lara
 
+# budget in dollars
+budget 38000000.0

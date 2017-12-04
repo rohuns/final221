@@ -3,3 +3,5 @@ actor J.K. Simmons
 actor Melissa Benoist
 actor Chris Mulkey
 
+# budget in dollars
+budget 3300000.0

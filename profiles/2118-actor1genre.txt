@@ -5,3 +5,5 @@ actor Sebastian Koch
 # director name
 director Paul Verhoeven
 
+# budget in dollars
+budget 21000000.0

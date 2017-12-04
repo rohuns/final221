@@ -3,3 +3,5 @@ actor Oprah Winfrey
 actor Rae Dawn Chong
 actor Dana Ivey
 
+# budget in dollars
+budget 15000000.0

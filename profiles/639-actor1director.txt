@@ -3,3 +3,5 @@ actor Al Pacino
 actor Rip Torn
 actor Debi Mazar
 
+# budget in dollars
+budget 68000000.0

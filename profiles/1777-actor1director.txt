@@ -3,3 +3,5 @@ actor Harrison Ford
 actor Sean Young
 actor M. Emmet Walsh
 
+# budget in dollars
+budget 28000000.0

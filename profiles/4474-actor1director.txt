@@ -3,3 +3,5 @@ actor Laurence Olivier
 actor Joan Fontaine
 actor George Sanders
 
+# budget in dollars
+budget 1288000.0

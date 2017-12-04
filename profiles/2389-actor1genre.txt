@@ -5,3 +5,5 @@ actor Michael Jeter
 # director name
 director Terry Gilliam
 
+# budget in dollars
+budget 18500000.0

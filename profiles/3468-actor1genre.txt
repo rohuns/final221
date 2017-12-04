@@ -5,3 +5,5 @@ actor Chloë Grace Moretz
 # director name
 director Marc Webb
 
+# budget in dollars
+budget 7500000.0

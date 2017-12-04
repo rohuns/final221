@@ -5,3 +5,5 @@ actor Glynis Johns
 # director name
 director Robert Stevenson
 
+# budget in dollars
+budget 6000000.0

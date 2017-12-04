@@ -5,3 +5,5 @@ actor Stéphane Rousseau
 # director name
 director Denys Arcand
 
+# budget in dollars
+budget 6000000.0

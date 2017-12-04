@@ -3,3 +3,5 @@ actor William Holden
 actor Sessue Hayakawa
 actor Jack Hawkins
 
+# budget in dollars
+budget 3000000.0

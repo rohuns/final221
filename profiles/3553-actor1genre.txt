@@ -5,3 +5,5 @@ actor Fernanda Machado
 # director name
 director José Padilha
 
+# budget in dollars
+budget 4000000.0

@@ -3,3 +3,5 @@ actor Peter Graves
 actor Lloyd Bridges
 actor Barbara Billingsley
 
+# budget in dollars
+budget 3500000.0

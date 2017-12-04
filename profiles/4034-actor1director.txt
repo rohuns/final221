@@ -3,3 +3,5 @@ actor Zack Ward
 actor Darren McGavin
 actor Scott Schwartz
 
+# budget in dollars
+budget 4000000.0

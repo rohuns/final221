@@ -3,3 +3,5 @@ actor Emma Stone
 actor Bill Murray
 actor Derek Graf
 
+# budget in dollars
+budget 23600000.0

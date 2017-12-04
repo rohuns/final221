@@ -3,3 +3,5 @@ actor Jim Sturgess
 actor Sean Buchanan
 actor Liya Kebede
 
+# budget in dollars
+budget 13500000.0

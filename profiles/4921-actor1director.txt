@@ -3,3 +3,5 @@ actor Bahare Seddiqi
 actor Amir Farrokh Hashemian
 actor Mohammad Amir Naji
 
+# budget in dollars
+budget 180000.0

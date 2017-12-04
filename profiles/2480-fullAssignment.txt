@@ -10,7 +10,7 @@ director Terry George
 rating PG-13
 
 # genre
-genre Drama
+genre History
 
 # budget in dollars
 budget 17500000.0

@@ -5,3 +5,5 @@ actor Ludger Pistor
 # director name
 director Tom Tykwer
 
+# budget in dollars
+budget 3500000.0

@@ -3,3 +3,5 @@ actor Liv Ullmann
 actor Ingrid Thulin
 actor Erland Josephson
 
+# budget in dollars
+budget 400000.0

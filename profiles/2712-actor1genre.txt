@@ -5,3 +5,5 @@ actor Anna Madeley
 # director name
 director Martin McDonagh
 
+# budget in dollars
+budget 15000000.0

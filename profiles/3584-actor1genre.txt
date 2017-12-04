@@ -5,3 +5,5 @@ actor Ted Cassidy
 # director name
 director George Roy Hill
 
+# budget in dollars
+budget 6000000.0

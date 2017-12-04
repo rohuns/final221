@@ -10,7 +10,7 @@ director Alex Proyas
 rating R
 
 # genre
-genre Fantasy
+genre Drama
 
 # budget in dollars
 budget 27000000.0

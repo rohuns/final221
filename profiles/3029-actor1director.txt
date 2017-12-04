@@ -3,3 +3,5 @@ actor Christian Bale
 actor Jack McGee
 actor Melissa McMeekin
 
+# budget in dollars
+budget 25000000.0

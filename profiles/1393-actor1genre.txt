@@ -5,3 +5,5 @@ actor Xander Berkeley
 # director name
 director Andrew Niccol
 
+# budget in dollars
+budget 36000000.0

@@ -3,3 +3,5 @@ actor Henry Cavill
 actor James Frain
 actor Michael Wincott
 
+# budget in dollars
+budget 35000000.0

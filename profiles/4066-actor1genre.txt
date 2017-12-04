@@ -5,3 +5,5 @@ actor Sessue Hayakawa
 # director name
 director David Lean
 
+# budget in dollars
+budget 3000000.0

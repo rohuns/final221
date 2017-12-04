@@ -5,3 +5,5 @@ actor Sela Ward
 # director name
 director David Fincher
 
+# budget in dollars
+budget 61000000.0

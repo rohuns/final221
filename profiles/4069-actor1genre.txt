@@ -5,3 +5,5 @@ actor Ray Walston
 # director name
 director Billy Wilder
 
+# budget in dollars
+budget 3000000.0

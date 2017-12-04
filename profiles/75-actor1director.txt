@@ -3,3 +3,5 @@ actor Tom Cruise
 actor Lara Pulver
 actor Noah Taylor
 
+# budget in dollars
+budget 178000000.0

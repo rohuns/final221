@@ -5,3 +5,5 @@ actor Frank Finlay
 # director name
 director Roman Polanski
 
+# budget in dollars
+budget 35000000.0

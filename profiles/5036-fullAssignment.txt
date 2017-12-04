@@ -10,7 +10,7 @@ director Anthony Vallone
 rating PG-13
 
 # genre
-genre Drama
+genre Crime
 
 # budget in dollars
 budget 3250.0

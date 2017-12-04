@@ -10,7 +10,7 @@ director Woody Allen
 rating PG
 
 # genre
-genre Romance
+genre Comedy
 
 # budget in dollars
 budget 4000000.0

@@ -5,3 +5,5 @@ actor John Considine
 # director name
 director Anthony Vallone
 
+# budget in dollars
+budget 3250.0

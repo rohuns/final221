@@ -5,3 +5,5 @@ actor Dwight Yoakam
 # director name
 director Billy Bob Thornton
 
+# budget in dollars
+budget 890000.0

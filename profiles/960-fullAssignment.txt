@@ -10,7 +10,7 @@ director James McTeigue
 rating R
 
 # genre
-genre Action
+genre Drama
 
 # budget in dollars
 budget 54000000.0

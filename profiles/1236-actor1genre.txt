@@ -5,3 +5,5 @@ actor Dalia Hernández
 # director name
 director Mel Gibson
 
+# budget in dollars
+budget 40000000.0

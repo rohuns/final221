@@ -3,3 +3,5 @@ actor Roy Scheider
 actor Fernando Rey
 actor Tony Lo Bianco
 
+# budget in dollars
+budget 1800000.0

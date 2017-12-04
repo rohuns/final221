@@ -10,7 +10,7 @@ director John Sturges
 rating Approved
 
 # genre
-genre Adventure
+genre Thriller
 
 # budget in dollars
 budget 4000000.0

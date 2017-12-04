@@ -5,3 +5,5 @@ actor Nicole Ari Parker
 # director name
 director Paul Thomas Anderson
 
+# budget in dollars
+budget 15000000.0

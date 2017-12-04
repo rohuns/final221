@@ -3,3 +3,5 @@ actor Steve Buscemi
 actor Alison Lohman
 actor Albert Finney
 
+# budget in dollars
+budget 70000000.0

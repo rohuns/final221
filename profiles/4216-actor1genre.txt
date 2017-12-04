@@ -5,3 +5,5 @@ actor Joseph Gilgun
 # director name
 director Shane Meadows
 
+# budget in dollars
+budget 1500000.0

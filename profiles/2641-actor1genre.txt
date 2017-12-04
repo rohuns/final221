@@ -5,3 +5,5 @@ actor Emily Watson
 # director name
 director James Marsh
 
+# budget in dollars
+budget 15000000.0

@@ -5,3 +5,5 @@ actor Amrish Puri
 # director name
 director Richard Attenborough
 
+# budget in dollars
+budget 22000000.0

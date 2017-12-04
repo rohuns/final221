@@ -3,3 +3,5 @@ actor Jean-Louis Trintignant
 actor Stefania Sandrelli
 actor Dominique Sanda
 
+# budget in dollars
+budget 750000.0

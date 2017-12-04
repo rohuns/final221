@@ -3,3 +3,5 @@ actor William Katt
 actor John Billingsley
 actor David Lee Smith
 
+# budget in dollars
+budget 200000.0

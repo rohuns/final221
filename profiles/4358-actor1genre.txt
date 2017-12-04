@@ -5,3 +5,5 @@ actor Karl Malden
 # director name
 director Elia Kazan
 
+# budget in dollars
+budget 1800000.0

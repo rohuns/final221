@@ -5,3 +5,5 @@ actor Chulpan Khamatova
 # director name
 director Wolfgang Becker
 
+# budget in dollars
+budget 4800000.0

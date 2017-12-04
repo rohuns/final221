@@ -10,7 +10,7 @@ director James Cameron
 rating R
 
 # genre
-genre Action
+genre Sci-Fi
 
 # budget in dollars
 budget 18500000.0

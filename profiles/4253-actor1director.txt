@@ -3,3 +3,5 @@ actor Robert Duvall
 actor Brock Peters
 actor William Windom
 
+# budget in dollars
+budget 2000000.0

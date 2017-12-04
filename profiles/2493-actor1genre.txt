@@ -5,3 +5,5 @@ actor Tony Chiu Wai Leung
 # director name
 director Yimou Zhang
 
+# budget in dollars
+budget 31000000.0

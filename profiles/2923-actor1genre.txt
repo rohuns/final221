@@ -5,3 +5,5 @@ actor Kirstie Alley
 # director name
 director Nicholas Meyer
 
+# budget in dollars
+budget 11000000.0

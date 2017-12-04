@@ -3,3 +3,5 @@ actor Claude Rains
 actor José Ferrer
 actor Jack Hawkins
 
+# budget in dollars
+budget 15000000.0

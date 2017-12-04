@@ -5,3 +5,5 @@ actor John Savage
 # director name
 director Spike Lee
 
+# budget in dollars
+budget 6500000.0

@@ -10,7 +10,7 @@ director George Miller
 rating R
 
 # genre
-genre Adventure
+genre Sci-Fi
 
 # budget in dollars
 budget 150000000.0

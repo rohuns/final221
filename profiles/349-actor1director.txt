@@ -3,3 +3,5 @@ actor Holly Hunter
 actor Craig T. Nelson
 actor Lou Romano
 
+# budget in dollars
+budget 92000000.0

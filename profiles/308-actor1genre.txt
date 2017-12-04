@@ -5,3 +5,5 @@ actor Matthew McConaughey
 # director name
 director Martin Scorsese
 
+# budget in dollars
+budget 100000000.0

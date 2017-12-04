@@ -3,3 +3,5 @@ actor Robert Duvall
 actor Faye Dunaway
 actor William Holden
 
+# budget in dollars
+budget 3800000.0

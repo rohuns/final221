@@ -3,3 +3,5 @@ actor Eric Idle
 actor Michael Palin
 actor Terry Jones
 
+# budget in dollars
+budget 229575.0

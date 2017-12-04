@@ -3,3 +3,5 @@ actor Shahab Hosseini
 actor Leila Hatami
 actor Peyman Moaadi
 
+# budget in dollars
+budget 500000.0

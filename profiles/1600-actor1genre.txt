@@ -5,3 +5,5 @@ actor Brad Pitt
 # director name
 director David Fincher
 
+# budget in dollars
+budget 33000000.0

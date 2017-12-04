@@ -10,7 +10,7 @@ director Tom Tykwer
 rating R
 
 # genre
-genre Drama
+genre Crime
 
 # budget in dollars
 budget 3500000.0

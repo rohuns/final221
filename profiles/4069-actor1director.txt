@@ -3,3 +3,5 @@ actor Fred MacMurray
 actor Ray Walston
 actor David White
 
+# budget in dollars
+budget 3000000.0

@@ -5,3 +5,5 @@ actor Joan Chen
 # director name
 director Bernardo Bertolucci
 
+# budget in dollars
+budget 23000000.0

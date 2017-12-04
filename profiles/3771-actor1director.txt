@@ -3,3 +3,5 @@ actor Bruce Greenwood
 actor Sarah Polley
 actor Simon Baker
 
+# budget in dollars
+budget 5000000.0

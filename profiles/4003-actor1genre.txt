@@ -5,3 +5,5 @@ actor Dan Hicks
 # director name
 director Sam Raimi
 
+# budget in dollars
+budget 3600000.0

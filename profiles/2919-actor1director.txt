@@ -3,3 +3,5 @@ actor Mackenzie Foy
 actor Megan Mullally
 actor Lambert Wilson
 
+# budget in dollars
+budget 9600000.0

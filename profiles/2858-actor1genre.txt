@@ -5,3 +5,5 @@ actor Sonoya Mizuno
 # director name
 director Alex Garland
 
+# budget in dollars
+budget 15000000.0

@@ -3,3 +3,5 @@ actor Emilia Fox
 actor Frank Finlay
 actor Ed Stoppard
 
+# budget in dollars
+budget 35000000.0

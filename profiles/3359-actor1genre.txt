@@ -5,3 +5,5 @@ actor Angela Cartwright
 # director name
 director Robert Wise
 
+# budget in dollars
+budget 8200000.0

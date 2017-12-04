@@ -10,7 +10,7 @@ director Harold Ramis
 rating PG
 
 # genre
-genre Romance
+genre Fantasy
 
 # budget in dollars
 budget 14600000.0

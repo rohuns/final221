@@ -5,3 +5,5 @@ actor Deborah Twiss
 # director name
 director Matthew Vaughn
 
+# budget in dollars
+budget 30000000.0

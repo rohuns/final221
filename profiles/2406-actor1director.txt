@@ -3,3 +3,5 @@ actor Shane Black
 actor Bill Duke
 actor Carl Weathers
 
+# budget in dollars
+budget 15000000.0

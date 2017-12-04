@@ -5,3 +5,5 @@ actor Sam Shepard
 # director name
 director Ridley Scott
 
+# budget in dollars
+budget 92000000.0

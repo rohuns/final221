@@ -3,3 +3,5 @@ actor Leonardo DiCaprio
 actor Tom Hardy
 actor Joseph Gordon-Levitt
 
+# budget in dollars
+budget 160000000.0

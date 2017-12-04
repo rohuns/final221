@@ -5,3 +5,5 @@ actor Billy Crudup
 # director name
 director Zack Snyder
 
+# budget in dollars
+budget 130000000.0

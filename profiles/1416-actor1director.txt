@@ -3,3 +3,5 @@ actor Kevin Spacey
 actor Matt McCoy
 actor Paul Guilfoyle
 
+# budget in dollars
+budget 35000000.0

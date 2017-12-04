@@ -5,3 +5,5 @@ actor John D'Leo
 # director name
 director Darren Aronofsky
 
+# budget in dollars
+budget 6000000.0

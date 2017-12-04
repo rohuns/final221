@@ -10,7 +10,7 @@ director Paul Haggis
 rating R
 
 # genre
-genre Drama
+genre Thriller
 
 # budget in dollars
 budget 6500000.0

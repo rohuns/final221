@@ -10,7 +10,7 @@ director Don Hall
 rating PG
 
 # genre
-genre Animation
+genre Sci-Fi
 
 # budget in dollars
 budget 165000000.0

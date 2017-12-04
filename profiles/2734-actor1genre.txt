@@ -5,3 +5,5 @@ actor Gustav Fröhlich
 # director name
 director Fritz Lang
 
+# budget in dollars
+budget 6000000.0

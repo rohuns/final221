@@ -3,3 +3,5 @@ actor John Doman
 actor Spencer Treat Clark
 actor Tom Guiry
 
+# budget in dollars
+budget 25000000.0

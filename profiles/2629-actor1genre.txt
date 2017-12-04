@@ -5,3 +5,5 @@ actor Meryl Streep
 # director name
 director Michael Cimino
 
+# budget in dollars
+budget 15000000.0

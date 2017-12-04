@@ -5,3 +5,5 @@ actor Elizabeth McGovern
 # director name
 director Robert Redford
 
+# budget in dollars
+budget 6000000.0

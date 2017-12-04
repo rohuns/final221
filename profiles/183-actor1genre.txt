@@ -5,3 +5,5 @@ actor Edgar Ramírez
 # director name
 director Paul Greengrass
 
+# budget in dollars
+budget 110000000.0

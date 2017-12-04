@@ -3,3 +3,5 @@ actor Joan Allen
 actor Jacob Tremblay
 actor Cas Anvar
 
+# budget in dollars
+budget 13000000.0

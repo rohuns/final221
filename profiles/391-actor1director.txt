@@ -3,3 +3,5 @@ actor Paddy Considine
 actor Bruce McGill
 actor Rosemarie DeWitt
 
+# budget in dollars
+budget 88000000.0

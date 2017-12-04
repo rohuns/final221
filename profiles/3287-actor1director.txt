@@ -3,3 +3,5 @@ actor Michael Moore
 actor Tucker Albrizzi
 actor Bill Clinton
 
+# budget in dollars
+budget 9000000.0

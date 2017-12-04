@@ -5,3 +5,5 @@ actor Bill Melendez
 # director name
 director Bill Melendez
 
+# budget in dollars
+budget 150000.0

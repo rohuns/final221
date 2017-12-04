@@ -5,3 +5,5 @@ actor Michael Spears
 # director name
 director Kevin Costner
 
+# budget in dollars
+budget 22000000.0

@@ -5,3 +5,5 @@ actor Bill Murray
 # director name
 director Sofia Coppola
 
+# budget in dollars
+budget 4000000.0

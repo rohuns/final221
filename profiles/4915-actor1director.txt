@@ -3,3 +3,5 @@ actor Darryl Hunt
 actor Evelyn Jefferson
 actor John Reeves
 
+# budget in dollars
+budget 200000.0

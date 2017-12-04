@@ -5,3 +5,5 @@ actor Thomas F. Wilson
 # director name
 director Robert Zemeckis
 
+# budget in dollars
+budget 19000000.0

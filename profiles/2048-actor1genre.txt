@@ -5,3 +5,5 @@ actor Bill Murray
 # director name
 director Ruben Fleischer
 
+# budget in dollars
+budget 23600000.0

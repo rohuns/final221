@@ -3,3 +3,5 @@ actor Patton Oswalt
 actor Neil Flynn
 actor Jim Meskimen
 
+# budget in dollars
+budget 37000000.0

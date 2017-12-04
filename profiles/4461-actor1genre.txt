@@ -5,3 +5,5 @@ actor Paprika Steen
 # director name
 director Thomas Vinterberg
 
+# budget in dollars
+budget 1300000.0

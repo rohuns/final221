@@ -3,3 +3,5 @@ actor Jason Statham
 actor Brad Pitt
 actor Jason Flemyng
 
+# budget in dollars
+budget 6000000.0

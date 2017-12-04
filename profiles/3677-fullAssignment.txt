@@ -10,7 +10,7 @@ director Christophe Barratier
 rating PG-13
 
 # genre
-genre Music
+genre Drama
 
 # budget in dollars
 budget 5500000.0

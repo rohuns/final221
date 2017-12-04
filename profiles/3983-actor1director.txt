@@ -3,3 +3,5 @@ actor Brenda Vaccaro
 actor Barnard Hughes
 actor John McGiver
 
+# budget in dollars
+budget 3600000.0

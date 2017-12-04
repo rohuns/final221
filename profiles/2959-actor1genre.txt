@@ -5,3 +5,5 @@ actor Bruce Dern
 # director name
 director Alexander Payne
 
+# budget in dollars
+budget 12000000.0

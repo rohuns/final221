@@ -3,3 +3,5 @@ actor Ed Wynn
 actor Glynis Johns
 actor Elsa Lanchester
 
+# budget in dollars
+budget 6000000.0

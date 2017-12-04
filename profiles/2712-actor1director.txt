@@ -3,3 +3,5 @@ actor Elizabeth Berrington
 actor Anna Madeley
 actor Eric Godon
 
+# budget in dollars
+budget 15000000.0

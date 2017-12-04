@@ -5,3 +5,5 @@ actor Rex Harrison
 # director name
 director George Cukor
 
+# budget in dollars
+budget 17000000.0

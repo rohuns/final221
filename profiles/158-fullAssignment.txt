@@ -10,7 +10,7 @@ director Edward Zwick
 rating R
 
 # genre
-genre History
+genre Action
 
 # budget in dollars
 budget 140000000.0

@@ -3,3 +3,5 @@ actor Johnny Depp
 actor Al Pacino
 actor Anne Heche
 
+# budget in dollars
+budget 35000000.0

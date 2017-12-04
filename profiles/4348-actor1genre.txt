@@ -5,3 +5,5 @@ actor Ahmed Hassan
 # director name
 director Jehane Noujaim
 
+# budget in dollars
+budget 1500000.0

@@ -3,3 +3,5 @@ actor Jürgen Prochnow
 actor Martin Semmelrogge
 actor Herbert Grönemeyer
 
+# budget in dollars
+budget 14000000.0

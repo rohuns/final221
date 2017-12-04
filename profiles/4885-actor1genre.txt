@@ -5,3 +5,5 @@ actor Renée Adorée
 # director name
 director King Vidor
 
+# budget in dollars
+budget 245000.0

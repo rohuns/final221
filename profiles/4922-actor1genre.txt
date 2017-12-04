@@ -5,3 +5,5 @@ actor Chris New
 # director name
 director Andrew Haigh
 
+# budget in dollars
+budget 120000.0

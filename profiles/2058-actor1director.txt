@@ -3,3 +3,5 @@ actor Scarlett Johansson
 actor Brian Johnson
 actor Matt Letscher
 
+# budget in dollars
+budget 23000000.0

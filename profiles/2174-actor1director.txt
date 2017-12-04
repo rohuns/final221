@@ -3,3 +3,5 @@ actor Quvenzhané Wallis
 actor Scoot McNairy
 actor Taran Killam
 
+# budget in dollars
+budget 20000000.0

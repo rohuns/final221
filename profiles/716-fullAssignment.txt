@@ -10,7 +10,7 @@ director Doug Liman
 rating PG-13
 
 # genre
-genre Mystery
+genre Thriller
 
 # budget in dollars
 budget 60000000.0

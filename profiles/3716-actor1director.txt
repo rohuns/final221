@@ -3,3 +3,5 @@ actor Callum Rennie
 actor Thomas Lennon
 actor Jorja Fox
 
+# budget in dollars
+budget 9000000.0

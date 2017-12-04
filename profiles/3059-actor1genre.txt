@@ -5,3 +5,5 @@ actor Alan Van Sprang
 # director name
 director Philip Saville
 
+# budget in dollars
+budget 17000000.0

@@ -3,3 +3,5 @@ actor Julie Christie
 actor Klaus Kinski
 actor Geraldine Chaplin
 
+# budget in dollars
+budget 11000000.0

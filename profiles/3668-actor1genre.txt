@@ -5,3 +5,5 @@ actor Robert Shaw
 # director name
 director George Roy Hill
 
+# budget in dollars
+budget 5500000.0

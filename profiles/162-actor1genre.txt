@@ -5,3 +5,5 @@ actor Djimon Hounsou
 # director name
 director Dean DeBlois
 
+# budget in dollars
+budget 145000000.0

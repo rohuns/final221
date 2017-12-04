@@ -5,3 +5,5 @@ actor Sheila Hancock
 # director name
 director Mark Herman
 
+# budget in dollars
+budget 12500000.0

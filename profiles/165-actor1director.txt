@@ -3,3 +3,5 @@ actor Matt Frewer
 actor Billy Crudup
 actor Stephen McHattie
 
+# budget in dollars
+budget 130000000.0

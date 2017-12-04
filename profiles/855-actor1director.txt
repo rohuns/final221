@@ -3,3 +3,5 @@ actor David Carradine
 actor Vivica A. Fox
 actor Chiaki Kuriyama
 
+# budget in dollars
+budget 30000000.0

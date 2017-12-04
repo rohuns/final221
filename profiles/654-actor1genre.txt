@@ -5,3 +5,5 @@ actor Marcus Chong
 # director name
 director Lana Wachowski
 
+# budget in dollars
+budget 63000000.0

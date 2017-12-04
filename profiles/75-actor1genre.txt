@@ -5,3 +5,5 @@ actor Lara Pulver
 # director name
 director Doug Liman
 
+# budget in dollars
+budget 178000000.0

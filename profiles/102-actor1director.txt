@@ -3,3 +3,5 @@ actor Jennifer Lawrence
 actor Michael Fassbender
 actor Oliver Platt
 
+# budget in dollars
+budget 160000000.0

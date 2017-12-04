@@ -5,3 +5,5 @@ actor Leila Hatami
 # director name
 director Asghar Farhadi
 
+# budget in dollars
+budget 500000.0

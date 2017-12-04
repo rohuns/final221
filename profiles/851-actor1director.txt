@@ -3,3 +3,5 @@ actor Will Smith
 actor Kurt Fuller
 actor James Karen
 
+# budget in dollars
+budget 55000000.0

@@ -5,3 +5,5 @@ actor Evelyn Jefferson
 # director name
 director Ricki Stern
 
+# budget in dollars
+budget 200000.0

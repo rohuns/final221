@@ -5,3 +5,5 @@ actor Donald Glover
 # director name
 director Ridley Scott
 
+# budget in dollars
+budget 108000000.0

@@ -3,3 +3,5 @@ actor Blair Underwood
 actor Xander Berkeley
 actor Mason Gamble
 
+# budget in dollars
+budget 36000000.0

@@ -3,3 +3,5 @@ actor Daniel Radcliffe
 actor Gary Oldman
 actor Rupert Grint
 
+# budget in dollars
+budget 130000000.0

@@ -3,3 +3,5 @@ actor Anthony Hopkins
 actor Anne Bancroft
 actor Dexter Fletcher
 
+# budget in dollars
+budget 5000000.0

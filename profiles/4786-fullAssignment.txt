@@ -10,7 +10,7 @@ director Lloyd Bacon
 rating Unrated
 
 # genre
-genre Musical
+genre Comedy
 
 # budget in dollars
 budget 439000.0

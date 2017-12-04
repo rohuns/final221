@@ -10,7 +10,7 @@ director James Ivory
 rating PG
 
 # genre
-genre Romance
+genre Drama
 
 # budget in dollars
 budget 11500000.0

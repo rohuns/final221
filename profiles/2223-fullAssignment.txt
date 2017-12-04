@@ -10,7 +10,7 @@ director Michel Gondry
 rating R
 
 # genre
-genre Romance
+genre Sci-Fi
 
 # budget in dollars
 budget 20000000.0

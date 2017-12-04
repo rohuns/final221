@@ -3,3 +3,5 @@ actor Don Cheadle
 actor Loretta Devine
 actor Jennifer Esposito
 
+# budget in dollars
+budget 6500000.0

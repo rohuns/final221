@@ -3,3 +3,5 @@ actor Denzel Washington
 actor Snoop Dogg
 actor Tom Berenger
 
+# budget in dollars
+budget 45000000.0

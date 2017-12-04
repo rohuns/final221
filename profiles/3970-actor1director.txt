@@ -3,3 +3,5 @@ actor Hattie McDaniel
 actor George Reeves
 actor Thomas Mitchell
 
+# budget in dollars
+budget 3977000.0

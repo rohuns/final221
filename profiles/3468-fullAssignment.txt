@@ -10,7 +10,7 @@ director Marc Webb
 rating PG-13
 
 # genre
-genre Drama
+genre Romance
 
 # budget in dollars
 budget 7500000.0

@@ -3,3 +3,5 @@ actor Ari Folman
 actor Ronny Dayag
 actor Zahava Solomon
 
+# budget in dollars
+budget 1500000.0

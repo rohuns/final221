@@ -3,3 +3,5 @@ actor Delroy Lindo
 actor Jesse Borrego
 actor Raymond Cruz
 
+# budget in dollars
+budget 35000000.0

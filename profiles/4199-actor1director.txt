@@ -3,3 +3,5 @@ actor Bill Maher
 actor Tal Bachman
 actor Steve Burg
 
+# budget in dollars
+budget 2500000.0

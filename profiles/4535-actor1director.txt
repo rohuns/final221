@@ -3,3 +3,5 @@ actor Robert De Niro
 actor Albert Brooks
 actor Peter Boyle
 
+# budget in dollars
+budget 1300000.0

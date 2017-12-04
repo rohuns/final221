@@ -3,3 +3,5 @@ actor Lubna Azabal
 actor Mélissa Désormeaux-Poulin
 actor Ahmad Massad
 
+# budget in dollars
+budget 6800000.0

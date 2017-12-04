@@ -5,3 +5,5 @@ actor Leonard Nimoy
 # director name
 director J.J. Abrams
 
+# budget in dollars
+budget 150000000.0

@@ -3,3 +3,5 @@ actor Brad Garrett
 actor Donna Murphy
 actor M.C. Gainey
 
+# budget in dollars
+budget 260000000.0

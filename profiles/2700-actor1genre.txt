@@ -5,3 +5,5 @@ actor Bob Hoskins
 # director name
 director Terry Gilliam
 
+# budget in dollars
+budget 15000000.0

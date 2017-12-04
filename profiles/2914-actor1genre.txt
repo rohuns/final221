@@ -5,3 +5,5 @@ actor Bin Won
 # director name
 director Je-kyu Kang
 
+# budget in dollars
+budget 12800000.0

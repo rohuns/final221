@@ -10,7 +10,7 @@ director James Mangold
 rating PG-13
 
 # genre
-genre Biography
+genre Romance
 
 # budget in dollars
 budget 28000000.0

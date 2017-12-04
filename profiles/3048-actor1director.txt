@@ -3,3 +3,5 @@ actor Ryan O'Neal
 actor Steven Berkoff
 actor Hardy Krüger
 
+# budget in dollars
+budget 11000000.0

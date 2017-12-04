@@ -5,3 +5,5 @@ actor Ringo Starr
 # director name
 director Richard Lester
 
+# budget in dollars
+budget 560000.0

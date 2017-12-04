@@ -3,3 +3,5 @@ actor Denzel Washington
 actor Delroy Lindo
 actor Al Freeman Jr.
 
+# budget in dollars
+budget 33000000.0

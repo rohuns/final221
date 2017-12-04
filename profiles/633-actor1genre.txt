@@ -5,3 +5,5 @@ actor Miranda Cosgrove
 # director name
 director Pierre Coffin
 
+# budget in dollars
+budget 69000000.0

@@ -10,7 +10,7 @@ director Wes Anderson
 rating R
 
 # genre
-genre Adventure
+genre Crime
 
 # budget in dollars
 budget 25000000.0

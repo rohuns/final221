@@ -3,3 +3,5 @@ actor Khalid Abdalla
 actor Ahmed Hassan
 actor Aida Elkashef
 
+# budget in dollars
+budget 1500000.0

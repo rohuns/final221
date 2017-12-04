@@ -5,3 +5,5 @@ actor Robert De Niro
 # director name
 director David O. Russell
 
+# budget in dollars
+budget 21000000.0

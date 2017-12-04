@@ -3,3 +3,5 @@ actor Shengyi Huang
 actor Chi Ling Chiu
 actor Qiu Yuen
 
+# budget in dollars
+budget 20000000.0

@@ -3,3 +3,5 @@ actor Clea DuVall
 actor Scoot McNairy
 actor Tate Donovan
 
+# budget in dollars
+budget 44500000.0

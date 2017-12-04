@@ -5,3 +5,5 @@ actor Beverly D'Angelo
 # director name
 director Tony Kaye
 
+# budget in dollars
+budget 7500000.0

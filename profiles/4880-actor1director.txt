@@ -3,3 +3,5 @@ actor Sam Adams
 actor Steve Duin
 actor Jeff Jacob
 
+# budget in dollars
+budget 250000.0

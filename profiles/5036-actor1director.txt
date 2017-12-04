@@ -3,3 +3,5 @@ actor Richard Jewell
 actor John Considine
 actor Sara Stepnicka
 
+# budget in dollars
+budget 3250.0

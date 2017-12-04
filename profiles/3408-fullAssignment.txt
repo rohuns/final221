@@ -10,7 +10,7 @@ director Tomm Moore
 rating Not Rated
 
 # genre
-genre Fantasy
+genre Animation
 
 # budget in dollars
 budget 6500000.0

@@ -3,3 +3,5 @@ actor George C. Scott
 actor Slim Pickens
 actor Keenan Wynn
 
+# budget in dollars
+budget 1800000.0

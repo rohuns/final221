@@ -3,3 +3,5 @@ actor Harrison Ford
 actor Daniel Roebuck
 actor Sela Ward
 
+# budget in dollars
+budget 44000000.0

@@ -5,3 +5,5 @@ actor Embeth Davidtz
 # director name
 director Steven Spielberg
 
+# budget in dollars
+budget 22000000.0

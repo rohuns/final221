@@ -5,3 +5,5 @@ actor Don Rickles
 # director name
 director Martin Scorsese
 
+# budget in dollars
+budget 52000000.0

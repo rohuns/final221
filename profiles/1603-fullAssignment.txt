@@ -10,7 +10,7 @@ director Clint Eastwood
 rating R
 
 # genre
-genre Mystery
+genre Thriller
 
 # budget in dollars
 budget 25000000.0

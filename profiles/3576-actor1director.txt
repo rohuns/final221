@@ -3,3 +3,5 @@ actor Florian Lukas
 actor Chulpan Khamatova
 actor Burghart Klaußner
 
+# budget in dollars
+budget 4800000.0

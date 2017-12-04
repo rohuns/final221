@@ -5,3 +5,5 @@ actor Audrey Fleurot
 # director name
 director Woody Allen
 
+# budget in dollars
+budget 17000000.0

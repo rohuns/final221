@@ -3,3 +3,5 @@ actor Philip Seymour Hoffman
 actor Zooey Deschanel
 actor Michael Angarano
 
+# budget in dollars
+budget 60000000.0

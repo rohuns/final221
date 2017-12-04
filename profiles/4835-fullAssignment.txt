@@ -10,7 +10,7 @@ director Jean-Luc Godard
 rating Not Rated
 
 # genre
-genre Drama
+genre Romance
 
 # budget in dollars
 budget 300000.0

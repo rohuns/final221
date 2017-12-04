@@ -3,3 +3,5 @@ actor Sam Riley
 actor Samantha Morton
 actor Alexandra Maria Lara
 
+# budget in dollars
+budget 4500000.0

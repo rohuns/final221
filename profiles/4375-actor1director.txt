@@ -3,3 +3,5 @@ actor Moritz Bleibtreu
 actor Ludger Pistor
 actor Armin Rohde
 
+# budget in dollars
+budget 3500000.0

@@ -3,3 +3,5 @@ actor Robin Wright
 actor Carol Kane
 actor André the Giant
 
+# budget in dollars
+budget 16000000.0

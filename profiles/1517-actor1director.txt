@@ -3,3 +3,5 @@ actor Rumi Hiiragi
 actor Yûki Amami
 actor Yuria Nara
 
+# budget in dollars
+budget 34000000.0

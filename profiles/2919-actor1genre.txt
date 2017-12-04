@@ -5,3 +5,5 @@ actor Megan Mullally
 # director name
 director Stéphane Aubier
 
+# budget in dollars
+budget 9600000.0

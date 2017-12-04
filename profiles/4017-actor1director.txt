@@ -3,3 +3,5 @@ actor Michael Emerson
 actor Mark Valley
 actor Grey Griffin
 
+# budget in dollars
+budget 3500000.0

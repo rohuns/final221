@@ -5,3 +5,5 @@ actor Jennifer Ehle
 # director name
 director Tom Hooper
 
+# budget in dollars
+budget 15000000.0

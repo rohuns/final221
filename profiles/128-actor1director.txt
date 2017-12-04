@@ -3,3 +3,5 @@ actor Tom Hardy
 actor Charlize Theron
 actor Zoë Kravitz
 
+# budget in dollars
+budget 150000000.0

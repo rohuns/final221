@@ -5,3 +5,5 @@ actor Mary McDonnell
 # director name
 director Richard Kelly
 
+# budget in dollars
+budget 4500000.0

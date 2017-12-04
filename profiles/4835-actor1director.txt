@@ -3,3 +3,5 @@ actor Jean-Paul Belmondo
 actor Anna Karina
 actor Graziella Galvani
 
+# budget in dollars
+budget 300000.0

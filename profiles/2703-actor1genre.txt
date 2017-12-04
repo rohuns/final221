@@ -5,3 +5,5 @@ actor Jeff Bridges
 # director name
 director Joel Coen
 
+# budget in dollars
+budget 15000000.0

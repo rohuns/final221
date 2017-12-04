@@ -3,3 +3,5 @@ actor Tom Hanks
 actor John Ratzenberger
 actor Don Rickles
 
+# budget in dollars
+budget 200000000.0

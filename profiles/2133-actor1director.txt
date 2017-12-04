@@ -3,3 +3,5 @@ actor Minnie Driver
 actor Eric Idle
 actor Trey Parker
 
+# budget in dollars
+budget 21000000.0

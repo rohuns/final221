@@ -3,3 +3,5 @@ actor Ricardo Darín
 actor Soledad Villamil
 actor Guillermo Francella
 
+# budget in dollars
+budget 2000000.0

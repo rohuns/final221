@@ -5,3 +5,5 @@ actor Roy Dupuis
 # director name
 director Charles Binamé
 
+# budget in dollars
+budget 8000000.0

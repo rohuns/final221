@@ -3,3 +3,5 @@ actor Oliver Reed
 actor Rod Steiger
 actor John Gielgud
 
+# budget in dollars
+budget 35000000.0

@@ -3,3 +3,5 @@ actor Eva Green
 actor Tobias Menzies
 actor Ivana Milicevic
 
+# budget in dollars
+budget 150000000.0

@@ -5,3 +5,5 @@ actor Jennifer Jason Leigh
 # director name
 director Brad Anderson
 
+# budget in dollars
+budget 5000000.0

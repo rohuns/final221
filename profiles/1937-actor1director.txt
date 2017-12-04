@@ -3,3 +3,5 @@ actor Morgan Freeman
 actor Jeffrey DeMunn
 actor Bob Gunton
 
+# budget in dollars
+budget 25000000.0

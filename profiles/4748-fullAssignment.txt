@@ -10,7 +10,7 @@ director Marius A. Markevicius
 rating Not Rated
 
 # genre
-genre Sport
+genre Documentary
 
 # budget in dollars
 budget 500000.0

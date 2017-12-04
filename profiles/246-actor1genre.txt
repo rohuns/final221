@@ -5,3 +5,5 @@ actor Basher Savage
 # director name
 director Alfonso Cuarón
 
+# budget in dollars
+budget 100000000.0

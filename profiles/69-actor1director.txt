@@ -3,3 +3,5 @@ actor Robert Downey Jr.
 actor Jeff Bridges
 actor Jon Favreau
 
+# budget in dollars
+budget 140000000.0

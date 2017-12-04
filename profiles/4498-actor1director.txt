@@ -3,3 +3,5 @@ actor Clint Eastwood
 actor Luigi Pistilli
 actor Enzo Petito
 
+# budget in dollars
+budget 1200000.0

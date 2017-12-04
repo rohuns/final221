@@ -5,3 +5,5 @@ actor Jamey Sheridan
 # director name
 director Tom McCarthy
 
+# budget in dollars
+budget 20000000.0

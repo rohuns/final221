@@ -10,7 +10,7 @@ director Guillermo del Toro
 rating R
 
 # genre
-genre War
+genre Fantasy
 
 # budget in dollars
 budget 13500000.0

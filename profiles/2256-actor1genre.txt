@@ -5,3 +5,5 @@ actor Chi Ling Chiu
 # director name
 director Stephen Chow
 
+# budget in dollars
+budget 20000000.0

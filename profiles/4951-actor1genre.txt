@@ -5,3 +5,5 @@ actor Duane Jones
 # director name
 director George A. Romero
 
+# budget in dollars
+budget 114000.0

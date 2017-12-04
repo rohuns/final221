@@ -10,7 +10,7 @@ director Steven Spielberg
 rating PG
 
 # genre
-genre Sci-Fi
+genre Family
 
 # budget in dollars
 budget 10500000.0

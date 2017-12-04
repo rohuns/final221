@@ -10,7 +10,7 @@ director Majid Majidi
 rating PG
 
 # genre
-genre Family
+genre Drama
 
 # budget in dollars
 budget 180000.0

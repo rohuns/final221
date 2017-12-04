@@ -3,3 +3,5 @@ actor Aldis Hodge
 actor Neil Brown Jr.
 actor R. Marcos Taylor
 
+# budget in dollars
+budget 28000000.0

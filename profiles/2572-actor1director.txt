@@ -3,3 +3,5 @@ actor Denzel Washington
 actor Tom Hanks
 actor Jason Robards
 
+# budget in dollars
+budget 26000000.0

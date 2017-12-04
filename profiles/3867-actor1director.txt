@@ -3,3 +3,5 @@ actor Scatman Crothers
 actor Michael Berryman
 actor Louise Fletcher
 
+# budget in dollars
+budget 4400000.0

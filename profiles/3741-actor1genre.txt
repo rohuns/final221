@@ -5,3 +5,5 @@ actor Dylan Moran
 # director name
 director Edgar Wright
 
+# budget in dollars
+budget 4000000.0

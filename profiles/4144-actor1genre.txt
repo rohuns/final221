@@ -5,3 +5,5 @@ actor Matheus Nachtergaele
 # director name
 director Walter Salles
 
+# budget in dollars
+budget 2900000.0

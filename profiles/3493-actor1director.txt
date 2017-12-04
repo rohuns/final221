@@ -3,3 +3,5 @@ actor Albert Finney
 actor Helen McCrory
 actor Rory Kinnear
 
+# budget in dollars
+budget 200000000.0

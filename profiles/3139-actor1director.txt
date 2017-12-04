@@ -3,3 +3,5 @@ actor Bill Murray
 actor Connie Nielsen
 actor Olivia Williams
 
+# budget in dollars
+budget 9000000.0

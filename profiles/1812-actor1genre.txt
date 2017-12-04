@@ -5,3 +5,5 @@ actor Morgan Freeman
 # director name
 director Paul McGuigan
 
+# budget in dollars
+budget 27000000.0

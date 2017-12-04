@@ -5,3 +5,5 @@ actor Jake Busey
 # director name
 director Frank Lotito
 
+# budget in dollars
+budget 2000000.0

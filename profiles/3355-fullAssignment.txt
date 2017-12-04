@@ -10,7 +10,7 @@ director Quentin Tarantino
 rating R
 
 # genre
-genre Crime
+genre Drama
 
 # budget in dollars
 budget 8000000.0

@@ -5,3 +5,5 @@ actor F. Murray Abraham
 # director name
 director Milos Forman
 
+# budget in dollars
+budget 18000000.0

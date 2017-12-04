@@ -3,3 +3,5 @@ actor Tom Hanks
 actor Vin Diesel
 actor Matt Damon
 
+# budget in dollars
+budget 70000000.0

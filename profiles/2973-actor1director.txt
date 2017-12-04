@@ -3,3 +3,5 @@ actor Tom Hughes
 actor Tom Hollander
 actor Lindsay Duncan
 
+# budget in dollars
+budget 12000000.0

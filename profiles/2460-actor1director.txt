@@ -3,3 +3,5 @@ actor Ulrich Tukur
 actor Burghart Klaußner
 actor Leonie Benesch
 
+# budget in dollars
+budget 12000000.0

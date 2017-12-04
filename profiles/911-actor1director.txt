@@ -3,3 +3,5 @@ actor Leonardo DiCaprio
 actor Tom Hanks
 actor Jennifer Garner
 
+# budget in dollars
+budget 52000000.0

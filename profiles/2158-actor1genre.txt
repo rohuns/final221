@@ -5,3 +5,5 @@ actor Scott Glenn
 # director name
 director Jonathan Demme
 
+# budget in dollars
+budget 19000000.0

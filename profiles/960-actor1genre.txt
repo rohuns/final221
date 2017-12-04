@@ -5,3 +5,5 @@ actor Eddie Marsan
 # director name
 director James McTeigue
 
+# budget in dollars
+budget 54000000.0

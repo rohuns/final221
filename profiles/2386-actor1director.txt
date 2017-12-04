@@ -3,3 +3,5 @@ actor Nicolas Cage
 actor Meryl Streep
 actor Roger Willie
 
+# budget in dollars
+budget 19000000.0

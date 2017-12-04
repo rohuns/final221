@@ -3,3 +3,5 @@ actor Tom Hanks
 actor Chris Mulkey
 actor Michael Chernus
 
+# budget in dollars
+budget 55000000.0

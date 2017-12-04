@@ -5,3 +5,5 @@ actor Lee J. Cobb
 # director name
 director Sidney Lumet
 
+# budget in dollars
+budget 350000.0

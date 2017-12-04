@@ -5,3 +5,5 @@ actor Steve Buscemi
 # director name
 director Quentin Tarantino
 
+# budget in dollars
+budget 1200000.0

@@ -3,3 +3,5 @@ actor Leonardo DiCaprio
 actor Christoph Waltz
 actor Ato Essandoh
 
+# budget in dollars
+budget 100000000.0

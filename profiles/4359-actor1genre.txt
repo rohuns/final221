@@ -5,3 +5,5 @@ actor Slim Pickens
 # director name
 director Stanley Kubrick
 
+# budget in dollars
+budget 1800000.0

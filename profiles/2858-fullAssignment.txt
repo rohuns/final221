@@ -10,7 +10,7 @@ director Alex Garland
 rating R
 
 # genre
-genre Sci-Fi
+genre Thriller
 
 # budget in dollars
 budget 15000000.0

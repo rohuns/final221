@@ -3,3 +3,5 @@ actor John Cassavetes
 actor Mia Farrow
 actor Charles Grodin
 
+# budget in dollars
+budget 2300000.0

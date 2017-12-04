@@ -3,3 +3,5 @@ actor Elina Alminas
 actor Sonoya Mizuno
 actor Corey Johnson
 
+# budget in dollars
+budget 15000000.0

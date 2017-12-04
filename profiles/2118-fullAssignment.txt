@@ -10,7 +10,7 @@ director Paul Verhoeven
 rating R
 
 # genre
-genre Thriller
+genre Drama
 
 # budget in dollars
 budget 21000000.0

@@ -3,3 +3,5 @@ actor Ulrich Thomsen
 actor Paprika Steen
 actor Trine Dyrholm
 
+# budget in dollars
+budget 1300000.0

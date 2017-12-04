@@ -3,3 +3,5 @@ actor Woody Allen
 actor Carol Kane
 actor Shelley Duvall
 
+# budget in dollars
+budget 4000000.0

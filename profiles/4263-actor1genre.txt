@@ -5,3 +5,5 @@ actor Charles Linton
 # director name
 director Sylvain Chomet
 
+# budget in dollars
+budget 9500000.0

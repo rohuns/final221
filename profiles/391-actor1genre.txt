@@ -5,3 +5,5 @@ actor Bruce McGill
 # director name
 director Ron Howard
 
+# budget in dollars
+budget 88000000.0

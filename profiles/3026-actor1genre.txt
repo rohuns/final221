@@ -5,3 +5,5 @@ actor Klaus Kinski
 # director name
 director David Lean
 
+# budget in dollars
+budget 11000000.0

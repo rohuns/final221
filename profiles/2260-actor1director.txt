@@ -3,3 +3,5 @@ actor Naomi Watts
 actor Eddie Marsan
 actor Danny Huston
 
+# budget in dollars
+budget 20000000.0

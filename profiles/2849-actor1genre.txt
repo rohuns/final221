@@ -5,3 +5,5 @@ actor Eric Stoltz
 # director name
 director Eric Bress
 
+# budget in dollars
+budget 13000000.0

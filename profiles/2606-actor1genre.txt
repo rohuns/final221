@@ -5,3 +5,5 @@ actor Peter Gallagher
 # director name
 director Sam Mendes
 
+# budget in dollars
+budget 15000000.0

@@ -3,3 +3,5 @@ actor Kevin Spacey
 actor Chazz Palminteri
 actor Kevin Pollak
 
+# budget in dollars
+budget 6000000.0

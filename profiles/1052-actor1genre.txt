@@ -5,3 +5,5 @@ actor Logan Lerman
 # director name
 director James Mangold
 
+# budget in dollars
+budget 55000000.0

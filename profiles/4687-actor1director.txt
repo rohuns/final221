@@ -3,3 +3,5 @@ actor Gary Cooper
 actor Lloyd Bridges
 actor Lon Chaney Jr.
 
+# budget in dollars
+budget 750000.0

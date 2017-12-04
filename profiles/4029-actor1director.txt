@@ -3,3 +3,5 @@ actor Alice Braga
 actor Seu Jorge
 actor Alexandre Rodrigues
 
+# budget in dollars
+budget 3300000.0

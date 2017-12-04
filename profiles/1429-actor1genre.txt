@@ -5,3 +5,5 @@ actor Delroy Lindo
 # director name
 director Spike Lee
 
+# budget in dollars
+budget 33000000.0

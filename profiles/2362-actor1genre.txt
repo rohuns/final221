@@ -5,3 +5,5 @@ actor Shelley Duvall
 # director name
 director Stanley Kubrick
 
+# budget in dollars
+budget 19000000.0

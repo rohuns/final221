@@ -5,3 +5,5 @@ actor Denzel Washington
 # director name
 director Boaz Yakin
 
+# budget in dollars
+budget 30000000.0

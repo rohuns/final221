@@ -3,3 +3,5 @@ actor Michel Robin
 actor Charles Linton
 actor Béatrice Bonifassi
 
+# budget in dollars
+budget 9500000.0

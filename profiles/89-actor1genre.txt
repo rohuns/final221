@@ -5,3 +5,5 @@ actor Daniel Henney
 # director name
 director Don Hall
 
+# budget in dollars
+budget 165000000.0

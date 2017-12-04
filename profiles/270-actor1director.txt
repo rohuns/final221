@@ -3,3 +3,5 @@ actor Christopher Lee
 actor Orlando Bloom
 actor Billy Boyd
 
+# budget in dollars
+budget 93000000.0

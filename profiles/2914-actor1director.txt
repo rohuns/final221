@@ -3,3 +3,5 @@ actor Min-sik Choi
 actor Bin Won
 actor Dong-gun Jang
 
+# budget in dollars
+budget 12800000.0

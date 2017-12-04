@@ -3,3 +3,5 @@ actor Craig Stark
 actor Jennifer Jason Leigh
 actor Zoë Bell
 
+# budget in dollars
+budget 44000000.0

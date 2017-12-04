@@ -3,3 +3,5 @@ actor Anthony Hopkins
 actor Scott Glenn
 actor Anthony Heald
 
+# budget in dollars
+budget 19000000.0

@@ -3,3 +3,5 @@ actor Chen Chang
 actor Pei-Pei Cheng
 actor Sihung Lung
 
+# budget in dollars
+budget 15000000.0

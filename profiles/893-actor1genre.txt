@@ -5,3 +5,5 @@ actor Rosario Dawson
 # director name
 director Gabriele Muccino
 
+# budget in dollars
+budget 55000000.0

@@ -10,7 +10,7 @@ director Antoine Fuqua
 rating R
 
 # genre
-genre Drama
+genre Crime
 
 # budget in dollars
 budget 45000000.0

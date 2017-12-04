@@ -5,3 +5,5 @@ actor Rip Torn
 # director name
 director Michael Mann
 
+# budget in dollars
+budget 68000000.0

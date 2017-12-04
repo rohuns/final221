@@ -3,3 +3,5 @@ actor Damon Wayans Jr.
 actor Daniel Henney
 actor Abraham Benrubi
 
+# budget in dollars
+budget 165000000.0

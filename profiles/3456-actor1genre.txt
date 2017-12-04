@@ -5,3 +5,5 @@ actor Gena Rowlands
 # director name
 director Vincent Paronnaud
 
+# budget in dollars
+budget 7300000.0

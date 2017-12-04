@@ -5,3 +5,5 @@ actor Dick Powell
 # director name
 director Lloyd Bacon
 
+# budget in dollars
+budget 439000.0

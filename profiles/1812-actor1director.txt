@@ -3,3 +3,5 @@ actor Bruce Willis
 actor Morgan Freeman
 actor Dorian Missick
 
+# budget in dollars
+budget 27000000.0

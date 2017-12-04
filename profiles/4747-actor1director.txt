@@ -3,3 +3,5 @@ actor Takashi Shimura
 actor Minoru Chiaki
 actor Kamatari Fujiwara
 
+# budget in dollars
+budget 2000000.0

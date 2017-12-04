@@ -5,3 +5,5 @@ actor Stephen Root
 # director name
 director Andrew Stanton
 
+# budget in dollars
+budget 94000000.0

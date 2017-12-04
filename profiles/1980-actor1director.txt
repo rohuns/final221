@@ -3,3 +3,5 @@ actor Tom Berenger
 actor William Morgan Sheppard
 actor James Patrick Stuart
 
+# budget in dollars
+budget 25000000.0

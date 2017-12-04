@@ -3,3 +3,5 @@ actor Gerard Butler
 actor America Ferrera
 actor Craig Ferguson
 
+# budget in dollars
+budget 165000000.0

@@ -5,3 +5,5 @@ actor Miriam Shor
 # director name
 director John Cameron Mitchell
 
+# budget in dollars
+budget 6000000.0

@@ -5,3 +5,5 @@ actor Jean Arthur
 # director name
 director Frank Capra
 
+# budget in dollars
+budget 1500000.0

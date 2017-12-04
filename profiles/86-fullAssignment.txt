@@ -10,7 +10,7 @@ director Anthony Russo
 rating PG-13
 
 # genre
-genre Action
+genre Sci-Fi
 
 # budget in dollars
 budget 170000000.0

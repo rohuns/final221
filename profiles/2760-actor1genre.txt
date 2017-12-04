@@ -5,3 +5,5 @@ actor Morgan Freeman
 # director name
 director Clint Eastwood
 
+# budget in dollars
+budget 14400000.0

@@ -3,3 +3,5 @@ actor Jean Harlow
 actor Marian Marsh
 actor James Hall
 
+# budget in dollars
+budget 3950000.0

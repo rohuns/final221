@@ -3,3 +3,5 @@ actor Richard Johnson
 actor Sheila Hancock
 actor Cara Horgan
 
+# budget in dollars
+budget 12500000.0

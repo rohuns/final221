@@ -10,7 +10,7 @@ director Richard Linklater
 rating R
 
 # genre
-genre Drama
+genre Romance
 
 # budget in dollars
 budget 2500000.0

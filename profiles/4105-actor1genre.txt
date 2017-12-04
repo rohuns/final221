@@ -5,3 +5,5 @@ actor Ji-tae Yu
 # director name
 director Chan-wook Park
 
+# budget in dollars
+budget 3000000.0

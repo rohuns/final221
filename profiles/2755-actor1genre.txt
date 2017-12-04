@@ -5,3 +5,5 @@ actor Chris Elliott
 # director name
 director Harold Ramis
 
+# budget in dollars
+budget 14600000.0

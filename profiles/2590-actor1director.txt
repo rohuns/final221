@@ -3,3 +3,5 @@ actor Cary-Hiroyuki Tagawa
 actor Sarah Roemer
 actor Joan Allen
 
+# budget in dollars
+budget 16000000.0

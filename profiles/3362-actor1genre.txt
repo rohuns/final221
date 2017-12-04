@@ -5,3 +5,5 @@ actor Frances Lee McCain
 # director name
 director Rob Reiner
 
+# budget in dollars
+budget 8000000.0

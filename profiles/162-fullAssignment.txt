@@ -10,7 +10,7 @@ director Dean DeBlois
 rating PG
 
 # genre
-genre Family
+genre Animation
 
 # budget in dollars
 budget 145000000.0

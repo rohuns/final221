@@ -3,3 +3,5 @@ actor Kelly Macdonald
 actor Shirley Henderson
 actor Ewen Bremner
 
+# budget in dollars
+budget 3500000.0

@@ -5,3 +5,5 @@ actor Jimmy Shergill
 # director name
 director Karan Johar
 
+# budget in dollars
+budget 12000000.0

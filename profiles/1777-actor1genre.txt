@@ -5,3 +5,5 @@ actor Sean Young
 # director name
 director Ridley Scott
 
+# budget in dollars
+budget 28000000.0

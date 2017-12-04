@@ -5,3 +5,5 @@ actor Al Pacino
 # director name
 director Mike Newell
 
+# budget in dollars
+budget 35000000.0

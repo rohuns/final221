@@ -3,3 +3,5 @@ actor Al Pacino
 actor Marlon Brando
 actor Robert Duvall
 
+# budget in dollars
+budget 6000000.0

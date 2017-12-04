@@ -3,3 +3,5 @@ actor Sharlto Copley
 actor Jed Brophy
 actor Jason Cope
 
+# budget in dollars
+budget 30000000.0

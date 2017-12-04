@@ -5,3 +5,5 @@ actor Walter Brennan
 # director name
 director Howard Hawks
 
+# budget in dollars
+budget 3000000.0

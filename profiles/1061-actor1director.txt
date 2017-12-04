@@ -3,3 +3,5 @@ actor Donatas Banionis
 actor Anatoliy Solonitsyn
 actor Natalya Bondarchuk
 
+# budget in dollars
+budget 1000000.0

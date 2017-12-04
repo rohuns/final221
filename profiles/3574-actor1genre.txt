@@ -5,3 +5,5 @@ actor Samantha Morton
 # director name
 director Anton Corbijn
 
+# budget in dollars
+budget 4500000.0

@@ -3,3 +3,5 @@ actor Rupert Graves
 actor Denholm Elliott
 actor Simon Callow
 
+# budget in dollars
+budget 2600000.0

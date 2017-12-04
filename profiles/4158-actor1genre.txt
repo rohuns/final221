@@ -5,3 +5,5 @@ actor Peter Boyle
 # director name
 director Mel Brooks
 
+# budget in dollars
+budget 2800000.0

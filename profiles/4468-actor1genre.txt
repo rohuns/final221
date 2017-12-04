@@ -5,3 +5,5 @@ actor Aziz Muradillayev
 # director name
 director Sadyk Sher-Niyaz
 
+# budget in dollars
+budget 1400000.0

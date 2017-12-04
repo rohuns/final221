@@ -5,3 +5,5 @@ actor Charlize Theron
 # director name
 director George Miller
 
+# budget in dollars
+budget 150000000.0

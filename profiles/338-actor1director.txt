@@ -3,3 +3,5 @@ actor Alexander Gould
 actor Stephen Root
 actor Brad Garrett
 
+# budget in dollars
+budget 94000000.0
