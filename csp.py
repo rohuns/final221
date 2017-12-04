@@ -21,9 +21,7 @@ content_ratings_map = pickle.load(open("content_ratings.pickle", "rb"))
 actors_map = pickle.load(open("actors.pickle", 'rb'))
 directors_map = pickle.load(open("directors.pickle", "rb"))
 genres_map = pickle.load(open("genre.pickle", "rb"))
-
-
-
+salaries_map = pickle.load(open("salaries.pickle", "rb"))
 
 # '''
 # -------------------------------------------------------------------------------------
@@ -110,11 +108,11 @@ class BacktrackingSearch():
         assert var not in assignment
         totalCost = 0
         if 'actor1' in assignment:
-            totalCost += randint(1, 5)
+            totalCost += salaries_map[assignment['actor1']]
         if 'actor2' in assignment:
-            totalCost += randint(1, 4)
+            totalCost += salaries_map[assignment['actor2']]
         if 'actor3' in assignment:
-            totalCost += randint(1, 3)
+            totalCost += salaries_map[assignment['actor3']]
         print "total cost for %s is %s" %(assignment, totalCost)
         if totalCost > 10:
             return 0
