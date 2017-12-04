@@ -123,7 +123,7 @@ class BacktrackingSearch():
 
         # print "total cost for %s with {%s: %s} is %s" %(assignment, var, val, totalCost)
         if totalCost > self.budget:
-            print '----------------------------->pruning total cost for %s with {%s: %s} is %s' %(assignment, var, val, totalCost)
+            # print '----------------------------->pruning total cost for %s with {%s: %s} is %s' %(assignment, var, val, totalCost)
             return 0
         w = 1.0
         if self.csp.unaryFactors[var]:
@@ -135,7 +135,7 @@ class BacktrackingSearch():
             if w == 0: return w
         return w
 
-    def solve(self, csp, mcv = False, ac3 = False, budget = 100000000):
+    def solve(self, csp, mcv = False, ac3 = False, budget = 200000000):
         """
         Solves the given weighted CSP using heuristics as specified in the
         parameter. Note that unlike a typical unweighted CSP where the search
@@ -158,6 +158,8 @@ class BacktrackingSearch():
 
         # Reset solutions from previous search.
         self.reset_results()
+        print 'budget is'
+        print budget
         self.budget = budget*0.5
 
         # The dictionary of domains of every variable in the CSP.
@@ -256,8 +258,6 @@ class BacktrackingSearch():
                         g = genres_map[assignment['genre']]
 
                     rating = forest.predict([[randint(30000000, 40000000),content_r,d_name,a3_name,a2_name,a1_name,g]])[0]
-                    print assignment
-                    print rating
                     self.backtrack(assignment, numAssigned + 1, rating * weight * deltaWeight)
                     # restore the previous domains
                     self.domains = localCopy
