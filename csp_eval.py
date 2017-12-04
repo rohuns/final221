@@ -31,13 +31,13 @@ assignments = pickle.load(open("fileMapping.pickle", "rb")) #partial assignments
 #assignments = ["sample_profile.txt", "sample_profile_2.txt"]
 
 completed = []
-print assignments[0:1]
-for p in assignments[0:1]:
+print assignments.keys()[0]
+for p in [assignments.keys()[0]]:
 	profile = util.Profile(actorBulletin, directorBulletin, "profiles/" + p)
-	cspConstructor = csp.MovieCSPConstructor(actorBulletin, directorBulletin)
+	cspConstructor = csp.MovieCSPConstructor(actorBulletin, directorBulletin, profile)
 	csp_1 = cspConstructor.get_basic_csp()
 	alg = csp.BacktrackingSearch()
-	alg.solve(csp_new, mcv=True, ac3=True, budget=profile.budget)
+	alg.solve(csp_1, mcv=True, ac3=True, budget=profile.budget)
 	completedProfile = makeProfile(alg.optimalAssignment)
 	truth = util.Profile(actorBulletin, directorBulletin, "profiles/" + assignments[part])
 	completed.append(completedProfile, truth)
