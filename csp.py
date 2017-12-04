@@ -121,10 +121,9 @@ class BacktrackingSearch():
         if var == 'actor3':
             totalCost += salaries_map[val]
 
-
-        print "total cost for %s with {%s: %s} is %s" %(assignment, var, val, totalCost)
+        # print "total cost for %s with {%s: %s} is %s" %(assignment, var, val, totalCost)
         if totalCost > self.budget:
-            print '------------------------------>pruned'
+            print '--->pruning total cost for %s with {%s: %s} is %s' %(assignment, var, val, totalCost)
             return 0
         w = 1.0
         if self.csp.unaryFactors[var]:
@@ -170,7 +169,6 @@ class BacktrackingSearch():
         self.print_stats()
 
     def backtrack(self, assignment, numAssigned, weight):
-        print assignment
         self.numOperations += 1
         assert weight > 0
         if numAssigned == self.csp.numVars:
@@ -182,7 +180,6 @@ class BacktrackingSearch():
             self.allAssignments.append(newAssignment)
 
             if len(self.optimalAssignment) == 0 or weight >= self.optimalWeight:
-                print assignment, weight
                 if weight == self.optimalWeight:
                     self.numOptimalAssignments += 1
                 else:
@@ -259,6 +256,7 @@ class BacktrackingSearch():
                         g = genres_map[assignment['genre']]
 
                     rating = forest.predict([[randint(30000000, 40000000),content_r,d_name,a3_name,a2_name,a1_name,g]])[0]
+                    print assignment
                     print rating
                     self.backtrack(assignment, numAssigned + 1, rating * weight * deltaWeight)
                     # restore the previous domains
@@ -373,9 +371,9 @@ class MovieCSPConstructor():
         # csp.add_variable("contentrating", content_ratings_map.keys())
         # csp.add_variable("actor1", ['Tyra Banks'])
         #csp.add_variable("actor2", ['John','Adam'])
-        csp.add_variable("actor3", ['Johnny Depp'])
+        csp.add_variable("actor3", self.actorBulletin.actors_map.keys())
         csp.add_variable("genre", ['Comedy','Action','Romance'])
-        csp.add_variable("director", ['Steven Spielberg'])
+        csp.add_variable("director", self.directorBulletin.directors_map.keys())
         csp.add_variable("content_rating", ['PG','PG-13'])
 
         #csp.add_variable("budget", ) #NOTE add the budget
@@ -413,10 +411,6 @@ class MovieCSPConstructor():
         csp.add_binary_factor("actor1", "actor2", lambda x, y : x!=y)
         csp.add_binary_factor("actor3", "actor2", lambda x, y : x!=y)
         csp.add_binary_factor("actor1", "actor3", lambda x, y : x!=y)
-
-        csp.add_unary_factor("actor1", lambda x: x!=None)
-
-
         count = 1
         for a in self.profile.actors:
             v = "actor%d" %count

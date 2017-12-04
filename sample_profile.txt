@@ -1,9 +1,9 @@
 # all of the actors
 actor Robert De Niro
-actor Walter Brennan
+actor Sean Connery
+actor Angelina Jolie Pitt
 
 # director name
-director Steven Spielberg
 
 # content rating 
 rating PG-13
@@ -12,4 +12,4 @@ rating PG-13
 genre Comedy
 
 # budget in dollars
-budget 500000000
+budget 80000000
