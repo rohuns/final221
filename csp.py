@@ -113,8 +113,18 @@ class BacktrackingSearch():
             totalCost += salaries_map[assignment['actor2']]
         if 'actor3' in assignment:
             totalCost += salaries_map[assignment['actor3']]
-        print "total cost for %s is %s" %(assignment, totalCost)
-        if totalCost > 10:
+
+        if var == 'actor1':
+            totalCost += salaries_map[val]
+        if var == 'actor2':
+            totalCost += salaries_map[val]
+        if var == 'actor3':
+            totalCost += salaries_map[val]
+
+
+        print "total cost for %s with {%s: %s} is %s" %(assignment, var, val, totalCost)
+        if totalCost > 200000000:
+            print '------------------------------>pruned'
             return 0
         w = 1.0
         if self.csp.unaryFactors[var]:
