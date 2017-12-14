@@ -14,7 +14,7 @@ actorBulletin, directorBulletin = util.ActorBulletin(actors_map), util.DirectorB
 
 def fillProfiles():
 	completed = []
-	for part in assignments:
+	for part in assignments.keys()[0:100]:
 		profile = util.Profile(actorBulletin, directorBulletin, "profiles/"+part)
 		completed_prof = completeProfile(profile)
 		truth = util.Profile(actorBulletin, directorBulletin, "profiles/" + assignments[part])

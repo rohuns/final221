@@ -17,6 +17,7 @@ class FakeProfile():
 	    self.genre = genre
 	    self.content_rating = content_rating
 
+
 def makeProfile(m):
 	actors = [util.Actor(m["actor1"], 0), util.Actor(m["actor2"], 0), util.Actor(m["actor3"], 0)]
 	director = util.Director(m["director"], 0)
@@ -31,9 +32,10 @@ assignments = pickle.load(open("fileMapping.pickle", "rb")) #partial assignments
 #assignments = ["sample_profile.txt", "sample_profile_2.txt"]
 
 completed = []
+opt = []
 print assignments.keys()[0]
 count = 0
-for p in assignments.keys()[0:10]:
+for p in assignments.keys()[0:100]:
 	print "--------------------------------iteration %d -------------------------------" %(count)
 	count += 1
 	profile = util.Profile(actorBulletin, directorBulletin, "profiles/" + p)
@@ -43,10 +45,12 @@ for p in assignments.keys()[0:10]:
 	if profile.budget == None:
 		alg.solve(csp_1, mcv=True, ac3=True)
 	else:
-		alg.solve(csp_1, mcv=True, ac3=True, budget=profile.budget)
+		alg.solve(csp_1, mcv=True, ac3=True, budget=profile.budget*3)
 	if alg.numOptimalAssignments != 0:
 		completedProfile = makeProfile(alg.optimalAssignment)
 		truth = util.Profile(actorBulletin, directorBulletin, "profiles/" + assignments[p])
 		completed.append((completedProfile, truth))
 		print alg.optimalAssignment
+	opt.append((alg.optimalAssignment, assignments[p]))
 print(assignments_error.error(completed))
+print opt
