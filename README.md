@@ -18,11 +18,15 @@ SciPy
 
 In order to run the CSP on 100 incomplete profiles run the following command (~ 40 mins):
 
-
 ```
 python csp_eval.py
 ```
 
+To run on a specific profile create a profile following the model of sample_profile.txt. Then go to test_profile.py and change the file name on line 15 to the name of your new file. Then run the following command:
+
+```
+python test_profile.py
+```
 ## Functional Breakdown of Codebase
 * csp.py - Movie CSP constructor and backtracking search algorithm
 * csp_baseline.py - baseline for evaluating CSP
