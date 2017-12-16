@@ -1,6 +1,6 @@
 # Flick Fixer
 
-We attempted to model the choices of director, actor, genre,and content rating with a constraint satisfaction problem (CSP) driven by a randomforest movie rating predictor as a heuristic for each partial assignment of the movie.
+We attempted to model the choices of director, actor, genre,and content rating with a constraint satisfaction problem (CSP) driven by a random forest movie rating predictor as a heuristic for each partial assignment of the movie.
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine.
