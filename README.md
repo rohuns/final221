@@ -3,7 +3,7 @@
 We attempted to model the choices of director, actor, genre,and content rating with a constraint satisfaction problem (CSP) driven by a randomforest movie rating predictor as a heuristic for each partial assignment of the movie.
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+These instructions will get you a copy of the project up and running on your local machine.
 
 ### Prerequisites
 
